@@ -25,7 +25,7 @@
     maxBounds: bounds
   }).setView([51.358061573190916, 10.810546875], 6);
 
-  var OSM_URL = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+  // var OSM_URL = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
   var MB_URL = 'http://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png';
 
   L.tileLayer(MB_URL, {
@@ -78,7 +78,13 @@
     html.push('<h3>Kategorien</h3>');
     html.push('<ul>');
     _.each(sortedCategories, function(x){
-      html.push('<li>' + x[0] + ': ' + x[1] + '</li>');
+      html.push('<li><a class="open-list" href="#">' + x[0] + ': ' + x[1] + '</a><ul style="display:none">');
+      _.each(data, function(d){
+        if (d[x[0]] && d.Format) {
+          html.push('<li><a href="' + d['URL Datei'] + '">' + d['PARENT Kurzbeschreibung'] + ' (' + d.Format + ')</a></li>');
+        }
+      });
+      html.push('</ul></li>');
     });
     html.push('</ul>');
     return html.join('');
@@ -104,6 +110,11 @@
     console.log(d);
     getCityContent(d, marker);
   };
+
+  $(document).on('click', '.open-list', function(e){
+    e.preventDefault();
+    $(this).next().toggle();
+  });
 
 
   d3.csv(cityURL, function(data){
