@@ -4,13 +4,10 @@
   <meta charset="utf-8" />
   <title>European Big Data Map</title>
 
-  <link rel="stylesheet" href="vendor/leaflet/0.4.4/leaflet.css">
+  <link rel="stylesheet" href="vendor/leaflet/0.7.3/leaflet.css">
   <!--[if lte IE 8]>
-  <link rel="stylesheet" href="vendor/leaflet/0.4.4/leaflet.ie.css" />
+  <link rel="stylesheet" href="vendor/leaflet/0.7.3/leaflet.ie.css" />
   <![endif]-->
-  <link rel="stylesheet" href="vendor/leaflet.markercluster/MarkerCluster.css">
-  <link rel="stylesheet" href="vendor/leaflet.markercluster/MarkerCluster.Default.css">
-  <link rel="stylesheet" href="dist/recline.css">
   <!--[if lte IE 8]>
   <link rel="stylesheet" href="vendor/leaflet.markercluster/MarkerCluster.Default.ie.css" />
   <![endif]-->
@@ -21,44 +18,42 @@
       font-family: Helvetica, sans-serif;
     }
     .overlay {
-      background-color: rgba(255,255,255,0.7);
       padding: 10px;
-      border-radius: 5px;
-    }
-    #search {
-      position: absolute;
-      left: 30%;
-      bottom: 10px;
-      text-align: center;
     }
     .search-input {
       font-size: 18px;
       width: 400px;
     }
-    #infobox {
-      width: 40%;
-      position: absolute;
-      right: 0;
-      top: 0;
-      min-height: 400px
+    .right {
+      float: right;
+      width: 50%;
+    }
+    .left {
+      float: left;
+      width: 50%;
     }
   </style>
 
   <!-- vendor -->
-  <script type="text/javascript" src="vendor/leaflet/0.4.4/leaflet.js"></script>
-  <script type="text/javascript" src="vendor/leaflet.markercluster/leaflet.markercluster.js"></script>
+  <script type="text/javascript" src="vendor/leaflet/0.7.3/leaflet.js"></script>
   <script type="text/javascript" src="vendor/jquery/1.7.1/jquery.js"></script>
   <script type="text/javascript" src="vendor/underscore/1.4.4/underscore.js"></script>
   <script type="text/javascript" src="vendor/backbone/1.0.0/backbone.js"></script>
   <script type="text/javascript" src="vendor/d3/d3.v3.min.js"></script>
 </head>
 <body>
-<div id="map"></div>
-
-<div id="search" class="overlay">
-  <input type="text" class="search-input" placeholder="Suche nach Stadt, Thema">
-</div>
-
-<script src="odmonitormap.js" type="text/javascript"></script>
+  <div class="left">
+    <div id="map"></div>
+  </div>
+  <div class="right">
+    <div class="overlay">
+      <h1>Open Data Monitor</h1>
+      <!-- <div id="search">
+        <input type="text" class="search-input" placeholder="Suche nach Stadt, Thema">
+      </div> -->
+      <div id="infobox"></div>
+    </div>
+  </div>
+  <script src="odmonitormap.js" type="text/javascript"></script>
 </body>
 </html>

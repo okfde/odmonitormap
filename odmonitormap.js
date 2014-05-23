@@ -1,4 +1,6 @@
 // $(function(){
+  /* globals d3, $, _, L, console */
+  'use strict';
   var cityURL = 'data/index.csv';
 
   var map;
@@ -7,6 +9,7 @@
     'Frankfurt am Main': 'frankfurt',
     'Stuttgart': 'stuttgart'
   };
+  var categories = ['Arbeitsmarkt', 'Bevölkerung', 'Bildung und Wissenschaft', 'Haushalt und Steuern', 'Stadtentwicklung und Bebauung', 'Wohnen und Immobilien', 'Sozialleistungen', 'Öffentl. Sicherheit Gesundheit', 'Kunst und Kultur', 'Land- und Forstwirtschaft', 'Sport und Freizeit', 'Umwelt', 'Transport und Verkehr', 'Energie, Ver- und Entsorgung', 'Politik und Wahlen', 'Verwaltung', 'Gesetze und Justiz', 'Wirtschaft und Wirtschaftsförderung', 'Tourismus'];
 
   var $el = $('#map');
   var windowHeight = $(window).height();
@@ -50,14 +53,34 @@
 
   var showCity = function(city, data) {
     var count = 0;
+    var catCount = {};
+    _.each(categories, function(c){
+      catCount[c] = 0;
+    });
     _.each(data, function(d){
       if (d.Format) {
         count += 1;
       }
+      _.each(categories, function(c){
+        if (d[c]) {
+          catCount[c] += 1;
+        }
+      });
     });
+    var sortedCategories = _.sortBy(_.pairs(catCount), function(x){
+      return x[1];
+    });
+    sortedCategories = _.filter(sortedCategories, function(x){ return x[1] > 0; });
+    sortedCategories = sortedCategories.reverse();
     var html = [];
-    html.push('<h2>' + city.Stadtname + '</h2>')
-    html.push('<p>Datensätze gesamt: ' + count + '</p>')
+    html.push('<h2>' + city.Stadtname + '</h2>');
+    html.push('<p>Datensätze gesamt: ' + count + '</p>');
+    html.push('<h3>Kategorien</h3>');
+    html.push('<ul>');
+    _.each(sortedCategories, function(x){
+      html.push('<li>' + x[0] + ': ' + x[1] + '</li>');
+    });
+    html.push('</ul>');
     return html.join('');
   };
 
@@ -65,11 +88,14 @@
     var cityslug = nameSlugMap[city.Stadtname];
     loadCity(cityslug, function(data){
       console.log(data);
-      marker.bindPopup(showCity(city, data), {
+      marker.bindPopup('<h2>' + city.Stadtname + '</h2>', {
         maxHeight: windowHeight,
-        autoPan: false
+        autoPan: false,
+        closeButton: false
+      }).on('popupopen', function(){
+        $('#infobox').html(showCity(city, data));
       });
-    })
+    });
   };
 
   var createMarker = function(d) {
