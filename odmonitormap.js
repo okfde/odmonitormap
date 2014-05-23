@@ -12,10 +12,37 @@
   var windowHeight = $(window).height();
   $el.height(windowHeight);
 
-  map = L.map('map').setView([51.358061573190916, 10.810546875], 6);
-  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+  var southWest = L.latLng(46.10370875598026, 3.2299804687499996);
+  var northEast = L.latLng(55.7765730186677, 17.29248046875);
+  var bounds = L.latLngBounds(southWest, northEast);
+
+  map = L.map('map', {
+    minZoom: 6,
+    maxZoom: 8,
+    maxBounds: bounds
+  }).setView([51.358061573190916, 10.810546875], 6);
+
+  var OSM_URL = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+  var MB_URL = 'http://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png';
+
+  L.tileLayer(MB_URL, {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+        '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+        'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    id: 'stefanw.map-4pdqtryz'
   }).addTo(map);
+
+  $.getJSON('notgermany.geojson', function(feature){
+    L.geoJson(feature, {
+      style: {
+        color: '#fff',
+        fillColor: '#fff',
+        weight: 1,
+        opacity: 0.0,
+        fillOpacity: 0.8
+      }
+    }).addTo(map);
+  });
 
   var loadCity = function(cityslug, callback) {
     d3.csv('data/' + cityslug + '.csv', callback);
