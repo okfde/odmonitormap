@@ -88,10 +88,9 @@
     var cityslug = nameSlugMap[city.Stadtname];
     loadCity(cityslug, function(data){
       console.log(data);
-      marker.bindPopup('<h2>' + city.Stadtname + '</h2>', {
+      marker.bindPopup('<h2>' + city.Stadtname + '</h2><p>Hier könnten weitere Infos stehen</p>', {
         maxHeight: windowHeight,
-        autoPan: false,
-        closeButton: false
+        autoPan: false
       }).on('popupopen', function(){
         $('#infobox').html(showCity(city, data));
       });
