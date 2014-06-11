@@ -90,25 +90,28 @@
     return html.join('');
   };
 
-  var getCityContent = function(city, marker) {
+  var getCityContent = function(city, marker, map) {
+    //Get the city content, and if it exists, add it to the map
     var cityslug = nameSlugMap[city.Stadtname];
     loadCity(cityslug, function(data){
-      console.log(data);
-      marker.bindPopup('<h2>' + city.Stadtname + '</h2><p>Hier könnten weitere Infos stehen</p>', {
-        maxHeight: windowHeight,
-        autoPan: false
-      }).on('popupopen', function(){
-        $('#infobox').html(showCity(city, data));
-      });
+      if (data != null) {
+        marker.bindPopup('<h2>' + city.Stadtname + '</h2><p>Hier könnten weitere Infos stehen</p>', {
+          maxHeight: windowHeight,
+          autoPan: false
+        }).on('popupopen', function(){
+          $('#infobox').html(showCity(city, data));
+        });
+        marker.addTo(map);
+      }
     });
   };
 
   var createMarker = function(d) {
     var lat = parseFloat(d.Lat, 10);
     var lon = parseFloat(d.Lon, 10);
-    var marker = L.marker([lat, lon]).addTo(map);
+    var marker = L.marker([lat, lon]);
     console.log(d);
-    getCityContent(d, marker);
+    getCityContent(d, marker, map);
   };
 
   $(document).on('click', '.open-list', function(e){
