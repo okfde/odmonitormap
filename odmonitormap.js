@@ -5,11 +5,7 @@
 
   var map;
 
-  var nameSlugMap = {
-    'Frankfurt am Main': 'frankfurt',
-    'Stuttgart': 'stuttgart'
-  };
-  var categories = ['Arbeitsmarkt', 'Bevölkerung', 'Bildung und Wissenschaft', 'Haushalt und Steuern', 'Stadtentwicklung und Bebauung', 'Wohnen und Immobilien', 'Sozialleistungen', 'Öffentl. Sicherheit Gesundheit', 'Kunst und Kultur', 'Land- und Forstwirtschaft', 'Sport und Freizeit', 'Umwelt', 'Transport und Verkehr', 'Energie, Ver- und Entsorgung', 'Politik und Wahlen', 'Verwaltung', 'Gesetze und Justiz', 'Wirtschaft und Wirtschaftsförderung', 'Tourismus'];
+  var categories = ['Arbeitsmarkt', 'Bevölkerung', 'Bildung und Wissenschaft', 'Haushalt und Steuern', 'Stadtentwicklung und Bebauung', 'Wohnen und Immobilien', 'Sozialleistungen', 'Öffentl. Sicherheit Gesundheit', 'Kunst und Kultur', 'Land- und Forstwirtschaft', 'Sport und Freizeit', 'Umwelt', 'Transport und Verkehr', 'Energie, Ver- und Entsorgung', 'Politik und Wahlen', 'Verwaltung', 'Gesetze und Justiz', 'Wirtschaft und Wirtschaftsförderung', 'Tourismus', 'Noch nicht kategorisiert'];
 
   var $el = $('#map');
   var windowHeight = $(window).height();
@@ -71,6 +67,7 @@
       return x[1];
     });
     sortedCategories = _.filter(sortedCategories, function(x){ return x[1] > 0; });
+    console.log(sortedCategories)
     sortedCategories = sortedCategories.reverse();
     var html = [];
     html.push('<h2>' + city.Stadtname + '</h2>');
@@ -92,25 +89,25 @@
 
   var getCityContent = function(city, marker, map) {
     //Get the city content, and if it exists, add it to the map
-    var cityslug = nameSlugMap[city.Stadtname];
-    loadCity(cityslug, function(data){
-      if (data != null) {
-        marker.bindPopup('<h2>' + city.Stadtname + '</h2><p>Hier könnten weitere Infos stehen</p>', {
-          maxHeight: windowHeight,
-          autoPan: false
-        }).on('popupopen', function(){
-          $('#infobox').html(showCity(city, data));
-        });
-        marker.addTo(map);
-      }
-    });
+    var cityslug = city.kurzname;
+    if (cityslug != "") {
+      loadCity(cityslug, function(data){
+        if (data != null) {
+          marker.bindPopup('<h2>' + city.Stadtname + '</h2><p>Hier könnten weitere Infos stehen</p>', {
+            maxHeight: windowHeight
+          }).on('popupopen', function(){
+            $('#infobox').html(showCity(city, data));
+          });
+          marker.addTo(map);
+        }
+      });
+    }
   };
 
   var createMarker = function(d) {
     var lat = parseFloat(d.Lat, 10);
     var lon = parseFloat(d.Lon, 10);
     var marker = L.marker([lat, lon]);
-    console.log(d);
     getCityContent(d, marker, map);
   };
 
