@@ -4,8 +4,8 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Offene Daten im öffentlichen Sektor: Online-Karte und Monitoringbericht">
-  <meta name="author" content="Ein Projekt des Instituts für Informationsmanagement Bremen (ifib) und der Open Knowledge Foundation Deutschland, mit finanzieller Unterstützung der Bundeszentrale für politische Bildung">
+  <meta name="description" content="">
+  <meta name="author" content="">
   <title>Open Data Monitor - Offene Daten im öffentlichen Sektor</title>
 
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
@@ -50,18 +50,15 @@
     <!-- Begin page content -->
     <div class="container">
   		<div class="row">
-			<div class="overlay col-md-12">
-				<br />Willkommen auf den Seiten des Projekts
-				<div class="page-header">
-        			<h1>Offene Daten im öffentlichen Sektor: Online-Karte und Monitoringbericht</h1>
-      			</div>
-      			<p class="lead">
-      			Ein Projekt des Instituts für Informationsmanagement Bremen (ifib) und der Open Knowledge Foundation Deutschland, mit finanzieller Unterstützung der Bundeszentrale für politische Bildung.
-      			</p>
-    			Von Mai bis Dezember 2014 werden verschiedene Wege zur Gewinnung eines  möglichst vollständigen Überblicks über die Angebote offener Daten aller deut-schen Gebietskörperschaften erprobt und hinsichtlich des Erhebungsaufwands und der Qualität der Ergebnisse verglichen.  Auf den Erfahrungen aus diesem ersten Schritt aufbauend soll ein Konzept für ein permanentes Angebot entwi-ckelt werden. In einem zweiten Schritt soll dann die Nutzungsorientierung kon-tinuierlich verbessert werden.<br /><br />
-				Diese Seiten stellen den stets aktuellen Entwicklungsstand der Präsentation der schrittweise gesammelten Daten über eine Deutschland-Karte und eine Such-funktion mit verschiedenen Filtern dar.
-					
-    			</div>
+				<div class="col-md-6" id="map"></div>
+				<div class="overlay col-md-6">
+					<div class="page-header">
+        		<h1>Landkarte offener Daten</h1>
+      		</div>
+      		<p class="lead">
+      			Der Open Data Monitor erfasst momentan <strong>5 Städte</strong> mit insgesamt <strong>54 Datensätzen</strong>.
+      		</p>
+    				<div class="col-md-6" id="infobox"></div>
     		</div>
     	</div>
     </div>
@@ -77,7 +74,17 @@
 		</p>
       </div>
     </div>
-
+  
+  <!-- vendor -->
+  <script type="text/javascript" src="vendor/leaflet/0.7.3/leaflet.js"></script>
+  <script type="text/javascript" src="vendor/jquery/1.7.1/jquery.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="vendor/underscore/1.4.4/underscore.js"></script>
+  <script type="text/javascript" src="vendor/backbone/1.1.2/backbone-min.js"></script>
+  <script type="text/javascript" src="vendor/d3/d3.v3.min.js"></script>
+  
+  <!-- us -->
+  <script src="odmonitormap.js" type="text/javascript"></script>
   
   </body>
 </html>
