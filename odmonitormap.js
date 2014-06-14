@@ -72,7 +72,7 @@
     var html = [];
     html.push('<h2>' + city.Stadtname + '</h2>');
     html.push('<p>Datensätze gesamt: ' + count + '</p>');
-    html.push('<h3>Kategorien</h3>');
+    html.push('<h3>Themen</h3>');
     html.push('<ul>');
     _.each(sortedCategories, function(x){
       html.push('<li><a class="open-list" href="#">' + x[0] + ': ' + x[1] + '</a><ul style="display:none">');
