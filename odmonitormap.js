@@ -47,16 +47,12 @@
     d3.csv('data/' + cityslug + '.csv', callback);
   };
 
-  var showCity = function(city, data) {
-    var count = 0;
+  var showCity = function(city, data, count) {
     var catCount = {};
     _.each(categories, function(c){
       catCount[c] = 0;
     });
     _.each(data, function(d){
-      if (d.Format) {
-        count += 1;
-      }
       _.each(categories, function(c){
         if (d[c]) {
           catCount[c] += 1;
@@ -78,7 +74,7 @@
       html.push('<li><a class="open-list" href="#">' + x[0] + ': ' + x[1] + '</a><ul style="display:none">');
       _.each(data, function(d){
         if (d[x[0]] && d.Format) {
-          html.push('<li><a href="' + d['URL Datei'] + '">' + d['PARENT Kurzbeschreibung'] + ' (' + d.Format + ')</a></li>');
+          html.push('<li><a href="' + d['URL Datei'] + '">' + d['Dateibezeichnung'] + ' (' + d.Format + ')</a></li>');
         }
       });
       html.push('</ul></li>');
@@ -93,10 +89,18 @@
     if (cityslug != "") {
       loadCity(cityslug, function(data){
         if (data != null) {
-          marker.bindPopup('<h2>' + city.Stadtname + '</h2><p>Hier könnten weitere Infos stehen</p>', {
+          var count = 0;
+          _.each(data, function(d){
+            if (d.Format) {
+              count += 1;
+            }
+          });
+          var emailContent = "";
+          if (city['Kontakt Mail'] !== undefined) emailContent = "<li>Kontakt: <a href=\"mailto:"+city['Kontakt Mail']+"\">"+city['Kontakt Mail']+"</a></li>";
+          marker.bindPopup('<h2>' + city.Stadtname + '</h2><ul><li><a href=\"' + city.DOMAIN + '\">' + city.DOMAIN + '</a></li><li>' + count + ' Datensätze' + emailContent + '</ul>', {
             maxHeight: windowHeight
           }).on('popupopen', function(){
-            $('#infobox').html(showCity(city, data));
+            $('#infobox').html(showCity(city, data, count));
           });
           marker.addTo(map);
         }
