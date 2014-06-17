@@ -8,10 +8,10 @@
   <meta name="author" content="Ein Projekt des Instituts für Informationsmanagement Bremen (ifib) und der Open Knowledge Foundation Deutschland, mit finanzieller Unterstützung der Bundeszentrale für politische Bildung">
   <title>Open Data Monitor - Offene Daten im öffentlichen Sektor</title>
 
-	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/spacelab/bootstrap.min.css">
-	<link href="sticky-footer-navbar.css" rel="stylesheet">
-	
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/spacelab/bootstrap.min.css">
+  <link href="sticky-footer-navbar.css" rel="stylesheet">
+  
   <link rel="stylesheet" href="vendor/leaflet/0.7.3/leaflet.css">
   <!--[if lte IE 8]>
   <link rel="stylesheet" href="vendor/leaflet/0.7.3/leaflet.ie.css" />
@@ -40,8 +40,8 @@
             <li><a href="/">Start</a></li>
             <li><a href="/projekt">Projekt</a></li>
             <li class="active"><a href="/karte">Karte</a></li>
-			<li><a href="/statistik">Statistik</a></li>
-			<li><a href="/suche">Suche</a></li>
+      <li><a href="/statistik">Statistik</a></li>
+      <li><a href="/suche">Suche</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -49,18 +49,18 @@
 
     <!-- Begin page content -->
     <div class="container">
-  		<div class="row">
-				<div class="col-md-6" id="map"></div>
-				<div class="overlay col-md-6">
-					<div class="page-header">
-        		<h1>Landkarte offener Daten</h1>
-      		</div>
-      		<p class="lead">
-      			Der Open Data Monitor erfasst momentan <strong>5 Städte</strong> mit insgesamt <strong>54 Datensätzen</strong>.
-      		</p>
-    				<div class="col-md-6" id="infobox"></div>
-    		</div>
-    	</div>
+      <div class="row">
+        <div class="col-md-6" id="map"></div>
+        <div class="overlay col-md-6">
+          <div class="page-header">
+            <h1>Landkarte offener Daten</h1>
+          </div>
+          <p class="lead" id="totals">
+            Der Open Data Monitor erfasst momentan <strong><span id="numCities">0</span> Städte</strong> mit insgesamt <strong><span id="numDatasets">0</span> Datensätzen</strong>.
+          </p>
+            <div class="col-md-6" id="infobox"></div>
+        </div>
+      </div>
     </div>
 
     <div id="footer">

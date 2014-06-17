@@ -1,5 +1,3 @@
-// $(function(){
-  /* globals d3, $, _, L, console */
   'use strict';
   var cityURL = 'data/index.csv';
 
@@ -47,16 +45,12 @@
     d3.csv('data/' + cityslug + '.csv', callback);
   };
 
-  var showCity = function(city, data) {
-    var count = 0;
+  var showCity = function(city, data, count) {
     var catCount = {};
     _.each(categories, function(c){
       catCount[c] = 0;
     });
     _.each(data, function(d){
-      if (d.Format) {
-        count += 1;
-      }
       _.each(categories, function(c){
         if (d[c]) {
           catCount[c] += 1;
@@ -78,7 +72,7 @@
       html.push('<li><a class="open-list" href="#">' + x[0] + ': ' + x[1] + '</a><ul style="display:none">');
       _.each(data, function(d){
         if (d[x[0]] && d.Format) {
-          html.push('<li><a href="' + d['URL Datei'] + '">' + d['PARENT Kurzbeschreibung'] + ' (' + d.Format + ')</a></li>');
+          html.push('<li><a href="' + d['URL Datei'] + '">' + d['Dateibezeichnung'] + ' (' + d.Format + ')</a></li>');
         }
       });
       html.push('</ul></li>');
@@ -86,19 +80,45 @@
     html.push('</ul>');
     return html.join('');
   };
+  
+  //How many cities
+  var cityCount = 0;
+  //How many data sets in total
+  var completeCount = 0;
 
   var getCityContent = function(city, marker, map) {
     //Get the city content, and if it exists, add it to the map
     var cityslug = city.kurzname;
     if (cityslug != "") {
+      //Attempt to load the city data and update page data when done
       loadCity(cityslug, function(data){
+        //The final decider of whether to show a marker is whether the data file exists,
+        //but we could also do it based on GID in the index and prevent execution of this
+        //code. Prevention currently occurs earlier if there is no short name, but at some
+        //point we might enter them all regardless of whether we have data
         if (data != null) {
-          marker.bindPopup('<h2>' + city.Stadtname + '</h2><p>Hier könnten weitere Infos stehen</p>', {
+          var count = 0;
+          _.each(data, function(d){
+            if (d.Format) {
+              count += 1;
+            }
+          });
+          completeCount += count;
+          
+          var emailContent = "";
+          if (city['Kontakt Mail'] !== undefined) emailContent = "<li>Kontakt: <a href=\"mailto:"+city['Kontakt Mail']+"\">"+city['Kontakt Mail']+"</a></li>";
+          marker.bindPopup('<h2>' + city.Stadtname + '</h2><ul><li><a href=\"' + city.DOMAIN + '\">' + city.DOMAIN + '</a></li><li>' + count + ' Datensätze' + emailContent + '</ul>', {
             maxHeight: windowHeight
           }).on('popupopen', function(){
-            $('#infobox').html(showCity(city, data));
+            $('#infobox').html(showCity(city, data, count));
           });
+          
           marker.addTo(map);
+          cityCount++;
+          
+          //Update the page
+          $('#numCities').text(cityCount);
+          $('#numDatasets').text(completeCount);
         }
       });
     }
@@ -125,4 +145,3 @@
     });
 
   });
-// });
