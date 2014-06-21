@@ -13,6 +13,19 @@
   var northEast = L.latLng(55.7765730186677, 17.29248046875);
   var bounds = L.latLngBounds(southWest, northEast);
 
+  //Magical pieces of javascript to kick leaflet into showing the map
+  //http://stackoverflow.com/questions/10762984/leaflet-map-not-displayed-properly-inside-tabbed-panel
+  //and make it look like the page "reloads" when clicking on links at the bottom, or,
+  //rather, send page to the top so you can read content from beginning
+  $(function() {
+    $('#kartetablink').on('shown.bs.tab', function (e) {
+      map.invalidateSize(false);
+    })
+    $('.footerlink').on('shown.bs.tab', function (e) {
+      window.scrollTo(0,0);
+    })
+  });
+
   map = L.map('map', {
     minZoom: 6,
     maxZoom: 8,
@@ -117,8 +130,8 @@
           cityCount++;
           
           //Update the page
-          $('#numCities').text(cityCount);
-          $('#numDatasets').text(completeCount);
+          $('.numCities').text(cityCount);
+          $('.numDatasets').text(completeCount);
         }
       });
     }

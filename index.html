@@ -1,30 +1,28 @@
 <!DOCTYPE html>
 <html lang="de">
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Offene Daten im öffentlichen Sektor: Online-Karte und Monitoringbericht">
-  <meta name="author" content="Ein Projekt des Instituts für Informationsmanagement Bremen (ifib) und der Open Knowledge Foundation Deutschland, mit finanzieller Unterstützung der Bundeszentrale für politische Bildung">
-  <title>Open Data Monitor - Offene Daten im öffentlichen Sektor</title>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Offene Daten im öffentlichen Sektor: Online-Karte und Monitoringbericht">
+    <meta name="author" content="Ein Projekt des Instituts für Informationsmanagement Bremen (ifib) und der Open Knowledge Foundation Deutschland, mit finanzieller Unterstützung der Bundeszentrale für politische Bildung">
+    <title>Open Data Monitor - Offene Daten im öffentlichen Sektor</title>
 
-	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/spacelab/bootstrap.min.css">
-	<link href="sticky-footer-navbar.css" rel="stylesheet">
-	
-  <link rel="stylesheet" href="vendor/leaflet/0.7.3/leaflet.css">
-  <!--[if lte IE 8]>
-  <link rel="stylesheet" href="vendor/leaflet/0.7.3/leaflet.ie.css" />
-  <![endif]-->
-  <!--[if lte IE 8]>
-  <link rel="stylesheet" href="vendor/leaflet.markercluster/MarkerCluster.Default.ie.css" />
-  <![endif]-->
-</head>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/spacelab/bootstrap.min.css">
+    <link href="sticky-footer-navbar.css" rel="stylesheet">
+  
+    <link rel="stylesheet" href="vendor/leaflet/0.7.3/leaflet.css">
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="vendor/leaflet/0.7.3/leaflet.ie.css" />
+    <![endif]-->
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="vendor/leaflet.markercluster/MarkerCluster.Default.ie.css" />
+    <![endif]-->
+  </head>
 
-<body>
-
-    <!-- Fixed navbar -->
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <body>
+    <div class="navbar navbar-default navbar-static-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -36,56 +34,252 @@
           <a class="navbar-brand" href="/">Offene Daten im öffentlichen Sektor</a>
         </div>
         <div class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="/">Start</a></li>
-            <li><a href="/projekt">Projekt</a></li>
-            <li><a href="/karte">Karte</a></li>
-			<li><a href="/statistik">Statistik</a></li>
-			<li><a href="/suche">Suche</a></li>
+          <ul id="tabs" class="nav navbar-nav">
+            <li class="active"><a href="#start" data-toggle="tab">Start</a></li>
+            <li><a href="#projekt" data-toggle="tab">Projekt</a></li>
+            <li><a href="#karte" data-toggle="tab" id="kartetablink">Karte</a></li>
+            <li><a href="#statistik" data-toggle="tab">Statistik</a></li>
+            <li><a href="#suche" data-toggle="tab">Suche</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
 
-    <!-- Begin page content -->
     <div class="container">
-  		<div class="row">
-			<div class="overlay col-md-12">
-				<br />Willkommen auf den Seiten des Projekts
-				<div class="page-header">
-        			<h1>Offene Daten im öffentlichen Sektor: Online-Karte und Monitoringbericht</h1>
-      			</div>
-      			<p class="lead">
-      			Ein Projekt des Instituts für Informationsmanagement Bremen (ifib) und der Open Knowledge Foundation Deutschland, mit finanzieller Unterstützung der Bundeszentrale für politische Bildung.
-      			</p>
-    			Von Mai bis Dezember 2014 werden verschiedene Wege zur Gewinnung eines  möglichst vollständigen Überblicks über die Angebote offener Daten aller deutschen Gebietskörperschaften erprobt und hinsichtlich des Erhebungsaufwands und der Qualität der Ergebnisse verglichen.  Auf den Erfahrungen aus diesem ersten Schritt aufbauend soll ein Konzept für ein permanentes Angebot entwickelt werden. In einem zweiten Schritt soll dann die Nutzungsorientierung kontinuierlich verbessert werden.<br /><br />
-				Diese Seiten stellen den stets aktuellen Entwicklungsstand der Präsentation der schrittweise gesammelten Daten über eine Deutschland-Karte und eine Suchfunktion mit verschiedenen Filtern dar.
-					
-    			</div>
-    		</div>
-    	</div>
-    </div>
+      <div id="my-tab-content" class="tab-content">
+        <div class="tab-pane active" id="start">
+          <div class="row">
+            <div class="overlay col-md-12">
+              Willkommen auf den Seiten des Projekts
+              <div class="page-header">
+                <h1>Offene Daten im öffentlichen Sektor: Online-Karte und Monitoringbericht</h1>
+              </div>
+              <p class="lead">
+                Ein Projekt des Instituts für Informationsmanagement Bremen (ifib) und der Open Knowledge Foundation Deutschland, mit finanzieller Unterstützung der Bundeszentrale für politische Bildung.
+              </p>
+              Von Mai bis Dezember 2014 werden verschiedene Wege zur Gewinnung eines  möglichst vollständigen Überblicks über die Angebote offener Daten aller deutschen Gebietskörperschaften erprobt und hinsichtlich des Erhebungsaufwands und der Qualität der Ergebnisse verglichen.  Auf den Erfahrungen aus diesem ersten Schritt aufbauend soll ein Konzept für ein permanentes Angebot entwickelt werden. In einem zweiten Schritt soll dann die Nutzungsorientierung kontinuierlich verbessert werden.<br /><br />
+              Diese Seiten stellen den stets aktuellen Entwicklungsstand der Präsentation der schrittweise gesammelten Daten über eine Deutschland-Karte und eine Suchfunktion mit verschiedenen Filtern dar.
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane" id="projekt">
+          <div class="row">
+            <div class="overlay col-md-12">
+              <div class="page-header">
+                <h1>Ziel des Vorhabens</h1>
+              </div>
+              Ziel ist es, einen möglichst vollständigen Überblick über alle Angebote offener Daten von möglichst allen Stellen im öffentlichen Sektor in Deutschland (11.191 Gemeinden, mehrere Dutzend Landesbehörden pro Bundesland, Bundesbehörden und öffentliche Unternehmen auf allen drei Ebenen) zu erhalten und mit einer noch näher zu bestimmenden thematischen Zuordnung und Beschreibungstiefe auf einer Online-Landkarte darzustellen.<br /><br />
+              Adressaten sind in erster Linie Studierende, Wissenschaftler und Journalisten sowie App-Entwickler.<br /><br /> 
+              Da sich das Gebiet noch in der Entwicklung befindet und u.a. mit einer Zunahme von Datenjournalisten zu rechnen ist, soll die Entwicklung der Angebote in einem jährlichen Statusbericht (Monitoringbericht) dokumentiert werden.
+              <div class="page-header">
+                <h1>Ansatz</h1>
+              </div>
+              Wenn Wissenschaftler, Studierende oder Journalisten zu einem Thema mit kommunalem Bezug auf offene Daten zugreifen wollen, gibt es heute keinen ein-fachen und zuverlässigen Weg um festzustellen, welche Kommunen offene Daten zu dem jeweiligen Themengebiet anbieten. Dies liegt daran, dass es keine einfache und erst recht keine automatisierte Methode gibt, um Angebote der über 11.000 Kommunen zu finden und thematisch zuzuordnen.<br /><br />
+              Der Ansatz des Projektes besteht darin, insgesamt vier Methoden parallel einzusetzen und hinsichtlich des Aufwands sowie der Qualität der Ergebnisse zu vergleichen. Diese Qualität wird in den für das Information Retrieval üblichen Kriterien Precision und Recall betrachtet, d.h. einerseits wie treffgenau sind die gelieferten Ergebnisse (wie viele Fundstellen sind echte Treffer und wie viele nicht), und andererseits wie viele zutreffenden Objekte wurden von einer Methode nicht gefunden, die eine andere entdeckt hat.
+              Verglichen werden die Ergebnisse<br /><br />
+              <ul>
+                <li>einer Suche nach bestimmten Datenformaten gegen die Indices der Suchmaschinen Google und Bing über die Domänen der Städte und Gemeinden</li>
+                <li>eines selbst entwickelten Crawlers, der direkt auf den Web-Seiten der Städte und Gemeinden nach bestimmten Datenformaten sucht</li>
+              </ul>
+              mit anschließender manueller Prüfung, Bereinigung und thematischer Zuordnung mit<br /><br />
+              <ul>
+                </li>ggfs. vorhandenen Datenkatalogen,</li>
+                <li>den Ergebnissen einer Online-Erhebung bei allen Städten, Gemeinden und Landkreisen mit Unterstützung der kommunalen Spitzenverbände sowie</li>
+                <li>einer manuellen Suche auf den Webseiten für eine größere Kontrollgruppe von Städten und Gemeinden</li>
+              </ul>
+              <br /><br />
+              Auf der Basis dieser Erfahrungen soll bis Ende des Jahres ein Methodenmix bestimmt werden, der ein gutes Verhältnis von Aufwand und Qualität der Ergebnisse erwarten läßt.<br /><br />
+              Am Ende dieser ersten Aufbauphase sollen die Ergebnisse statistisch in einem Monitoringbericht zusammengefasst werden, der später jährlich oder halbjährlich fortgeschrieben werden könnte, um die Entwicklungen auf diesem Gebiet zu dokumentieren.
+              Erst in einer zweiten Projektphase soll die Benutzung durch die verschiedenen Zielgruppen systematisch optimiert und ein Betreibermodell entwickelt werden.<br /><br />
+              <a href="/img/bpbantrag.pdf">Projektantrag bei der Bundeszentrale für politische Bildung</a><br /><br />
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane" id="karte">
+          <div class="row">
+            <div class="col-md-6" id="map"></div>
+            <div class="overlay col-md-6">
+              <div class="page-header">
+                <h1>Landkarte offener Daten</h1>
+              </div>
+              <p class="lead" id="totals">
+                Der Open Data Monitor erfasst momentan <strong><span class="numCities">0</span> Städte</strong> mit insgesamt <strong><span class="numDatasets">0</span> Datensätzen</strong>.
+              </p>
+              <div class="col-md-6" id="infobox"></div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane" id="statistik">
+          <div class="row">
+            <div class="overlay col-md-12">
+              <div class="page-header">
+                <h1>Statistik</h1>
+              </div>
+              <p class="lead">
+                Der Open Data Monitor erfasst momentan <strong><span class="numCities">0</span> Städte</strong> mit insgesamt <strong><span class="numDatasets">0</span> Datensätzen</strong>.
+              </p>
+              Weitere Angaben in Vorbereitung.
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane" id="suche">
+          <div class="row">
+            <div class="overlay col-md-12">
+              <div class="page-header">
+                <h1>Statistik</h1>
+              </div>
+              <p class="lead">
+                Der Open Data Monitor erfasst momentan <strong><span class="numCities">0</span> Städte</strong> mit insgesamt <strong><span class="numDatasets">0</span> Datensätzen</strong>.
+              </p>
+              Geplant: Suche nach Themengebieten, Städte- und Gemeinde-Namen, Datenformaten, Lizenzbedingungen u.a. in Vorbereitung.<br /><br />
+              Zur Zeit ist nur eine Suche nach Städte- und Gemeindenamen möglich. Diese umfasst alle zur Zeit erfassten Kommunen, auch die etwas über 100 Städte und Gemeinden, für die in den ersten Recherchen keine Angebote an offenen Daten auf den jeweiligen Webseiten gefunden wurden und die daher nicht auf der Karte erscheinen.
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane" id="kontakt">
+          <div class="row">
+            <div class="overlay col-md-12">
+              <div class="page-header">
+                <h1>Kontakt</h1>
+              </div>
+              <p class="lead">
+                Projektleitung: Prof. Dr. Herbert Kubicek
+              </p>
+              Am Fallturm 1<br/>
+              28359 Bremen<br/>
+              Tel.:+49 421-2182830<br/>
+              Fax: +49 421-2184894<br/>
+              E-Mail: <a href="mailto:info@ifib.de">info@ifib.de</a><br/><br/>
+        
+              <strong>Ansprechpartner in technischen Fragen</strong><br/>
+              Open Knowledge Foundation Deutschland<br/>
+              Singerstr. 109<br/>
+              10179 Berlin<br/>
+              Telefon: +49 30 57703666 2<br/> 
+              Fax: +49 30 57703666 9<br/>
+              E-Mail: <a href="mailto:info@okfn.de">info@okfn.de</a>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane" id="impressum">
+          <div class="row">
+            <div class="overlay col-md-12">
+              <div class="page-header">
+                <h1>Impressum</h1>
+              </div>
+              <p class="lead">
+                Verantwortlich im Sinne des Teledienstegesetzes und Medienstaatsvertrages: ifib: Institut für Informationsmanagement Bremen GmbH.
+              </p>
+              Am Fallturm 1<br/>
+              28359 Bremen<br/>
+              Telefon: +49 421 218-56580<br/>
+              Telefax: +49 421 218-56599<br/>
+              E-Mail: <a href="mailto:info@ifib.de">info@ifib.de</a><br/><br/>
+        
+              Vertretungsberechtigter Geschäftsführer:<br/>
+              Prof. Dr. Andreas Breiter<br/>
+              Registergericht: Amtsgericht Bremen<br/>
+              Registernummer: HRA 21271<br/><br/>
+        
+              Inhaltlich verantwortlich gem. § 55 Abs. 2 RStV:<br/>
+              Prof. Dr. Andreas Breiter<br/><br/>
+        
+              Technische Umsetzung: Open Knowledge Foundation Deutschland<br/>
+              Daniel Dietrich<br />
+              Singerstr. 109<br/>
+              10179 Berlin<br/>
+              Telefon: +49 30 57703666 2<br/> 
+              Fax: +49 30 57703666 9<br/>
+              E-Mail: <a href="mailto:info@okfn.de">info@okfn.de</a><br/><br/>
 
+              Registergericht: Amtsgericht Charlottenburg<br/>
+              Vereinsregisternummer: VR 30468 B<br/><br/>
+        
+              <strong>Haftungsausschluss</strong><br/>
+              Die Inhalte dieser Seiten sind nach bestem Wissen und Gewissen zusammengestellt. Jedoch kann kein Anspruch auf Vollständigkeit erhoben werden. Die Inhalte fremder Webseiten, auf die mittels eines Hyperlinks verwiesen wird, sowie die Inhalte von Kommentaren, werden geprüft und Beschwerden wird unverzüglich nachgegangen.
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane" id="datenschutz">
+          <div class="row">
+            <div class="overlay col-md-12">
+              <div class="page-header">
+                <h1>Datenschutzerklärung</h1>
+              </div>
+              Soweit auf das Internetangebot des ifib zugegriffen wird, wird auf dem Web-Server (Fa. WebMen Internet GmbH, Bremen) ein Datensatz gespeichert.<br /><br />
+              Folgender Datensatz wird hierbei zur Verfügung gestellt:<br />
+              <ul>
+                <il>der Rechneradresse (IP-Adresse)</li>
+                <il>der Seite, von der aus die Datei angefordert wurde</li>
+                <il>dem Namen der Datei</li>
+                <il>dem Datum und der Uhrzeit der Abfrage</li>
+                <il>der übertragenen Datenmenge</li>
+                <il>dem Zugriffsstatus (Datei übertragen, Datei nicht gefunden etc.) und</li>
+                <il>einer Beschreibung des Typs des verwendeten Webbrowsers</li>
+              </ul>
+              <br />
+              Diese Daten werden ausschließlich zu statistischen Zwecken ausgewertet; ein Personenbezug wird dabei nicht hergestellt. Im Rahmen der Bereitstellung dieses Internetangebotes werden keine Cookies verwendet. Es werden auch keine anderen Techniken verwendet, die dazu dienen, das Zugriffsverhalten der Nutzer nachvollziehen zu können.<br /><br />
+              Im Weblog des ifib besteht die Möglichkeit, Beiträge zu kommentieren. Es ist Ihnen freigestellt, ob sie Ihrem Beitrag personenbezogene Angaben wie Name oder E-Mail-Adresse hinzufügen. Zur Vermeidung von Kommentarspam wird bei der Entgegennahme von Kommentaren die IP-Adresse des absendenden Rechners übermittelt und für die Dauer von sechs Monaten gespeichert. Sofern Sie den Kommentar mit personenbezogenen Daten versehen haben, werden diese für die gesamte Veröffentlichungszeit des kommentierten Beitrags im Internet bereit gestellt. Die Löschung eigener Kommentare kann beim Datenschutzbeauftragten formlos beantragt werden.<br /><br />
+              <strong>Auskunftsrecht</strong><br />
+              Gemäß § 19 des Bundesdatenschutzgesetzes haben Sie als Nutzerin und Nutzer das Recht, jederzeit Auskunft darüber zu verlangen:<br /><br />
+              <ul>
+                <li>welche Daten über Sie bei uns gespeichert sind und</li>
+                <li>zu welchem Zweck diese Speicherung erfolgt.</li>
+              </ul>
+              <br />
+              Verantwortlich für die Einhaltung und Kontrolle unserer Datenschutzpflichten und für entsprechende Auskünfte ist unser Datenschutzbeauftragter:<br /><br />
+              Prof. Dr. Herbert Kubicek<br />
+              Institut für Informationsmanagement Bremen Gmbh (ifib)<br />
+              Am Fallturm 1<br />
+              D-28359 Bremen<br />
+              E-Mail: <a href="mailto:kubicek@ifib.de">kubicek@ifib.de</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
     <div id="footer">
       <div class="container">
         <p class="text-muted">
-			<a href="/kontakt">Kontakt</a> |
-			<a href="/impressum">Impressum</a> |
-			<a href="/datenschutz">Datenschutz</a>	
-			&nbsp;&nbsp;&nbsp;&nbsp;
-			&copy; 2014 Alle Inhalte dieser Seite stehen unter der Lizenz 
-			<a href="https://creativecommons.org/licenses/by/3.0/de/">CC-BY 3.0 DE</a><br /><br />
-			Ein Projekt von &nbsp; 
-			<a href="http://www.ifib.de/"><img src="/img/ifib.png" height="50" alt="Instituts für Informationsmanagement Bremen" /></a>
-			&nbsp;&nbsp;
-			<a href="http://www.okfn.de/"><img src="/img/okfde.png" height="50" alt="Open Knowledge Foundation Deutschland" /></a>
-			&nbsp;&nbsp;
-			Mit finanzieller Unterstützung der &nbsp;
-			<a href="http://www.bpb.de/"><img src="/img/bpb.png" height="50" alt="Bundeszentrale für politische Bildung" /></a>
-		</p>
+          <div class="nav navbar-nav">
+            <a href="#kontakt" data-toggle="tab" class="footerlink">Kontakt</a> &nbsp;&nbsp;
+            <a href="#impressum" data-toggle="tab" class="footerlink">Impressum</a> &nbsp;&nbsp;
+            <a href="#datenschutz" data-toggle="tab" class="footerlink">Datenschutz</a>
+          </div>
+
+          &nbsp;&nbsp;&nbsp;&nbsp;
+          &copy; 2014 Alle Inhalte dieser Seite stehen unter der Lizenz 
+          <a href="https://creativecommons.org/licenses/by/3.0/de/">CC-BY 3.0 DE</a><br /><br />
+          Ein Projekt von &nbsp; 
+          <a href="http://www.ifib.de/"><img src="/img/ifib.png" height="50" alt="Instituts für Informationsmanagement Bremen" /></a>
+          &nbsp;&nbsp;
+          <a href="http://www.okfn.de/"><img src="/img/okfde.png" height="50" alt="Open Knowledge Foundation Deutschland" /></a>
+          &nbsp;&nbsp;
+          Mit finanzieller Unterstützung der &nbsp;
+          <a href="http://www.bpb.de/"><img src="/img/bpb.png" height="50" alt="Bundeszentrale für politische Bildung" /></a>
+        </p>
       </div>
     </div>
 
-  
+    <!-- vendor -->
+    <script type="text/javascript" src="vendor/leaflet/0.7.3/leaflet.js"></script>
+    <script type="text/javascript" src="vendor/jquery/1.7.1/jquery.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="vendor/underscore/1.4.4/underscore.js"></script>
+    <script type="text/javascript" src="vendor/backbone/1.1.2/backbone-min.js"></script>
+    <script type="text/javascript" src="vendor/d3/d3.v3.min.js"></script>
+
+    <!-- us (data and map) -->
+    <script src="odmonitormap.js" type="text/javascript"></script>
+
+    <!-- Enable tabbing -->
+    <script type="text/javascript">
+      jQuery(document).ready(function ($) {
+        $('#tabs').tab();
+      });
+    </script> 
+
+    
   </body>
 </html>
