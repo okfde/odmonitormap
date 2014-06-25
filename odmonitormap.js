@@ -130,8 +130,7 @@
           cityCount++;
           
           //Update the page
-          $('.numCities').text(cityCount);
-          $('.numDatasets').text(completeCount);
+          $('.totals').html("Dieser Prototyp des Open Data Monitors umfasst zu Demonstrationszwecken zur Zeit <strong>" + cityCount + " Städte</strong> mit insgesamt <strong>" + completeCount + " Datensätzen</strong> (ohne Anspruch auf Vollständigkeit)");
         }
       });
     }
