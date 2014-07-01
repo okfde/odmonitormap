@@ -128,8 +128,38 @@
               </div>
               <p class="lead totals">
               </p>
-              Geplant: Suche nach Themengebieten, Städte- und Gemeinde-Namen, Datenformaten, Lizenzbedingungen u.a. in Vorbereitung.<br /><br />
-              Zur Zeit ist nur eine Suche nach Städte- und Gemeindenamen möglich. Diese umfasst alle zur Zeit erfassten Kommunen, auch die etwas über 100 Städte und Gemeinden, für die in den ersten Recherchen keine Angebote an offenen Daten auf den jeweiligen Webseiten gefunden wurden und die daher nicht auf der Karte erscheinen.
+              Warnung: Die Suche hier ist nur illustrativ und noch im Bau. Sie liefert momentan <strong>keine</strong> Ergebnisse!
+              <br /><br />
+              <form>
+                <div class="form-group">
+                  <label for="city">Gemeinde:</label>
+                  <input type="text" class="form-control" id="searchCity" list="searchCityList">
+                  <datalist id="searchCityList">
+                  <!-- Will be populated by JS -->
+                  </datalist>
+                </div>
+                <div class="form-group">
+                  <label for="searchCategory">Kategorie</label>
+                  <select class="form-control" id="searchCategory">
+                    <option value="">Alle</option>
+                    <!-- Will be populated by JS -->
+                  </select>
+                </div>
+                <div class="form-group">
+                  <label for="searchLicence">Lizenz</label>
+                  <select class="form-control" id="searchLicence">
+                    <option selected value="">Alle</option>
+                  </select>
+                </div>
+                <div class="form-group">
+                  <label for="searchFormat">Formate</label>
+                  <select class="form-control" id="searchFormat">
+                    <option selected value="">Alle</option>
+                  </select>
+                </div>
+                <button type="submit" class="btn btn-primary">Search</button>
+              </form>
+              
             </div>
           </div>
         </div>
