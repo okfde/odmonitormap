@@ -11,11 +11,15 @@ var quickCityCount = 0;
 var completeCount = 0;
 //List of formats
 var formats = [];
+//List of licences
+var licences = [];
+//Complete data set in one array
+var allData = [];
 
 /* At the moment the categories are hard coded because there is no single list of
 categories, even though the same categories should be used in every file.
 To save messy "unique list building", the definitive list is defined, here :) */
-var categories = ['Arbeitsmarkt', 'Bevölkerung', 'Bildung und Wissenschaft', 'Haushalt und Steuern', 'Stadtentwicklung und Bebauung', 'Wohnen und Immobilien', 'Sozialleistungen', 'Öffentl. Sicherheit Gesundheit', 'Kunst und Kultur', 'Land- und Forstwirtschaft', 'Sport und Freizeit', 'Umwelt', 'Transport und Verkehr', 'Energie, Ver- und Entsorgung', 'Politik und Wahlen', 'Verwaltung', 'Gesetze und Justiz', 'Wirtschaft und Wirtschaftsförderung', 'Tourismus', 'Noch nicht kategorisiert'];
+var categories = ['Arbeitsmarkt', 'Bevölkerung', 'Bildung und Wissenschaft', 'Haushalt und Steuern', 'Stadtentwicklung und Bebauung', 'Wohnen und Immobilien', 'Sozialleistungen', 'Öffentl. Sicherheit', 'Gesundheit', 'Kunst und Kultur', 'Land- und Forstwirtschaft', 'Sport und Freizeit', 'Umwelt', 'Transport und Verkehr', 'Energie, Ver- und Entsorgung', 'Politik und Wahlen', 'Verwaltung', 'Gesetze und Justiz', 'Wirtschaft und Wirtschaftsförderung', 'Tourismus', 'Verbraucher', 'Sonstiges', 'Noch nicht kategorisiert'];
 
 var $el = $('#map');
 var windowHeight = $(window).height();
@@ -32,13 +36,25 @@ $(function() {
   $('#kartetablink').on('shown.bs.tab', function (e) {
     map.invalidateSize(false);
   })
+  
   //make it look like the page "reloads" when clicking on links at the bottom, or,
   //rather, send page to the top so you can read content from beginning
   $('.footerlink').on('shown.bs.tab', function (e) {
     window.scrollTo(0,0);
   })
+  
   _.each(categories, function(category) {
-    $('#searchCategory').append("<option value='" + category + "'>" + category + "</option>");
+    $('#searchCategory').append("<option selected value='" + category + "'>" + category + "</option>");
+  });
+  
+  $('#searchButton').on('click', function() {
+    var filter = {
+      Stadtname: $('#searchCity').val(), 
+      Kategorien: $('#searchCategory').val(), 
+      Lizenzen: $('#searchLicence').val(), 
+      Formate: $('#searchFormat').val()
+    };
+    $('#searchResults').html(showSearchResults(filter));
   });
 });
 
@@ -109,10 +125,40 @@ var showCity = function(city, data, count) {
   return html.join('');
 };
 
-var showSearchResults = function(city, data, count) {
-  <!-- NOT YET IMPLEMETNTED!!!! -->
-  <!-- Remember to search within formats or process them somehow... -->
-  <!-- End not yet implemented!!! -->
+/* The filter is passed this way because I like the idea of just applying a filter to 
+the data. But it's not that easy: city is a single value, license multiple, category and
+format are multiple to multiple matches, format being done as a comma-separated list and
+categories as boolean values... but at least it's sort of consistent with the CSV 
+column names */
+var showSearchResults = function(filter) {
+  console.log(filter);
+  console.log(allData);
+  var trimmedCity = $.trim(filter['Stadtname']);
+  var finalData = _.filter(allData, function(entry) {
+    return (
+      entry['Stadtname'] == trimmedCity
+      && _.find(filter['Kategorien'], function (val) {
+        return ($.trim(entry[val]).toLowerCase() == "x");
+      })
+      && _.find(filter['Lizenzen'], function (val) {
+        return val.toLowerCase() == entry['Lizenz'].toLowerCase();
+      })
+      && _.find(filter['Formate'], function (val) {
+        return (entry['Format'].toLowerCase().indexOf(val) > -1);
+      })
+    );
+  });
+  var rstr = "<ul>";
+  if (finalData.length == 0) {
+    if (trimmedCity == "") rstr += "<li>Bitte eine Gemeinde angeben</li>";
+    if (filter['Kategorien'].length == 0) rstr += "<li>Bitte mindestens eine Kategorie angeben</li>";
+    if (filter['Formate'].length == 0) rstr += "<li>Bitte mindestens eine Dateiformat angeben</li>";
+  }
+  rstr += "</ul>";
+  rstr += "<br />Suche ergab " + finalData.length + " Treffer";
+  if (trimmedCity != "") rstr += " für " + trimmedCity;
+  rstr += ".";
+  return rstr;
 };
 
 var getCityContent = function(city, marker, map) {
@@ -125,10 +171,15 @@ var getCityContent = function(city, marker, map) {
 
       //The final decider of whether several things happen is whether the data file exists
       if (data != null) {
-      _.each(data, function(d){
+        _.each(data, function(d){
           if (d.Format) {
             formats.push(d.Format);
           }
+          if (d.Lizenz) {
+            licences.push(d.Lizenz);
+          }
+          d['Stadtname'] = city['Stadtname'];
+          allData.push(d);
         });
         $('#searchCityList').append("<option value='" + city['Stadtname'] + "'>");
         var count = 0;
@@ -143,7 +194,7 @@ var getCityContent = function(city, marker, map) {
         if (city['Kontakt Mail'] !== undefined) emailContent = "<li>Kontakt: <a href=\"mailto:"+city['Kontakt Mail']+"\">"+city['Kontakt Mail']+"</a></li>";
         marker.bindPopup('<h2>' + city.Stadtname + '</h2><ul><li><a href=\"' + city.DOMAIN + '\">' + city.DOMAIN + '</a></li><li>' + count + ' Datensätze' + emailContent + '</ul>', {
           maxHeight: windowHeight
-        }).on('popupopen', function(){
+        }).on('popupopen', function() {
           $('#infobox').html(showCity(city, data, count));
         });
         
@@ -153,15 +204,32 @@ var getCityContent = function(city, marker, map) {
         //Is this the last city?
         if (cityCount == quickCityCount) {
           console.log("cityCount reached quickCityCount, finding unique formats");
-          console.log(formats);
+          //Get rid of most duplication
           formats = _.uniq(formats, false, function(val) { return val.toLowerCase(); });
-          console.log(formats);
+          //Convert to lower case
           formats = _.map(formats, function(format) { return format.toLowerCase(); });
-          console.log(formats);
+          //It is permissible to use a comma separated list of formats: convert such lists into one long list
+          var expandedFormats = [];
           _.each(formats, function(format){
-            //It is permissible to use a comma separated list of formats. Anything longer than 4 is, probably, such a list
-            if (format.length < 5) $('#searchFormat').append("<option value='" + format + "'>" + format + "</option>");
+            var formatList = format.split(',');
+            _.each(formatList, function(item) {
+              var trimmedFormat = $.trim(item);
+              expandedFormats.push(trimmedFormat);
+            });
           });
+          //Once again
+          formats = _.uniq(expandedFormats);
+          //And finally
+          _.each(formats, function(format){
+            $('#searchFormat').append("<option selected value='" + format + "'>" + format + "</option>");
+          });
+          
+          //Licences are simpler
+          licences = _.uniq(licences, false, function(val) { return val.toLowerCase(); });
+          _.each(licences, function(licence){
+            $('#searchLicence').append("<option selected value='" + licence + "'>" + licence + "</option>");
+          });
+          
         }
         else console.log("cityCount not reached quickCityCount, not finding unique formats; if you never see the inverse of this message, something is wrong");
       }

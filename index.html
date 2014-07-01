@@ -126,9 +126,13 @@
               <div class="page-header">
                 <h1>Suche</h1>
               </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="overlay col-md-6">
               <p class="lead totals">
               </p>
-              Warnung: Die Suche hier ist nur illustrativ und noch im Bau. Sie liefert momentan <strong>keine</strong> Ergebnisse!
+              Warnung: Die Suche hier ist nur illustrativ und noch im Bau. Sie liefert momentan nur die <strong>Anzahl</strong> von Ergebnisse!
               <br /><br />
               <form>
                 <div class="form-group">
@@ -140,26 +144,31 @@
                 </div>
                 <div class="form-group">
                   <label for="searchCategory">Kategorie</label>
-                  <select class="form-control" id="searchCategory">
-                    <option value="">Alle</option>
+                  <select size="5" multiple class="form-control" id="searchCategory">
                     <!-- Will be populated by JS -->
                   </select>
                 </div>
                 <div class="form-group">
                   <label for="searchLicence">Lizenz</label>
-                  <select class="form-control" id="searchLicence">
-                    <option selected value="">Alle</option>
+                  <select size="5" multiple class="form-control" id="searchLicence">
+                    <option selected value="">Keine/nicht bekannt</option>
                   </select>
                 </div>
                 <div class="form-group">
                   <label for="searchFormat">Formate</label>
-                  <select class="form-control" id="searchFormat">
-                    <option selected value="">Alle</option>
+                  <select size="5" multiple class="form-control" id="searchFormat">
                   </select>
                 </div>
-                <button type="submit" class="btn btn-primary">Search</button>
+                <a class="btn btn-primary" id="searchButton">Search</a>
               </form>
-              
+            </div>
+            <div class="overlay col-md-6">
+              <p class="lead">
+							  Ergebnisse
+              </p>
+              <p id="searchResults">
+							  
+              </p>
             </div>
           </div>
         </div>
@@ -294,7 +303,6 @@
     <script type="text/javascript" src="vendor/jquery/1.7.1/jquery.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="vendor/underscore/1.4.4/underscore.js"></script>
-    <script type="text/javascript" src="vendor/backbone/1.1.2/backbone-min.js"></script>
     <script type="text/javascript" src="vendor/d3/d3.v3.min.js"></script>
 
     <!-- us (data and map) -->
