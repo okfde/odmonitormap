@@ -22,10 +22,10 @@ with open('index.csv', 'rb') as csvfile:
     
     #For each city that has a short name, download its data from the other sheet, if we have the gid
     for row in cityreader:
-        if row[10] != "":
-          if row[11] != "":
-              durl = "https://docs.google.com/spreadsheets/d/" + erfassungkey + "/export?gid=" + row[11] + "&format=csv"
-              print "Downloading data for " + row[10] + " using url " + durl + "..."
-              urllib.urlretrieve (durl, row[10] + ".csv");
+        if row[9] != "":
+          if row[10] != "":
+              durl = "https://docs.google.com/spreadsheets/d/" + erfassungkey + "/export?gid=" + row[10] + "&format=csv"
+              print "Downloading data for " + row[9] + " using url " + durl + "..."
+              urllib.urlretrieve (durl, row[9] + ".csv");
           else:
               print "No gid for this city, please check spreadsheet"

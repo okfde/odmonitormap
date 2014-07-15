@@ -47,16 +47,22 @@ $(function() {
     $('#searchCategory').append("<option selected value='" + category + "'>" + category + "</option>");
   });
   
-  $('#searchButton').on('click', function() {
-    var filter = {
-      Stadtname: $('#searchCity').val(), 
-      Kategorien: $('#searchCategory').val(), 
-      Lizenzen: $('#searchLicence').val(), 
-      Formate: $('#searchFormat').val()
-    };
-    $('#searchResults').html(showSearchResults(filter));
-  });
+  $('#searchButton').on('click', submitSearch);
+  $('#searchForm').on('submit', submitSearch);
+  
 });
+
+function submitSearch(e) {
+  e.preventDefault();
+  
+  var filter = {
+    Stadtname: $('#searchCity').val(), 
+    Kategorien: $('#searchCategory').val(), 
+    Lizenzen: $('#searchLicence').val(), 
+    Formate: $('#searchFormat').val()
+  };
+  $('#searchResults').html(showSearchResults(filter));
+}
 
 map = L.map('map', {
   minZoom: 6,
@@ -131,7 +137,6 @@ format are multiple to multiple matches, format being done as a comma-separated 
 categories as boolean values... but at least it's sort of consistent with the CSV 
 column names */
 var showSearchResults = function(filter) {
-  console.log(filter);
   console.log(allData);
   var trimmedCity = $.trim(filter['Stadtname']);
   var finalData = _.filter(allData, function(entry) {
@@ -156,8 +161,17 @@ var showSearchResults = function(filter) {
   }
   rstr += "</ul>";
   rstr += "<br />Suche ergab " + finalData.length + " Treffer";
-  if (trimmedCity != "") rstr += " für " + trimmedCity;
-  rstr += ".";
+  if (trimmedCity != "") rstr += " für " + trimmedCity + ':';
+  rstr += "<br><br>";
+
+  finalData = _.sortBy(finalData, 'Dateibezeichnung');
+  
+  _.each(finalData, function(dataset) {
+    rstr += '<a href="' + dataset['URL Datei'] + '">' + dataset['Dateibezeichnung'] + '</a><br>';
+  });
+  
+  
+  
   return rstr;
 };
 
