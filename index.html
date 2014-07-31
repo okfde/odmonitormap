@@ -35,11 +35,11 @@
         </div>
         <div class="collapse navbar-collapse">
           <ul id="tabs" class="nav navbar-nav">
-            <li class="active"><a href="#start" data-toggle="tab">Start</a></li>
+            <li><a href="#start" data-toggle="tab">Start</a></li>
             <li><a href="#projekt" data-toggle="tab">Projekt</a></li>
             <li><a href="#karte" data-toggle="tab" id="kartetablink">Karte</a></li>
             <li><a href="#statistik" data-toggle="tab">Statistik</a></li>
-            <li><a href="#suche" data-toggle="tab">Suche</a></li>
+            <li class="active"><a href="#suche" data-toggle="tab">Suche</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -47,7 +47,7 @@
 
     <div class="container">
       <div id="my-tab-content" class="tab-content">
-        <div class="tab-pane active" id="start">
+        <div class="tab-pane" id="start">
           <div class="row">
             <div class="overlay col-md-12">
               Willkommen auf den Seiten des Projekts
@@ -120,7 +120,7 @@
             </div>
           </div>
         </div>
-        <div class="tab-pane" id="suche">
+        <div class="tab-pane active" id="suche">
           <div class="row">
             <div class="overlay col-md-12">
               <div class="page-header">
@@ -135,26 +135,34 @@
               <br /><br />
               <form id='searchForm'>
                 <div class="form-group">
-                  <label for="city">Gemeinde:</label>
-                  <input type="text" class="form-control" id="searchCity" list="searchCityList">
-                  <datalist id="searchCityList">
+                  <label for="searchCity">Gemeinde:</label>
+                  <br>
+                  <div class="btn-group" data-toggle="buttons">
+                    <label class="btn btn-primary active">
+                      <input type="radio" name="cityoptions" id="cityoptionall" checked>Alle (&quot;wer hat was&quot;)
+                    </label>
+                    <label class="btn btn-primary">
+                      <input type="radio" name="cityoptions" id="cityoptionselection">Auswahl
+                    </label>
+                  </div>
+                  <select size="5" multiple class="form-control" id="searchCity" disabled>
                   <!-- Will be populated by JS -->
-                  </datalist>
+                  </select>
                 </div>
                 <div class="form-group">
-                  <label for="searchCategory">Kategorie</label>
+                  <label for="searchCategory">Kategorie</label> <a id='sacategories' class="btn btn-primary btn-xs selectall">Alle auswählen</a>
                   <select size="5" multiple class="form-control" id="searchCategory">
                     <!-- Will be populated by JS -->
                   </select>
                 </div>
                 <div class="form-group">
-                  <label for="searchLicence">Lizenz</label>
+                  <label for="searchLicence">Lizenz</label> <a id='salicences' class="btn btn-primary btn-xs selectall">Alle auswählen</a>
                   <select size="5" multiple class="form-control" id="searchLicence">
                     <option selected value="">Keine/nicht bekannt</option>
                   </select>
                 </div>
                 <div class="form-group">
-                  <label for="searchFormat">Formate</label>
+                  <label for="searchFormat">Formate</label> <a id='saformats' class="btn btn-primary btn-xs selectall">Alle auswählen</a>
                   <select size="5" multiple class="form-control" id="searchFormat">
                   </select>
                 </div>

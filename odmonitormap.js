@@ -31,6 +31,26 @@ var bounds = L.latLngBounds(southWest, northEast);
 
 //Initialization
 $(function() {
+  $('.btn').button();
+  $('.btn').on('change', function (e) {
+    if ($('#cityoptionall').attr('checked') == 'checked') $('#searchCity').attr('disabled', 'disabled');
+    else $('#searchCity').removeAttr('disabled');
+  });
+  
+  $('.selectall').on('click', function (e) {
+    switch(e.target.id) {
+      case 'saformats':
+        $('.sfoptions').attr('selected', 'selected');
+        break;
+      case 'salicences':
+        $('.sloptions').attr('selected', 'selected');
+        break;
+      case 'sacategories':
+        $('.scoptions').attr('selected', 'selected');
+        break;
+    }
+  });
+  
   //kick leaflet into showing the map
   //http://stackoverflow.com/questions/10762984/leaflet-map-not-displayed-properly-inside-tabbed-panel
   $('#kartetablink').on('shown.bs.tab', function (e) {
@@ -44,11 +64,13 @@ $(function() {
   })
   
   _.each(categories, function(category) {
-    $('#searchCategory').append("<option selected value='" + category + "'>" + category + "</option>");
+    $('#searchCategory').append("<option class=\"scoptions\" selected value='" + category + "'>" + category + "</option>");
   });
   
   $('#searchButton').on('click', submitSearch);
   $('#searchForm').on('submit', submitSearch);
+  
+  
   
 });
 
@@ -61,6 +83,7 @@ function submitSearch(e) {
     Lizenzen: $('#searchLicence').val(), 
     Formate: $('#searchFormat').val()
   };
+  
   $('#searchResults').html(showSearchResults(filter));
 }
 
@@ -137,11 +160,14 @@ format are multiple to multiple matches, format being done as a comma-separated 
 categories as boolean values... but at least it's sort of consistent with the CSV 
 column names */
 var showSearchResults = function(filter) {
-  console.log(allData);
   var trimmedCity = $.trim(filter['Stadtname']);
+  
   var finalData = _.filter(allData, function(entry) {
     return (
-      entry['Stadtname'] == trimmedCity
+      (($('#cityoptionall').attr('checked') == 'checked')
+      || _.find(filter['Stadtname'], function (val) {
+        return val.toLowerCase() == entry['Stadtname'].toLowerCase();
+      }))
       && _.find(filter['Kategorien'], function (val) {
         return ($.trim(entry[val]).toLowerCase() == "x");
       })
@@ -160,15 +186,24 @@ var showSearchResults = function(filter) {
     if (filter['Formate'].length == 0) rstr += "<li>Bitte mindestens eine Dateiformat angeben</li>";
   }
   rstr += "</ul>";
-  rstr += "<br />Suche ergab " + finalData.length + " Treffer";
-  if (trimmedCity != "") rstr += " für " + trimmedCity + ':';
-  rstr += "<br><br>";
+  rstr += "<br />Suche ergab " + finalData.length + " Treffer<br><br>";
 
-  finalData = _.sortBy(finalData, 'Dateibezeichnung');
-  
-  _.each(finalData, function(dataset) {
-    rstr += '<a href="' + dataset['URL Datei'] + '">' + dataset['Dateibezeichnung'] + '</a><br>';
-  });
+  if ($('#cityoptionall').attr('checked') == 'checked') {
+    finalData = _.groupBy(finalData, 'Stadtname');
+    _.each(finalData, function(citydataset, key) {
+      rstr += '<h3>' + key + '</h3>'
+      _.each(citydataset, function(dataset) {
+        rstr += '<a href="' + dataset['URL Datei'] + '">' + dataset['Dateibezeichnung'] + '</a><br>';
+      });
+    });
+  }
+  else {
+    finalData = _.sortBy(finalData, 'Dateibezeichnung');
+    finalData = _.sortBy(finalData, 'Stadtname');
+    _.each(finalData, function(dataset) {
+      rstr += '<a href="' + dataset['URL Datei'] + '">' + dataset['Dateibezeichnung'] + '</a><br>';
+    });
+  }
   
   
   
@@ -179,6 +214,7 @@ var getCityContent = function(city, marker, map) {
   //Get the city content, and if it exists, add it to the map
   var cityslug = city.kurzname;
   if (cityslug != "") {
+    console.log("Trying to load " + city.kurzname);
     //Attempt to load the city data and update page data when done
     loadCity(cityslug, function(data){
       cityCount++;
@@ -195,7 +231,7 @@ var getCityContent = function(city, marker, map) {
           d['Stadtname'] = city['Stadtname'];
           allData.push(d);
         });
-        $('#searchCityList').append("<option value='" + city['Stadtname'] + "'>");
+        $('#searchCity').append("<option value='" + city['Stadtname'] + "'>" + city['Stadtname'] + "</option>");
         var count = 0;
         _.each(data, function(d){
           if (d.Format) {
@@ -211,7 +247,7 @@ var getCityContent = function(city, marker, map) {
         }).on('popupopen', function() {
           $('#infobox').html(showCity(city, data, count));
         });
-        
+        console.log("Finished " + city.Stadtname);
         marker.addTo(map);
         //Update the page
         $('.totals').html("Dieser Prototyp des Open Data Monitors umfasst zu Demonstrationszwecken zur Zeit <strong>" + cityCount + " Städte</strong> mit insgesamt <strong>" + completeCount + " Datensätzen</strong> (ohne Anspruch auf Vollständigkeit)");
@@ -235,15 +271,13 @@ var getCityContent = function(city, marker, map) {
           formats = _.uniq(expandedFormats);
           //And finally
           _.each(formats, function(format){
-            $('#searchFormat').append("<option selected value='" + format + "'>" + format + "</option>");
+            $('#searchFormat').append("<option class=\"sfoptions\" selected value='" + format + "'>" + format + "</option>");
           });
-          
           //Licences are simpler
           licences = _.uniq(licences, false, function(val) { return val.toLowerCase(); });
           _.each(licences, function(licence){
-            $('#searchLicence').append("<option selected value='" + licence + "'>" + licence + "</option>");
+            $('#searchLicence').append("<option class=\"sloptions\" selected value='" + licence + "'>" + licence + "</option>");
           });
-          
         }
         else console.log("cityCount not reached quickCityCount, not finding unique formats; if you never see the inverse of this message, something is wrong");
       }
