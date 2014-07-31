@@ -3,6 +3,9 @@ import urllib
 import csv
 import os
 
+kurznamecolumn = 12
+gidcolumn = 13
+
 print "Deleting data..."
 for f in os.listdir("."):
     if f.endswith(".csv"):
@@ -22,10 +25,10 @@ with open('index.csv', 'rb') as csvfile:
     
     #For each city that has a short name, download its data from the other sheet, if we have the gid
     for row in cityreader:
-        if row[9] != "":
-          if row[10] != "":
-              durl = "https://docs.google.com/spreadsheets/d/" + erfassungkey + "/export?gid=" + row[10] + "&format=csv"
-              print "Downloading data for " + row[9] + " using url " + durl + "..."
-              urllib.urlretrieve (durl, row[9] + ".csv");
+        if row[kurznamecolumn] != "":
+          if row[gidcolumn] != "":
+              durl = "https://docs.google.com/spreadsheets/d/" + erfassungkey + "/export?gid=" + row[gidcolumn] + "&format=csv"
+              print "Downloading data for " + row[kurznamecolumn] + " using url " + durl + "..."
+              urllib.urlretrieve (durl, row[kurznamecolumn] + ".csv");
           else:
               print "No gid for this city, please check spreadsheet"
