@@ -1,103 +1,1168 @@
-Bearbeitungsdatum,bearbeitet von,Stadt,URL Datei,URL Text,Format,Dateibezeichnung,Zeitraum,Dateityp,Beschreibung,Lizenz,Kosten,Datenquelle,Arbeitsmarkt,Bevölkerung,Bildung und Wissenschaft,Haushalt und Steuern,Stadtentwicklung und Bebauung,Wohnen und Immobilien,Sozialleistungen,Öffentl. Sicherheit,Gesundheit,Kunst und Kultur,Land- und Forstwirtschaft,Sport und Freizeit,Umwelt,Transport und Verkehr,"Energie, Ver- und Entsorgung",Politik und Wahlen,Gesetze und Justiz,Wirtschaft und Wirtschaftsförderung,Tourismus,Verbraucher,Sonstiges,Noch nicht kategorisiert,keyword
-23.06.2014,BL,,http://offenedaten-koeln.de/dataset/besucherstatistiken-f%C3%BCr-die-b%C3%BChnen-der-stadt-k%C3%B6ln ,Besucherstatistiken für die Bühnen der Stadt Köln,pdf,Besucherstatistiken für die Bühnen der Stadt Köln,01.09.2013 - 28.02.1014,Daten,Übersicht der Quartalsberichte für die Bühnen der Stadt Köln.,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,x,,x,,,,,,,,,,,Informationen
-23.06.2014,BL,,http://offenedaten-koeln.de/dataset/d115 ,D115,xls,115 Leistungsberichte,Veröffentlicht am 2014-06-06,Daten,In dieser Datei werden die aktuellen Leistungsstatistiken (Abruf der einzelnen Leistungen) dargestellt,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,,,,,x,x,,Informationen
-23.06.2014,BL,,http://offenedaten-koeln.de/dataset/wahlbeteiligung-2014 ,Wahlbeteiligung 2014,csv,Wahlbeteiligung Kommunalwahl2014 und Europawahl 2014,2014,2 Datensätze ,Zahlen zur prozentualen Wahlbeteiligung der Kommunalwahl und der Europawahl 2014 im direkten Vergleich zu den Wahlen 2009.,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-23.06.2014,BL,,http://offenedaten-koeln.de/dataset/datens%C3%A4tze-zur-verbundwahl-2014 ,Datensätze zur Verbundwahl 2014,csv,Datensätze zur Verbundwahl 2014,2014,mehrere Datensätze,Datensätze zur Verbundwahl 2014,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/kommunalwahl-kandidaten-2014 ,Kommunalwahl Kandidaten 2014,csv,Kommunalwahl Kandidaten 2014,2014,mehrere Datensätze,Kommunalwahl Kandidaten 2014,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/kommunalwahlbezirke ,Kommunalwahlbezirke,"zip, xml, data",Kommunalwahlbezirke,2014,drei Datensätze,Daten über die Kommunalwahlbezirke,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/landtagswahlkreis ,Landtagswahlkreis,"zip, xml, data",Landtagswahlkreis,2014,drei Datensätze,Daten über die Landtagswahlkreise,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/museen-und-museumsdienste-k%C3%B6ln-statistik ,Museen und Museumsdienste in Köln - Statistik,csv,Museen und Museumsdienste in Köln - Statistik,2014,mehrere Datensätze,Museen und Museumsdienste in Köln ,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,x,,,,,,,,,,,,,Kultur
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/strassenverzeichnis-wahlkreise ,Strassenverzeichnis Wahlkreise,csv,Strassenverzeichnis Wahlkreise,2014,Daten,Das Straßenverzeichnis (Stand 01.03.2014) verknüpft die Kölner Strassen mit den jeweiligen Stimmbezirken und Wahlkreisen. ,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,"Strukturdaten, Wahlen"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/stadtteile-koeln ,Stadtteile Koeln,csv,Stadtteile Koeln,2014,Daten,Auflistung der Stadtteile in Köln (Stadtteilbezeichnung und Stadtteilnummer),Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,x,,,,,,,,,,,,,,,,,,Stadtteil
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/testdatens%C3%A4tze-zur-verbundwahl-2014 ,Testdatensätze zur Verbundwahl 2014,csv,Testdatensätze zur Verbundwahl 2014,2014,mehrere Datensätze,Testdatensätze zur Verbundwahl 2014,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/geb%C3%A4udemodell-stadt-k%C3%B6ln-2010 ,Gebäudemodell Stadt Köln 2010,zip ,Gebäudemodell Stadt Köln 2010,2014,drei Datensätze,"Der Datensatz beschreibt das Gebäudemodell der Stadt Köln (Dachansicht), welche aus dem 3D Stadtmodell der Stadt Köln extrahiert wurden",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,x,,,,,,,,,,,,,,,,,,Geo
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/brunnen-und-teichfont%C3%A4nen ,Brunnen und Teichfontänen,csv,Brunnen und Teichfontänen,2014,mehrere Datensätze,Brunnen und Teichfontänen,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,x,,x,,,,,,,,,,Umweltzone
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/vornamen ,Vornamen,csv,Vornamen,2014,mehrere Datensätze,Eine Auflistung aller für die jeweiligen Jahre vergebenen Vornamen,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,x,,,,,,,,,,,,,,,,,,,,,Informationen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/defibrillatoren-stadt-k%C3%B6ln ,Defibrillatoren Stadt Köln,csv,Defibrillatoren Stadt Köln,2014,zwei Datensätze,Standortübersicht der Defibrillatoren in größeren Verwaltungsgebäuden der Stadt Köln inklusive Öffnungszeiten der jeweiligen Gebäude ,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,x,,,,,,,,,,,,,,,Informationen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/fl%C3%A4chennutzungsplan ,Flächennutzungsplan,zip,Flächennutzungsplan,2014,Daten,Der Flächennutzungsplan (FNP) umfasst das gesamte Stadtgebiet und stellt auf der Ebene der vorbereitenden Bauleitplanung dessen vorhandene und geplante Nutzung dar. ,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,x,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/pressemeldungen ,Pressemeldungen,xml,Pressemeldungen,2014,Daten,Aktuelle Pressemeldungen der Stadt Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,,,,,,x,,Informationen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/strassenverzeichnis ,Strassenverzeichnis,csv,Strassenverzeichnis Wahlkreise,2014,Daten,Das Straßenverzeichnis (Stand 01.03.2014) verknüpft die Kölner Strassen mit den jeweiligen Stimmbezirken und Wahlkreisen. ,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Verkehrsdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/sch%C3%BClerinnen-und-sch%C3%BCler ,Schülerinnen und Schüler,csv,Schülerinnen und Schüler,2013,mehrere Datensätze,"Schüler/-innen an allgemeinbildenden Schulen (einschl. 2 Gemeinschaftsschulen und 2 Freie Waldorfschulen, ohne 2. Bildungsweg ), aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,x,x,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/besch%C3%A4ftigte-und-arbeitslose ,Beschäftigte und Arbeitslose,csv,Beschäftigte und Arbeitslose,2013,mehrere Datensätze,"Beschäftigte am Wohnort und Arbeitslose, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,x,x,,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/zugelassene-kraftfahrzeuge ,Zugelassene Kraftfahrzeuge,csv,Zugelassene Kraftfahrzeuge,2013,mehrere Datensätze,"Zugelassene Kraftfahrzeuge nach Fahrzeugart und Pkw-Dichte, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln. ",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,x,,,,,,,,,Verkehrsdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/wohnverh%C3%A4ltnisse ,Wohnverhältnisse,csv,Wohnverhältnisse,2013,mehrere Datensätze,"Wohnverhältnisse, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,,,,,x,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/haushalte-mit-kindern ,Haushalte mit Kindern,csv,Haushalte mit Kindern,2013,mehrere Datensätze,"Haushalte mit Kindern, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln.",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,,,x,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/haushaltsgr%C3%B6%C3%9Fe ,Haushaltsgröße,csv,Haushaltsgöße,2013,mehrere Datensätze,"Haushaltsgröße, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln ",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,,,x,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/geburten-und-sterbef%C3%A4lle ,Geburten und Sterbefälle,csv,Geburten und Sterbefälle,2013,mehrere Datensätze,"Geburten und Sterbefälle, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,x,,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/einwohnerbewegung ,Einwohnerbewegung,csv,Einwohnerbewegungen,2013,mehrere Datensätze,"Einwohnerbewegung, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln.",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,x,,,,x,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ausl%C3%A4nder-nach-herkunftsl%C3%A4ndern ,Ausländer nach Herkunftsländern,csv,Ausländer nach Herkunftsländern,2013,mehrere Datensätze,"Ausländer/-innen nach ausgewählten Herkunftsländern, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln. ",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,x,,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/einwohner-nach-art-des-migrationshintergrundes ,Einwohner nach Art des Migrationshintergrundes,csv,Einwohner nach Art des Migrationshintergrundes,2013,mehrere Datensätze,"Einwohner nach Art des Migrationshintergrundes, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln.",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,x,,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/einwohner-mit-migrationshintergrund ,Einwohner mit MIgrationshintergrund,csv,Einwohner mit Migrationshintergrund,2013,mehrere Datensätze,"Einwohner mit Migrationshintergrund, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln.",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,x,,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/einwohner-nach-familienstand ,Einwohner nach Familienstand,csv,Einwohner nach Familienstand,2013,mehrere Datensätze,"Einwohner nach Familienstand, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,x,,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/einwohner-nach-konfession ,Einwohner nach Konfession,csv,Einwohner nach Konfession,2013,mehrere Datensätze,"Einwohner nach Konfession, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,x,,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/einwohner-durchschnittsalter ,Einwohner Durchschnittsalter,csv,Einwohner Durchschnittsalter,2013,mehrere Datensätze,"Durchschnittsalter der Einwohner, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln ",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,x,,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/einwohner-nach-altersgruppen ,Einwohner nach Altersgruppen,csv,Einwohner nach Altersgruppe,2013,mehrere Datensätze,"Einwohner nach ausgewählten Altersgruppen, aufgeteilt in Stadtbezirke, Stadtteile und die gesamte Stadt Köln ",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,x,,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/weibliche-einwohner ,Weibliche Einwohner,csv,Weibliche Einwohner,2013,mehrere Datensätze,Weibliche Einwohner nach ausgewählten Strukturen am 31.12.2010,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,x,,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/einwohner-und-haushalteentwicklung ,Einwohner- und Haushalteentwicklung,csv,Einwohner-und Haushalteentwicklung,2013,mehrere Datensätze,"Entwicklung der Einwohner und der Haushalte, aufgeteilt in Stadtbezirke, Stadtteile und die gesamte Stadt Köln ",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,x,,x,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/stadtfl%C3%A4che-einwohnerdichte-und-einwohner ,"Stadtfläche, Einwohnerdichte und Einwohner",csv,"Stadtfläche, Einwohnerdichte und Einwohner",2013,mehrere Datensätze,"Stadtfläche, Einwohnerdichte und Einwohner nach Wohnstatus, aufgeteilt in Stadtbezirke, Stadtteile und die gesamte Stadt Köln ",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,Stadt Köln - Amt für Stadtentwicklung und Statistik (Statistisches Informationssystem) ,,x,,,x,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ampelanlagen-k%C3%B6ln-gk  ,Ampelanlagen in Köln (GK),"zip, csv",Ampelanlagen in Köln (GK),2013,zwei Datensätze,Ampelanlagen (Lichtzeichenanlagen) in Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,x,,,,,,,,,,,,,,,Verkehrsdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ampelanlagen-k%C3%B6ln-wsg84 ,Ampelanlagen in Köln (WSG84),"zip, csv",Ampelanlagen in Köln (WSG84),2013,drei Datensätze,Ampelanlagen in Köln (WSG84),Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,x,,,,,,,,,,,,,,,Verkehrsdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/pegelstand-stadt-k%C3%B6ln ,Pegelstand Stadt Köln,xml,Pegelstand Stadt Köln,2013,Daten,"Aktueller Pegelstand des Rheins, bereitgestellt von den Stadtentwässerungsbetrieben Köln.",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,x,,,,,,,,,,Umweltzone
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/umweltzone ,Umweltzone,"zip, xml",Umweltzone,2013,zwei Datensätze,Umweltzonen,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,x,,,,,,,,,,"Geo, Umweltzone"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bundestagswahl11-stadtteil ,Bundestagswahl11-Stadtteil,csv,Bundestagswahl11-Stadtteil,2013,Daten,Bundestagswahl nach Stadtteil,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bundestagswahl2-wahlkreis ,Bundestagswahl2-Wahlkreis,csv,Bundestagswahl2-Wahlkreis,2013,Daten,Bundestagswahl nach Wahlkreisen,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bundestagswahl3-gesamt-kreisfreie-stadt ,Bundestagswahl3-Gesamt-Kreisfreie Stadt,csv,Bundestagswahl3-Gesamt-Kreisfreie Stadt,2013,Daten,Bundestagswahl in kreisfreier Stadt,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bundestagswahl6-wahlbezirk ,Bundestagswahl6-Wahlbezirk,csv,Bundestagswahl6-Wahlbezirk,2013,Daten,Bundestagswahl nach Wahlbezirken,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bundestagswahl8-stadtbezirk ,Bundestagswahl8-Stadtbezirk,csv,Bundestagswahl8-Stadtbezirk,2013,Daten,Bundestagswahl nach Stadtbezirken,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/wahldaten-auf-wahlbezirksebene ,Wahldaten auf Wahlbezirksebene,zip,Wahldaten auf Wahlbezirksebene,2013,Daten,Wahldaten auf Wahlbezirksebene,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/2013-09-22wahlbeteiligungkoeln ,2013-09-22_wahlbeteiligung_koeln,csv,2013-09-22_wahlbeteiligung_koeln,2013,Daten,Wahlbeteiligung in Köln für die Bundestagswahl 2013,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/landtagswahl-2012-zweitstimmen  ,"Landtagswahl 2012, Zweitstimmen",xls,"Landtagswahl 2012, Zweitstimmen",2013,Daten,"Landtagswahl 2012, Zweitstimmen",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/landtagswahl-2012-erststimmen ,"Landtagswahl 2012, Erststimmen",xls,"Landtagswahl 2012, Erststimmen",2013,Daten,"Landtagswahl 2012, Erststimmen",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/kommunalwahl-2009 ,Kommunalwahl 2009,xls,Kommunalwahl 2009,2013,Daten,Kommunalwahl 2009,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bundestagswahl-2009-erststimmen ,"Bundestagswahl 2009, Erststimmen",xls,"Bundestagswahl 2009, Erststimmen",2013,Daten,"Bundestagswahl 2009, Erststimmen",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bundestagswahl-2009-zweitstimmen ,"Bundestagswahl 2009, Zweitstimmen",xls,"Bundestagswahl 2009, Zweitstimmen",2013,Daten,"Bundestagswahl 2009, Zweitstimmen",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/wettbewerb-teilnahmebedingungen ,Wettbewerb - Teilnahmebedingungen,pdf,Wettbewerb-Teilnahmebedingungen,2013,Daten,Teilnahmebedingungen zum OpenData Wettbewerb 2013,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,x,,,,,,,,,,,Wettbewerb
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/wahlvorschlaegekoelnwahlkreis93bis101 ,Wahlvorschlaege_Koeln_Wahlkreis_93_bis_101,csv,Wahlvorschlaege_Koeln_Wahlkreis_93_bis_101,2013,Daten,Wahlvorschlaege in Köln. Wahlkreis 93 bis 101,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ergebnissederlandtagswahleninkoelnseit2010erststimmenzahl ,Ergebnisse_der_Landtagswahlen_in_Koeln_seit_2010_Erststimmen_Zahl,csv,Ergebnisse_der_Landtagswahlen_in_Koeln_seit_2010_Erststimmen_Zahl,2013,Daten,Ergebnisse der Landtagswahlen in Köln seit 2010 (Nach Erststimmen und der Verteilung nach absoluten Zahlen),Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ergebnissederlandtagswahleninkoelnseit2010erststimmenprozent ,Ergebnisse_der_Landtagswahlen_in_Koeln_seit_2010_Erststimmen_Prozent,csv,Ergebnisse_der_Landtagswahlen_in_Koeln_seit_2010_Erststimmen_Prozent,2013,Daten,Ergebnisse der Landtagswahlen in Köln seit 2010 (nach erststimmen und prozentualer Verteilung),Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ergebnissederlandtagswahleninkoelnseit1947zahl ,Ergebnisse_der_Landtagswahlen_in_Koeln_seit_1947_Zahl,csv,Ergebnisse_der_Landtagswahlen_in_Koeln_seit_1947_Zahl,2013,Daten,Ergebnisse der Landtagswahlen in Köln seit 1947 (Aufteilung nach absoluten Zahlen),Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ergebnissederlandtagswahleninkoelnseit1947prozent ,Ergebnisse_der_Landtagswahlen_in_Koeln_seit_1947_Prozent,csv,Ergebnisse_der_Landtagswahlen_in_Koeln_seit_1947_Prozent,2013,Daten,Ergebnisse der Landtagswahlen in Köln seit 1947 (prozentuale Aufteilung),Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ergebnissederkommunalwahleninkoelnseit1946zahl ,Ergebnisse_der_Kommunalwahlen_in_Koeln_seit_1946_Zahl,csv,Ergebnisse_der_Kommunalwahlen_in_Koeln_seit_1946_Zahl,2013,Daten,Ergebnisse der Kommunalwahlen in Köln seit 1946 (Aufteilung nach absoluten Zahlen),Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ergebnissederkommunalwahleninkoelnseit1946sitze ,Ergebnisse_der_Kommunalwahlen_in_Koeln_seit_1946_Sitze,csv,Ergebnisse_der_Kommunalwahlen_in_Koeln_seit_1946_Sitze,2013,Daten,Ergebnisse der Kommunalwahlen in Köln seit 1946 (Aufteilung nach Sitze),Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ergebnissederkommunalwahleninkoelnseit1946prozent ,Ergebnisse_der_Kommunalwahlen_in_Koeln_seit_1946_Prozent,csv,Ergebnisse_der_Kommunalwahlen_in_Koeln_seit_1946_Prozent,2013,Daten,Ergebnisse der Kommunalwahlen in Köln seit 1946 (prozentuale Aufteilung),Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ergebnissedereuropawahleninkoelnseit1979zahl ,Ergebnisse_der_Europawahlen_in_Koeln_seit_1979_Zahl,csv,Ergebnisse_der_Europawahlen_in_Koeln_seit_1979_Zahl,2013,Daten,Ergebnisse der Europawahlen in Köln seit 1979 (Aufteilung nach absoluten Zahlen),Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ergebnissedereuropawahleninkoelnseit1979prozent ,Ergebnisse_der_Europawahlen_in_Koeln_seit_1979_Prozent,csv,Ergebnisse_der_Europawahlen_in_Koeln_seit_1979_Prozent,2013,Daten,Ergebnisse der Europawahlen in Köln seit 1979 (prozentuale Aufteilung),Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ergebnissederbundestagswahleninkoelnseit1949zahl ,Ergebnisse_der_Bundestagswahlen_in_Koeln_seit_1949_Zahl,csv,Ergebnisse_der_Bundestagswahlen_in_Koeln_seit_1949_Zahl,2013,Daten,Ergebnisse der Bundestagswahlen in Köln seit 1949 (Aufteilung als Zahl),Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ergebnissederbundestagswahleninkoelnseit1949prozent ,Ergebnisse_der_Bundestagswahlen_in_Koeln_seit_1949_Prozent,csv,Ergebnisse_der_Bundestagswahlen_in_Koeln_seit_1949_Prozent,2013,Daten,Ergebnisse der Bundestagswahlen in Köln seit 1949 (prozentuale Aufteilung),Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/wahllokale ,Wahllokale,csv,Wahllokale,2013,drei Datensätze,Wahllokale Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Wahlen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/strassenknoten ,Strassenknoten,"data,xml, zip",Strassenknoten,2013,drei Datensätze,Straßenknoten im KMZ-Format,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,x,,,,,,,,,"Geo, Strukturdaten"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/strassenabschnitt ,Strassenabschnitt,"data,xml, zip",Strassenabschnitt,2013,drei Datensätze,Strassenabschnitt Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,x,,,,,,,,,"Geo, Strukturdaten"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/strasse ,Strasse,"data,xml, zip",Strasse,2013,drei Datensätze,Straßen in Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,x,,,,,,,,,x,,,,,,,,,"Geo, Strukturdaten"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/stadtviertel ,Stadtviertel,"data,xml, zip",Stadtviertel,2013,drei Datensätze,Stadtviertel in Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,x,,,,,,,,,,,,,,,,,,"Geo, Strukturdaten"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/blockseite ,Blockseite,"data,xml, zip",Blockseite,2013,drei Datensätze,Blockseiten in Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,x,,,,,,,,,,,,,,,,,,"Geo, Strukturdaten"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/blockabschnitt ,Blockabschnitt,"data,xml, zip",Blockabschnitt,2013,drei Datensätze,Blockabschnitte in Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,x,,,,,,,,,,,,,,,,,,"Geo, Strukturdaten"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/block ,Block,"data,xml, zip",Block,2013,drei Datensätze,Blocks in Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,x,,,,,,,,,,,,,,,,,,"Geo, Strukturdaten"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/adresse ,Adresse,"data,xml, zip",Adresse,2013,drei Datensätze,Adressen aus Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,x,,,,,,,,,,,,,,,,,"Geo, Strukturdaten"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/politische-verh%C3%A4ltnisse ,Politische Verhältnisse,csv,Politische Verhältnisse,2013,Daten,Politische Verhältnisse in Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,Politik
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bildung-und-ausbildung ,Bildung Und Ausbildung,csv,Bildung Und Ausbildung,2013,Daten,Bildung Und Ausbildung in Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,x,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bauen-und-wohnen-baugenehmigungen ,Bauen Und Wohnen Baugenehmigungen,csv,Bauen Und Wohnen Baugenehmigungen,2013,Daten,"Bauen, Wohnen, Baugenehmigungen",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,x,x,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bauen-und-wohnen-baufertigstellungen ,Bauen Und Wohnen Baufertigstellungen,csv,Bauen Und Wohnen Baufertigstellungen,2013,Daten,Baufertigstellungen,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,x,x,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/gesundheit-und-soziales ,Gesundheit Und Soziales,csv,Gesundheit und Soziales,2013,Daten,"Daten über Gesundheit und Soziales, enthält nach Stadtteil, Jahr und verschiedenen sachlichen Merkmalen gegliederte Sozialdaten",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,x,,x,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/haushalte ,Haushalte,csv,Haushalte mit Kindern,2013,mehrere Datensätze,"Haushalte mit Kindern, aufgeteilt in Stadtteile, Stadtbezirke und die gesamte Stadt Köln. ",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,x,,x,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bev%C3%B6lkerungsbewegung ,Bevölkerungsbewegung,csv,Bevölkerungsbewegung,2013,Daten,"Daten über Bevölkerungsbewegungenthält nach Stadtteil, Jahr und verschiedenen sachlichen Merkmalen gegliederte Einwohner-Bewegungsdaten",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,x,,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bev%C3%B6lkerung ,Bevölkerung,csv,Bevölkerung,2013,Daten,"Daten über die Bevölkerung, enthält nach Stadtteil, Jahr und verschiedenen sachlichen Merkmalen gegliederte Einwohnerdaten",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,x,,,,,,,,,,,,,,,,,,,,,Strukturdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/stimmbezirk ,Stimmbezirk,"data,xml, zip",Stimmbezirk,2013,mehrere Datensätze,Stimmbezirke zur Bundestagswahl,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,"Strukturdaten, Wahlen"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bundestagswahlkreis ,Bundestagswahlkreis,"data,xml, zip",Bundestagswahlkreis,2013,mehrere Datensätze,Bundestagswahlkreis zur Bundestagswahl,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,x,,,,,,,"Strukturdaten, Wahlen"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/parkhausbelegung ,Parkhausbelegung,json,Parkhausbelegung,2013,Daten,Parkhausbelegung in Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,x,,,,,,,,,Verkehrsdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/opendata-endpoint-zur-l%C3%A4rmaktionsplanung ,OpenData Endpoint zur Lärmaktionsplanung,json,OpenData Endpoint zur Lärmaktionsplanung ,2013,Daten,Bürgerbeteiligung an der Lärmaktionsplanung der Stadt Köln ,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,x,,,,,,,,,,,,x,,,,,,,,,eParticipation
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/verkehrskalender-der-stadt-k%C3%B6ln ,Verkehrskalender der Stadt Köln,json,Verkehrskalender der Stadt Köln ,2013,Daten,Verkehrskalender der Stadt Köln ,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,x,,,,,,,,,Verkehrsdaten
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/vorstudie-opendata ,Vorstudie OpenData,pdf,Vorstudie OpenData,2013,Daten,Vorstudie des Fraunhofer Fokus zum Themenkomplex “Offene Daten in Köln”,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,,,,,,x,,Konzepte
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bezirkeeinzeldarstellung ,Bezirke_Einzeldarstellung,csv,Bezirke_Einzendarstellung,2014,zwei Datensätze,Haushaltsplan 2012 – Einzeldarstellung für die Stadtbezirke,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,x,,,,,,,,,,,,,,,,,,,Haushalt
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/teilfinanzplan ,Teilfinanzplan,csv,Teilfinanzplan,2014,zwei Datensätze,Haushaltsplan 2012 der Stadt Köln.,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,x,,,,,,,,,,,,,,,,,,,Haushalt
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/teilergebnisplan ,Teilergebnisplan,csv,Teilergebnisplan,2014,zwei Datensätze,Haushaltsplan 2012 und 2013/2014 der Stadt Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,x,,,,,,,,,,,,,,,,,,,Haushalt
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/gesamtfinanzplan ,Gesamtfinanzplan,csv,Gesamtfinanzplan,2014,zwei Datensätze,Gesamtfinanzplan der Stadt Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,x,,,,,,,,,,,,,,x,,,,,Haushalt
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/gesamtergebnisplan ,Gesamtergebnisplan,csv,Gesamtergebnisplan,2014,zwei Datensätze,Gesamtergebnisplan der Stadt Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,x,,,,,,,,,,,,,,,,,,,Haushalt
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/finanzplanproduktbereichssummen ,Finanzplan_Produktbereichssummen,csv,Finanzplan_Produktbereichssummen,2014,zwei Datensätze,Finanzplan und Produktbereichssummen ,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,,,x,,,,,Haushalt
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/ergebnisplanproduktbereichssummen ,Ergebnisplan_Produktbereichssummen,csv,Ergebnisplan_Produktbereichssummen,2014,zwei Datensätze,Ergebnisplan und Produktbereichssummen,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,,,x,,,,,Haushalt
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/bezirkeproduktgruppen ,Bezirke_Produktgruppen,csv,Bezirke_Produktgruppen,2014,zwei Datensätze,Bezirke und Produktgruppen,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,x,,,,,,,,,,,,,,,,x,,,,,Haushalt
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/stadtteile ,Stadtteile,"data,xml, zip",Stadtteile,2013,drei Datensätze,"Kommunale Gebietsgliederung, Stadtstteile der Stadt Köln",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,x,,,,,,,,,,,,,,,,,,"Geo, Stadtteil"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/stadtbezirke ,Stadtbezirke,"data,xml, zip",Stadtbezirke,2013,drei Datensätze,Stadtbezirke Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,x,,,,,,,,,,,,,,,,,,"Geo, Stadtbezirk"
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/tag-des-denkmals ,Tag des denkmals,json,Tag des denkmals,2013,Daten,"Daten aller Veranstaltungen, die in Zusammenhang mit dem “Tag des Denkmals"" stehen",Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,x,,,,,,,,,,,,,Termine
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/statistisches-jahrbuch-2011 ,Statistisches Jahrbuch 2011,pdf,Statistisches Jahrbuch 2011,2013,Daten,Statistisches Jahrbuch 2011,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,x,,,,,,,,,,,,,,,,,,,,,Informationen
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/veranstaltungen-der-stadt-k%C3%B6ln ,Veranstaltungen der Stadt Köln,json,Veranstaltungen der Stadt Köln,2013,Daten,Veranstaltungen der Stadt Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,x,,,,,x,,x,,,,,,,,,,,Termine
-26.06.2014,JK,,http://offenedaten-koeln.de/dataset/internetstadt-k%C3%B6ln ,Internetstadt Köln,pdf,Internetstadt Köln,2013,Daten,Konzept zur Internetstadt Köln,Creative Commons Namensnennung 3.0 Deutschland Lizenz,,,,,,,,,,,,,,,,,,,,,,,,x,"Konzepte, Informationen"
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta content="width=300, initial-scale=1" name="viewport">
+  <meta name="description" content="Create a new spreadsheet and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Sheets to edit Excel files. Free from Google.">
+  <title>Google Sheets - create and edit spreadsheets online, for free.</title>
+  <style>
+  @font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(//themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(//themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+  </style>
+  <style>
+  h1, h2 {
+  -webkit-animation-duration: 0.1s;
+  -webkit-animation-name: fontfix;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-delay: 0;
+  }
+  @-webkit-keyframes fontfix {
+  from {
+  opacity: 1;
+  }
+  to {
+  opacity: 1;
+  }
+  }
+  </style>
+<style>
+  html, body {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  position: absolute;
+  height: 100%;
+  min-width: 100%;
+  font-size: 13px;
+  color: #404040;
+  direction: ltr;
+  -webkit-text-size-adjust: none;
+  }
+  button,
+  input[type=button],
+  input[type=submit] {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  }
+  a,
+  a:hover,
+  a:visited {
+  color: #427fed;
+  cursor: pointer;
+  text-decoration: none;
+  }
+  a:hover {
+  text-decoration: underline;
+  }
+  h1 {
+  font-size: 20px;
+  color: #262626;
+  margin: 0 0 15px;
+  font-weight: normal;
+  }
+  h2 {
+  font-size: 14px;
+  color: #262626;
+  margin: 0 0 15px;
+  font-weight: bold;
+  }
+  input[type=email],
+  input[type=number],
+  input[type=password],
+  input[type=tel],
+  input[type=text],
+  input[type=url] {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  display: inline-block;
+  height: 36px;
+  padding: 0 8px;
+  margin: 0;
+  background: #fff;
+  border: 1px solid #d9d9d9;
+  border-top: 1px solid #c0c0c0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -moz-border-radius: 1px;
+  -webkit-border-radius: 1px;
+  border-radius: 1px;
+  font-size: 15px;
+  color: #404040;
+  }
+  input[type=email]:hover,
+  input[type=number]:hover,
+  input[type=password]:hover,
+  input[type=tel]:hover,
+  input[type=text]:hover,
+  input[type=url]:hover {
+  border: 1px solid #b9b9b9;
+  border-top: 1px solid #a0a0a0;
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  }
+  input[type=email]:focus,
+  input[type=number]:focus,
+  input[type=password]:focus,
+  input[type=tel]:focus,
+  input[type=text]:focus,
+  input[type=url]:focus {
+  outline: none;
+  border: 1px solid #4d90fe;
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  }
+  input[type=checkbox],
+  input[type=radio] {
+  -webkit-appearance: none;
+  display: inline-block;
+  width: 13px;
+  height: 13px;
+  margin: 0;
+  cursor: pointer;
+  vertical-align: bottom;
+  background: #fff;
+  border: 1px solid #c6c6c6;
+  -moz-border-radius: 1px;
+  -webkit-border-radius: 1px;
+  border-radius: 1px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  position: relative;
+  }
+  input[type=checkbox]:active,
+  input[type=radio]:active {
+  background: #ebebeb;
+  }
+  input[type=checkbox]:hover {
+  border-color: #c6c6c6;
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  }
+  input[type=radio] {
+  -moz-border-radius: 1em;
+  -webkit-border-radius: 1em;
+  border-radius: 1em;
+  width: 15px;
+  height: 15px;
+  }
+  input[type=checkbox]:checked,
+  input[type=radio]:checked {
+  background: #fff;
+  }
+  input[type=radio]:checked::after {
+  content: '';
+  display: block;
+  position: relative;
+  top: 3px;
+  left: 3px;
+  width: 7px;
+  height: 7px;
+  background: #666;
+  -moz-border-radius: 1em;
+  -webkit-border-radius: 1em;
+  border-radius: 1em;
+  }
+  input[type=checkbox]:checked::after {
+  content: url(//ssl.gstatic.com/ui/v1/menu/checkmark.png);
+  display: block;
+  position: absolute;
+  top: -6px;
+  left: -5px;
+  }
+  input[type=checkbox]:focus {
+  outline: none;
+  border-color: #4d90fe;
+  }
+  .stacked-label {
+  display: block;
+  font-weight: bold;
+  margin: .5em 0;
+  }
+  .hidden-label {
+  position: absolute !important;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 0px;
+  width: 0px;
+  overflow: hidden;
+  visibility: hidden;
+  }
+  input[type=checkbox].form-error,
+  input[type=email].form-error,
+  input[type=number].form-error,
+  input[type=password].form-error,
+  input[type=text].form-error,
+  input[type=tel].form-error,
+  input[type=url].form-error {
+  border: 1px solid #dd4b39;
+  }
+  .error-msg {
+  margin: .5em 0;
+  display: block;
+  color: #dd4b39;
+  line-height: 17px;
+  }
+  .help-link {
+  background: #dd4b39;
+  padding: 0 5px;
+  color: #fff;
+  font-weight: bold;
+  display: inline-block;
+  -moz-border-radius: 1em;
+  -webkit-border-radius: 1em;
+  border-radius: 1em;
+  text-decoration: none;
+  position: relative;
+  top: 0px;
+  }
+  .help-link:visited {
+  color: #fff;
+  }
+  .help-link:hover {
+  color: #fff;
+  background: #c03523;
+  text-decoration: none;
+  }
+  .help-link:active {
+  opacity: 1;
+  background: #ae2817;
+  }
+  .wrapper {
+  position: relative;
+  min-height: 100%;
+  }
+  .content {
+  padding: 0 44px;
+  }
+  .main {
+  padding-bottom: 100px;
+  }
+  /* For modern browsers */
+  .clearfix:before,
+  .clearfix:after {
+  content: "";
+  display: table;
+  }
+  .clearfix:after {
+  clear: both;
+  }
+  /* For IE 6/7 (trigger hasLayout) */
+  .clearfix {
+  zoom:1;
+  }
+  .google-header-bar {
+  height: 71px;
+  border-bottom: 1px solid #e5e5e5;
+  overflow: hidden;
+  }
+  .header .logo {
+  margin: 17px 0 0;
+  float: left;
+  height: 38px;
+  width: 116px;
+  }
+  .header .secondary-link {
+  margin: 28px 0 0;
+  float: right;
+  }
+  .header .secondary-link a {
+  font-weight: normal;
+  }
+  .google-header-bar.centered {
+  border: 0;
+  height: 108px;
+  }
+  .google-header-bar.centered .header .logo {
+  float: none;
+  margin: 40px auto 30px;
+  display: block;
+  }
+  .google-header-bar.centered .header .secondary-link {
+  display: none
+  }
+  .google-footer-bar {
+  position: absolute;
+  bottom: 0;
+  height: 35px;
+  width: 100%;
+  border-top: 1px solid #e5e5e5;
+  overflow: hidden;
+  }
+  .footer {
+  padding-top: 7px;
+  font-size: .85em;
+  white-space: nowrap;
+  line-height: 0;
+  }
+  .footer ul {
+  float: left;
+  max-width: 80%;
+  padding: 0;
+  }
+  .footer ul li {
+  color: #737373;
+  display: inline;
+  padding: 0;
+  padding-right: 1.5em;
+  }
+  .footer a {
+  color: #737373;
+  }
+  .lang-chooser-wrap {
+  float: right;
+  display: inline;
+  }
+  .lang-chooser-wrap img {
+  vertical-align: top;
+  }
+  .lang-chooser {
+  font-size: 13px;
+  height: 24px;
+  line-height: 24px;
+  }
+  .lang-chooser option {
+  font-size: 13px;
+  line-height: 24px;
+  }
+  .hidden {
+  height: 0px;
+  width: 0px;
+  overflow: hidden;
+  visibility: hidden;
+  display: none !important;
+  }
+  .banner {
+  text-align: center;
+  }
+  .card {
+  background-color: #f7f7f7;
+  padding: 20px 25px 30px;
+  margin: 0 auto 25px;
+  width: 304px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  }
+  .card > *:first-child {
+  margin-top: 0;
+  }
+  .rc-button,
+  .rc-button:visited {
+  display: inline-block;
+  min-width: 46px;
+  text-align: center;
+  color: #444;
+  font-size: 14px;
+  font-weight: 700;
+  height: 36px;
+  padding: 0 8px;
+  line-height: 36px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  -o-transition: all 0.218s;
+  -moz-transition: all 0.218s;
+  -webkit-transition: all 0.218s;
+  transition: all 0.218s;
+  border: 1px solid #dcdcdc;
+  background-color: #f5f5f5;
+  background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -moz-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -ms-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -o-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: linear-gradient(top,#f5f5f5,#f1f1f1);
+  -o-transition: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  cursor: default;
+  }
+  .card .rc-button {
+  width: 100%;
+  padding: 0;
+  }
+  .rc-button.disabled,
+  .rc-button[disabled] {
+  opacity: .5;
+  filter: alpha(opacity=50);
+  cursor: default;
+  pointer-events: none;
+  }
+  .rc-button:hover {
+  border: 1px solid #c6c6c6;
+  color: #333;
+  text-decoration: none;
+  -o-transition: all 0.0s;
+  -moz-transition: all 0.0s;
+  -webkit-transition: all 0.0s;
+  transition: all 0.0s;
+  background-color: #f8f8f8;
+  background-image: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
+  background-image: -moz-linear-gradient(top,#f8f8f8,#f1f1f1);
+  background-image: -ms-linear-gradient(top,#f8f8f8,#f1f1f1);
+  background-image: -o-linear-gradient(top,#f8f8f8,#f1f1f1);
+  background-image: linear-gradient(top,#f8f8f8,#f1f1f1);
+  -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  }
+  .rc-button:active {
+  background-color: #f6f6f6;
+  background-image: -webkit-linear-gradient(top,#f6f6f6,#f1f1f1);
+  background-image: -moz-linear-gradient(top,#f6f6f6,#f1f1f1);
+  background-image: -ms-linear-gradient(top,#f6f6f6,#f1f1f1);
+  background-image: -o-linear-gradient(top,#f6f6f6,#f1f1f1);
+  background-image: linear-gradient(top,#f6f6f6,#f1f1f1);
+  -moz-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+  }
+  .rc-button-submit,
+  .rc-button-submit:visited {
+  border: 1px solid #3079ed;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.1);
+  background-color: #4d90fe;
+  background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
+  background-image: -moz-linear-gradient(top,#4d90fe,#4787ed);
+  background-image: -ms-linear-gradient(top,#4d90fe,#4787ed);
+  background-image: -o-linear-gradient(top,#4d90fe,#4787ed);
+  background-image: linear-gradient(top,#4d90fe,#4787ed);
+  }
+  .rc-button-submit:hover {
+  border: 1px solid #2f5bb7;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.3);
+  background-color: #357ae8;
+  background-image: -webkit-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -moz-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -ms-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -o-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: linear-gradient(top,#4d90fe,#357ae8);
+  }
+  .rc-button-submit:active {
+  background-color: #357ae8;
+  background-image: -webkit-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -moz-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -ms-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -o-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: linear-gradient(top,#4d90fe,#357ae8);
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  }
+  .rc-button-red,
+  .rc-button-red:visited {
+  border: 1px solid transparent;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.1);
+  background-color: #d14836;
+  background-image: -webkit-linear-gradient(top,#dd4b39,#d14836);
+  background-image: -moz-linear-gradient(top,#dd4b39,#d14836);
+  background-image: -ms-linear-gradient(top,#dd4b39,#d14836);
+  background-image: -o-linear-gradient(top,#dd4b39,#d14836);
+  background-image: linear-gradient(top,#dd4b39,#d14836);
+  }
+  .rc-button-red:hover {
+  border: 1px solid #b0281a;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.3);
+  background-color: #c53727;
+  background-image: -webkit-linear-gradient(top,#dd4b39,#c53727);
+  background-image: -moz-linear-gradient(top,#dd4b39,#c53727);
+  background-image: -ms-linear-gradient(top,#dd4b39,#c53727);
+  background-image: -o-linear-gradient(top,#dd4b39,#c53727);
+  background-image: linear-gradient(top,#dd4b39,#c53727);
+  }
+  .rc-button-red:active {
+  border: 1px solid #992a1b;
+  background-color: #b0281a;
+  background-image: -webkit-linear-gradient(top,#dd4b39,#b0281a);
+  background-image: -moz-linear-gradient(top,#dd4b39,#b0281a);
+  background-image: -ms-linear-gradient(top,#dd4b39,#b0281a);
+  background-image: -o-linear-gradient(top,#dd4b39,#b0281a);
+  background-image: linear-gradient(top,#dd4b39,#b0281a);
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  }
+  .secondary-actions {
+  text-align: center;
+  }
+</style>
+<style media="screen and (max-width: 800px), screen and (max-height: 800px)">
+  .google-header-bar.centered {
+  height: 83px;
+  }
+  .google-header-bar.centered .header .logo {
+  margin: 25px auto 20px;
+  }
+  .card {
+  margin-bottom: 20px;
+  }
+</style>
+<style media="screen and (max-width: 580px)">
+  html, body {
+  font-size: 14px;
+  }
+  .google-header-bar.centered {
+  height: 73px;
+  }
+  .google-header-bar.centered .header .logo {
+  margin: 20px auto 15px;
+  }
+  .content {
+  padding-left: 10px;
+  padding-right: 10px;
+  }
+  .hidden-small {
+  display: none;
+  }
+  .card {
+  padding: 20px 15px 30px;
+  width: 270px;
+  }
+  .footer ul li {
+  padding-right: 1em;
+  }
+  .lang-chooser-wrap {
+  display: none;
+  }
+</style>
+<style>
+  pre.debug {
+  font-family: monospace;
+  position: absolute;
+  left: 0;
+  margin: 0;
+  padding: 1.5em;
+  font-size: 13px;
+  background: #f1f1f1;
+  border-top: 1px solid #e5e5e5;
+  direction: ltr;
+  white-space: pre-wrap;
+  width: 90%;
+  overflow: hidden;
+  }
+</style>
+<style>
+  .banner h1 {
+  font-family: 'Open Sans', arial;
+  -webkit-font-smoothing: antialiased;
+  color: #555;
+  font-size: 42px;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 20px;
+  }
+  .banner h2 {
+  font-family: 'Open Sans', arial;
+  -webkit-font-smoothing: antialiased;
+  color: #555;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  }
+  .signin-card {
+  width: 274px;
+  padding: 40px 40px;
+  }
+  .signin-card .profile-img {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 10px;
+  display: block;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  }
+  .signin-card .profile-name {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px 0 0;
+  min-height: 1em;
+  }
+  .signin-card input[type=email],
+  .signin-card input[type=password],
+  .signin-card input[type=text],
+  .signin-card input[type=submit] {
+  width: 100%;
+  display: block;
+  margin-bottom: 10px;
+  z-index: 1;
+  position: relative;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  }
+  .signin-card #Email,
+  .signin-card #Passwd,
+  .signin-card .captcha {
+  direction: ltr;
+  height: 44px;
+  font-size: 16px;
+  }
+  .signin-card #Email + .stacked-label {
+  margin-top: 15px;
+  }
+  .signin-card #reauthEmail {
+  display: block;
+  margin-bottom: 10px;
+  line-height: 36px;
+  padding: 0 8px;
+  font-size: 15px;
+  color: #404040;
+  line-height: 2;
+  margin-bottom: 10px;
+  font-size: 14px;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  }
+  .one-google p {
+  margin: 0 0 10px;
+  color: #555;
+  font-size: 14px;
+  text-align: center;
+  }
+  .one-google p.create-account,
+  .one-google p.switch-account {
+  margin-bottom: 60px;
+  }
+  .one-google img {
+  display: block;
+  width: 210px;
+  height: 17px;
+  margin: 10px auto;
+  }
+</style>
+<style media="screen and (max-width: 800px), screen and (max-height: 800px)">
+  .banner h1 {
+  font-size: 38px;
+  margin-bottom: 15px;
+  }
+  .banner h2 {
+  margin-bottom: 15px;
+  }
+  .one-google p.create-account,
+  .one-google p.switch-account {
+  margin-bottom: 30px;
+  }
+  .signin-card #Email {
+  margin-bottom: 0;
+  }
+  .signin-card #Passwd {
+  margin-top: -1px;
+  }
+  .signin-card #Email.form-error,
+  .signin-card #Passwd.form-error {
+  z-index: 2;
+  }
+  .signin-card #Email:hover,
+  .signin-card #Email:focus,
+  .signin-card #Passwd:hover,
+  .signin-card #Passwd:focus {
+  z-index: 3;
+  }
+</style>
+<style media="screen and (max-width: 580px)">
+  .banner h1 {
+  font-size: 22px;
+  margin-bottom: 15px;
+  }
+  .signin-card {
+  width: 260px;
+  padding: 20px 20px;
+  margin: 0 auto 20px;
+  }
+  .signin-card .profile-img {
+  width: 72px;
+  height: 72px;
+  -moz-border-radius: 72px;
+  -webkit-border-radius: 72px;
+  border-radius: 72px;
+  }
+</style>
+<style>
+  .jfk-tooltip {
+  background-color: #fff;
+  border: 1px solid;
+  color: #737373;
+  font-size: 12px;
+  position: absolute;
+  z-index: 800 !important;
+  border-color: #bbb #bbb #a8a8a8;
+  padding: 16px;
+  width: 250px;
+  }
+ .jfk-tooltip h3 {
+  color: #555;
+  font-size: 12px;
+  margin: 0 0 .5em;
+  }
+ .jfk-tooltip-content p:last-child {
+  margin-bottom: 0;
+  }
+  .jfk-tooltip-arrow {
+  position: absolute;
+  }
+  .jfk-tooltip-arrow .jfk-tooltip-arrowimplbefore,
+  .jfk-tooltip-arrow .jfk-tooltip-arrowimplafter {
+  display: block;
+  height: 0;
+  position: absolute;
+  width: 0;
+  }
+  .jfk-tooltip-arrow .jfk-tooltip-arrowimplbefore {
+  border: 9px solid;
+  }
+  .jfk-tooltip-arrow .jfk-tooltip-arrowimplafter {
+  border: 8px solid;
+  }
+  .jfk-tooltip-arrowdown {
+  bottom: 0;
+  }
+  .jfk-tooltip-arrowup {
+  top: -9px;
+  }
+  .jfk-tooltip-arrowleft {
+  left: -9px;
+  top: 30px;
+  }
+  .jfk-tooltip-arrowright {
+  right: 0;
+  top: 30px;
+  }
+  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplbefore,.jfk-tooltip-arrowup .jfk-tooltip-arrowimplbefore {
+  border-color: #bbb transparent;
+  left: -9px;
+  }
+  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplbefore {
+  border-color: #a8a8a8 transparent;
+  }
+  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplafter,.jfk-tooltip-arrowup .jfk-tooltip-arrowimplafter {
+  border-color: #fff transparent;
+  left: -8px;
+  }
+  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplbefore {
+  border-bottom-width: 0;
+  }
+  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplafter {
+  border-bottom-width: 0;
+  }
+  .jfk-tooltip-arrowup .jfk-tooltip-arrowimplbefore {
+  border-top-width: 0;
+  }
+  .jfk-tooltip-arrowup .jfk-tooltip-arrowimplafter {
+  border-top-width: 0;
+  top: 1px;
+  }
+  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplbefore,
+  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplbefore {
+  border-color: transparent #bbb;
+  top: -9px;
+  }
+  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplafter,
+  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplafter {
+  border-color:transparent #fff;
+  top:-8px;
+  }
+  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplbefore {
+  border-left-width: 0;
+  }
+  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplafter {
+  border-left-width: 0;
+  left: 1px;
+  }
+  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplbefore {
+  border-right-width: 0;
+  }
+  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplafter {
+  border-right-width: 0;
+  }
+  .jfk-tooltip-closebtn {
+  background: url("//ssl.gstatic.com/ui/v1/icons/common/x_8px.png") no-repeat;
+  border: 1px solid transparent;
+  height: 21px;
+  opacity: .4;
+  outline: 0;
+  position: absolute;
+  right: 2px;
+  top: 2px;
+  width: 21px;
+  }
+  .jfk-tooltip-closebtn:focus,
+  .jfk-tooltip-closebtn:hover {
+  opacity: .8;
+  cursor: pointer;
+  }
+  .jfk-tooltip-closebtn:focus {
+  border-color: #4d90fe;
+  }
+</style>
+<style media="screen and (max-width: 580px)">
+  .jfk-tooltip {
+  display: none;
+  }
+</style>
+<style>
+  .need-help-reverse {
+  float: right;
+  }
+  .remember .bubble-wrap {
+  position: absolute;
+  padding-top: 3px;
+  -o-transition: opacity .218s ease-in .218s;
+  -moz-transition: opacity .218s ease-in .218s;
+  -webkit-transition: opacity .218s ease-in .218s;
+  transition: opacity .218s ease-in .218s;
+  left: -999em;
+  opacity: 0;
+  width: 314px;
+  margin-left: -20px;
+  }
+  .remember:hover .bubble-wrap,
+  .remember input:focus ~ .bubble-wrap,
+  .remember .bubble-wrap:hover,
+  .remember .bubble-wrap:focus {
+  opacity: 1;
+  left: inherit;
+  }
+  .bubble-pointer {
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid #fff;
+  width: 0;
+  height: 0;
+  margin-left: 17px;
+  }
+  .bubble {
+  background-color: #fff;
+  padding: 15px;
+  margin-top: -1px;
+  font-size: 11px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  }
+  #stay-signed-in {
+  float: left;
+  }
+  #stay-signed-in-tooltip {
+  left: auto;
+  margin-left: -20px;
+  padding-top: 3px;
+  position: absolute;
+  top: 0;
+  visibility: hidden;
+  width: 314px;
+  z-index: 1;
+  }
+  .dasher-tooltip {
+  position: absolute;
+  left: 50%;
+  top: 380px;
+  margin-left: 150px;
+  }
+  .dasher-tooltip .tooltip-pointer {
+  margin-top: 15px;
+  }
+  .dasher-tooltip p {
+  margin-top: 0;
+  }
+  .dasher-tooltip p span {
+  display: block;
+  }
+</style>
+<style media="screen and (max-width: 800px), screen and (max-height: 800px)">
+  .dasher-tooltip {
+  top: 340px;
+  }
+</style>
+  </head>
+  <body>
+  <div class="wrapper">
+  <div class="google-header-bar  centered">
+  <div class="header content clearfix">
+  <img alt="Google" class="logo" src="//ssl.gstatic.com/accounts/ui/logo_2x.png">
+  </div>
+  </div>
+  <div class="main content clearfix">
+<div class="banner">
+<h1>
+  One account. All of Google.
+</h1>
+  <h2 class="hidden-small">
+  Sign in to continue to Sheets
+  </h2>
+</div>
+<div class="card signin-card clearfix">
+<img class="profile-img" src="//ssl.gstatic.com/accounts/ui/avatar_2x.png" alt="">
+<p class="profile-name"></p>
+  <form novalidate method="post" action="https://accounts.google.com/ServiceLoginAuth" id="gaia_loginform">
+  <input name="GALX" type="hidden"
+           value="VGyUeb7ZYb4">
+  <input name="continue" type="hidden" value="https://docs.google.com/spreadsheets/d/1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk/export?gid=2110295467&amp;format=csv">
+  <input name="followup" type="hidden" value="https://docs.google.com/spreadsheets/d/1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk/export?gid=2110295467&amp;format=csv">
+  <input name="service" type="hidden" value="wise">
+  <input name="ltmpl" type="hidden" value="sheets">
+  <input type="hidden" id="_utf8" name="_utf8" value="&#9731;"/>
+  <input type="hidden" name="bgresponse" id="bgresponse" value="js_disabled">
+<label class="hidden-label" for="Email">Email</label>
+<input id="Email" name="Email" type="email"
+       placeholder="Email"
+       value=""
+       spellcheck="false"
+       class="">
+<label class="hidden-label" for="Passwd">Password</label>
+<input id="Passwd" name="Passwd" type="password"
+       placeholder="Password"
+       class="">
+<input id="signIn" name="signIn" class="rc-button rc-button-submit" type="submit" value="Sign in">
+  <input type="hidden" name="PersistentCookie" value="yes">
+  <a id="link-forgot-passwd" href="https://accounts.google.com/RecoverAccount?service=wise&amp;continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D2110295467%26format%3Dcsv"
+       
+       >
+  Need help?
+  </a>
+  </form>
+</div>
+<div class="one-google">
+  <p class="create-account">
+  <a id="link-signup" href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D2110295467%26format%3Dcsv&amp;ltmpl=sheets">
+  Create an account
+  </a>
+  </p>
+<p class="tagline">
+  One Google Account for everything Google
+</p>
+<img src="//ssl.gstatic.com/accounts/ui/logo_strip_2x.png" width="210" height="17" alt="">
+</div>
+  </div>
+  <div class="google-footer-bar">
+  <div class="footer content clearfix">
+  <ul id="footer-list">
+  <li>
+  Google
+  </li>
+  <li>
+  <a href="https://accounts.google.com/TOS?loc=DE&hl=en" target="_blank">
+  Privacy &amp; Terms
+  </a>
+  </li>
+  <li>
+  <a href="http://www.google.com/support/accounts?hl=en" target="_blank">
+  Help
+  </a>
+  </li>
+  </ul>
+  </div>
+</div>
+  </div>
+<script type="text/javascript">
+  var gaia_attachEvent = function(element, event, callback) {
+  if (element.addEventListener) {
+  element.addEventListener(event, callback, false);
+  } else if (element.attachEvent) {
+  element.attachEvent('on' + event, callback);
+  }
+  };
+  (function() {
+  var gaia_hideNavBar = function() {
+  setTimeout(function() {
+  window.scrollTo(0, 1);
+  }, 0);
+  };
+  gaia_attachEvent(window, 'load', gaia_hideNavBar);
+  })();
+</script>
+  <script type="text/javascript">/* Anti-spam. Want to say hello? Contact (base64) Ym90Z3VhcmQtY29udGFjdEBnb29nbGUuY29tCg== */(function(){eval('var f,k,m=true,p=null,q=false,u=this,v=void 0,aa=Array.prototype,w=function(a,b){return a<b?-1:a>b?1:0},x=function(a,b,c,d,e){c=a.split("."),d=u,c[0]in d||!d.execScript||d.execScript("var "+c[0]);for(;c.length&&(e=c.shift());)c.length||b===v?d=d[e]?d[e]:d[e]={}:d[e]=b},y=function(a,b,c){if(b=typeof a,"object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;if(c=Object.prototype.toString.call(a),"[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b};t:{var z=u.navigator;if(z){var ba=z.userAgent;if(ba){k=ba;break t}}k=""}var A="",ca=function(a){return(a=u.document)?a.documentMode:v},da=/\\b(?:MSIE|rv)[: ]([^\\);]+)(\\)|;)/.exec(k),A=da?da[1]:"",ea=ca(),fa=ea>parseFloat(A)?String(ea):A,ga={},ha=u.document,B=function(a,b,c,d,e,g,h,l,n,s,r,t){if(!(b=ga[a])){for(b=0,c=String(fa).replace(/^[\\s\\xa0]+|[\\s\\xa0]+$/g,"").split("."),d=String(a).replace(/^[\\s\\xa0]+|[\\s\\xa0]+$/g,"").split("."),e=Math.max(c.length,d.length),g=0;0==b&&g<e;g++){h=c[g]||"",l=d[g]||"",n=RegExp("(\\\\d*)(\\\\D*)","g"),s=RegExp("(\\\\d*)(\\\\D*)","g");do{if(r=n.exec(h)||["","",""],t=s.exec(l)||["","",""],0==r[0].length&&0==t[0].length)break;b=w(0==r[1].length?0:parseInt(r[1],10),0==t[1].length?0:parseInt(t[1],10))||w(0==r[2].length,0==t[2].length)||w(r[2],t[2])}while(0==b)}b=ga[a]=0<=b}return b},ia=ha?ca()||("CSS1Compat"==ha.compatMode?parseInt(fa,10):5):v,C=(B("9"),new function(){},p),D=p,F=p,G=9<=ia,ja=function(a){if(!C)for(C={},D={},F={},a=0;65>a;a++)C[a]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(a),D[C[a]]=a,F[a]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_.".charAt(a)},ka=function(a,b,c,d,e){for(a=a.replace(/\\r\\n/g,"\\n"),b=[],d=c=0;d<a.length;d++)e=a.charCodeAt(d),128>e?b[c++]=e:(2048>e?b[c++]=e>>6|192:(b[c++]=e>>12|224,b[c++]=e>>6&63|128),b[c++]=e&63|128);return b},la=!B("9"),H=(B("8"),B("9"),function(a,b){this.type=a,this.currentTarget=this.target=b,this.defaultPrevented=q}),I=(H.prototype.preventDefault=function(){this.defaultPrevented=m},function(a,b,c,d){H.call(this,a?a.type:""),this.relatedTarget=this.currentTarget=this.target=p,this.charCode=this.keyCode=this.button=this.screenY=this.screenX=this.clientY=this.clientX=this.offsetY=this.offsetX=0,this.metaKey=this.shiftKey=this.altKey=this.ctrlKey=q,this.Z=this.state=p,a&&(c=this.type=a.type,this.currentTarget=b,d=a.relatedTarget,this.target=a.target||a.srcElement,d||("mouseover"==c?d=a.fromElement:"mouseout"==c&&(d=a.toElement)),this.relatedTarget=d,this.Z=a,this.button=a.button,this.ctrlKey=a.ctrlKey,this.altKey=a.altKey,this.shiftKey=a.shiftKey,this.metaKey=a.metaKey,this.state=a.state,this.screenX=a.screenX||0,this.screenY=a.screenY||0,this.keyCode=a.keyCode||0,this.offsetX=a.offsetX!==v?a.offsetX:a.layerX,this.offsetY=a.offsetY!==v?a.offsetY:a.layerY,this.clientX=a.clientX!==v?a.clientX:a.pageX,this.clientY=a.clientY!==v?a.clientY:a.pageY,this.charCode=a.charCode||("keypress"==c?a.keyCode:0),a.defaultPrevented&&this.preventDefault())}),ma=(function(){function a(){}a.prototype=H.prototype,I.qa=H.prototype,I.prototype=new a,I.ua=function(a,c,d){return H.prototype[c].apply(a,Array.prototype.slice.call(arguments,2))}}(),I.prototype.preventDefault=function(a){if(I.qa.preventDefault.call(this),a=this.Z,a.preventDefault)a.preventDefault();else if(a.returnValue=q,la)try{if(a.ctrlKey||112<=a.keyCode&&123>=a.keyCode)a.keyCode=-1}catch(b){}},"closure_listenable_"+(1E6*Math.random()|0)),na=0,J=function(a){this.src=a,this.l={},this.N=0},oa=function(a){a.t=m,a.k=p,a.u=p,a.src=p,a.L=p},pa=function(a,b,c,d,e){this.k=a,this.u=p,this.src=b,this.type=c,this.L=e,this.X=!!d,this.key=++na,this.t=this.M=q},K=(J.prototype.add=function(a,b,c,d,e,g,h,l){g=a.toString(),a=this.l[g],a||(a=this.l[g]=[],this.N++);t:{for(h=0;h<a.length;++h)if(l=a[h],!l.t&&l.k==b&&l.X==!!d&&l.L==e)break t;h=-1}return-1<h?(b=a[h],c||(b.M=q)):(b=new pa(b,this.src,g,!!d,e),b.M=c,a.push(b)),b},"closure_lm_"+(1E6*Math.random()|0)),L={},qa=0,ra=function(a){return a=a[K],a instanceof J?a:p},sa=function(a){return a in L?L[a]:L[a]="on"+a},va=function(a,b){return a=ta,b=G?function(c){return a.call(b.src,b.k,c)}:function(c){if(c=a.call(b.src,b.k,c),!c)return c}},ta=function(a,b,c,d,e){if(a.t)return m;if(!G){if(!(c=b))t:{for(d=u,c=["window","event"];e=c.shift();)if(d[e]!=p)d=d[e];else{c=p;break t}c=d}return c=new I(c,this),d=m,d=wa(a,c)}return wa(a,new I(b,this))},M=function(a,b,c,d,e,g,h){if("array"==y(b))for(g=0;g<b.length;g++)M(a,b[g],c,d,e);else if(c=xa(c),a&&a[ma])a.ta(b,c,d,e);else{if(!b)throw Error("Invalid event type");if(g=!!d,!g||G)(h=ra(a))||(a[K]=h=new J(a)),c=h.add(b,c,q,d,e),c.u||(d=va(),c.u=d,d.src=a,d.k=c,a.addEventListener?a.addEventListener(b.toString(),d,g):a.attachEvent(sa(b.toString()),d),qa++)}},wa=function(a,b,c,d,e,g,h,l,n,s){if(c=a.k,d=a.L||a.src,a.M&&"number"!=typeof a&&a&&!a.t)if((e=a.src)&&e[ma])e.sa(a);else if(g=a.type,h=a.u,e.removeEventListener?e.removeEventListener(g,h,a.X):e.detachEvent&&e.detachEvent(sa(g),h),qa--,g=ra(e)){if(h=a.type,l=h in g.l){l=g.l[h];i:if("string"==typeof l)n="string"==typeof a&&1==a.length?l.indexOf(a,0):-1;else{for(n=0;n<l.length;n++)if(n in l&&l[n]===a)break i;n=-1}(s=0<=n)&&aa.splice.call(l,n,1),l=s}l&&(oa(a),0==g.l[h].length&&(delete g.l[h],g.N--)),0==g.N&&(g.src=p,e[K]=p)}else oa(a);return c.call(d,b)},N="__closure_events_fn_"+(1E9*Math.random()>>>0),O=function(a,b){a.p=("E:"+b.message+":"+b.stack).slice(0,2048)},ya=function(a,b){for(b=Array(a);a--;)b[a]=255*Math.random()|0;return b},P=function(a,b){return a[b]<<24|a[b+1]<<16|a[b+2]<<8|a[b+3]},za=function(a,b){a.T.push(a.c.slice()),a.c[a.b]=v,Q(a,a.b,b)},xa=function(a){if("function"==y(a))return a;return a[N]||(a[N]=function(b){return a.handleEvent(b)}),a[N]},Aa=function(a,b,c){return c=function(){return a},b=function(){return c()},b.da=function(b){a=b},b},Ca=function(a,b,c,d){return function(){if(!d||a.B)return Q(a,a.W,arguments),Q(a,a.m,c),Ba(a,b)}},R=function(a,b,c,d){for(c=[],d=b-1;0<=d;d--)c[b-1-d]=a>>8*d&255;return c},Ba=function(a,b,c,d){return c=a.a(a.b),a.f&&c<a.f.length?(Q(a,a.b,a.f.length),za(a,b)):Q(a,a.b,b),d=a.C(),Q(a,a.b,c),d},T=function(a,b,c,d){for(b={},b.J=a.a(S(a)),b.K=S(a),c=S(a)-1,d=S(a),b.self=a.a(d),b.s=[];c--;)d=S(a),b.s.push(a.a(d));return b},Da=function(a,b,c,d){try{for(d=0;84941944608!=d;)a+=(b<<4^b>>>5)+b^d+c[d&3],d+=2654435769,b+=(a<<4^a>>>5)+a^d+c[d>>>11&3];return[a>>>24,a>>16&255,a>>8&255,a&255,b>>>24,b>>16&255,b>>8&255,b&255]}catch(e){throw e;}},Q=function(a,b,c){if(b==a.b||b==a.o)a.c[b]?a.c[b].da(c):a.c[b]=Aa(c);else if(b!=a.d&&b!=a.g&&b!=a.h||!a.c[b])a.c[b]=Ea(c,a.a);b==a.A&&(a.D=v,Q(a,a.b,a.a(a.b)+4))},U=function(a,b){return b<=a.ja?b==a.h||b==a.d||b==a.g||b==a.w?a.q:b==a.W||b==a.Q||b==a.R||b==a.m?a.F:b==a.H?a.i:b==a.j||b==a.v?2:b==a.n?1:4:[1,2,4,a.q,a.F,a.i][b%a.ka]},S=function(a,b,c){if(b=a.a(a.b),!(b in a.f))throw a.e(a.ga),a.G;return a.D==v&&(a.D=P(a.f,b-4),a.I=v),a.I!=b>>3&&(a.I=b>>3,c=[0,0,0,a.a(a.A)],a.ha=Da(a.D,a.I,c)),Q(a,a.b,b+1),a.f[b]^a.ha[b%8]},Ea=function(a,b,c,d,e,g,h,l,n){return l=Z,e=Z.prototype,g=e.C,h=e.Y,n=e.e,d=function(){return c()},c=function(a,r,t){for(t=0,a=d[e.O],r=a===b,a=a&&a[e.O];a&&a!=g&&a!=h&&a!=l&&a!=n&&20>t;)t++,a=a[e.O];return c[e.pa+r+!(!a+(t>>2))]},d[e.S]=e,c[e.oa]=a,a=v,d},$=function(a,b,c,d,e,g){for(e=a.a(b),b=b==a.g?function(b,c,d,g){if(c=e.length,d=c-4>>3,e.ma!=d){e.ma=d,d=(d<<3)-4,g=[0,0,0,a.a(a.P)];try{e.la=Da(P(e,d),P(e,d+4),g)}catch(r){throw r;}}e.push(e.la[c&7]^b)}:function(a){e.push(a)},d&&b(d&255),g=0,d=c.length;g<d;g++)b(c[g])},Z=function(a,b,c,d,e,g,h,l){try{if(this.c=[],Q(this,this.b,0),Q(this,this.o,0),Q(this,this.A,0),Q(this,this.h,[]),Q(this,this.d,[]),Q(this,this.Q,"object"==typeof window?window:u),Q(this,this.R,this),Q(this,this.n,0),Q(this,this.v,0),Q(this,this.P,0),Q(this,this.g,ya(4)),Q(this,this.w,[]),Q(this,this.m,{}),Q(this,this.j,2048),this.B=m,a&&"!"==a[0])this.p=a;else{for(ja(),b=D,c=[],d=0;d<a.length;){if(e=b[a.charAt(d++)],g=d<a.length?b[a.charAt(d)]:0,++d,h=d<a.length?b[a.charAt(d)]:64,++d,l=d<a.length?b[a.charAt(d)]:64,++d,e==p||g==p||h==p||l==p)throw Error();c.push(e<<2|g>>4),64!=h&&(c.push(g<<4&240|h>>2),64!=l&&c.push(h<<6&192|l))}(this.f=c)&&this.f.length?(this.T=[],this.C()):this.e(this.ca)}}catch(n){O(this,n)}};f=Z.prototype,f.b=0,f.A=1,f.h=2,f.o=3,f.d=4,f.H=5,f.W=6,f.j=7,f.U=8,f.Q=9,f.R=10,f.n=11,f.v=12,f.P=13,f.g=14,f.w=15,f.m=16,f.ja=17,f.$=15,f.ia=12,f.aa=10,f.ba=42,f.ka=6,f.i=-1,f.q=-2,f.F=-3,f.ca=17,f.ea=21,f.r=22,f.na=30,f.ga=31,f.fa=33,f.G={},f.O="caller",f.S="toString",f.pa=34,f.oa=36,Z.prototype.a=function(a,b){if(b=this.c[a],b===v)throw this.e(this.na,0,a),this.G;return b()},Z.prototype.xa=function(a,b,c,d){d=a[(b+2)%3],a[b]=a[b]-a[(b+1)%3]-d^(1==b?d<<c:d>>>c)},Z.prototype.wa=function(a,b,c,d){if(3==a.length){for(c=0;3>c;c++)b[c]+=a[c];for(c=0,d=[13,8,13,12,16,5,3,10,15];9>c;c++)b[3](b,c%3,d[c])}},Z.prototype.ya=function(a,b){b.push(a[0]<<24|a[1]<<16|a[2]<<8|a[3]),b.push(a[4]<<24|a[5]<<16|a[6]<<8|a[7]),b.push(a[8]<<24|a[9]<<16|a[10]<<8|a[11])},Z.prototype.e=function(a,b,c,d){d=this.a(this.o),a=[a,d>>8&255,d&255],c!=v&&a.push(c),0==this.a(this.h).length&&(this.c[this.h]=v,Q(this,this.h,a)),c="",b&&(b.message&&(c+=b.message),b.stack&&(c+=":"+b.stack)),b=this.a(this.j),3<b&&(c=c.slice(0,b-3),b-=c.length+3,c=ka(c),$(this,this.g,R(c.length,2).concat(c),this.ia)),Q(this,this.j,b)},f.V=[function(){},function(a,b,c,d,e){b=S(a),c=S(a),d=a.a(b),b=U(a,b),e=U(a,c),e==a.i||e==a.q?d=""+d:0<b&&(1==b?d&=255:2==b?d&=65535:4==b&&(d&=4294967295)),Q(a,c,d)},function(a,b,c,d,e,g,h,l,n){if(b=S(a),c=U(a,b),0<c){for(d=0;c--;)d=d<<8|S(a);Q(a,b,d)}else if(c!=a.F){if(d=S(a)<<8|S(a),c==a.i)if(c="",a.c[a.H]!=v)for(e=a.a(a.H);d--;)g=e[S(a)<<8|S(a)],c+=g;else{for(c=Array(d),e=0;e<d;e++)c[e]=S(a);for(d=c,c=[],g=e=0;e<d.length;)h=d[e++],128>h?c[g++]=String.fromCharCode(h):191<h&&224>h?(l=d[e++],c[g++]=String.fromCharCode((h&31)<<6|l&63)):(l=d[e++],n=d[e++],c[g++]=String.fromCharCode((h&15)<<12|(l&63)<<6|n&63));c=c.join("")}else for(c=Array(d),e=0;e<d;e++)c[e]=S(a);Q(a,b,c)}},function(a){S(a)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),c=a.a(c),b=a.a(b),Q(a,d,b[c])},function(a,b,c){b=S(a),c=S(a),b=a.a(b),Q(a,c,y(b))},function(a,b,c,d,e){b=S(a),c=S(a),d=U(a,b),e=U(a,c),c!=a.h&&(d==a.i&&e==a.i?(a.c[c]==v&&Q(a,c,""),Q(a,c,a.a(c)+a.a(b))):e==a.q&&(0>d?(b=a.a(b),d==a.i&&(b=ka(""+b)),c!=a.d&&c!=a.g&&c!=a.w||$(a,c,R(b.length,2)),$(a,c,b)):0<d&&$(a,c,R(a.a(b),d))))},function(a,b,c){b=S(a),c=S(a),Q(a,c,function(a){return eval(a)}(a.a(b)))},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)-a.a(b))},function(a,b){b=T(a),Q(a,b.K,b.J.apply(b.self,b.s))},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)%a.a(b))},function(a,b,c,d,e){b=S(a),c=a.a(S(a)),d=a.a(S(a)),e=a.a(S(a)),b=a.a(b),M(b,c,Ca(a,d,e,m))},function(a,b,c,d){b=S(a),c=S(a),d=S(a),a.a(b)[a.a(c)]=a.a(d)},function(a,b,c,d,e){b=T(a),c=b.s,d=b.self,e=b.J;switch(c.length){case 0:c=d[e]();break;case 1:c=d[e](c[0]);break;case 2:c=d[e](c[0],c[1]);break;case 3:c=d[e](c[0],c[1],c[2]);break;default:a.e(a.r);return}Q(a,b.K,c)},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)+a.a(b))},function(a,b,c){b=S(a),c=S(a),0!=a.a(b)&&Q(a,a.b,a.a(c))},function(a,b,c,d){b=S(a),c=S(a),d=S(a),a.a(b)==a.a(c)&&Q(a,d,a.a(d)+1)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),a.a(b)>a.a(c)&&Q(a,d,a.a(d)+1)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)<<c)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)|a.a(c))},function(a,b){b=a.a(S(a)),za(a,b)},function(a,b,c,d){if(b=a.T.pop()){for(c=S(a);0<c;c--)d=S(a),b[d]=a.c[d];a.c=b}else Q(a,a.b,a.f.length)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,(a.a(b)in a.a(c))+0)},function(a,b,c,d){b=S(a),c=a.a(S(a)),d=a.a(S(a)),Q(a,b,Ca(a,c,d))},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)*a.a(b))},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)>>c)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)||a.a(c))},function(a,b,c,d,e){b=T(a),c=b.s,d=b.self,e=b.J;switch(c.length){case 0:c=new d[e];break;case 1:c=new d[e](c[0]);break;case 2:c=new d[e](c[0],c[1]);break;case 3:c=new d[e](c[0],c[1],c[2]);break;case 4:c=new d[e](c[0],c[1],c[2],c[3]);break;default:a.e(a.r);return}Q(a,b.K,c)},function(a,b,c,d,e,g){if(b=S(a),c=S(a),d=S(a),e=S(a),b=a.a(b),c=a.a(c),d=a.a(d),a=a.a(e),"object"==y(b)){for(g in e=[],b)e.push(g);b=e}for(e=0,g=b.length;e<g;e+=d)c(b.slice(e,e+d),a)}],Z.prototype.va=function(a){return(a=window.performance)&&a.now?function(){return a.now()|0}:function(){return+new Date}}(),Z.prototype.ra=function(a,b){return b=this.Y(),a&&a(b),b},Z.prototype.C=function(a,b,c,d,e,g){try{for(b=5001,c=v,d=0,a=this.f.length;--b&&(d=this.a(this.b))<a;)try{Q(this,this.o,d),e=S(this)%this.V.length,(c=this.V[e])?c(this):this.e(this.ea,0,e)}catch(h){h!=this.G&&((g=this.a(this.n))?(Q(this,g,h),Q(this,this.n,0)):this.e(this.r,h))}b||this.e(this.fa)}catch(l){try{this.e(this.r,l)}catch(n){O(this,n)}}return this.a(this.m)},Z.prototype.Y=function(a,b,c,d,e,g,h,l,n,s,r,t,V,ua,W,X,Y,E){if(this.p)return this.p;try{for(this.B=q,b=this.a(this.d).length,c=this.a(this.g).length,d=this.a(this.j),this.c[this.U]&&Ba(this,this.a(this.U)),e=this.a(this.h),0<e.length&&$(this,this.d,R(e.length,2).concat(e),this.$),g=this.a(this.v)&255,g-=this.a(this.d).length+4,h=this.a(this.g),4<h.length&&(g-=h.length+3),0<g&&$(this,this.d,R(g,2).concat(ya(g)),this.aa),4<h.length&&$(this,this.d,R(h.length,2).concat(h),this.ba),l=[3].concat(this.a(this.d)),ja(),s=[],e=0;e<l.length;e+=3)r=l[e],V=(t=e+1<l.length)?l[e+1]:0,W=(ua=e+2<l.length)?l[e+2]:0,g=r>>2,Y=W&63,h=(r&3)<<4|V>>4,X=(V&15)<<2|W>>6,ua||(Y=64,t||(X=64)),s.push(F[g],F[h],F[X],F[Y]);if(n=s=s.join("").replace(/\\./g,""))n="!"+n;else for(n="",s=0;s<l.length;s++)E=l[s][this.S](16),1==E.length&&(E="0"+E),n+=E;this.a(this.d).length=b,this.a(this.g).length=c,Q(this,this.j,d),a=n,this.B=m}catch(Fa){O(this,Fa),a=this.p}return a};try{M(window,"unload",function(){})}catch(Ga){}x("botguard.bg",Z),x("botguard.bg.prototype.invoke",Z.prototype.ra);')})()</script>
+  <script type="text/javascript">
+  document.bg = new botguard.bg('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');
+  </script>
+<script>
+  function gaia_parseFragment() {
+  var hash = location.hash;
+  var params = {};
+  if (!hash) {
+  return params;
+  }
+  var paramStrs = decodeURIComponent(hash.substring(1)).split('&');
+  for (var i = 0; i < paramStrs.length; i++) {
+      var param = paramStrs[i].split('=');
+      params[param[0]] = param[1];
+    }
+    return params;
+  }
+
+  function gaia_prefillEmail() {
+    var form = null;
+    if (document.getElementById) {
+      form = document.getElementById('gaia_loginform');
+    }
+
+    if (form && form.Email &&
+        (form.Email.value == null || form.Email.value == '')
+        && (form.Email.type != 'hidden')) {
+      hashParams = gaia_parseFragment();
+      if (hashParams['Email'] && hashParams['Email'] != '') {
+        form.Email.value = hashParams['Email'];
+      }
+    }
+  }
+
+  
+  try {
+    gaia_prefillEmail();
+  } catch (e) {
+  }
+  
+</script>
+<script>
+  function gaia_setFocus() {
+  var form = null;
+  var isFocusableField = function(inputElement) {
+  if (!inputElement) {
+  return false;
+  }
+  if (inputElement.type != 'hidden' && inputElement.focus &&
+  inputElement.style.display != 'none') {
+  return true;
+  }
+  return false;
+  };
+  var isFocusableErrorField = function(inputElement) {
+  if (!inputElement) {
+  return false;
+  }
+  var hasError = inputElement.className.indexOf('form-error') > -1;
+  if (hasError && isFocusableField(inputElement)) {
+  return true;
+  }
+  return false;
+  };
+  var isFocusableEmptyField = function(inputElement) {
+  if (!inputElement) {
+  return false;
+  }
+  var isEmpty = inputElement.value == null || inputElement.value == '';
+  if (isEmpty && isFocusableField(inputElement)) {
+  return true;
+  }
+  return false;
+  };
+  if (document.getElementById) {
+  form = document.getElementById('gaia_loginform');
+  }
+  if (form) {
+  var userAgent = navigator.userAgent.toLowerCase();
+  var formFields = form.getElementsByTagName('input');
+  for (var i = 0; i < formFields.length; i++) {
+        var currentField = formFields[i];
+        if (isFocusableErrorField(currentField)) {
+          currentField.focus();
+          
+          var currentValue = currentField.value;
+          currentField.value = '';
+          currentField.value = currentValue;
+          return;
+        }
+      }
+      
+      
+      
+        for (var j = 0; j < formFields.length; j++) {
+          var currentField = formFields[j];
+          if (isFocusableEmptyField(currentField)) {
+            currentField.focus();
+            return;
+          }
+        }
+      
+    }
+  }
+
+  
+  
+  
+</script>
+<script>
+  var gaia_scrollToElement = function(element) {
+  var calculateOffsetHeight = function(element) {
+  var curtop = 0;
+  if (element.offsetParent) {
+  while (element) {
+  curtop += element.offsetTop;
+  element = element.offsetParent;
+  }
+  }
+  return curtop;
+  }
+  var siginOffsetHeight = calculateOffsetHeight(element);
+  var scrollHeight = siginOffsetHeight - window.innerHeight +
+  element.clientHeight + 0.02 * window.innerHeight;
+  window.scroll(0, scrollHeight);
+  }
+</script>
+<script>
+  (function(){
+  var signinInput = document.getElementById('signIn');
+  gaia_onLoginSubmit = function() {
+  try {
+  document.bg.invoke(function(response) {
+  document.getElementById('bgresponse').value = response;
+  });
+  } catch (err) {
+  document.getElementById('bgresponse').value = '';
+  }
+  return true;
+  }
+  document.getElementById('gaia_loginform').onsubmit = gaia_onLoginSubmit;
+  var signinButton = document.getElementById('signIn');
+  gaia_attachEvent(window, 'load', function(){
+  gaia_scrollToElement(signinButton);
+  });
+  })();
+</script>
+  <script>var e=this,g=function(c,b){var a=c.split("."),d=e;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var f;a.length&&(f=a.shift());)a.length||void 0===b?d[f]?d=d[f]:d=d[f]={}:d[f]=b};var h=function(){try{return new XMLHttpRequest}catch(c){for(var b=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"],a=0;a<b.length;a++)try{return new ActiveXObject(b[a])}catch(d){}}return null};g("gaia.ajax.newXmlHttpRequest",h);var k=function(){this.b=h();this.parameters={}};g("gaia.ajax.XmlHttpFormRequest",k);k.prototype.a=function(){};k.prototype.oncomplete=k.prototype.a;
+k.prototype.send=function(c){var b=[],a;for(a in this.parameters)b.push(a+"="+encodeURIComponent(this.parameters[a]));var b=b.join("&"),d=this.b,f=this.a;d.open("POST",c,!0);d.setRequestHeader("Content-type","application/x-www-form-urlencoded");d.onreadystatechange=function(){4==d.readyState&&f({status:d.status,text:d.responseText})};d.send(b)};k.prototype.send=k.prototype.send;
+k.prototype.d=function(c,b){var a=this.b,d=this.a;a.open("POST",c,!0);a.setRequestHeader("Content-type","application/json");a.onreadystatechange=function(){4==a.readyState&&d({status:a.status,text:a.responseText})};a.send(b)};k.prototype.sendJson=k.prototype.d;k.prototype.c=function(c){var b=this.a,a=this.b;a.open("GET",c,!0);a.onreadystatechange=function(){4==a.readyState&&b({status:a.status,text:a.responseText})};a.send()};k.prototype.get=k.prototype.c;var l=/\s*;\s*/,m=function(){if(!document.cookie)return"";for(var c=document.cookie.split(l),b=0;b<c.length;b++){var a=c[b],a=a.replace(/^\s+/,""),a=a.replace(/\s+$/,"");if(0==a.indexOf("APISID="))return a.substr(7)}return""};var n=null,p=function(c,b){this.d=c;this.c=b;this.b=m()},q=function(){var c=n,b=m();b!=c.b&&(c.b=b,b=new k,b.a=function(a){var b=n;a&&a.status&&200==a.status&&"OK"==a.text&&(b.a&&clearInterval(b.a),window.location=b.d)},b.c(c.c))},r=function(c){var b=n;if(b.a)return!1;b.a=setInterval(function(){q()},c);return!0};g("gaia.loginAutoRedirect.start",function(c,b,a){if(n||!a||!b||0>=c)return!1;n=new p(b,a);return r(c)});
+</script>
+  <script type="text/javascript">
+  gaia.loginAutoRedirect.start(5000,
+  'https:\x2F\x2Faccounts.google.com\x2FServiceLogin?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D2110295467%26format%3Dcsv\x26followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D2110295467%26format%3Dcsv\x26service=wise\x26ltmpl=sheets\x26passive=1209600\x26noautologin=true',
+  'https:\x2F\x2Faccounts.google.com\x2FPassiveLoginProber?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D2110295467%26format%3Dcsv\x26followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D2110295467%26format%3Dcsv\x26service=wise\x26ltmpl=sheets\x26passive=1209600');
+  </script>
+  </body>
+</html>

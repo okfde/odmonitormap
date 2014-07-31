@@ -1,205 +1,1168 @@
-Quelle,Stadt,URL PARENT,Dateibezeichnung,URL Datei,Format,Beschreibung,Zeitlicher Bezug,Lizenz,Kosten,Veröffentlichende Stelle,Arbeitsmarkt,Bevölkerung,Bildung und Wissenschaft,Haushalt und Steuern,Stadtentwicklung und Bebauung,Wohnen und Immobilien,Sozialleistungen,Öffentl. Sicherheit,Gesundheit,Kunst und Kultur,Land- und Forstwirtschaft,Sport und Freizeit,Umwelt,Transport und Verkehr,"Energie, Ver- und Entsorgung",Politik und Wahlen,Gesetze und Justiz,Wirtschaft und Wirtschaftsförderung,Tourismus,Verbraucher,Sonstiges,Noch nicht kategorisiert,keyword,URL Text,Dateityp,URL_Dateiname,geo
-m,stuttgart.de,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=13918,Lage und Größe der Landeshauptstadt Stuttgart,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=13918&showpublic=7552_1_Lage_und_Groesze_der_Landeshauptstadt_Stuttgart.XLS,xls,,,nicht bekannt,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=14909,Wahlen - Datenpaket,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=14909&showpublic=7741_Wahlen___Datenpaket.zip,zip,,,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
-m,stuttgart.de,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=13681,Ergebnisse der Bundestagswahlen seit 1949,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=13681&showpublic=470_1_Ergebnisse_der_Bundestagswahlen_seit_1949.XLS,xls,,,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
-m,stuttgart.de,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=13682,Ergebnisse der Europawahlen in Stuttgart seit 1979,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=13682&showpublic=472_1_Ergebnisse_der_Europawahlen_in_Stuttgart_seit_1979.XLS,xls,,,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
-m,stuttgart.de,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=13735,Ergebnisse der Gemeinderatswahlen in Stuttgart seit 1946,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=13735&showpublic=978_1_Ergebnisse_der_Gemeinderatswahlen_in_Stuttgart_seit_1946.XLS,xls,,,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
-m,stuttgart.de,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=18873,Ergebnisse der Regionalwahlen in Stuttgart seit 1994,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=18873&showpublic=8760_1_Ergebnisse_der_Regionalwahlen_in_Stuttgart_seit_1994.XLS,xls,,,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
-m,stuttgart.de,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=13451,Ergebnisse der Regionalwahl nach Wahlkreisen,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=13451&showpublic=980_1_Ergebnisse_der_Regionalwahl_nach_Wahlkreisen.XLS,xls,,,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
-m,stuttgart.de,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=13680,Ergebnisse der Landtagswahlen in Stuttgart seit 1952,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=13680&showpublic=468_1_Ergebnisse_der_Landtagswahlen_in_Stuttgart_seit_1952.XLS,xls,,,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
-m,stuttgart.de,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=13693,Ergebnisse der Oberbürgermeisterwahlen in Stuttgart seit 1948,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=13693&showpublic=500_1_Ergebnisse_der_Oberbuergermeisterwahlen_in_Stuttgart_seit_1948.XLS,xls,,,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
-m,stuttgart.de,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=13736,Sitzverteilung im Gemeinderat in Stuttgart seit 1946,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=13736&showpublic=979_1_Sitzverteilung_im_Gemeinderat_in_Stuttgart_seit_1946.XLS,xls,,,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
-m,stuttgart.de,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=23907,Sitzverteilung in den Stuttgarter Bezirksbeiräten 2009 und 2004,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=23907&showpublic=7612_2_Sitzverteilung_in_den_Stuttgarter_Bezirksbeiraeten_2009_und_2004.XLS,xls,,,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
-m,stuttgart.de,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=13452,Sitzverteilung in der Regionalversammlung nach Wahlkreisen,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=13452&showpublic=981_1_Sitzverteilung_in_der_Regionalversammlung_nach_Wahlkreisen.XLS,xls,,,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
-m,stuttgart.de,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=15230,Stuttgarter Zahlenspiegel 1995 bis 2013,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=15230&showpublic=7764_1_Stuttgarter_Zahlenspiegel_1995_bis_2013.XLS,xls,,,nicht bekannt,,,x,x,,x,x,x,x,x,,x,,x,x,x,,,,x,x,,,,,,,,
-m,stuttgart.de,,Feinstaubbelastungen in Stuttgart an Silvester 1998 - 2008,http://www.stadtklima-stuttgart.de/stadtklima_filestorage/download/SZ-PM10-Silvester-1998-2008.xls,xls,,,nicht bekannt,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
-m,stuttgart.de,"http://www.stadtklima-stuttgart.de/index.php?id=992,127,0,0,1,0",Grafiken-Klimaelemente-1951-1980,http://www.stadtklima-stuttgart.de/stadtklima_filestorage/download/Grafiken-Klimaelemente-1951-1980.xls,xls,,,nicht bekannt,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
-m,stuttgart.de,"http://www.stadtklima-stuttgart.de/index.php?id=1010,1120,0,0,1,0",S-Mitte-SZ-Jahres-Werte-1987-2013,http://www.stadtklima-stuttgart.de/stadtklima_filestorage/download/luft/S-Mitte-SZ-Jahres-Werte-1987-2013.zip,"zip, xls",,,nicht bekannt,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
-m,stuttgart.de,"http://www.stadtklima-stuttgart.de/index.php?id=1010,1120,0,0,1,0",S-Mitte-SZ-Monats-Werte-1987-2013,http://www.stadtklima-stuttgart.de/stadtklima_filestorage/download/luft/S-Mitte-SZ-Monats-Werte-1987-2013.zip,"zip, xls",,,nicht bekannt,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
-m,stuttgart.de,"http://www.stadtklima-stuttgart.de/index.php?id=1010,1120,0,0,1,0",S-Mitte-SZ-Monats-Werte-2013,http://www.stadtklima-stuttgart.de/stadtklima_filestorage/download/luft/S-Mitte-SZ-Monats-Werte-2013.zip,"zip, xls",,,nicht bekannt,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
-m,stuttgart.de,"http://www.stadtklima-stuttgart.de/index.php?id=1010,1120,0,0,1,0",S-Mitte-SZ-Monats-Werte-2014,http://www.stadtklima-stuttgart.de/stadtklima_filestorage/download/luft/S-Mitte-SZ-Monats-Werte-2014.zip,"zip, xls",,,nicht bekannt,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
-m,stuttgart.de,"http://www.stadtklima-stuttgart.de/index.php?id=1010,1120,0,0,1,0",S-Mitte-SZ-Tages-Werte-2000-2013,http://www.stadtklima-stuttgart.de/stadtklima_filestorage/download/luft/S-Mitte-SZ-Tages-Werte-2000-2013.zip,"zip, xls",,,nicht bekannt,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
-m,stuttgart.de,"http://www.stadtklima-stuttgart.de/index.php?id=1010,1120,0,0,1,0",S-Mitte-SZ-Tages-Werte-2013,http://www.stadtklima-stuttgart.de/stadtklima_filestorage/download/luft/S-Mitte-SZ-Tages-Werte-2013.zip,"zip, xls",,,nicht bekannt,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
-m,stuttgart.de,"http://www.stadtklima-stuttgart.de/index.php?id=1010,1120,0,0,1,0",S-Mitte-SZ-Tages-Werte-2014,http://www.stadtklima-stuttgart.de/stadtklima_filestorage/download/luft/S-Mitte-SZ-Tages-Werte-2014.zip,"zip, xls",,,nicht bekannt,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
-m,stuttgart.de,"http://www.stadtklima-stuttgart.de/index.php?id=1010,1120,0,0,1,0",S-Mitte-SZ-Halbstd-Werte-1987-2013,http://www.stadtklima-stuttgart.de/stadtklima_filestorage/download/luft/S-Mitte-SZ-Halbstd-Werte-1987-2013.zip,"zip, xls",,,nicht bekannt,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
-m,stuttgart.de,"http://www.stadtklima-stuttgart.de/index.php?id=1010,1120,0,0,1,0",S-Mitte-SZ-Halbstd-Werte-2013,http://www.stadtklima-stuttgart.de/stadtklima_filestorage/download/luft/S-Mitte-SZ-Halbstd-Werte-2013.zip,"zip, xls",,,nicht bekannt,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
-m,stuttgart.de,"http://www.stadtklima-stuttgart.de/index.php?id=1010,1120,0,0,1,0",S-Mitte-SZ-Halbstd-Werte-2014,http://www.stadtklima-stuttgart.de/stadtklima_filestorage/download/luft/S-Mitte-SZ-Halbstd-Werte-2014.zip,"zip, xls",,,nicht bekannt,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Liegenschaftskataster NAS,http://www.stuttgart.de/img/mdb/item/492022/88172.zip,"zip, xml",Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Liegenschaftskataster XML Schemadefinitionen,http://www.stuttgart.de/img/mdb/item/492022/88171.zip,"zip, xml",Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,"Freizeitkarte PNG, JPG",http://www.stuttgart.de/img/mdb/item/492022/88195.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Freizeitkarte EPS,http://www.stuttgart.de/img/mdb/item/492022/88194.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,"Fahrradkarte PNG, JPG",http://www.stuttgart.de/img/mdb/item/492022/88191.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Fahrradkarte EPS,http://www.stuttgart.de/img/mdb/item/492022/88190.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Luftbilder 2013 JPG,http://www.stuttgart.de/img/mdb/item/492022/93646.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Luftbilder 2011 JPG,http://www.stuttgart.de/img/mdb/item/492022/88226.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,"Stadtplan PNG, JPG",http://www.stuttgart.de/img/mdb/item/492022/88225.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Stadtplan EPS,http://www.stuttgart.de/img/mdb/item/492022/88224.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Stadtplan EPS farbreduziert,http://www.stuttgart.de/img/mdb/item/492022/88223.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Stadtkarte DXF,http://www.stuttgart.de/img/mdb/item/492022/88222.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Stadtkarte SHAPE,http://www.stuttgart.de/img/mdb/item/492022/88221.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Stuttgart 3D DXF,http://www.stuttgart.de/img/mdb/item/492022/88234.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Stuttgart 3D CityGML,http://www.stuttgart.de/img/mdb/item/492022/88235.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Stuttgart 3D VRML,http://www.stuttgart.de/img/mdb/item/492022/88233.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Stuttgart 3D WebGL,http://www.stuttgart.de/img/mdb/item/492022/88232.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Stuttgart 3D SHAPE,http://www.stuttgart.de/img/mdb/item/492022/88231.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Stuttgart 3D KML/KMZ,http://www.stuttgart.de/img/mdb/item/492022/88230.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,DGM DXF,http://www.stuttgart.de/img/mdb/item/492022/88228.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,DGM WebGL,http://www.stuttgart.de/img/mdb/item/492022/88227.zip,zip,Testdaten,,http://www.stuttgart.de/item/show/500756,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Übersichtskarte Region Stuttgart,http://www.stuttgart.de/img/mdb/item/492022/94132.zip,zip,Übersichtskarte,,nicht bekannt,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Historischer Stadtplan Stuttgart 1914,http://www.stuttgart.de/img/mdb/item/492022/94133.zip,zip,Historischer Stadtplan,,nicht bekannt,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Stadtbezirke und Stadtteile DXF,http://www.stuttgart.de/img/mdb/item/492022/93638.zip,zip,Stadtbezirke & Stadtteile,,nicht bekannt,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-m,stuttgart.de,http://statistik.stuttgart.de/item/show/492022,Stadtbezirke und Stadtteile SHAPE,http://www.stuttgart.de/img/mdb/item/492022/93639.zip,zip,Stadtbezirke & Stadtteile,,nicht bekannt,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
-c,stuttgart.de,http://www.stuttgart.de/item/show/501695/1,Landtagswahl 2011 - Download Wahldaten - Stadt Stuttgart,http://www.stuttgart.de/publication/showpublic/22296/url/9752_1_Wahlergebnis_der_Landtagswahl_2011.XLS,XLS,Wahlergebnisse der Landtagswahl 2011,2011,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,XLS,Daten,9752_1_Wahlergebnis_der_Landtagswahl_2011.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/501695/1,Landtagswahl 2011 - Download Wahldaten - Stadt Stuttgart,http://www.stuttgart.de/publication/showpublic/22289/url/9753_1_Wahlergebnis_der_Landtagswahl_2011.CSV,CSV,Wahlergebnisse der Landtagswahl 2011,2011,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,CSV,Daten,9753_1_Wahlergebnis_der_Landtagswahl_2011.CSV,
-c,stuttgart.de,http://www.stuttgart.de/item/show/501695/1,Landtagswahl 2011 - Download Wahldaten - Stadt Stuttgart,http://www.stuttgart.de/publication/showpublic/22315/url/9758_1_Allgemeine_Abstimmungsbezirke_bei_der_Landtagswahl_2011___Arc_Gis_Shapes.ZIP,ZIP,Wahlergebnisse der Landtagswahl 2011,2011,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,Arc Gis Shapefile,Daten,9758_1_Allgemeine_Abstimmungsbezirke_bei_der_Landtagswahl_2011___Arc_Gis_Shapes.ZIP,
-c,stuttgart.de,http://www.stuttgart.de/item/show/501695/1,Landtagswahl 2011 - Download Wahldaten - Stadt Stuttgart,http://www.stuttgart.de/publication/showpublic/22317/url/9759_1_Briefwahlbezirke_bei_der_Landtagswahl_2011___Arc_Gis_Shapes.ZIP,ZIP,Wahlergebnisse der Landtagswahl 2011,2011,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,Arc Gis Shapefile,Daten,9759_1_Briefwahlbezirke_bei_der_Landtagswahl_2011___Arc_Gis_Shapes.ZIP,
-c,stuttgart.de,http://www.stuttgart.de/item/show/501695/1,Landtagswahl 2011 - Download Wahldaten - Stadt Stuttgart,http://www.stuttgart.de/publication/showpublic/22316/url/9760_1_Wahlkreise_bei_der_Landtagswahl_2011___Arc_Gis_Shapes.ZIP,ZIP,Wahlergebnisse der Landtagswahl 2011,2011,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,Arc Gis Shapefile,Daten,9760_1_Wahlkreise_bei_der_Landtagswahl_2011___Arc_Gis_Shapes.ZIP,
-c,stuttgart.de,http://www.stuttgart.de/item/show/501657/1,Landtagswahl 2006 - Download Wahldaten - Stadt Stuttgart,http://www.stuttgart.de/publication/showpublic/22308/url/9741_1_Wahlergebnis_bei_der_Landtagswahl_2006.XLS,XLS,Wahlergebnisse der Landtagswahlen 2006,2006,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,XLS,Daten,9741_1_Wahlergebnis_bei_der_Landtagswahl_2006.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/501657/1,Landtagswahl 2006 - Download Wahldaten - Stadt Stuttgart,http://www.stuttgart.de/publication/showpublic/22298/url/9742_1_Wahlergebnis_bei_der_Landtagswahl_2006.CSV,CSV,Wahlergebnisse der Landtagswahlen 2006,2006,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,CSV,Daten,9742_1_Wahlergebnis_bei_der_Landtagswahl_2006.CSV,
-c,stuttgart.de,http://www.stuttgart.de/item/show/501657/1,Landtagswahl 2006 - Download Wahldaten - Stadt Stuttgart,http://www.stuttgart.de/publication/showpublic/22314/url/9746_1_Allgemeine_Abstimmungsbezirke_bei_der_Landtagswahl_2006___Arc_Gis_Shapes.ZIP,ZIP,Wahlergebnisse der Landtagswahlen 2006,2006,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,Arc Gis Shapefile,Daten,9746_1_Allgemeine_Abstimmungsbezirke_bei_der_Landtagswahl_2006___Arc_Gis_Shapes.ZIP,
-c,stuttgart.de,http://www.stuttgart.de/item/show/501657/1,Landtagswahl 2006 - Download Wahldaten - Stadt Stuttgart,http://www.stuttgart.de/publication/showpublic/22313/url/9747_1_Allgemeine_Briefwahlbezirke_bei_der_Landtagswahl_2006___Arc_Gis_Shapes.ZIP,ZIP,Wahlergebnisse der Landtagswahlen 2006,2006,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,Arc Gis Shapefile,Daten,9747_1_Allgemeine_Briefwahlbezirke_bei_der_Landtagswahl_2006___Arc_Gis_Shapes.ZIP,
-c,stuttgart.de,http://www.stuttgart.de/item/show/501657/1,Landtagswahl 2006 - Download Wahldaten - Stadt Stuttgart,http://www.stuttgart.de/publication/showpublic/22312/url/9748_1_Wahlkreise_bei_der_Landtagswahl_2006___Arc_Gis_Shapes.ZIP,ZIP,Wahlergebnisse der Landtagswahlen 2006,2006,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,Arc Gis Shapefile,Daten,9748_1_Wahlkreise_bei_der_Landtagswahl_2006___Arc_Gis_Shapes.ZIP,
-c,stuttgart.de,http://www.stuttgart.de/item/show/18455/1/publ/13491,Flächennutzung und Indikatoren zur Siedlungsstruktur im regionalen Vergleich seit 2000 - Stadt Stuttgart,/publication/showpreview/13491/url/7372_1_Fllaechennutzung_und_Siedlungsstruktur_im_regionalen_Vergleich.XLS,XLS,Fllächennutzung und Siedlungsstruktur im regionalen Vergleich,,,"4,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,7372_1_Fllaechennutzung_und_Siedlungsstruktur_im_regionalen_Vergleich.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/18442/1/publ/13399,Anteile der Flächennutzungsarten an der Bodenfläche in Stuttgart seit 1995 nach Stadtbezirken - Stadt Stuttgart,/publication/showpreview/13399/url/3651_1_Anteile_der_Flaechennutzungsarten_nach_Stadtbezirken.XLS,XLS,Anteile der Flächennutzungsarten nach Stadtbezirken,,,"4,00",,,,,,x,,,,,,x,,,,,,,,,,,,,,Daten,3651_1_Anteile_der_Flaechennutzungsarten_nach_Stadtbezirken.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13527,Geburten und Sterbefälle seit 1996 nach Staatsangehörigkeit - Monatsdaten - Stadt Stuttgart,/publication/showpreview/13527/url/794_1_Geburten_und_Sterbefaelle___Monatsdaten.XLS,XLS,Geburten und Sterbefälle seit 1996 nach Staatsangehörigkeit - Monatsdaten,1996-2014,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,794_1_Geburten_und_Sterbefaelle___Monatsdaten.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13723,Natürliche Bevölkerungsbewegung in Stuttgart seit 1950 - Stadt Stuttgart,/publication/showpreview/13723/url/907_1_Geburten_und_Sterbefaelle.XLS,XLS,Natürliche Bevölkerungsbewegung in Stuttgart seit 1950,1950-2013,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,907_1_Geburten_und_Sterbefaelle.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13430,Einwohnerbilanz in Stuttgart seit 2007 nach Stadtbezirken - Stadt Stuttgart,/publication/showpreview/13430/url/139_1_Einwohnerbilanz_nach_Stadtbezirken.XLS,XLS,Einwohnerbilanz in Stuttgart seit 2007 nach Stadtbezirken,2007-2013,,"4,00",,,x,,,x,,,,,,,,,,,,,,,,,,,,Daten,139_1_Einwohnerbilanz_nach_Stadtbezirken.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/148492/1/publ/13734,Museen und museumsähnliche Einrichtungen in Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/13734/url/955_1_Museen_und_museumsaehnliche_Einrichtungen_in_Stuttgart_seit_1980.XLS,XLS,Museen und museumsähnliche Einrichtungen in Stuttgart seit 1980,1980-2013,,"2,00",,,,,,,,,,,x,,,,,,,,,,,,,,,Daten,955_1_Museen_und_museumsaehnliche_Einrichtungen_in_Stuttgart_seit_1980.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13690,Straßennetz in Stuttgart seit 1980 nach Art und Länge - Stadt Stuttgart,/publication/showpreview/13690/url/495_1_Straszennetz_in_Stuttgart_seit_1980_nach_Art_und_Laenge.XLS,XLS,Straßennetz in Stuttgart seit 1980 nach Art und Länge,1980-2012,,"2,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,495_1_Straszennetz_in_Stuttgart_seit_1980_nach_Art_und_Laenge.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13747, ,/publication/showpreview/13747/url/1789_1_Kulturhaushalt_der_Stadt_Stuttgart_seit_1981.XLS,XLS,Kulturhaushalt der Stadt Stuttgart seit 1981,1981-2011,,"2,00",,,,,,,,,,,x,,,,,,,,,,,,,,,Daten,1789_1_Kulturhaushalt_der_Stadt_Stuttgart_seit_1981.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13743,Privatheater in Stuttgart mit eigenem Ensemble seit 1980 - Stadt Stuttgart,/publication/showpreview/13743/url/1785_1_Privatheater_in_Stuttgart_mit_eigenem_Ensemble_seit_1980.XLS,XLS,Privatheater in Stuttgart mit eigenem Ensemble seit 1980,1980-2012,,"2,00",,,,,,,,,,,x,,,,,,,,,,,,,,,Daten,1785_1_Privatheater_in_Stuttgart_mit_eigenem_Ensemble_seit_1980.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13541,"Zuschüsse, Eigeneinnahmen und Ausgaben der Volkshochschule Stuttgart seit 1980 - Stadt Stuttgart",/publication/showpreview/13541/url/1820_1_Volkshochschule___Zuschuesse__Eigeneinnahmen_und_Ausgaben.XLS,XLS,"Zuschüsse, Eigeneinnahmen und Ausgaben der Volkshochschule Stuttgart seit 1980",1980-2012,,"2,00",,,,x,,,,,,,,,,,,,,,,,,,,,,Daten,1820_1_Volkshochschule___Zuschuesse__Eigeneinnahmen_und_Ausgaben.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13744,Stuttgarter Orchester seit 1980 - Stadt Stuttgart,/publication/showpreview/13744/url/1786_1_Stuttgarter_Orchester_seit_1980.XLS,XLS,Stuttgarter Orchester seit 1980,1980-2012,,"2,00",,,,,,,,,,,x,,,,,,,,,,,,,,,Daten,1786_1_Stuttgarter_Orchester_seit_1980.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13742,"Personal, Einnahmen, Ausgaben, Zuschüsse und Zuweisungen an das Staatstheater Stuttgart seit 1980 - Stadt Stuttgart",/publication/showpreview/13742/url/1784_1_Staatstheater_nach_Personal__Einnahmen__Ausgaben__Zuschuessen.XLS,XLS,"Personal, Einnahmen, Ausgaben, Zuschüsse und Zuweisungen an das Staatstheater Stuttgart seit 1980",1980-2012,,"2,00",,,,,,,,,,,x,,,,,,,,,,,,,,,Daten,1784_1_Staatstheater_nach_Personal__Einnahmen__Ausgaben__Zuschuessen.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13453,Bevölkerungsbestand und Bevölkerungsbewegungen im Großstadtvergleich seit 1995 (Amtliche Bevölkerungsfortschreibung) - Stadt Stuttgart,/publication/showpreview/13453/url/1520_1_Bevoelkerung__Bewegungen_in_Groszstaedten___amtliche_Fortschreibung.XLS,XLS,Bevölkerungsbestand und Bevölkerungsbewegungen im Großstadtvergleich seit 1995 ,1995-2011,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,1520_1_Bevoelkerung__Bewegungen_in_Groszstaedten___amtliche_Fortschreibung.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13648,Einwohnerbilanz in Stuttgart seit 1950 - Stadt Stuttgart,/publication/showpreview/13648/url/142_1_Einwohnerbilanz.XLS,XLS,Einwohnerbilanz in Stuttgart seit 1950,1950-2013,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,142_1_Einwohnerbilanz.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13354,Bevölkerungsbestand und Bevölkerungsbewegungen der ausländischen Bevölkerung in ausgewählten Großstädten seit 1995 (Amtliche Bevölkerungsfortschreibung) - Stadt Stuttgart,/publication/showpreview/13354/url/1521_1_Bevoelkerung_und_Bevoelkerungsbewegungen_der_Auslaender_in_Groszstaedten___amtliche_Fortschreibung.XLS,XLS,Bevölkerungsbestand und Bevölkerungsbewegungen der ausländischen Bevölkerung in ausgewählten Großstädten seit 1995,1995-2011,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,1521_1_Bevoelkerung_und_Bevoelkerungsbewegungen_der_Auslaender_in_Groszstaedten___amtliche_Fortschreibung.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/15230,Stuttgarter Zahlenspiegel 1995 bis 2013 - Stadt Stuttgart,/publication/showpublic/15230/url/7764_1_Stuttgarter_Zahlenspiegel_1995_bis_2013.XLS,XLS,Stuttgarter Zahlenspiegel 1995 bis 2013,1995-2013,,"3,00-4,00",,,,,,,,,,,,,,,,,,,,,,x,,,,Daten,7764_1_Stuttgarter_Zahlenspiegel_1995_bis_2013.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/133894,Vergangene Landtagswahlen - Stadt Stuttgart,https://service.stuttgart.de/lhs-services/komunis/?objecttype=publ&id=13516&showpublic=469_1.XLS,XLS,Ergebnisse der Landtagswahlen seit 1952 in Stuttgart ,1952-2006,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,Abgeordnete,Daten,?objecttype=publ&id=13516&showpublic=469_1.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13516,Gewählte Stuttgarter Abgeordnete für den Landtag von Baden-Württemberg seit 1952 - Stadt Stuttgart,/publication/showpublic/13516/url/469_1_Landtag___gewaehlte_Stuttgarter_Abgeordnete.XLS,XLS,Gewählte Stuttgarter Abgeordnete für den Landtag von Baden-Württemberg seit 1952,1952-2011,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,Daten,469_1_Landtag___gewaehlte_Stuttgarter_Abgeordnete.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13795,,/publication/showpreview/13795/url/3433_1_Landwirtschaftliche_Betriebe_nach_Hauptkulturarten.XLS,XLS,Landwirtschaftliche Betriebe in Stuttgart seit 1991 nach Hauptkulturarten,1991-2010,,"2,00",,,,,,,,,,,,x,,,,,,,,,,,,,,Daten,3433_1_Landwirtschaftliche_Betriebe_nach_Hauptkulturarten.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/18036,Aktuelle Pressemeldungen - Stadt Stuttgart,/publication/showpublic/18036/url/8525_Aktuelle_Pressemeldungen.zip,ZIP,"Aktuelle Pressemeldungen, Mai 2014",2014,nicht bekannt,,,,,,,,,,,,,,,,,,,,,,,x,,,,Daten,8525_Aktuelle_Pressemeldungen.zip,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13826,"Baufertigstellungen von Baumaßnahmen an bestehenden Wohngebäuden, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1987 - Stadt Stuttgart",/publication/showpreview/13826/url/7376_1_Baufertigstellungen_von_Baumasznahmen_an_bestehenden_Gebaeuden.XLS,XLS,"Baufertigstellungen von Baumaßnahmen an bestehenden Wohngebäuden, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1987",1987-2013,,"2,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,7376_1_Baufertigstellungen_von_Baumasznahmen_an_bestehenden_Gebaeuden.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13437,Baufertigstellungen neu errichteter Wohngebäude nach der Anzahl der Wohnungen und Wohnheime (Gebäudegröße) in Stuttgart seit 1995 nach Stadtbezirken - Stadt Stuttgart,/publication/showpreview/13437/url/255_1_Baufertigstellungen_neuer_Wohngebaeude_nach_Stadtbezirken.XLS,XLS,Baufertigstellungen neu errichteter Wohngebäude nach der Anzahl der Wohnungen und Wohnheime (Gebäudegröße) in Stuttgart seit 1995 nach Stadtbezirken,1995-2013,,"4,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,255_1_Baufertigstellungen_neuer_Wohngebaeude_nach_Stadtbezirken.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13748,Baufertigstellungen neu errichteter Gebäude in Stuttgart seit 1995 nach Bauherren und Gebäudearten - Stadt Stuttgart,/publication/showpreview/13748/url/1792_1_Baufertigstellungen_neuer_Gebaeude.XLS,XLS,Baufertigstellungen neu errichteter Gebäude in Stuttgart seit 1995 nach Bauherren und Gebäudearten,1995-2013,,"4,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,1792_1_Baufertigstellungen_neuer_Gebaeude.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13460,"Baufertigstellungen von Wohnungen in neu errichteten Wohngebäuden, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1995 nach Stadtbezirken - Stadt Stuttgart",/publication/showpreview/13460/url/1796_1_Baufertigstellungen_neuer_Gebaeude_nach_Stadtbezirken.XLS,XLS,"Baufertigstellungen von Wohnungen in neu errichteten Wohngebäuden, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1995 nach Stadtbezirken",1995-2013,,"4,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,1796_1_Baufertigstellungen_neuer_Gebaeude_nach_Stadtbezirken.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13665,Baufertigstellungen neu errichteter Wohngebäude nach Anzahl der Wohnungen und Wohnheime (Gebäudegröße) in Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/13665/url/199_1_Baufertigstellungen_neuer_Wohngebaeude.XLS,XLS,Baufertigstellungen neu errichteter Wohngebäude nach Anzahl der Wohnungen und Wohnheime (Gebäudegröße) in Stuttgart seit 1980,1980-2013,,"2,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,199_1_Baufertigstellungen_neuer_Wohngebaeude.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13503,Eheschließungen in Stuttgart seit 1980 nach Monaten - Stadt Stuttgart,/publication/showpreview/13503/url/128_1_Eheschlieszungen_nach_Monaten.XLS,XLS,Eheschließungen in Stuttgart seit 1980 nach Monaten,1980-2013,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,128_1_Eheschlieszungen_nach_Monaten.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13644,Eheschließungen in Stuttgart seit 1980 nach Staatsangehörigkeit - Stadt Stuttgart,/publication/showpreview/13644/url/129_1_Eheschlieszungen_nach_Staatsangehoerigkeit.XLS,XLS,Eheschließungen in Stuttgart seit 1980 nach Staatsangehörigkeit,1980-2012,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,129_1_Eheschlieszungen_nach_Staatsangehoerigkeit.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13733,Ausgewählte Messen und Ausstellungen in Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/13733/url/953_1_Ausgewaehlte_Messen_und_Ausstellungen_in_Stuttgart_seit_1980.XLS,XLS,Ausgewählte Messen und Ausstellungen in Stuttgart seit 1980,1980-2012,,"4,00",,,,,,,,,,,x,,,,,,,,,,,,,,,Daten,953_1_Ausgewaehlte_Messen_und_Ausstellungen_in_Stuttgart_seit_1980.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/23742,Beherbergungsgewerbe in Stuttgart seit 1990 - Stadt Stuttgart,/publication/showpreview/23742/url/10129_1_Beherbergungsgewerbe_in_Stuttgart_seit_1990.XLS,XLS,Beherbergungsgewerbe in Stuttgart seit 1990,1990-2013,,"2,00",,,,,,x,,,,,,,x,,,,,,,,,,,,,Daten,10129_1_Beherbergungsgewerbe_in_Stuttgart_seit_1990.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13441,Beherbergungsgewerbe im Großstadtvergleich seit 1997 - Stadt Stuttgart,/publication/showpreview/13441/url/869_1_Beherbergungsgewerbe_im_Groszstadtvergleich_seit_1997.XLS,XLS,Beherbergungsgewerbe im Großstadtvergleich seit 1997,1997-2012,,"4,00",,,,,,x,,,,,,,x,,,,,,,,,,,,,Daten,869_1_Beherbergungsgewerbe_im_Groszstadtvergleich_seit_1997.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13819,Übernachtungen in Stuttgarter Beherbergungsbetrieben seit 1980 nach ausgewählten Herkunftsländern - Stadt Stuttgart,/publication/showpreview/13819/url/6610_1_Uebernachtungen_in_Beherbergungsbetrieben_nach_Herkunftslaendern.XLS,XLS,Übernachtungen in Stuttgarter Beherbergungsbetrieben seit 1980 nach ausgewählten Herkunftsländern,1980-2013,,"2,00",,,,,,,,,,,,,x,,,,,,,,,,,,,Daten,6610_1_Uebernachtungen_in_Beherbergungsbetrieben_nach_Herkunftslaendern.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/15648,Räumliche Gliederung der Landeshauptstadt Stuttgart - thematische Karten - Stadt Stuttgart,/publication/showpublic/15648/url/7726_Raeumliche_Gliederung_der_Landeshauptstadt_Stuttgart___thematische_Karten.zip,ZIP,"Thematischer Karten zu den Stadtbezirken, Stadtteilen, Postleitzahlbezirken, Schulbezirken, Wahlbezirken und Wahlkreisen Stuttgarts",2010,nicht bekannt,,,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,7726_Raeumliche_Gliederung_der_Landeshauptstadt_Stuttgart___thematische_Karten.zip,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13620,Übergänge aus Klassenstufe 4 auf weiterführende Schulen in Stuttgart seit 1989 - Stadt Stuttgart,/publication/showpreview/13620/url/37_1_Weiterfuehrende_Schulen___Uebergaenge_aus_Klassenstufe_4.XLS,XLS,Übergänge aus Klassenstufe 4 auf weiterführende Schulen in Stuttgart seit 1989,1989-2012,,"2,00",,,,x,,,,,,,,,,,,,,,,,,,,,,Daten,37_1_Weiterfuehrende_Schulen___Uebergaenge_aus_Klassenstufe_4.XLS,
-c,stuttgart.de,Übergänge aus Klassenstufe 4 auf weiterführende Schulen in Stuttgart seit 1989,"Schulen, Klassen und Schüler an Freien Waldorfschulen und privaten Gymnasien in Stuttgart seit 1980 - Stadt Stuttgart",/publication/showpreview/13628/url/49_1_Waldorfschulen_und_private_Gymnasien___Klassen__Schueler.XLS,XLS,"Schulen, Klassen und Schüler an Freien Waldorfschulen und privaten Gymnasien in Stuttgart seit 1980",,nicht bekannt,,,,,x,,,,,,,,,,,,,,,,,,,,,,Daten,49_1_Waldorfschulen_und_private_Gymnasien___Klassen__Schueler.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13385,Anzahl kontaminierter und kontaminationsverdächtiger Flächen nach Erkundungsstand und Handlungsbedarf in Stuttgart seit 2002 - Stadt Stuttgart,/publication/showpreview/13385/url/2680_1_Kontaminierte_und_kontaminationsverdaechtige_Flaechen.XLS,XLS,Anzahl kontaminierter und kontaminationsverdächtiger Flächen nach Erkundungsstand und Handlungsbedarf in Stuttgart seit 2002,2002-2014,,"4,00",,,,,,x,,,,,,x,,,,,,,,,,,,,,Daten,2680_1_Kontaminierte_und_kontaminationsverdaechtige_Flaechen.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13686,Schwerbehinderte Menschen in Stuttgart seit 1981 nach dem Grad der Behinderung - Stadt Stuttgart,/publication/showpreview/13686/url/491_1_Schwerbehinderte_nach_dem_Grad_der_Behinderung.XLS,XLS,Schwerbehinderte Menschen in Stuttgart seit 1981 nach dem Grad der Behinderung,1981-2011,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,491_1_Schwerbehinderte_nach_dem_Grad_der_Behinderung.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13689,Schwerbehinderte Menschen in Stuttgart seit 1986 nach der Ursache der Behinderung - Stadt Stuttgart,/publication/showpreview/13689/url/494_1_Schwerbehinderte_nach_der_Ursache_der_Behinderung.XLS,XLS,Schwerbehinderte Menschen in Stuttgart seit 1986 nach der Ursache der Behinderung,1986-2011,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,494_1_Schwerbehinderte_nach_der_Ursache_der_Behinderung.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13688,Schwerbehinderte Menschen in Stuttgart seit 1986 nach der Art der Behinderung - Stadt Stuttgart,/publication/showpreview/13688/url/493_1_Schwerbehinderte_nach_der_Art_der_Behinderung.XLS,XLS,Schwerbehinderte Menschen in Stuttgart seit 1986 nach der Art der Behinderung,1986-2011,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,493_1_Schwerbehinderte_nach_der_Art_der_Behinderung.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13534,Einäscherungen und Bestattungen durch das Garten- und Friedhofsamt in Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/13534/url/910_1_Einaescherungen_und_Bestattungen.XLS,XLS,Einäscherungen und Bestattungen durch das Garten- und Friedhofsamt in Stuttgart seit 1980,1980-2012,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,910_1_Einaescherungen_und_Bestattungen.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/18068,Empfänger von Leistungen der sozialen Mindestsicherung in Stuttgart nach Leistungsarten seit 2005 - Stadt Stuttgart,/publication/showpreview/18068/url/8546_1_Indikatoren_der_sozialen_Mindestsicherung.XLS,XLS,Empfänger von Leistungen der sozialen Mindestsicherung in Stuttgart nach Leistungsarten seit 2005,2005-2012,,"2,00",,,x,,,,,x,,,,,,,,,,,,,,,,,,Daten,8546_1_Indikatoren_der_sozialen_Mindestsicherung.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/16466,Empfänger von Regelleistungen nach dem Asylbewerberleistungsgesetz im regionalen Vergleich seit 1996 - Stadt Stuttgart,/publication/showpreview/16466/url/8139_1_Empfaenger_von_Regelleistungen_nach_dem_Asylbewerberleistungsgesetz_im_regionalen_Vergleich_seit_1996.XLS,XLS,Empfänger von Regelleistungen nach dem Asylbewerberleistungsgesetz im regionalen Vergleich seit 1996,1996-2011,,"2,00",,,,,,,,x,,,,,,,,,,,,,,,,,,Daten,8139_1_Empfaenger_von_Regelleistungen_nach_dem_Asylbewerberleistungsgesetz_im_regionalen_Vergleich_seit_1996.XLS,
-c,stuttgart.de,http://stuttgart.de/item/show/305805/1/publ/13357,Zeitreihe Bevölkerungsbestand und Bevölkerungsbewegungen in ausgewählten Großstädten seit 1995 (Amtliche Bevölkerungsfortschreibung) - Stadt Stuttgart,/publication/showpreview/13357/url/1528_1_Zeitreihe_Bevoelkerung_und_Bevoelkerungsbewegungen_in_Groszstaedten___amtliche_Fortschreibung.XLS,XLS,Zeitreihe Bevölkerungsbestand und Bevölkerungsbewegungen in ausgewählten Großstädten seit 1995,1995-2011,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,1528_1_Zeitreihe_Bevoelkerung_und_Bevoelkerungsbewegungen_in_Groszstaedten___amtliche_Fortschreibung.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13520,"Tätigkeit des Gemeinderats, der Bezirksbeiräte und sonstiger kommunaler Ausschüsse sowie Bürgerversammlungen in Stuttgart seit 1990 - Stadt Stuttgart",/publication/showpreview/13520/url/502_1_Gemeinderat__Bezirksbeiraete__sonstige_kommunale_Ausschuesse__Buergerversammlungen.XLS,XLS,"Tätigkeit des Gemeinderats, der Bezirksbeiräte und sonstiger kommunaler Ausschüsse sowie Bürgerversammlungen in Stuttgart seit 1990",1990-2009,,"2,00",,,,,,,,,,,,,,,,,x,,,,,,,,,Daten,502_1_Gemeinderat__Bezirksbeiraete__sonstige_kommunale_Ausschuesse__Buergerversammlungen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13568,Altersquotienten in Stuttgart seit 1986 - Stadt Stuttgart,/publication/showpreview/13568/url/3719_1_Altersquotienten.XLS,XLS,Altersquotienten in Stuttgart seit 1986,1986-2010,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,3719_1_Altersquotienten.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13356,Bevölkerung nach Altersgruppen der ausländischen Bevölkerung in ausgewählten Großstädten seit 1995 (Amtliche Bevölkerungsfortschreibung) - Stadt Stuttgart,/publication/showpreview/13356/url/1526_1_Auslaender_in_Groszstaedten___amtliche_Fortschreibung.XLS,XLS,Bevölkerung nach Altersgruppen der ausländischen Bevölkerung in ausgewählten Großstädten seit 1995,1995-2011,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,1526_1_Auslaender_in_Groszstaedten___amtliche_Fortschreibung.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13355,Bevölkerung nach Altersgruppen insgesamt in ausgewählten Großstädten seit 1995 (Amtliche Bevölkerungsfortschreibung) - Stadt Stuttgart,/publication/showpreview/13355/url/1524_1_Bevoelkerung_in_Groszstaedten___amtliche_Fortschreibung.XLS,XLS,Bevölkerung nach Altersgruppen insgesamt in ausgewählten Großstädten seit 1995,1995-2011,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,1524_1_Bevoelkerung_in_Groszstaedten___amtliche_Fortschreibung.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13802,Trinkwasserversorgung in Stuttgart seit 1979 - Stadt Stuttgart,/publication/showpreview/13802/url/3715_1_Trinkwasserversorgung_in_Stuttgart_seit_1979.XLS,XLS,Trinkwasserversorgung in Stuttgart seit 1979 ,1979-2010,,"2,00",,,,,,,,,,,,,,,,x,,,,,,,,,,Daten,3715_1_Trinkwasserversorgung_in_Stuttgart_seit_1979.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13809,Energie- und Wasserverbrauch der städtischen Liegenschaften in Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/13809/url/4478_1_Energie__und_Wasserverbrauch_der_staedtischen_Liegenschaften.XLS,XLS,Energie- und Wasserverbrauch der städtischen Liegenschaften in Stuttgart seit 1980,1980-2012,,"2,00",,,,,,,,,,,,,,,,x,,,,,,,,,,Daten,4478_1_Energie__und_Wasserverbrauch_der_staedtischen_Liegenschaften.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13754,"Strom-, Erdgas- und Wasserpreise in Stuttgart seit 1980 - Stadt Stuttgart",/publication/showpreview/13754/url/1811_1_Strom___Erdgas__und_Wasserpreise_in_Stuttgart_seit_1980.XLS,XLS,"Strom-, Erdgas- und Wasserpreise in Stuttgart seit 1980",1980-2014,,"2,00",,,,,,,,,,,,,,,,x,,,,,,,,,,Daten,1811_1_Strom___Erdgas__und_Wasserpreise_in_Stuttgart_seit_1980.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13820,Fahrzeugbestand und Energieverbrauch der Stuttgarter Straßenbahnen AG seit 1980 - Stadt Stuttgart,/publication/showpreview/13820/url/6973_1_Stuttgarter_Straszenbahnen_AG___Fahrzeuge_und_Energieverbrauch.XLS,XLS,Fahrzeugbestand und Energieverbrauch der Stuttgarter Straßenbahnen AG seit 1980,1980-2013,,"2,00",,,,,,,,,,,,,,,x,x,,,,,,,,,,Daten,6973_1_Stuttgarter_Straszenbahnen_AG___Fahrzeuge_und_Energieverbrauch.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13805,Energie- und Wasserverbrauch in Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/13805/url/3995_1_Energie__und_Wasserverbrauch_in_Stuttgart_seit_1980.XLS,XLS,Energie- und Wasserverbrauch in Stuttgart seit 1980,1980-2013,,"2,00",,,,,,,,,,,,,,,,x,,,,,,,,,,Daten,3995_1_Energie__und_Wasserverbrauch_in_Stuttgart_seit_1980.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13397,"Jugendgerichtshilfe - abgeschlossene Jugendgerichtshilfefälle seit 2002 nach Tatvorwürfen, Altersgruppen, Staatsangehörigkeit und Wohnort des Täters in den Stuttgarter Stadtbezirken - Stadt Stuttgart",/publication/showpreview/13397/url/3573_1_Jugendgerichtshilfe_nach_Stadtbezirken.XLS,XLS,"Jugendgerichtshilfe - abgeschlossene Jugendgerichtshilfefälle seit 2002 nach Tatvorwürfen, Altersgruppen, Staatsangehörigkeit und Wohnort des Täters in den Stuttgarter Stadtbezirken",2002-2012,,"4,00",,,,,,,,x,,,,,,,,,,x,,,,,,,,Daten,3573_1_Jugendgerichtshilfe_nach_Stadtbezirken.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13551,"Jugendgerichtshilfe - abgeschlossene Jugendgerichtshilfefälle seit 2002 nach Geschlecht, Altersgruppen, Staatsangehörigkeit (ohne Ordnungswidrigkeiten)  in Stuttgart - Stadt Stuttgart",/publication/showpreview/13551/url/3572_1_Jugendgerichtshilfe.XLS,XLS,"Jugendgerichtshilfe - abgeschlossene Jugendgerichtshilfefälle seit 2002 nach Geschlecht, Altersgruppen, Staatsangehörigkeit (ohne Ordnungswidrigkeiten) ",2002-2012,,"4,00",,,,,,,,x,,,,,,,,,,x,,,,,,,,Daten,3572_1_Jugendgerichtshilfe.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13486,Ausgaben der öffentlichen Kinder- und Jugendhilfe seit 1999 im regionalen Vergleich - Stadt Stuttgart,/publication/showpreview/13486/url/6590_1_Ausgaben_der_Kinder__und_Jugendhilfe_im_regionalen_Vergleich.XLS,XLS,Ausgaben der öffentlichen Kinder- und Jugendhilfe seit 1999 im regionalen Vergleich,1999-2012,,"4,00",,,,,,,,x,,,,,,,,,,,,,,,,,,Daten,6590_1_Ausgaben_der_Kinder__und_Jugendhilfe_im_regionalen_Vergleich.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305802/1/publ/21032,"Vorspann Leistungsbuch für den Tiefbau, Garten- und Landschaftsbau (Vergabe-Unterlagen) - Stadt Stuttgart",http://www.stuttgart.de/img/mdb/publ/21032/78377.zip,ZIP,"Vorspann Leistungsbuch für den Tiefbau, Garten- und Landschaftsbau (Vergabe-Unterlagen)",2013,nicht bekannt,,,,,,,x,,,,,,,,,,,,,,,,,,,Vorspann Leistungsbuch (ZIP - 73 MB),Daten,78377.zip,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13803,Kommunales Abfallaufkommen in Stuttgart seit 1990 nach Abfallarten - Stadt Stuttgart,/publication/showpreview/13803/url/3718_1_Kommunales_Abfallaufkommen_nach_Abfallarten.XLS,XLS,Kommunales Abfallaufkommen in Stuttgart seit 1990 nach Abfallarten,1990-2012,,"2,00",,,,,,,,,,,,,,,,x,,,,,,,,,,Daten,3718_1_Kommunales_Abfallaufkommen_nach_Abfallarten.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/15969,Aufkommen an Wertstoffen und Grün- und Bioabfällen in Stuttgart seit 1990 - Stadt Stuttgart,/publication/showpreview/15969/url/7995_1_Aufkommen_an_Wertstoffen_und_Gruen__und_Bioabfaellen.XLS,XLS,Aufkommen an Wertstoffen und Grün- und Bioabfällen in Stuttgart seit 1990,1990-2012,,"2,00",,,,,,,,,,,,,,,,x,,,,,,,,,,Daten,7995_1_Aufkommen_an_Wertstoffen_und_Gruen__und_Bioabfaellen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13804,Kommunales Abfallaufkommen in Stuttgart seit 1990 nach Art der Entsorgung - Stadt Stuttgart,/publication/showpreview/13804/url/3994_1_Kommunales_Abfallaufkommen_nach_Art_der_Entsorgung.XLS,XLS,Kommunales Abfallaufkommen in Stuttgart seit 1990 nach Art der Entsorgung,1990-2012,,"2,00",,,,,,,,,,,,,,,,x,,,,,,,,,,Daten,3994_1_Kommunales_Abfallaufkommen_nach_Art_der_Entsorgung.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13455,Arbeitslosigkeit im Großstadtvergleich seit 1992 - Stadt Stuttgart,/publication/showpreview/13455/url/1530_1_Arbeitslosigkeit_im_Groszstadtvergleich_seit_1992.XLS,XLS,Arbeitslosigkeit im Großstadtvergleich seit 1992,1992-2012,,"2,00",,x,,,,,,,,,,,,,,,,,,,,,,,,Daten,1530_1_Arbeitslosigkeit_im_Groszstadtvergleich_seit_1992.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13779,Regelleistungsempfänger nach dem Asylbewerberleistungsgesetz in Stuttgart seit 1994 nach ausgewählten Merkmalen - Stadt Stuttgart,/publication/showpreview/13779/url/2434_1_Asylbewerber___Leistungsempfaenger_nach_ausgewaehlten_Merkmalen.XLS,XLS,Asylbewerber - Leistungsempfänger nach ausgewählten Merkmalen,1994-2012,,"2,00",,,,,,,,x,,,,,,,,,,,,,,,,,,Daten,2434_1_Asylbewerber___Leistungsempfaenger_nach_ausgewaehlten_Merkmalen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13650,Arbeitslose in Stuttgart seit 1980 nach Geschlecht und Altersgruppen - Stadt Stuttgart,/publication/showpreview/13650/url/144_1_Arbeitslose_nach_Geschlecht_und_Alter.XLS,XLS,Arbeitslose in Stuttgart seit 1980 nach Geschlecht und Altersgruppen,1980-2012,,"2,00",,x,x,,,,,,,,,,,,,,,,,,,,,,,Daten,144_1_Arbeitslose_nach_Geschlecht_und_Alter.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13649,Arbeitslose in Stuttgart seit 1980 nach ausgewählten Herkunftsländern - Stadt Stuttgart,/publication/showpreview/13649/url/143_1_Arbeitslose_nach_der_Herkunft.XLS,XLS,Arbeitslose in Stuttgart seit 1980 nach ausgewählten Herkunftsländern,1980-2012,,"2,00",,x,x,,,,,,,,,,,,,,,,,,,,,,,Daten,143_1_Arbeitslose_nach_der_Herkunft.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13781,Haushalte von Regelleistungsempfängern nach dem Asylbewerberleistungsgesetz in Stuttgart seit 1994 nach Haushaltstyp - Stadt Stuttgart,/publication/showpreview/13781/url/2437_1_Asylbewerber___Haushalte_von_Leistungsempfaengern.XLS,XLS,Haushalte von Regelleistungsempfängern nach dem Asylbewerberleistungsgesetz in Stuttgart seit 1994 nach Haushaltstyp,1994-2012,,"2,00",,,,,,,,x,,,,,,,,,,,,,,,,,,Daten,2437_1_Asylbewerber___Haushalte_von_Leistungsempfaengern.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13444,Arbeitslosigkeit im regionalen Vergleich seit 1997 - Stadt Stuttgart,/publication/showpreview/13444/url/889_1_Arbeitslosigkeit_im_regionalen_Vergleich_seit_1997.XLS,XLS,Arbeitslosigkeit im regionalen Vergleich seit 1997,1997-2012,,"4,00",,x,x,,,,,,,,,,,,,,,,,,,,,,,Daten,889_1_Arbeitslosigkeit_im_regionalen_Vergleich_seit_1997.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13726,Zusammengefasste Geburtenziffern in Stuttgart seit 1981 - Stadt Stuttgart,/publication/showpreview/13726/url/911_1_Zusammengefasste_Geburtenziffern.XLS,XLS,Zusammengefasste Geburtenziffern in Stuttgart seit 1981,1981-2012,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,911_1_Zusammengefasste_Geburtenziffern.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13719,Einwohner in Stuttgart seit 1986 nach Staatsangehörigkeit(6) - Stadt Stuttgart,/publication/showpreview/13719/url/896_1_Einwohner_nach_Staatsangehoerigkeit.XLS,XLS,Einwohner in Stuttgart seit 1986 nach Staatsangehörigkeit,1986-2013,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,896_1_Einwohner_nach_Staatsangehoerigkeit.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13699,Arbeitslose und gemeldete Stellen in Stuttgart seit 1980  - Eckdaten der Arbeitsmarktstatistik - Monatsdaten u. Jahresdurchschnitt - Stadt Stuttgart,/publication/showpreview/13699/url/613_1_Eckdaten_der_Arbeitsmarktstatistik.XLS,XLS,Arbeitslose und gemeldete Stellen in Stuttgart seit 1980 ,1980-2005,,"2,00",,x,x,,,,,,,,,,,,,,,,,,,,,,,Daten,613_1_Eckdaten_der_Arbeitsmarktstatistik.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13445,Einwohner in Stuttgart seit 1986 nach Staatsangehörigkeit und Stadtbezirken - Stadt Stuttgart,/publication/showpreview/13445/url/897_1_Einwohner_nach_Staatsangehoerigkeit_und_Stadtbezirken.XLS,XLS,Einwohner in Stuttgart seit 1986 nach Staatsangehörigkeit und Stadtbezirken,1986-2013,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,897_1_Einwohner_nach_Staatsangehoerigkeit_und_Stadtbezirken.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13496,Einwohner in Stuttgart seit 2006 nach Migrationshintergrund und Stadtbezirken - Stadt Stuttgart,/publication/showpreview/13496/url/7393_1_Einwohner_nach_Migrationshintergrund_und_Stadtbezirken.XLS,XLS,Einwohner in Stuttgart seit 2006 nach Migrationshintergrund und Stadtbezirken,2006-2013,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,7393_1_Einwohner_nach_Migrationshintergrund_und_Stadtbezirken.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13720,Einwohner in Stuttgart seit 1986 nach Religionszugehörigkeit - Stadt Stuttgart,/publication/showpreview/13720/url/898_1_Einwohner_nach_Religion.XLS,XLS,Einwohner in Stuttgart seit 1986 nach Religionszugehörigkeit,1986-2013,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,898_1_Einwohner_nach_Religion.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13652,Betriebe des Verarbeitenden Gewerbes in Stuttgart seit 1980 nach Beschäftigtengrößenklassen - Stadt Stuttgart,/publication/showpreview/13652/url/159_1_Betriebe_des_Verarbeitenden_Gewerbes.XLS,XLS,Betriebe des Verarbeitenden Gewerbes in Stuttgart seit 1980 nach Beschäftigtengrößenklassen,1980-2012,,"2,00",,x,,,,,,,,,,,,,,,,,x,,,,,,,Daten,159_1_Betriebe_des_Verarbeitenden_Gewerbes.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13655,Betriebe des Bauhauptgewerbes in Stuttgart seit 1980 nach Beschäftigtengrößenklassen - Stadt Stuttgart,/publication/showpreview/13655/url/164_1_Betriebe_des_Bauhauptgewerbes.XLS,XLS,Betriebe des Bauhauptgewerbes in Stuttgart seit 1980 nach Beschäftigtengrößenklassen ,1980-2012,,"2,00",,x,,,,,,,,,,,,,,,,,x,,,,,,,Daten,164_1_Betriebe_des_Bauhauptgewerbes.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13446,Einwohner in Stuttgart seit 1986 nach Religionszugehörigkeit und Stadtbezirken - Stadt Stuttgart,/publication/showpreview/13446/url/899_1_Einwohner_nach_Religion_und_Stadtbezirken.XLS,XLS,Einwohner in Stuttgart seit 1986 nach Religionszugehörigkeit und Stadtbezirken,1986-2013,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,899_1_Einwohner_nach_Religion_und_Stadtbezirken.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13714,Beamte und Arbeitnehmer der Landeshauptstadt Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/13714/url/879_1_Beamte_und_Arbeitnehmer_der_Landeshauptstadt_Stuttgart_seit_1980.XLS,XLS,Beamte und Arbeitnehmer der Landeshauptstadt Stuttgart seit 1980,1980-2012,,"2,00",,x,,,,,,,,,,,,,,,,,,,,,,,,Daten,879_1_Beamte_und_Arbeitnehmer_der_Landeshauptstadt_Stuttgart_seit_1980.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13613,Einwohner in Stuttgart seit 1986 nach Wohndauer in der Gemeinde und Staatsangehörigkeit - Stadt Stuttgart,/publication/showpreview/13613/url/15_1_Einwohner_nach_Wohndauer_und_Staatsangehoerigkeit.XLS,XLS,Einwohner in Stuttgart seit 1986 nach Wohndauer in der Gemeinde und Staatsangehörigkeit,1986-2013,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,15_1_Einwohner_nach_Wohndauer_und_Staatsangehoerigkeit.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13829,Umweltschutzinvestitionen im Verarbeitenden Gewerbe in Stuttgart seit 1975 - Stadt Stuttgart,/publication/showpreview/13829/url/7381_1_Umweltschutzinvestitionen_im_Verarbeitenden_Gewerbe.XLS,XLS,Umweltschutzinvestitionen im Verarbeitenden Gewerbe in Stuttgart seit 1975,1975-2011,,"2,00",,,,,,,,,,,,,,x,,,,,,,,,,,,Daten,7381_1_Umweltschutzinvestitionen_im_Verarbeitenden_Gewerbe.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/15270,Investitionen im Verarbeitenden Gewerbe in Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/15270/url/7809_1_Investitionen_im_Verarbeitenden_Gewerbe_in_Stuttgart_seit_1980.XLS,XLS,Investitionen im Verarbeitenden Gewerbe in Stuttgart seit 1980,1980-2012,,"2,00",,,,,,,,,,,,,,,,,,,x,,,,,,,Daten,7809_1_Investitionen_im_Verarbeitenden_Gewerbe_in_Stuttgart_seit_1980.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13545,Insolvenzen von Unternehmen und Verbrauchern in Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/13545/url/2506_1_Insolvenzen_von_Unternehmen_und_Verbrauchern.XLS,XLS,Insolvenzen von Unternehmen und Verbrauchern,1980-2013,,"2,00",,x,,,,,,,,,,,,,,,,,x,,,,,,,Daten,2506_1_Insolvenzen_von_Unternehmen_und_Verbrauchern.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13616,Insolvenzverfahren von Erwerbsunternehmen in Stuttgart seit 1980 nach Wirtschaftsbereichen und Rechtsform - Stadt Stuttgart,/publication/showpreview/13616/url/31_1_Insolvenzverfahren_von_Erwerbsunternehmen.XLS,XLS,Insolvenzverfahren von Erwerbsunternehmen in Stuttgart seit 1980 nach Wirtschaftsbereichen und Rechtsform,1980-2012,,"2,00",,x,,,,,,,,,,,,,,,,,x,,,,,,,Daten,31_1_Insolvenzverfahren_von_Erwerbsunternehmen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13798,Immissions-Konzentrationsmessungen in Stuttgart seit 1990 - Stadt Stuttgart,/publication/showpreview/13798/url/3472_1_Immissions_Konzentrationsmessungen_in_Stuttgart_seit_1990.XLS,XLS,Immissions-Konzentrationsmessungen in Stuttgart seit 1990,1990-2013,,"2,00",,,,,,,,,,,,,,x,,,,,,,,,,,,Daten,3472_1_Immissions_Konzentrationsmessungen_in_Stuttgart_seit_1990.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13478,Indikatoren zur Siedlungsstruktur in Stuttgart seit 1996 nach Stadtbezirken - Stadt Stuttgart,/publication/showpreview/13478/url/3264_1_Indikatoren_zur_Siedlungsstruktur_nach_Stadtbezirken.XLS,XLS,Indikatoren zur Siedlungsstruktur in Stuttgart seit 1996 nach Stadtbezirken,1996-2012,,"4,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,3264_1_Indikatoren_zur_Siedlungsstruktur_nach_Stadtbezirken.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13812,"Haushalte in Stuttgart seit 1992 nach der Zahl der Personen, Alter der Bezugsperson und Staatsangehörigkeit der Bezugsperson - Stadt Stuttgart",/publication/showpreview/13812/url/4703_1_Haushalte_nach_Personen__Alter_und_Staatsangehoerigkeit.XLS,XLS,"Haushalte in Stuttgart seit 1992 nach der Zahl der Personen, Alter der Bezugsperson und Staatsangehörigkeit der Bezugsperson",1992-2013,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,4703_1_Haushalte_nach_Personen__Alter_und_Staatsangehoerigkeit.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13480,Haushalte in Stuttgart seit 1992 nach der Zahl der Personen und Stadtbezirken - Stadt Stuttgart,/publication/showpreview/13480/url/4697_1_Haushalte_nach_der_Personenzahl_und_Stadtbezirken.XLS,XLS,Haushalte in Stuttgart seit 1992 nach der Zahl der Personen und Stadtbezirken,1992-2013,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,4697_1_Haushalte_nach_der_Personenzahl_und_Stadtbezirken.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13793,Indikatoren zur Siedlungsstruktur in Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/13793/url/3263_1_Indikatoren_zur_Siedlungsstruktur.XLS,XLS,Indikatoren zur Siedlungsstruktur in Stuttgart seit 1980,1980-2012,,"2,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,3263_1_Indikatoren_zur_Siedlungsstruktur.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13810,Haushalte in Stuttgart seit 1992 nach der Zahl der Personen - Stadt Stuttgart,/publication/showpreview/13810/url/4699_1_Haushalte_nach_der_Personenzahl.XLS,XLS,Haushalte in Stuttgart seit 1992 nach der Zahl der Personen,1992-2013,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,4699_1_Haushalte_nach_der_Personenzahl.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/143890/1/publ/13481,"Haushalte, Familien mit Kindern in Stuttgart seit 1992 nach der Zahl der Kinder und Stadtbezirken - Stadt Stuttgart",/publication/showpreview/13481/url/4698_1_Haushalte__Familien_nach_der_Kinderzahl_und_Stadtbezirken.XLS,XLS,"Haushalte, Familien mit Kindern in Stuttgart seit 1992 nach der Zahl der Kinder und Stadtbezirken",1992-2013,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,4698_1_Haushalte__Familien_nach_der_Kinderzahl_und_Stadtbezirken.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13372,Investitionen der Betriebe im Verarbeitenden Gewerbe in Stuttgart und den Landkreisen der Region Stuttgart seit 1995 - Stadt Stuttgart,/publication/showpreview/13372/url/1773_1_Verarbeitendes_Gewerbe_in_der_Region___Investitionen.XLS,XLS,Investitionen der Betriebe im Verarbeitenden Gewerbe in Stuttgart und den Landkreisen der Region Stuttgart seit 1995,1995-2012,,"4,00",,x,,,,,,,,,,,,,,,,,x,,,,,,,Daten,1773_1_Verarbeitendes_Gewerbe_in_der_Region___Investitionen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13556,Indikatoren zum verarbeitenden Gewerbe in Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/13556/url/3657_1_Indikatoren_zum_verarbeitenden_Gewerbe.XLS,XLS,Indikatoren zum verarbeitenden Gewerbe in Stuttgart seit 1980,1980-2012,,"2,00",,,,,,,,,,,,,,,,,,,x,,,,,,,Daten,3657_1_Indikatoren_zum_verarbeitenden_Gewerbe.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13458,Verarbeitendes Gewerbe und Bauhauptgewerbe im Großstadtvergleich seit 1997 - Stadt Stuttgart,/publication/showpreview/13458/url/1775_1_Verarbeitendes_und_Baugewerbe_im_Groszstadtvergleich.XLS,XLS,Verarbeitendes Gewerbe und Bauhauptgewerbe im Großstadtvergleich seit 1997,1997-2010,,"2,00",,,,,,,,,,,,,,,,,,,x,,,,,,,Daten,1775_1_Verarbeitendes_und_Baugewerbe_im_Groszstadtvergleich.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13457,Verarbeitendes Gewerbe und Bauhauptgewerbe im regionalen Vergleich seit 1997 - Stadt Stuttgart,/publication/showpreview/13457/url/1772_1_Verarbeitendes_und_Baugewerbe_im_regionalen_Vergleich.XLS,XLS,Verarbeitendes Gewerbe und Bauhauptgewerbe im regionalen Vergleich seit 1997,1997-2012,,"2,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,1772_1_Verarbeitendes_und_Baugewerbe_im_regionalen_Vergleich.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/182252/1/publ/13667,An Straßenverkehrsunfällen beteiligte Personen in Stuttgart seit 1980 nach dem benutzten Verkehrsmittel - Stadt Stuttgart,/publication/showpreview/13667/url/216_1_Straszenverkehrsunfaelle___beteiligte_Personen.XLS,XLS,An Straßenverkehrsunfällen beteiligte Personen in Stuttgart seit 1980 nach dem benutzten Verkehrsmittel,1980-2012,,"2,00",,,,,,,,,,,,,,,x,,,,,,,,,,,Daten,216_1_Straszenverkehrsunfaelle___beteiligte_Personen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/182252/1/publ/17595,"Steuerpflichtige, deren Einkünfte und Steuerzahlungen in Stuttgart nach Stadtbezirken ab 2006 - Stadt Stuttgart",/publication/showpreview/17595/url/8401_1_Steuerpflichtige__Einkuenfte__Steuerzahlungen_nach_Stadtbezirken.XLS,XLS,"Steuerpflichtige, deren Einkünfte und Steuerzahlungen in Stuttgart nach Stadtbezirken ab 2006",2006-2009,,"2,00",,,,,x,,,,,,,,,,,,,,,,,,,,,Daten,8401_1_Steuerpflichtige__Einkuenfte__Steuerzahlungen_nach_Stadtbezirken.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/182252/1/publ/13757,Realsteueraufkommen und Steuereinnahmen im Haushalt der Landeshauptstadt Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/13757/url/1818_1_Steueraufkommen_und__einnahmen_im_Haushalt_der_Stadt_Stuttgart.XLS,XLS,Realsteueraufkommen und Steuereinnahmen im Haushalt der Landeshauptstadt Stuttgart seit 1980,1980-2012,,"2,00",,,,,x,,,,,,,,,,,,,,,,,,,,,Daten,1818_1_Steueraufkommen_und__einnahmen_im_Haushalt_der_Stadt_Stuttgart.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/182252/1/publ/13711,Entleihungen bei der Stadtbücherei Stuttgart nach Zweigstellen seit 1980 - Stadt Stuttgart,/publication/showpreview/13711/url/871_1_Stadtbuecherei___Entleihungen_nach_Zweigstellen.XLS,XLS,Entleihungen bei der Stadtbücherei Stuttgart nach Zweigstellen seit 1980,1980-2013,,"2,00",,,,x,,,,,,,x,,,,,,,,,,,,,,,Daten,871_1_Stadtbuecherei___Entleihungen_nach_Zweigstellen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/56295/1/publ/13524,Sozialversicherungspflichtig Beschäftigte in Stuttgart seit 1992 nach Wohn- und Arbeitsort (Pendler) sowie ausgewählten Merkmalen - Stadt Stuttgart,/publication/showpreview/13524/url/786_1_Sozialversicherungspflichtig_beschaeftigte_Pendler_nach_ausgewaehlten_Merkmalen.XLS,XLS,Sozialversicherungspflichtig Beschäftigte in Stuttgart seit 1992 nach Wohn- und Arbeitsort (Pendler) sowie ausgewählten Merkmalen,1992-2012,,"2,00",,,,,,,,x,,,,,,,,,,,,,,,,,,Daten,786_1_Sozialversicherungspflichtig_beschaeftigte_Pendler_nach_ausgewaehlten_Merkmalen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/182252/1/publ/13715,Vollbeschäftigtes Personal der Landeshauptstadt Stuttgart seit 1986 - Stadt Stuttgart,/publication/showpreview/13715/url/880_1_Vollbeschaeftigtes_Personal_der_Stadt_Stuttgart.XLS,XLS,Vollbeschäftigtes Personal der Landeshauptstadt Stuttgart seit 1986,1986-2012,,"2,00",,x,,,,,,,,,,,,,,,,,,,,,,,,Daten,880_1_Vollbeschaeftigtes_Personal_der_Stadt_Stuttgart.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13544,Hebesätze der Realsteuern im Haushalt der Landeshauptstadt Stuttgart seit 1945 - Stadt Stuttgart,/publication/showpreview/13544/url/2409_1_Hebesaetze_im_Haushalt.XLS,XLS,Hebesätze der Realsteuern im Haushalt der Landeshauptstadt Stuttgart seit 1945,1945-2012,,"2,00",,,,,x,,,,,,,,,,,,,,,,,,,,,Daten,2409_1_Hebesaetze_im_Haushalt.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13417,Schuldenstand im regionalen Vergleich seit 1995 - Stadt Stuttgart,/publication/showpreview/13417/url/6379_1_Schulden_im_regionalen_Vergleich.XLS,XLS,Schuldenstand im regionalen Vergleich seit 1995,1995-2009,,"4,00",,,,,x,,,,,,,,,,,,,,x,,,,,,,Daten,6379_1_Schulden_im_regionalen_Vergleich.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/14326,Broschüren/Faltblätter Statistik - Stadt Stuttgart,/publication/showpublic/14326/url/7542_Broschueren_Faltblaetter_Statistik.zip,ZIP,Broschüren/Faltblätter mit unterschiedlichen Statistiken zu ausgewählten Themen,2012,nicht bekannt,,,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,7542_Broschueren_Faltblaetter_Statistik.zip,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/23583,"Fortgeschriebene Einwohnerzahlen in Stuttgart 2014 nach Geschlecht, Staatsangehörigkeit, Veränderungen zum Monat des Vorjahres und Stadtbezirken  - Monatsdaten - Stadt Stuttgart",/publication/showpreview/23583/url/10114_1_Fortgeschriebene_Einwohnerzahlen_2014_nach_Stadtbezirken_und_weiteren_Merkmalen___Monatsdaten.XLS,XLS,"Fortgeschriebene Einwohnerzahlen in Stuttgart 2014 nach Geschlecht, Staatsangehörigkeit, Veränderungen zum Monat des Vorjahres und Stadtbezirken ",2014,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,10114_1_Fortgeschriebene_Einwohnerzahlen_2014_nach_Stadtbezirken_und_weiteren_Merkmalen___Monatsdaten.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/22092,"Fortgeschriebene Einwohnerzahlen in Stuttgart 2013 nach Geschlecht, Staatsangehörigkeit, Veränderungen zum Monat des Vorjahres und Stadtbezirken  - Monatsdaten - Stadt Stuttgart",/publication/showpreview/22092/url/9627_1_Fortgeschriebene_Einwohnerzahlen_2013_nach_Stadtbezirken_und_weiteren_Merkmalen___Monatsdaten.XLS,XLS,"Fortgeschriebene Einwohnerzahlen in Stuttgart 2013 nach Geschlecht, Staatsangehörigkeit, Veränderungen zum Monat des Vorjahres und Stadtbezirken",2013,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,9627_1_Fortgeschriebene_Einwohnerzahlen_2013_nach_Stadtbezirken_und_weiteren_Merkmalen___Monatsdaten.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/22091,"Fortgeschriebene Einwohnerzahlen in Stuttgart 2013 nach Geschlecht, Staatsangehörigkeit, Veränderungen zum Monat des Vorjahres und Stadtteilen - Monatsdaten - Stadt Stuttgart",/publication/showpreview/22091/url/9628_1_Fortgeschriebene_Einwohnerzahlen_2013_nach_Stadtteilen_und_weiteren_Merkmalen___Monatsdaten.XLS,XLS,"Fortgeschriebene Einwohnerzahlen in Stuttgart 2013 nach Geschlecht, Staatsangehörigkeit, Veränderungen zum Monat des Vorjahres und Stadtteilen",2013,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,9628_1_Fortgeschriebene_Einwohnerzahlen_2013_nach_Stadtteilen_und_weiteren_Merkmalen___Monatsdaten.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/23585,"Fortgeschriebene Einwohnerzahlen in Stuttgart 2014 nach Geschlecht, Staatsangehörigkeit, Veränderungen zum Monat des Vorjahres und Stadtteilen - Monatsdaten - Stadt Stuttgart",/publication/showpreview/23585/url/10115_1_Fortgeschriebene_Einwohnerzahlen_2014_nach_Stadtteilen_und_weiteren_Merkmalen___Monatsdaten.XLS,XLS,"Fortgeschriebene Einwohnerzahlen in Stuttgart 2014 nach Geschlecht, Staatsangehörigkeit, Veränderungen zum Monat des Vorjahres und Stadtteilen ",2014,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,10115_1_Fortgeschriebene_Einwohnerzahlen_2014_nach_Stadtteilen_und_weiteren_Merkmalen___Monatsdaten.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/20704,"Fortgeschriebene Einwohnerzahlen in Stuttgart 2012 nach Geschlecht, Staatsangehörigkeit, Veränderungen zum Monat des Vorjahres und Stadtbezirken  - Monatsdaten - Stadt Stuttgart",/publication/showpreview/20704/url/9240_1_Fortgeschriebene_Einwohnerzahlen_2012_nach_Stadtbezirken_und_weiteren_Merkmalen___Monatsdaten.XLS,XLS,"Fortgeschriebene Einwohnerzahlen in Stuttgart 2012 nach Geschlecht, Staatsangehörigkeit, Veränderungen zum Monat des Vorjahres und Stadtbezirken",2012,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,9240_1_Fortgeschriebene_Einwohnerzahlen_2012_nach_Stadtbezirken_und_weiteren_Merkmalen___Monatsdaten.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/20705,"Fortgeschriebene Einwohnerzahlen in Stuttgart 2012 nach Geschlecht, Staatsangehörigkeit, Veränderungen zum Monat des Vorjahres und Stadtteilen - Monatsdaten - Stadt Stuttgart",/publication/showpreview/20705/url/9241_1_Fortgeschriebene_Einwohnerzahlen_2012_nach_Stadtteilen_und_weiteren_Merkmalen___Monatsdaten.XLS,XLS,"Fortgeschriebene Einwohnerzahlen in Stuttgart 2012 nach Geschlecht, Staatsangehörigkeit, Veränderungen zum Monat des Vorjahres und Stadtteilen ",2012,,"4,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,9241_1_Fortgeschriebene_Einwohnerzahlen_2012_nach_Stadtteilen_und_weiteren_Merkmalen___Monatsdaten.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13639,Besucher der öffentlichen Stuttgarter Freibäder seit 1980 - Stadt Stuttgart,/publication/showpreview/13639/url/85_1_Besucher_der_oeffentlichen_Stuttgarter_Freibaeder_seit_1980.XLS,XLS,Besucher der öffentlichen Stuttgarter Freibäder seit 1980,1980-2013,,"2,00",,,,,,,,,,,,,x,,,,,,,,,,,,,Daten,85_1_Besucher_der_oeffentlichen_Stuttgarter_Freibaeder_seit_1980.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/23415,Bruttoausgaben nach dem Asylbewerberleistungsgesetz nach Hilfearten im regionalen Vergleich seit 2010 - Stadt Stuttgart,/publication/showpreview/23415/url/10086_1_Bruttoausgaben_nach_dem_Asylbewerberleistungsgesetz_nach_Hilfearten_im_regionalen_Vergleich_seit_2010.XLS,XLS,Bruttoausgaben nach dem Asylbewerberleistungsgesetz nach Hilfearten im regionalen Vergleich seit 2010,2010-2012,,"2,00",,x,,,,,,x,,,,,,,,,,,,,,,,,,Daten,10086_1_Bruttoausgaben_nach_dem_Asylbewerberleistungsgesetz_nach_Hilfearten_im_regionalen_Vergleich_seit_2010.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13766,Ausgaben und Einnahmen nach dem Asylbewerberleistungsgesetz in Stuttgart seit 1994 nach Art der Hilfe - Stadt Stuttgart,/publication/showpreview/13766/url/1935_1_Asylbewerberleistungen.XLS,XLS,Ausgaben und Einnahmen nach dem Asylbewerberleistungsgesetz in Stuttgart seit 1994 nach Art der Hilfe,1994-2012,,"2,00",,x,,,,,,x,,,,,,,,,,,,,,,,,,Daten,1935_1_Asylbewerberleistungen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13780,Regelleistungsempfänger nach dem Asylbewerberleistungsgesetz in Stuttgart seit 1994 nach Staatsangehörigkeit - Stadt Stuttgart,/publication/showpreview/13780/url/2436_1_Asylbewerber___Leistungsempfaenger_nach_Staatsangehoerigkeit.XLS,XLS,Regelleistungsempfänger nach dem Asylbewerberleistungsgesetz in Stuttgart seit 1994 nach Staatsangehörigkeit,1994-2012,,"2,00",,,,,,,,x,,,,,,,,,,,,,,,,,,Daten,2436_1_Asylbewerber___Leistungsempfaenger_nach_Staatsangehoerigkeit.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/17670,Bestand an geförderten Wohnungen in Stuttgart seit 1992 - Stadt Stuttgart,/publication/showpreview/17670/url/8423_1_Gefoerderte_Wohnungen.XLS,XLS,Bestand an geförderten Wohnungen in Stuttgart seit 1992,1992-2012,,"2,00",,,,,,,x,x,,,,,,,,,,,,,,,,,,Daten,8423_1_Gefoerderte_Wohnungen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13679,Abgang von Gebäuden und Wohnungen nach Wohn- und Nutzfläche in Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/13679/url/258_1_Bauabgang.XLS,XLS,Abgang von Gebäuden und Wohnungen nach Wohn- und Nutzfläche in Stuttgart seit 1980,1980-2013,,"2,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,258_1_Bauabgang.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13438,Abgang von Gebäuden und Wohnungen nach Wohn- und Nutzfläche in Stuttgart seit 1995 nach Stadtbezirken - Stadt Stuttgart,/publication/showpreview/13438/url/259_1_Bauabgang_nach_Stadtbezirken.XLS,XLS,Abgang von Gebäuden und Wohnungen nach Wohn- und Nutzfläche in Stuttgart seit 1995 nach Stadtbezirken,1995-2013,,"4,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,259_1_Bauabgang_nach_Stadtbezirken.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/18037,Wohnungsbelegungsrechte der Stadt Stuttgart seit 2001 - Stadt Stuttgart,/publication/showpreview/18037/url/5964_1_Wohnungsbelegungsrechte_der_Stadt.XLS,XLS,Wohnungsbelegungsrechte der Stadt Stuttgart seit 2001,2001-2012,,"2,00",,,,,,,x,,,,,,,,,,,,,,,,,,,Daten,5964_1_Wohnungsbelegungsrechte_der_Stadt.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/323929/1/publ/13678,"Baufertigstellungen insgesamt von Wohnungen in Wohngebäuden, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1980 nach Anzahl der Wohnräume (Wohnungsgröße) - Stadt Stuttgart",/publication/showpreview/13678/url/256_1_Baufertigstellungen_von_Wohnungen.XLS,XLS,"Baufertigstellungen insgesamt von Wohnungen in Wohngebäuden, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1980 nach Anzahl der Wohnräume ",1980-2013,,"2,00",,,,,,x,x,,,,,,,,,,,,,,,,,,,Daten,256_1_Baufertigstellungen_von_Wohnungen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13664,"Bestand an Wohnungen in Wohn-, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1980 nach Anzahl der Wohnräume (Wohnungsgröße) - Stadt Stuttgart",/publication/showpreview/13664/url/196_1_Bestand_an_Wohnungen.XLS,XLS,"Bestand an Wohnungen in Wohn-, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1980 nach Anzahl der Wohnräume ",1980-2012,,"2,00",,,,,,,x,,,,,,,,,,,,,,,,,,,Daten,196_1_Bestand_an_Wohnungen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13432,"Bestand an Wohnungen in Wohn-, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1995 nach Anzahl der Wohnräume (Wohnungsgröße) und Stadtbezirken - Stadt Stuttgart",/publication/showpreview/13432/url/197_1_Bestand_an_Wohnungen_nach_Stadtbezirken.XLS,XLS,"Bestand an Wohnungen in Wohn-, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1995 nach Anzahl der Wohnräume (Wohnungsgröße) und Stadtbezirken",1995-2012,,"4,00",,,,,,x,x,,,,,,,,,,,,,,,,,,,Daten,197_1_Bestand_an_Wohnungen_nach_Stadtbezirken.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13493,Gebäude- und Wohnungsbestand sowie Wohnbautätigkeit im regionalen Vergleich seit 2001 - Stadt Stuttgart,/publication/showpreview/13493/url/7374_1_Gebaeude__Wohnungen_und_Wohnbautaetigkeit_im_regionalen_Vergleich.XLS,XLS,Gebäude- und Wohnungsbestand sowie Wohnbautätigkeit im regionalen Vergleich seit 2001,2001-2012,,"4,00",,,,,,x,x,,,,,,,,,,,,,,,,,,,Daten,7374_1_Gebaeude__Wohnungen_und_Wohnbautaetigkeit_im_regionalen_Vergleich.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13567,Indikatoren zum Wohnungsbau in Stuttgart seit 1980 - Stadt Stuttgart,/publication/showpreview/13567/url/3696_1_Indikatoren_zum_Wohnungsbau.XLS,XLS,Indikatoren zum Wohnungsbau in Stuttgart seit 1980,1980-2012,,"2,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,3696_1_Indikatoren_zum_Wohnungsbau.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13436,Gebäude- und Wohnungsbestand und Indikatoren zur Wohnraumversorgung in Stuttgart am 31.12.2012 nach Stadtbezirken seit 1995 nach Stadtbezirken - Stadt Stuttgart,/publication/showpreview/13436/url/249_1_Gebaeude_und_Wohnungen_sowie_Wohnraumversorgung_nach_Stadtbezirken.XLS,XLS,Gebäude- und Wohnungsbestand und Indikatoren zur Wohnraumversorgung in Stuttgart am 31.12.2012 nach Stadtbezirken seit 1995 nach Stadtbezirken,1995-2012,,"4,00",,,,,,x,,,,,,,,,,,,,,,,,,,,Daten,249_1_Gebaeude_und_Wohnungen_sowie_Wohnraumversorgung_nach_Stadtbezirken.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13461,"Baufertigstellungen von Baumaßnahmen an bestehenden Wohngebäuden, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1995 nach Stadtbezirken - Stadt Stuttgart",/publication/showpreview/13461/url/1798_1_Baumasznahmen_an_bestehenden_Gebaeuden_nach_Stadtbezirken.XLS,XLS,"Baufertigstellungen von Baumaßnahmen an bestehenden Wohngebäuden, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1995 nach Stadtbezirken",1995-2013,,"4,00",,,,,,x,x,,,,,,,,,,,,,,,,,,,Daten,1798_1_Baumasznahmen_an_bestehenden_Gebaeuden_nach_Stadtbezirken.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/15679,Elterngeldanträge 2007 im Großstadtvergleich nach Geschlecht - Stadt Stuttgart,/publication/showpreview/15679/url/7936_1_Elterngeldantraege_2007_im_Groszstadtvergleich_nach_Geschlecht.XLS,XLS,Elterngeldanträge 2007 im Großstadtvergleich nach Geschlecht,2007-2008,,"2,00",,,x,,,,,x,,,,,,,,,,,,,,,,,,Daten,7936_1_Elterngeldantraege_2007_im_Groszstadtvergleich_nach_Geschlecht.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/15376,Elterngeldanträge im regionalen Vergleich 2007 nach Geschlecht - Stadt Stuttgart,/publication/showpreview/15376/url/7852_1_Elterngeldantraege_im_regionalen_Vergleich_2007_nach_Geschlecht.XLS,XLS,Elterngeldanträge im regionalen Vergleich 2007 nach Geschlecht,2007-2008,,"2,00",,,x,,,,,x,,,,,,,,,,,,,,,,,,Daten,7852_1_Elterngeldantraege_im_regionalen_Vergleich_2007_nach_Geschlecht.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13700,Sozialversicherungspflichtig Beschäftigte in Stuttgart seit 1991 nach Wohn- und Arbeitsort (Berurspendler) - Stadt Stuttgart,/publication/showpreview/13700/url/614_1_Sozialversicherungspflichtig_beschaeftigte_Pendler.XLS,XLS,Sozialversicherungspflichtig Beschäftigte in Stuttgart seit 1991 nach Wohn- und Arbeitsort (Berurspendler,1991-2012,,"2,00",,,x,,,,,x,,,,,,,,,,,,,,,,,,Daten,614_1_Sozialversicherungspflichtig_beschaeftigte_Pendler.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13657,Sozialversicherungspflichtig beschäftigte Auszubildende in Stuttgart seit 1980 nach Staatsangehörigkeit und Geschlecht - Stadt Stuttgart,/publication/showpreview/13657/url/177_1_Sozialversicherungspflichtig_beschaeftigte_Auszubildende.XLS,XLS,Sozialversicherungspflichtig beschäftigte Auszubildende in Stuttgart seit 1980 nach Staatsangehörigkeit und Geschlecht,1980-2012,,"2,00",,,x,,,,,x,,,,,,,,,,,,,,,,,,Daten,177_1_Sozialversicherungspflichtig_beschaeftigte_Auszubildende.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13379,Sozialversicherungspflichtig Beschäftigte am Arbeitsort in ausgewählten Großstädten seit 1995 - Stadt Stuttgart,/publication/showpreview/13379/url/2481_1_Sozialversicherungspflichtig_Beschaeftigte_in_Groszstaedten.XLS,XLS,Sozialversicherungspflichtig Beschäftigte am Arbeitsort in ausgewählten Großstädten seit 1995,1995-2011,,"2,00",,x,,,,,,x,,,,,,,,,,,,,,,,,,Daten,2481_1_Sozialversicherungspflichtig_Beschaeftigte_in_Groszstaedten.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/23132,Sozialversicherungspflichtig Beschäftigte seit 2008 nach Wirtschaftsabschnitten und Quartalen - Stadt Stuttgart,/publication/showpreview/23132/url/9934_1_Beschaeftigte_nach_Wirtschaftsabschnitten_und_Quartalen.XLS,XLS,Sozialversicherungspflichtig Beschäftigte seit 2008 nach Wirtschaftsabschnitten und Quartalen,2008-2013,,"2,00",,x,,,,,,x,,,,,,,,,,,,,,,,,,Daten,9934_1_Beschaeftigte_nach_Wirtschaftsabschnitten_und_Quartalen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13661,Sozialversicherungspflichtig Beschäftigte in Stuttgart seit 1984 nach Voll- und Teilzeitbeschäftigung sowie Geschlecht - Stadt Stuttgart,/publication/showpreview/13661/url/182_1_Beschaeftigte_nach_Voll__Teilzeit_und_Geschlecht.XLS,XLS,Sozialversicherungspflichtig Beschäftigte in Stuttgart seit 1984 nach Voll- und Teilzeitbeschäftigung sowie Geschlecht,1984-2012,,"2,00",,x,x,,,,,x,,,,,,,,,,,,,,,,,,Daten,182_1_Beschaeftigte_nach_Voll__Teilzeit_und_Geschlecht.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13658,Sozialversicherungspflichtig Beschäftigte in Stuttgart seit 1980 nach Geschlecht und Staatsangehörigkeit - Stadt Stuttgart,/publication/showpreview/13658/url/179_1_Beschaeftigte_nach_Geschlecht_und_deutsch_nichtdeutsch.XLS,XLS,Sozialversicherungspflichtig Beschäftigte in Stuttgart seit 1980 nach Geschlecht und Staatsangehörigkeit,1980-2012,,"2,00",,x,x,,,,,x,,,,,,,,,,,,,,,,,,Daten,179_1_Beschaeftigte_nach_Geschlecht_und_deutsch_nichtdeutsch.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13659,Sozialversicherungspflichtig Beschäftigte in Stuttgart seit 1980 nach Geschlecht und Altersgruppen - Stadt Stuttgart,/publication/showpreview/13659/url/180_1_Beschaeftigte_nach_Geschlecht_und_Alter.XLS,XLS,Sozialversicherungspflichtig Beschäftigte in Stuttgart seit 1980 nach Geschlecht und Altersgruppen,1980-2012,,"2,00",,x,x,,,,,x,,,,,,,,,,,,,,,,,,Daten,180_1_Beschaeftigte_nach_Geschlecht_und_Alter.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13660,Sozialversicherungspflichtig Beschäftigte in Stuttgart seit 1980 nach Berufsbereichen - Stadt Stuttgart,/publication/showpreview/13660/url/181_1_Beschaeftigte_nach_Berufsbereichen.XLS,XLS,Sozialversicherungspflichtig Beschäftigte in Stuttgart seit 1980 nach Geschlecht und Altersgruppen,1980-2012,,"2,00",,x,x,,,,,x,,,,,,,,,,,,,,,,,,Daten,181_1_Beschaeftigte_nach_Berufsbereichen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13521,Kurse und Einzelveranstaltungen an der Volkshochschule Stuttgart seit 1996 nach Programmbereichen und Fachgebieten - Stadt Stuttgart,/publication/showpreview/13521/url/545_1_Volkshochschule___Kurse_und_Einzelveranstaltungen.XLS,XLS,Sozialversicherungspflichtig Beschäftigte in Stuttgart seit 1980 nach Berufsbereichen,1996-2011,,"4,00",,x,,,,,,x,,,,,,,,,,,,,,,,,,Daten,545_1_Volkshochschule___Kurse_und_Einzelveranstaltungen.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13632,"Belegungen, Kurse und Dozenten an der Volkshochschule Stuttgart seit 1950 - Stadt Stuttgart",/publication/showpreview/13632/url/68_1_Volkshochschule___Belegungen__Kurse_und_Dozenten.XLS,XLS,"Belegungen, Kurse und Dozenten an der Volkshochschule Stuttgart seit 1950",1950-2012,,"2,00",,,,x,,,,,,,,,,,,,,,,,,,,,,Daten,68_1_Volkshochschule___Belegungen__Kurse_und_Dozenten.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13536,Mitglieder Stuttgarter Sportvereine seit 1995 nach Sportarten und ausgewählten Altersgruppen - Stadt Stuttgart,/publication/showpreview/13536/url/951_1_Sportvereine___Mitglieder_nach_Sportarten_und_Alter.XLS,XLS,Mitglieder Stuttgarter Sportvereine seit 1995 nach Sportarten und ausgewählten Altersgruppen,1995-2013,,"4,00",,,,,,,,,,,,,x,,,,,,,,,,,,,Daten,951_1_Sportvereine___Mitglieder_nach_Sportarten_und_Alter.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13769,Besucher der Mineralbäder seit 1980 - Stadt Stuttgart,/publication/showpreview/13769/url/2408_1_Besucher_der_Mineralbaeder_seit_1980.XLS,XLS,Besucher der Mineralbäder seit 1980,1980-2013,,"2,00",,,,,,,,,,,,,x,,,,,,,,,,,,,Daten,2408_1_Besucher_der_Mineralbaeder_seit_1980.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/15652,Naturraum und Klima - thematische Karten - Stadt Stuttgart,/publication/showpublic/15652/url/7732_Naturraum_und_Klima___thematische_Karten.zip,ZIP,"Thematische Karten zu Topografie, Geologie, Temperaturen, Niederschlag und Kaltluftsammelgebieten in Stuttgart",2010,nicht bekannt,,,,,,,,,,,,,,,x,,,,,,,,,,,,Daten,7732_Naturraum_und_Klima___thematische_Karten.zip,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13765,Jahresfahrleistungen in Stuttgart seit 1985 nach Straßenkategorien und Fahrzeugarten - Stadt Stuttgart,/publication/showpreview/13765/url/1906_1_Jahresfahrleistungen_nach_Straszenkategorien_und_Fahrzeugarten.XLS,XLS,Jahresfahrleistungen in Stuttgart seit 1985 nach Straßenkategorien und Fahrzeugarten,1985-2011,,"2,00",,,,,,,,,,,,,,,x,,,,,,,,,,,Daten,1906_1_Jahresfahrleistungen_nach_Straszenkategorien_und_Fahrzeugarten.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13764,Verkehrszählungen in Stuttgart seit 1981 am Kesselrand - Stadt Stuttgart,/publication/showpreview/13764/url/1905_1_Verkehrszaehlungen_am_Kesselrand.XLS,XLS,Verkehrszählungen in Stuttgart seit 1981 am Kesselrand,1981-2013,,"2,00",,,,,,,,,,,,,,,x,,,,,,,,,,,Daten,1905_1_Verkehrszaehlungen_am_Kesselrand.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13763,Verkehrszählungen in Stuttgart seit 1980 an der Markungsgrenze - Stadt Stuttgart,/publication/showpreview/13763/url/1904_1_Verkehrszaehlungen_an_der_Markungsgrenze.XLS,XLS,Verkehrszählungen in Stuttgart seit 1980 an der Markungsgrenze,1980-2012,,"2,00",,,,,,,,,,,,,,,x,,,,,,,,,,,Daten,1904_1_Verkehrszaehlungen_an_der_Markungsgrenze.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/24039,"Kindeswohl: Verfahren zur Einschätzung der Gefährdung des Kindeswohls nach dem Ergebnis des Verfahrens, Geschlecht und Alter des/der Minderjährigen im regionalen Vergleich - Stadt Stuttgart",/publication/showpreview/24039/url/10153_1_Kindeswohlverfahren_nach_Ergebnis__Geschlecht_und_Alter.XLS,XLS,"Kindeswohlverfahren nach Ergebnis, Geschlecht und Alter",2014,,"2,00",,,,,,,,,,,,,,,,,,x,,,,,,,,Daten,10153_1_Kindeswohlverfahren_nach_Ergebnis__Geschlecht_und_Alter.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/24042,Kindeswohl: Verfahren zur Einschätzung der Gefährdung des Kindeswohls nach der/ den bekannt machenden Institution oder Person/-en im regionalen Vergleich - Stadt Stuttgart,/publication/showpreview/24042/url/10152_1_Kindeswohlverfahren_nach_bekanntmachender_Person.XLS,XLS,Kindeswohl: Verfahren zur Einschätzung der Gefährdung des Kindeswohls nach der/ den bekannt machenden Institution oder Person/-en im regionalen Vergleich,2014,,"2,00",,,,,,,,,,,,,,,,,,x,,,,,,,,Daten,10152_1_Kindeswohlverfahren_nach_bekanntmachender_Person.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13811,"Haushalte, Familien mit Kindern in Stuttgart seit 1992 nach der Zahl der Kinder - Stadt Stuttgart",/publication/showpreview/13811/url/4700_1_Haushalte__Familien_nach_der_Kinderzahl.XLS,XLS,"Haushalte, Familien mit Kindern in Stuttgart seit 1992 nach der Zahl der Kinder",1992-2013,,"2,00",,,x,,,,,,,,,,,,,,,,,,,,,,,Daten,4700_1_Haushalte__Familien_nach_der_Kinderzahl.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13629,Schüler an öffentlichen und privaten Berufsschulen in Stuttgart seit 1980  nach Wohn- und Beschäftigungsort - Stadt Stuttgart,/publication/showpreview/13629/url/55_1_Oeffentliche_und_private_Berufsschulen___Schueler.XLS,XLS,Schüler an öffentlichen und privaten Berufsschulen in Stuttgart seit 1980 nach Wohn- und Beschäftigungsort,1980-2013,,"2,00",,,,x,,,,,,,,,,,,,,,,,,,,,,Daten,55_1_Oeffentliche_und_private_Berufsschulen___Schueler.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13786,"Schulen, Klassen und Schüler an öffentlichen und privaten beruflichen Schulen in Stuttgart seit 1981 - Stadt Stuttgart",/publication/showpreview/13786/url/2447_1_Oeffentliche_und_private_berufliche_Schulen___Klassen__Schueler.XLS,XLS,"Schulen, Klassen und Schüler an öffentlichen und privaten beruflichen Schulen in Stuttgart seit 1981",1981-2012,,"2,00",,,,x,,,,,,,,,,,,,,,,,,,,,,Daten,2447_1_Oeffentliche_und_private_berufliche_Schulen___Klassen__Schueler.XLS,
-c,stuttgart.de,http://www.stuttgart.de/item/show/305805/1/publ/13695,Ausländische Schüler an öffentlichen und privaten beruflichen Schulen in Stuttgart seit 1980 nach Staatsangehörigkeit - Stadt Stuttgart,/publication/showpreview/13695/url/542_1_Oeffentliche_und_private_berufliche_Schulen___auslaendische_Schueler.XLS,XLS,Ausländische Schüler an öffentlichen und privaten beruflichen Schulen in Stuttgart seit 1980 nach Staatsangehörigkeit,1980-2013,,"2,00",,,,x,,,,,,,,,,,,,,,,,,,,,,Daten,542_1_Oeffentliche_und_private_berufliche_Schulen___auslaendische_Schueler.XLS,
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta content="width=300, initial-scale=1" name="viewport">
+  <meta name="description" content="Create a new spreadsheet and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Sheets to edit Excel files. Free from Google.">
+  <title>Google Sheets - create and edit spreadsheets online, for free.</title>
+  <style>
+  @font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(//themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(//themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+  </style>
+  <style>
+  h1, h2 {
+  -webkit-animation-duration: 0.1s;
+  -webkit-animation-name: fontfix;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-delay: 0;
+  }
+  @-webkit-keyframes fontfix {
+  from {
+  opacity: 1;
+  }
+  to {
+  opacity: 1;
+  }
+  }
+  </style>
+<style>
+  html, body {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  position: absolute;
+  height: 100%;
+  min-width: 100%;
+  font-size: 13px;
+  color: #404040;
+  direction: ltr;
+  -webkit-text-size-adjust: none;
+  }
+  button,
+  input[type=button],
+  input[type=submit] {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  }
+  a,
+  a:hover,
+  a:visited {
+  color: #427fed;
+  cursor: pointer;
+  text-decoration: none;
+  }
+  a:hover {
+  text-decoration: underline;
+  }
+  h1 {
+  font-size: 20px;
+  color: #262626;
+  margin: 0 0 15px;
+  font-weight: normal;
+  }
+  h2 {
+  font-size: 14px;
+  color: #262626;
+  margin: 0 0 15px;
+  font-weight: bold;
+  }
+  input[type=email],
+  input[type=number],
+  input[type=password],
+  input[type=tel],
+  input[type=text],
+  input[type=url] {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  display: inline-block;
+  height: 36px;
+  padding: 0 8px;
+  margin: 0;
+  background: #fff;
+  border: 1px solid #d9d9d9;
+  border-top: 1px solid #c0c0c0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -moz-border-radius: 1px;
+  -webkit-border-radius: 1px;
+  border-radius: 1px;
+  font-size: 15px;
+  color: #404040;
+  }
+  input[type=email]:hover,
+  input[type=number]:hover,
+  input[type=password]:hover,
+  input[type=tel]:hover,
+  input[type=text]:hover,
+  input[type=url]:hover {
+  border: 1px solid #b9b9b9;
+  border-top: 1px solid #a0a0a0;
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  }
+  input[type=email]:focus,
+  input[type=number]:focus,
+  input[type=password]:focus,
+  input[type=tel]:focus,
+  input[type=text]:focus,
+  input[type=url]:focus {
+  outline: none;
+  border: 1px solid #4d90fe;
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  }
+  input[type=checkbox],
+  input[type=radio] {
+  -webkit-appearance: none;
+  display: inline-block;
+  width: 13px;
+  height: 13px;
+  margin: 0;
+  cursor: pointer;
+  vertical-align: bottom;
+  background: #fff;
+  border: 1px solid #c6c6c6;
+  -moz-border-radius: 1px;
+  -webkit-border-radius: 1px;
+  border-radius: 1px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  position: relative;
+  }
+  input[type=checkbox]:active,
+  input[type=radio]:active {
+  background: #ebebeb;
+  }
+  input[type=checkbox]:hover {
+  border-color: #c6c6c6;
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  }
+  input[type=radio] {
+  -moz-border-radius: 1em;
+  -webkit-border-radius: 1em;
+  border-radius: 1em;
+  width: 15px;
+  height: 15px;
+  }
+  input[type=checkbox]:checked,
+  input[type=radio]:checked {
+  background: #fff;
+  }
+  input[type=radio]:checked::after {
+  content: '';
+  display: block;
+  position: relative;
+  top: 3px;
+  left: 3px;
+  width: 7px;
+  height: 7px;
+  background: #666;
+  -moz-border-radius: 1em;
+  -webkit-border-radius: 1em;
+  border-radius: 1em;
+  }
+  input[type=checkbox]:checked::after {
+  content: url(//ssl.gstatic.com/ui/v1/menu/checkmark.png);
+  display: block;
+  position: absolute;
+  top: -6px;
+  left: -5px;
+  }
+  input[type=checkbox]:focus {
+  outline: none;
+  border-color: #4d90fe;
+  }
+  .stacked-label {
+  display: block;
+  font-weight: bold;
+  margin: .5em 0;
+  }
+  .hidden-label {
+  position: absolute !important;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 0px;
+  width: 0px;
+  overflow: hidden;
+  visibility: hidden;
+  }
+  input[type=checkbox].form-error,
+  input[type=email].form-error,
+  input[type=number].form-error,
+  input[type=password].form-error,
+  input[type=text].form-error,
+  input[type=tel].form-error,
+  input[type=url].form-error {
+  border: 1px solid #dd4b39;
+  }
+  .error-msg {
+  margin: .5em 0;
+  display: block;
+  color: #dd4b39;
+  line-height: 17px;
+  }
+  .help-link {
+  background: #dd4b39;
+  padding: 0 5px;
+  color: #fff;
+  font-weight: bold;
+  display: inline-block;
+  -moz-border-radius: 1em;
+  -webkit-border-radius: 1em;
+  border-radius: 1em;
+  text-decoration: none;
+  position: relative;
+  top: 0px;
+  }
+  .help-link:visited {
+  color: #fff;
+  }
+  .help-link:hover {
+  color: #fff;
+  background: #c03523;
+  text-decoration: none;
+  }
+  .help-link:active {
+  opacity: 1;
+  background: #ae2817;
+  }
+  .wrapper {
+  position: relative;
+  min-height: 100%;
+  }
+  .content {
+  padding: 0 44px;
+  }
+  .main {
+  padding-bottom: 100px;
+  }
+  /* For modern browsers */
+  .clearfix:before,
+  .clearfix:after {
+  content: "";
+  display: table;
+  }
+  .clearfix:after {
+  clear: both;
+  }
+  /* For IE 6/7 (trigger hasLayout) */
+  .clearfix {
+  zoom:1;
+  }
+  .google-header-bar {
+  height: 71px;
+  border-bottom: 1px solid #e5e5e5;
+  overflow: hidden;
+  }
+  .header .logo {
+  margin: 17px 0 0;
+  float: left;
+  height: 38px;
+  width: 116px;
+  }
+  .header .secondary-link {
+  margin: 28px 0 0;
+  float: right;
+  }
+  .header .secondary-link a {
+  font-weight: normal;
+  }
+  .google-header-bar.centered {
+  border: 0;
+  height: 108px;
+  }
+  .google-header-bar.centered .header .logo {
+  float: none;
+  margin: 40px auto 30px;
+  display: block;
+  }
+  .google-header-bar.centered .header .secondary-link {
+  display: none
+  }
+  .google-footer-bar {
+  position: absolute;
+  bottom: 0;
+  height: 35px;
+  width: 100%;
+  border-top: 1px solid #e5e5e5;
+  overflow: hidden;
+  }
+  .footer {
+  padding-top: 7px;
+  font-size: .85em;
+  white-space: nowrap;
+  line-height: 0;
+  }
+  .footer ul {
+  float: left;
+  max-width: 80%;
+  padding: 0;
+  }
+  .footer ul li {
+  color: #737373;
+  display: inline;
+  padding: 0;
+  padding-right: 1.5em;
+  }
+  .footer a {
+  color: #737373;
+  }
+  .lang-chooser-wrap {
+  float: right;
+  display: inline;
+  }
+  .lang-chooser-wrap img {
+  vertical-align: top;
+  }
+  .lang-chooser {
+  font-size: 13px;
+  height: 24px;
+  line-height: 24px;
+  }
+  .lang-chooser option {
+  font-size: 13px;
+  line-height: 24px;
+  }
+  .hidden {
+  height: 0px;
+  width: 0px;
+  overflow: hidden;
+  visibility: hidden;
+  display: none !important;
+  }
+  .banner {
+  text-align: center;
+  }
+  .card {
+  background-color: #f7f7f7;
+  padding: 20px 25px 30px;
+  margin: 0 auto 25px;
+  width: 304px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  }
+  .card > *:first-child {
+  margin-top: 0;
+  }
+  .rc-button,
+  .rc-button:visited {
+  display: inline-block;
+  min-width: 46px;
+  text-align: center;
+  color: #444;
+  font-size: 14px;
+  font-weight: 700;
+  height: 36px;
+  padding: 0 8px;
+  line-height: 36px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  -o-transition: all 0.218s;
+  -moz-transition: all 0.218s;
+  -webkit-transition: all 0.218s;
+  transition: all 0.218s;
+  border: 1px solid #dcdcdc;
+  background-color: #f5f5f5;
+  background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -moz-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -ms-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -o-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: linear-gradient(top,#f5f5f5,#f1f1f1);
+  -o-transition: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  cursor: default;
+  }
+  .card .rc-button {
+  width: 100%;
+  padding: 0;
+  }
+  .rc-button.disabled,
+  .rc-button[disabled] {
+  opacity: .5;
+  filter: alpha(opacity=50);
+  cursor: default;
+  pointer-events: none;
+  }
+  .rc-button:hover {
+  border: 1px solid #c6c6c6;
+  color: #333;
+  text-decoration: none;
+  -o-transition: all 0.0s;
+  -moz-transition: all 0.0s;
+  -webkit-transition: all 0.0s;
+  transition: all 0.0s;
+  background-color: #f8f8f8;
+  background-image: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
+  background-image: -moz-linear-gradient(top,#f8f8f8,#f1f1f1);
+  background-image: -ms-linear-gradient(top,#f8f8f8,#f1f1f1);
+  background-image: -o-linear-gradient(top,#f8f8f8,#f1f1f1);
+  background-image: linear-gradient(top,#f8f8f8,#f1f1f1);
+  -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  }
+  .rc-button:active {
+  background-color: #f6f6f6;
+  background-image: -webkit-linear-gradient(top,#f6f6f6,#f1f1f1);
+  background-image: -moz-linear-gradient(top,#f6f6f6,#f1f1f1);
+  background-image: -ms-linear-gradient(top,#f6f6f6,#f1f1f1);
+  background-image: -o-linear-gradient(top,#f6f6f6,#f1f1f1);
+  background-image: linear-gradient(top,#f6f6f6,#f1f1f1);
+  -moz-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+  }
+  .rc-button-submit,
+  .rc-button-submit:visited {
+  border: 1px solid #3079ed;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.1);
+  background-color: #4d90fe;
+  background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
+  background-image: -moz-linear-gradient(top,#4d90fe,#4787ed);
+  background-image: -ms-linear-gradient(top,#4d90fe,#4787ed);
+  background-image: -o-linear-gradient(top,#4d90fe,#4787ed);
+  background-image: linear-gradient(top,#4d90fe,#4787ed);
+  }
+  .rc-button-submit:hover {
+  border: 1px solid #2f5bb7;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.3);
+  background-color: #357ae8;
+  background-image: -webkit-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -moz-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -ms-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -o-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: linear-gradient(top,#4d90fe,#357ae8);
+  }
+  .rc-button-submit:active {
+  background-color: #357ae8;
+  background-image: -webkit-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -moz-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -ms-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: -o-linear-gradient(top,#4d90fe,#357ae8);
+  background-image: linear-gradient(top,#4d90fe,#357ae8);
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  }
+  .rc-button-red,
+  .rc-button-red:visited {
+  border: 1px solid transparent;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.1);
+  background-color: #d14836;
+  background-image: -webkit-linear-gradient(top,#dd4b39,#d14836);
+  background-image: -moz-linear-gradient(top,#dd4b39,#d14836);
+  background-image: -ms-linear-gradient(top,#dd4b39,#d14836);
+  background-image: -o-linear-gradient(top,#dd4b39,#d14836);
+  background-image: linear-gradient(top,#dd4b39,#d14836);
+  }
+  .rc-button-red:hover {
+  border: 1px solid #b0281a;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.3);
+  background-color: #c53727;
+  background-image: -webkit-linear-gradient(top,#dd4b39,#c53727);
+  background-image: -moz-linear-gradient(top,#dd4b39,#c53727);
+  background-image: -ms-linear-gradient(top,#dd4b39,#c53727);
+  background-image: -o-linear-gradient(top,#dd4b39,#c53727);
+  background-image: linear-gradient(top,#dd4b39,#c53727);
+  }
+  .rc-button-red:active {
+  border: 1px solid #992a1b;
+  background-color: #b0281a;
+  background-image: -webkit-linear-gradient(top,#dd4b39,#b0281a);
+  background-image: -moz-linear-gradient(top,#dd4b39,#b0281a);
+  background-image: -ms-linear-gradient(top,#dd4b39,#b0281a);
+  background-image: -o-linear-gradient(top,#dd4b39,#b0281a);
+  background-image: linear-gradient(top,#dd4b39,#b0281a);
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  }
+  .secondary-actions {
+  text-align: center;
+  }
+</style>
+<style media="screen and (max-width: 800px), screen and (max-height: 800px)">
+  .google-header-bar.centered {
+  height: 83px;
+  }
+  .google-header-bar.centered .header .logo {
+  margin: 25px auto 20px;
+  }
+  .card {
+  margin-bottom: 20px;
+  }
+</style>
+<style media="screen and (max-width: 580px)">
+  html, body {
+  font-size: 14px;
+  }
+  .google-header-bar.centered {
+  height: 73px;
+  }
+  .google-header-bar.centered .header .logo {
+  margin: 20px auto 15px;
+  }
+  .content {
+  padding-left: 10px;
+  padding-right: 10px;
+  }
+  .hidden-small {
+  display: none;
+  }
+  .card {
+  padding: 20px 15px 30px;
+  width: 270px;
+  }
+  .footer ul li {
+  padding-right: 1em;
+  }
+  .lang-chooser-wrap {
+  display: none;
+  }
+</style>
+<style>
+  pre.debug {
+  font-family: monospace;
+  position: absolute;
+  left: 0;
+  margin: 0;
+  padding: 1.5em;
+  font-size: 13px;
+  background: #f1f1f1;
+  border-top: 1px solid #e5e5e5;
+  direction: ltr;
+  white-space: pre-wrap;
+  width: 90%;
+  overflow: hidden;
+  }
+</style>
+<style>
+  .banner h1 {
+  font-family: 'Open Sans', arial;
+  -webkit-font-smoothing: antialiased;
+  color: #555;
+  font-size: 42px;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 20px;
+  }
+  .banner h2 {
+  font-family: 'Open Sans', arial;
+  -webkit-font-smoothing: antialiased;
+  color: #555;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  }
+  .signin-card {
+  width: 274px;
+  padding: 40px 40px;
+  }
+  .signin-card .profile-img {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 10px;
+  display: block;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  }
+  .signin-card .profile-name {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px 0 0;
+  min-height: 1em;
+  }
+  .signin-card input[type=email],
+  .signin-card input[type=password],
+  .signin-card input[type=text],
+  .signin-card input[type=submit] {
+  width: 100%;
+  display: block;
+  margin-bottom: 10px;
+  z-index: 1;
+  position: relative;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  }
+  .signin-card #Email,
+  .signin-card #Passwd,
+  .signin-card .captcha {
+  direction: ltr;
+  height: 44px;
+  font-size: 16px;
+  }
+  .signin-card #Email + .stacked-label {
+  margin-top: 15px;
+  }
+  .signin-card #reauthEmail {
+  display: block;
+  margin-bottom: 10px;
+  line-height: 36px;
+  padding: 0 8px;
+  font-size: 15px;
+  color: #404040;
+  line-height: 2;
+  margin-bottom: 10px;
+  font-size: 14px;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  }
+  .one-google p {
+  margin: 0 0 10px;
+  color: #555;
+  font-size: 14px;
+  text-align: center;
+  }
+  .one-google p.create-account,
+  .one-google p.switch-account {
+  margin-bottom: 60px;
+  }
+  .one-google img {
+  display: block;
+  width: 210px;
+  height: 17px;
+  margin: 10px auto;
+  }
+</style>
+<style media="screen and (max-width: 800px), screen and (max-height: 800px)">
+  .banner h1 {
+  font-size: 38px;
+  margin-bottom: 15px;
+  }
+  .banner h2 {
+  margin-bottom: 15px;
+  }
+  .one-google p.create-account,
+  .one-google p.switch-account {
+  margin-bottom: 30px;
+  }
+  .signin-card #Email {
+  margin-bottom: 0;
+  }
+  .signin-card #Passwd {
+  margin-top: -1px;
+  }
+  .signin-card #Email.form-error,
+  .signin-card #Passwd.form-error {
+  z-index: 2;
+  }
+  .signin-card #Email:hover,
+  .signin-card #Email:focus,
+  .signin-card #Passwd:hover,
+  .signin-card #Passwd:focus {
+  z-index: 3;
+  }
+</style>
+<style media="screen and (max-width: 580px)">
+  .banner h1 {
+  font-size: 22px;
+  margin-bottom: 15px;
+  }
+  .signin-card {
+  width: 260px;
+  padding: 20px 20px;
+  margin: 0 auto 20px;
+  }
+  .signin-card .profile-img {
+  width: 72px;
+  height: 72px;
+  -moz-border-radius: 72px;
+  -webkit-border-radius: 72px;
+  border-radius: 72px;
+  }
+</style>
+<style>
+  .jfk-tooltip {
+  background-color: #fff;
+  border: 1px solid;
+  color: #737373;
+  font-size: 12px;
+  position: absolute;
+  z-index: 800 !important;
+  border-color: #bbb #bbb #a8a8a8;
+  padding: 16px;
+  width: 250px;
+  }
+ .jfk-tooltip h3 {
+  color: #555;
+  font-size: 12px;
+  margin: 0 0 .5em;
+  }
+ .jfk-tooltip-content p:last-child {
+  margin-bottom: 0;
+  }
+  .jfk-tooltip-arrow {
+  position: absolute;
+  }
+  .jfk-tooltip-arrow .jfk-tooltip-arrowimplbefore,
+  .jfk-tooltip-arrow .jfk-tooltip-arrowimplafter {
+  display: block;
+  height: 0;
+  position: absolute;
+  width: 0;
+  }
+  .jfk-tooltip-arrow .jfk-tooltip-arrowimplbefore {
+  border: 9px solid;
+  }
+  .jfk-tooltip-arrow .jfk-tooltip-arrowimplafter {
+  border: 8px solid;
+  }
+  .jfk-tooltip-arrowdown {
+  bottom: 0;
+  }
+  .jfk-tooltip-arrowup {
+  top: -9px;
+  }
+  .jfk-tooltip-arrowleft {
+  left: -9px;
+  top: 30px;
+  }
+  .jfk-tooltip-arrowright {
+  right: 0;
+  top: 30px;
+  }
+  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplbefore,.jfk-tooltip-arrowup .jfk-tooltip-arrowimplbefore {
+  border-color: #bbb transparent;
+  left: -9px;
+  }
+  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplbefore {
+  border-color: #a8a8a8 transparent;
+  }
+  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplafter,.jfk-tooltip-arrowup .jfk-tooltip-arrowimplafter {
+  border-color: #fff transparent;
+  left: -8px;
+  }
+  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplbefore {
+  border-bottom-width: 0;
+  }
+  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplafter {
+  border-bottom-width: 0;
+  }
+  .jfk-tooltip-arrowup .jfk-tooltip-arrowimplbefore {
+  border-top-width: 0;
+  }
+  .jfk-tooltip-arrowup .jfk-tooltip-arrowimplafter {
+  border-top-width: 0;
+  top: 1px;
+  }
+  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplbefore,
+  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplbefore {
+  border-color: transparent #bbb;
+  top: -9px;
+  }
+  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplafter,
+  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplafter {
+  border-color:transparent #fff;
+  top:-8px;
+  }
+  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplbefore {
+  border-left-width: 0;
+  }
+  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplafter {
+  border-left-width: 0;
+  left: 1px;
+  }
+  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplbefore {
+  border-right-width: 0;
+  }
+  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplafter {
+  border-right-width: 0;
+  }
+  .jfk-tooltip-closebtn {
+  background: url("//ssl.gstatic.com/ui/v1/icons/common/x_8px.png") no-repeat;
+  border: 1px solid transparent;
+  height: 21px;
+  opacity: .4;
+  outline: 0;
+  position: absolute;
+  right: 2px;
+  top: 2px;
+  width: 21px;
+  }
+  .jfk-tooltip-closebtn:focus,
+  .jfk-tooltip-closebtn:hover {
+  opacity: .8;
+  cursor: pointer;
+  }
+  .jfk-tooltip-closebtn:focus {
+  border-color: #4d90fe;
+  }
+</style>
+<style media="screen and (max-width: 580px)">
+  .jfk-tooltip {
+  display: none;
+  }
+</style>
+<style>
+  .need-help-reverse {
+  float: right;
+  }
+  .remember .bubble-wrap {
+  position: absolute;
+  padding-top: 3px;
+  -o-transition: opacity .218s ease-in .218s;
+  -moz-transition: opacity .218s ease-in .218s;
+  -webkit-transition: opacity .218s ease-in .218s;
+  transition: opacity .218s ease-in .218s;
+  left: -999em;
+  opacity: 0;
+  width: 314px;
+  margin-left: -20px;
+  }
+  .remember:hover .bubble-wrap,
+  .remember input:focus ~ .bubble-wrap,
+  .remember .bubble-wrap:hover,
+  .remember .bubble-wrap:focus {
+  opacity: 1;
+  left: inherit;
+  }
+  .bubble-pointer {
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid #fff;
+  width: 0;
+  height: 0;
+  margin-left: 17px;
+  }
+  .bubble {
+  background-color: #fff;
+  padding: 15px;
+  margin-top: -1px;
+  font-size: 11px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  }
+  #stay-signed-in {
+  float: left;
+  }
+  #stay-signed-in-tooltip {
+  left: auto;
+  margin-left: -20px;
+  padding-top: 3px;
+  position: absolute;
+  top: 0;
+  visibility: hidden;
+  width: 314px;
+  z-index: 1;
+  }
+  .dasher-tooltip {
+  position: absolute;
+  left: 50%;
+  top: 380px;
+  margin-left: 150px;
+  }
+  .dasher-tooltip .tooltip-pointer {
+  margin-top: 15px;
+  }
+  .dasher-tooltip p {
+  margin-top: 0;
+  }
+  .dasher-tooltip p span {
+  display: block;
+  }
+</style>
+<style media="screen and (max-width: 800px), screen and (max-height: 800px)">
+  .dasher-tooltip {
+  top: 340px;
+  }
+</style>
+  </head>
+  <body>
+  <div class="wrapper">
+  <div class="google-header-bar  centered">
+  <div class="header content clearfix">
+  <img alt="Google" class="logo" src="//ssl.gstatic.com/accounts/ui/logo_2x.png">
+  </div>
+  </div>
+  <div class="main content clearfix">
+<div class="banner">
+<h1>
+  One account. All of Google.
+</h1>
+  <h2 class="hidden-small">
+  Sign in to continue to Sheets
+  </h2>
+</div>
+<div class="card signin-card clearfix">
+<img class="profile-img" src="//ssl.gstatic.com/accounts/ui/avatar_2x.png" alt="">
+<p class="profile-name"></p>
+  <form novalidate method="post" action="https://accounts.google.com/ServiceLoginAuth" id="gaia_loginform">
+  <input name="GALX" type="hidden"
+           value="szb41pNkHzM">
+  <input name="continue" type="hidden" value="https://docs.google.com/spreadsheets/d/1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk/export?gid=51929456&amp;format=csv">
+  <input name="followup" type="hidden" value="https://docs.google.com/spreadsheets/d/1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk/export?gid=51929456&amp;format=csv">
+  <input name="service" type="hidden" value="wise">
+  <input name="ltmpl" type="hidden" value="sheets">
+  <input type="hidden" id="_utf8" name="_utf8" value="&#9731;"/>
+  <input type="hidden" name="bgresponse" id="bgresponse" value="js_disabled">
+<label class="hidden-label" for="Email">Email</label>
+<input id="Email" name="Email" type="email"
+       placeholder="Email"
+       value=""
+       spellcheck="false"
+       class="">
+<label class="hidden-label" for="Passwd">Password</label>
+<input id="Passwd" name="Passwd" type="password"
+       placeholder="Password"
+       class="">
+<input id="signIn" name="signIn" class="rc-button rc-button-submit" type="submit" value="Sign in">
+  <input type="hidden" name="PersistentCookie" value="yes">
+  <a id="link-forgot-passwd" href="https://accounts.google.com/RecoverAccount?service=wise&amp;continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D51929456%26format%3Dcsv"
+       
+       >
+  Need help?
+  </a>
+  </form>
+</div>
+<div class="one-google">
+  <p class="create-account">
+  <a id="link-signup" href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D51929456%26format%3Dcsv&amp;ltmpl=sheets">
+  Create an account
+  </a>
+  </p>
+<p class="tagline">
+  One Google Account for everything Google
+</p>
+<img src="//ssl.gstatic.com/accounts/ui/logo_strip_2x.png" width="210" height="17" alt="">
+</div>
+  </div>
+  <div class="google-footer-bar">
+  <div class="footer content clearfix">
+  <ul id="footer-list">
+  <li>
+  Google
+  </li>
+  <li>
+  <a href="https://accounts.google.com/TOS?loc=DE&hl=en" target="_blank">
+  Privacy &amp; Terms
+  </a>
+  </li>
+  <li>
+  <a href="http://www.google.com/support/accounts?hl=en" target="_blank">
+  Help
+  </a>
+  </li>
+  </ul>
+  </div>
+</div>
+  </div>
+<script type="text/javascript">
+  var gaia_attachEvent = function(element, event, callback) {
+  if (element.addEventListener) {
+  element.addEventListener(event, callback, false);
+  } else if (element.attachEvent) {
+  element.attachEvent('on' + event, callback);
+  }
+  };
+  (function() {
+  var gaia_hideNavBar = function() {
+  setTimeout(function() {
+  window.scrollTo(0, 1);
+  }, 0);
+  };
+  gaia_attachEvent(window, 'load', gaia_hideNavBar);
+  })();
+</script>
+  <script type="text/javascript">/* Anti-spam. Want to say hello? Contact (base64) Ym90Z3VhcmQtY29udGFjdEBnb29nbGUuY29tCg== */(function(){eval('var f,k,m=true,p=null,q=false,u=this,v=void 0,aa=Array.prototype,w=function(a,b){return a<b?-1:a>b?1:0},x=function(a,b,c,d,e){c=a.split("."),d=u,c[0]in d||!d.execScript||d.execScript("var "+c[0]);for(;c.length&&(e=c.shift());)c.length||b===v?d=d[e]?d[e]:d[e]={}:d[e]=b},y=function(a,b,c){if(b=typeof a,"object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;if(c=Object.prototype.toString.call(a),"[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b};t:{var z=u.navigator;if(z){var ba=z.userAgent;if(ba){k=ba;break t}}k=""}var A="",ca=function(a){return(a=u.document)?a.documentMode:v},da=/\\b(?:MSIE|rv)[: ]([^\\);]+)(\\)|;)/.exec(k),A=da?da[1]:"",ea=ca(),fa=ea>parseFloat(A)?String(ea):A,ga={},ha=u.document,B=function(a,b,c,d,e,g,h,l,n,s,r,t){if(!(b=ga[a])){for(b=0,c=String(fa).replace(/^[\\s\\xa0]+|[\\s\\xa0]+$/g,"").split("."),d=String(a).replace(/^[\\s\\xa0]+|[\\s\\xa0]+$/g,"").split("."),e=Math.max(c.length,d.length),g=0;0==b&&g<e;g++){h=c[g]||"",l=d[g]||"",n=RegExp("(\\\\d*)(\\\\D*)","g"),s=RegExp("(\\\\d*)(\\\\D*)","g");do{if(r=n.exec(h)||["","",""],t=s.exec(l)||["","",""],0==r[0].length&&0==t[0].length)break;b=w(0==r[1].length?0:parseInt(r[1],10),0==t[1].length?0:parseInt(t[1],10))||w(0==r[2].length,0==t[2].length)||w(r[2],t[2])}while(0==b)}b=ga[a]=0<=b}return b},ia=ha?ca()||("CSS1Compat"==ha.compatMode?parseInt(fa,10):5):v,C=(B("9"),new function(){},p),D=p,F=p,G=9<=ia,ja=function(a){if(!C)for(C={},D={},F={},a=0;65>a;a++)C[a]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(a),D[C[a]]=a,F[a]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_.".charAt(a)},ka=function(a,b,c,d,e){for(a=a.replace(/\\r\\n/g,"\\n"),b=[],d=c=0;d<a.length;d++)e=a.charCodeAt(d),128>e?b[c++]=e:(2048>e?b[c++]=e>>6|192:(b[c++]=e>>12|224,b[c++]=e>>6&63|128),b[c++]=e&63|128);return b},la=!B("9"),H=(B("8"),B("9"),function(a,b){this.type=a,this.currentTarget=this.target=b,this.defaultPrevented=q}),I=(H.prototype.preventDefault=function(){this.defaultPrevented=m},function(a,b,c,d){H.call(this,a?a.type:""),this.relatedTarget=this.currentTarget=this.target=p,this.charCode=this.keyCode=this.button=this.screenY=this.screenX=this.clientY=this.clientX=this.offsetY=this.offsetX=0,this.metaKey=this.shiftKey=this.altKey=this.ctrlKey=q,this.Z=this.state=p,a&&(c=this.type=a.type,this.currentTarget=b,d=a.relatedTarget,this.target=a.target||a.srcElement,d||("mouseover"==c?d=a.fromElement:"mouseout"==c&&(d=a.toElement)),this.relatedTarget=d,this.Z=a,this.button=a.button,this.ctrlKey=a.ctrlKey,this.altKey=a.altKey,this.shiftKey=a.shiftKey,this.metaKey=a.metaKey,this.state=a.state,this.screenX=a.screenX||0,this.screenY=a.screenY||0,this.keyCode=a.keyCode||0,this.offsetX=a.offsetX!==v?a.offsetX:a.layerX,this.offsetY=a.offsetY!==v?a.offsetY:a.layerY,this.clientX=a.clientX!==v?a.clientX:a.pageX,this.clientY=a.clientY!==v?a.clientY:a.pageY,this.charCode=a.charCode||("keypress"==c?a.keyCode:0),a.defaultPrevented&&this.preventDefault())}),ma=(function(){function a(){}a.prototype=H.prototype,I.qa=H.prototype,I.prototype=new a,I.ua=function(a,c,d){return H.prototype[c].apply(a,Array.prototype.slice.call(arguments,2))}}(),I.prototype.preventDefault=function(a){if(I.qa.preventDefault.call(this),a=this.Z,a.preventDefault)a.preventDefault();else if(a.returnValue=q,la)try{if(a.ctrlKey||112<=a.keyCode&&123>=a.keyCode)a.keyCode=-1}catch(b){}},"closure_listenable_"+(1E6*Math.random()|0)),na=0,J=function(a){this.src=a,this.l={},this.N=0},oa=function(a){a.t=m,a.k=p,a.u=p,a.src=p,a.L=p},pa=function(a,b,c,d,e){this.k=a,this.u=p,this.src=b,this.type=c,this.L=e,this.X=!!d,this.key=++na,this.t=this.M=q},K=(J.prototype.add=function(a,b,c,d,e,g,h,l){g=a.toString(),a=this.l[g],a||(a=this.l[g]=[],this.N++);t:{for(h=0;h<a.length;++h)if(l=a[h],!l.t&&l.k==b&&l.X==!!d&&l.L==e)break t;h=-1}return-1<h?(b=a[h],c||(b.M=q)):(b=new pa(b,this.src,g,!!d,e),b.M=c,a.push(b)),b},"closure_lm_"+(1E6*Math.random()|0)),L={},qa=0,ra=function(a){return a=a[K],a instanceof J?a:p},sa=function(a){return a in L?L[a]:L[a]="on"+a},va=function(a,b){return a=ta,b=G?function(c){return a.call(b.src,b.k,c)}:function(c){if(c=a.call(b.src,b.k,c),!c)return c}},ta=function(a,b,c,d,e){if(a.t)return m;if(!G){if(!(c=b))t:{for(d=u,c=["window","event"];e=c.shift();)if(d[e]!=p)d=d[e];else{c=p;break t}c=d}return c=new I(c,this),d=m,d=wa(a,c)}return wa(a,new I(b,this))},M=function(a,b,c,d,e,g,h){if("array"==y(b))for(g=0;g<b.length;g++)M(a,b[g],c,d,e);else if(c=xa(c),a&&a[ma])a.ta(b,c,d,e);else{if(!b)throw Error("Invalid event type");if(g=!!d,!g||G)(h=ra(a))||(a[K]=h=new J(a)),c=h.add(b,c,q,d,e),c.u||(d=va(),c.u=d,d.src=a,d.k=c,a.addEventListener?a.addEventListener(b.toString(),d,g):a.attachEvent(sa(b.toString()),d),qa++)}},wa=function(a,b,c,d,e,g,h,l,n,s){if(c=a.k,d=a.L||a.src,a.M&&"number"!=typeof a&&a&&!a.t)if((e=a.src)&&e[ma])e.sa(a);else if(g=a.type,h=a.u,e.removeEventListener?e.removeEventListener(g,h,a.X):e.detachEvent&&e.detachEvent(sa(g),h),qa--,g=ra(e)){if(h=a.type,l=h in g.l){l=g.l[h];i:if("string"==typeof l)n="string"==typeof a&&1==a.length?l.indexOf(a,0):-1;else{for(n=0;n<l.length;n++)if(n in l&&l[n]===a)break i;n=-1}(s=0<=n)&&aa.splice.call(l,n,1),l=s}l&&(oa(a),0==g.l[h].length&&(delete g.l[h],g.N--)),0==g.N&&(g.src=p,e[K]=p)}else oa(a);return c.call(d,b)},N="__closure_events_fn_"+(1E9*Math.random()>>>0),O=function(a,b){a.p=("E:"+b.message+":"+b.stack).slice(0,2048)},ya=function(a,b){for(b=Array(a);a--;)b[a]=255*Math.random()|0;return b},P=function(a,b){return a[b]<<24|a[b+1]<<16|a[b+2]<<8|a[b+3]},za=function(a,b){a.T.push(a.c.slice()),a.c[a.b]=v,Q(a,a.b,b)},xa=function(a){if("function"==y(a))return a;return a[N]||(a[N]=function(b){return a.handleEvent(b)}),a[N]},Aa=function(a,b,c){return c=function(){return a},b=function(){return c()},b.da=function(b){a=b},b},Ca=function(a,b,c,d){return function(){if(!d||a.B)return Q(a,a.W,arguments),Q(a,a.m,c),Ba(a,b)}},R=function(a,b,c,d){for(c=[],d=b-1;0<=d;d--)c[b-1-d]=a>>8*d&255;return c},Ba=function(a,b,c,d){return c=a.a(a.b),a.f&&c<a.f.length?(Q(a,a.b,a.f.length),za(a,b)):Q(a,a.b,b),d=a.C(),Q(a,a.b,c),d},T=function(a,b,c,d){for(b={},b.J=a.a(S(a)),b.K=S(a),c=S(a)-1,d=S(a),b.self=a.a(d),b.s=[];c--;)d=S(a),b.s.push(a.a(d));return b},Da=function(a,b,c,d){try{for(d=0;84941944608!=d;)a+=(b<<4^b>>>5)+b^d+c[d&3],d+=2654435769,b+=(a<<4^a>>>5)+a^d+c[d>>>11&3];return[a>>>24,a>>16&255,a>>8&255,a&255,b>>>24,b>>16&255,b>>8&255,b&255]}catch(e){throw e;}},Q=function(a,b,c){if(b==a.b||b==a.o)a.c[b]?a.c[b].da(c):a.c[b]=Aa(c);else if(b!=a.d&&b!=a.g&&b!=a.h||!a.c[b])a.c[b]=Ea(c,a.a);b==a.A&&(a.D=v,Q(a,a.b,a.a(a.b)+4))},U=function(a,b){return b<=a.ja?b==a.h||b==a.d||b==a.g||b==a.w?a.q:b==a.W||b==a.Q||b==a.R||b==a.m?a.F:b==a.H?a.i:b==a.j||b==a.v?2:b==a.n?1:4:[1,2,4,a.q,a.F,a.i][b%a.ka]},S=function(a,b,c){if(b=a.a(a.b),!(b in a.f))throw a.e(a.ga),a.G;return a.D==v&&(a.D=P(a.f,b-4),a.I=v),a.I!=b>>3&&(a.I=b>>3,c=[0,0,0,a.a(a.A)],a.ha=Da(a.D,a.I,c)),Q(a,a.b,b+1),a.f[b]^a.ha[b%8]},Ea=function(a,b,c,d,e,g,h,l,n){return l=Z,e=Z.prototype,g=e.C,h=e.Y,n=e.e,d=function(){return c()},c=function(a,r,t){for(t=0,a=d[e.O],r=a===b,a=a&&a[e.O];a&&a!=g&&a!=h&&a!=l&&a!=n&&20>t;)t++,a=a[e.O];return c[e.pa+r+!(!a+(t>>2))]},d[e.S]=e,c[e.oa]=a,a=v,d},$=function(a,b,c,d,e,g){for(e=a.a(b),b=b==a.g?function(b,c,d,g){if(c=e.length,d=c-4>>3,e.ma!=d){e.ma=d,d=(d<<3)-4,g=[0,0,0,a.a(a.P)];try{e.la=Da(P(e,d),P(e,d+4),g)}catch(r){throw r;}}e.push(e.la[c&7]^b)}:function(a){e.push(a)},d&&b(d&255),g=0,d=c.length;g<d;g++)b(c[g])},Z=function(a,b,c,d,e,g,h,l){try{if(this.c=[],Q(this,this.b,0),Q(this,this.o,0),Q(this,this.A,0),Q(this,this.h,[]),Q(this,this.d,[]),Q(this,this.Q,"object"==typeof window?window:u),Q(this,this.R,this),Q(this,this.n,0),Q(this,this.v,0),Q(this,this.P,0),Q(this,this.g,ya(4)),Q(this,this.w,[]),Q(this,this.m,{}),Q(this,this.j,2048),this.B=m,a&&"!"==a[0])this.p=a;else{for(ja(),b=D,c=[],d=0;d<a.length;){if(e=b[a.charAt(d++)],g=d<a.length?b[a.charAt(d)]:0,++d,h=d<a.length?b[a.charAt(d)]:64,++d,l=d<a.length?b[a.charAt(d)]:64,++d,e==p||g==p||h==p||l==p)throw Error();c.push(e<<2|g>>4),64!=h&&(c.push(g<<4&240|h>>2),64!=l&&c.push(h<<6&192|l))}(this.f=c)&&this.f.length?(this.T=[],this.C()):this.e(this.ca)}}catch(n){O(this,n)}};f=Z.prototype,f.b=0,f.A=1,f.h=2,f.o=3,f.d=4,f.H=5,f.W=6,f.j=7,f.U=8,f.Q=9,f.R=10,f.n=11,f.v=12,f.P=13,f.g=14,f.w=15,f.m=16,f.ja=17,f.$=15,f.ia=12,f.aa=10,f.ba=42,f.ka=6,f.i=-1,f.q=-2,f.F=-3,f.ca=17,f.ea=21,f.r=22,f.na=30,f.ga=31,f.fa=33,f.G={},f.O="caller",f.S="toString",f.pa=34,f.oa=36,Z.prototype.a=function(a,b){if(b=this.c[a],b===v)throw this.e(this.na,0,a),this.G;return b()},Z.prototype.xa=function(a,b,c,d){d=a[(b+2)%3],a[b]=a[b]-a[(b+1)%3]-d^(1==b?d<<c:d>>>c)},Z.prototype.wa=function(a,b,c,d){if(3==a.length){for(c=0;3>c;c++)b[c]+=a[c];for(c=0,d=[13,8,13,12,16,5,3,10,15];9>c;c++)b[3](b,c%3,d[c])}},Z.prototype.ya=function(a,b){b.push(a[0]<<24|a[1]<<16|a[2]<<8|a[3]),b.push(a[4]<<24|a[5]<<16|a[6]<<8|a[7]),b.push(a[8]<<24|a[9]<<16|a[10]<<8|a[11])},Z.prototype.e=function(a,b,c,d){d=this.a(this.o),a=[a,d>>8&255,d&255],c!=v&&a.push(c),0==this.a(this.h).length&&(this.c[this.h]=v,Q(this,this.h,a)),c="",b&&(b.message&&(c+=b.message),b.stack&&(c+=":"+b.stack)),b=this.a(this.j),3<b&&(c=c.slice(0,b-3),b-=c.length+3,c=ka(c),$(this,this.g,R(c.length,2).concat(c),this.ia)),Q(this,this.j,b)},f.V=[function(){},function(a,b,c,d,e){b=S(a),c=S(a),d=a.a(b),b=U(a,b),e=U(a,c),e==a.i||e==a.q?d=""+d:0<b&&(1==b?d&=255:2==b?d&=65535:4==b&&(d&=4294967295)),Q(a,c,d)},function(a,b,c,d,e,g,h,l,n){if(b=S(a),c=U(a,b),0<c){for(d=0;c--;)d=d<<8|S(a);Q(a,b,d)}else if(c!=a.F){if(d=S(a)<<8|S(a),c==a.i)if(c="",a.c[a.H]!=v)for(e=a.a(a.H);d--;)g=e[S(a)<<8|S(a)],c+=g;else{for(c=Array(d),e=0;e<d;e++)c[e]=S(a);for(d=c,c=[],g=e=0;e<d.length;)h=d[e++],128>h?c[g++]=String.fromCharCode(h):191<h&&224>h?(l=d[e++],c[g++]=String.fromCharCode((h&31)<<6|l&63)):(l=d[e++],n=d[e++],c[g++]=String.fromCharCode((h&15)<<12|(l&63)<<6|n&63));c=c.join("")}else for(c=Array(d),e=0;e<d;e++)c[e]=S(a);Q(a,b,c)}},function(a){S(a)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),c=a.a(c),b=a.a(b),Q(a,d,b[c])},function(a,b,c){b=S(a),c=S(a),b=a.a(b),Q(a,c,y(b))},function(a,b,c,d,e){b=S(a),c=S(a),d=U(a,b),e=U(a,c),c!=a.h&&(d==a.i&&e==a.i?(a.c[c]==v&&Q(a,c,""),Q(a,c,a.a(c)+a.a(b))):e==a.q&&(0>d?(b=a.a(b),d==a.i&&(b=ka(""+b)),c!=a.d&&c!=a.g&&c!=a.w||$(a,c,R(b.length,2)),$(a,c,b)):0<d&&$(a,c,R(a.a(b),d))))},function(a,b,c){b=S(a),c=S(a),Q(a,c,function(a){return eval(a)}(a.a(b)))},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)-a.a(b))},function(a,b){b=T(a),Q(a,b.K,b.J.apply(b.self,b.s))},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)%a.a(b))},function(a,b,c,d,e){b=S(a),c=a.a(S(a)),d=a.a(S(a)),e=a.a(S(a)),b=a.a(b),M(b,c,Ca(a,d,e,m))},function(a,b,c,d){b=S(a),c=S(a),d=S(a),a.a(b)[a.a(c)]=a.a(d)},function(a,b,c,d,e){b=T(a),c=b.s,d=b.self,e=b.J;switch(c.length){case 0:c=d[e]();break;case 1:c=d[e](c[0]);break;case 2:c=d[e](c[0],c[1]);break;case 3:c=d[e](c[0],c[1],c[2]);break;default:a.e(a.r);return}Q(a,b.K,c)},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)+a.a(b))},function(a,b,c){b=S(a),c=S(a),0!=a.a(b)&&Q(a,a.b,a.a(c))},function(a,b,c,d){b=S(a),c=S(a),d=S(a),a.a(b)==a.a(c)&&Q(a,d,a.a(d)+1)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),a.a(b)>a.a(c)&&Q(a,d,a.a(d)+1)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)<<c)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)|a.a(c))},function(a,b){b=a.a(S(a)),za(a,b)},function(a,b,c,d){if(b=a.T.pop()){for(c=S(a);0<c;c--)d=S(a),b[d]=a.c[d];a.c=b}else Q(a,a.b,a.f.length)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,(a.a(b)in a.a(c))+0)},function(a,b,c,d){b=S(a),c=a.a(S(a)),d=a.a(S(a)),Q(a,b,Ca(a,c,d))},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)*a.a(b))},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)>>c)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)||a.a(c))},function(a,b,c,d,e){b=T(a),c=b.s,d=b.self,e=b.J;switch(c.length){case 0:c=new d[e];break;case 1:c=new d[e](c[0]);break;case 2:c=new d[e](c[0],c[1]);break;case 3:c=new d[e](c[0],c[1],c[2]);break;case 4:c=new d[e](c[0],c[1],c[2],c[3]);break;default:a.e(a.r);return}Q(a,b.K,c)},function(a,b,c,d,e,g){if(b=S(a),c=S(a),d=S(a),e=S(a),b=a.a(b),c=a.a(c),d=a.a(d),a=a.a(e),"object"==y(b)){for(g in e=[],b)e.push(g);b=e}for(e=0,g=b.length;e<g;e+=d)c(b.slice(e,e+d),a)}],Z.prototype.va=function(a){return(a=window.performance)&&a.now?function(){return a.now()|0}:function(){return+new Date}}(),Z.prototype.ra=function(a,b){return b=this.Y(),a&&a(b),b},Z.prototype.C=function(a,b,c,d,e,g){try{for(b=5001,c=v,d=0,a=this.f.length;--b&&(d=this.a(this.b))<a;)try{Q(this,this.o,d),e=S(this)%this.V.length,(c=this.V[e])?c(this):this.e(this.ea,0,e)}catch(h){h!=this.G&&((g=this.a(this.n))?(Q(this,g,h),Q(this,this.n,0)):this.e(this.r,h))}b||this.e(this.fa)}catch(l){try{this.e(this.r,l)}catch(n){O(this,n)}}return this.a(this.m)},Z.prototype.Y=function(a,b,c,d,e,g,h,l,n,s,r,t,V,ua,W,X,Y,E){if(this.p)return this.p;try{for(this.B=q,b=this.a(this.d).length,c=this.a(this.g).length,d=this.a(this.j),this.c[this.U]&&Ba(this,this.a(this.U)),e=this.a(this.h),0<e.length&&$(this,this.d,R(e.length,2).concat(e),this.$),g=this.a(this.v)&255,g-=this.a(this.d).length+4,h=this.a(this.g),4<h.length&&(g-=h.length+3),0<g&&$(this,this.d,R(g,2).concat(ya(g)),this.aa),4<h.length&&$(this,this.d,R(h.length,2).concat(h),this.ba),l=[3].concat(this.a(this.d)),ja(),s=[],e=0;e<l.length;e+=3)r=l[e],V=(t=e+1<l.length)?l[e+1]:0,W=(ua=e+2<l.length)?l[e+2]:0,g=r>>2,Y=W&63,h=(r&3)<<4|V>>4,X=(V&15)<<2|W>>6,ua||(Y=64,t||(X=64)),s.push(F[g],F[h],F[X],F[Y]);if(n=s=s.join("").replace(/\\./g,""))n="!"+n;else for(n="",s=0;s<l.length;s++)E=l[s][this.S](16),1==E.length&&(E="0"+E),n+=E;this.a(this.d).length=b,this.a(this.g).length=c,Q(this,this.j,d),a=n,this.B=m}catch(Fa){O(this,Fa),a=this.p}return a};try{M(window,"unload",function(){})}catch(Ga){}x("botguard.bg",Z),x("botguard.bg.prototype.invoke",Z.prototype.ra);')})()</script>
+  <script type="text/javascript">
+  document.bg = new botguard.bg('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');
+  </script>
+<script>
+  function gaia_parseFragment() {
+  var hash = location.hash;
+  var params = {};
+  if (!hash) {
+  return params;
+  }
+  var paramStrs = decodeURIComponent(hash.substring(1)).split('&');
+  for (var i = 0; i < paramStrs.length; i++) {
+      var param = paramStrs[i].split('=');
+      params[param[0]] = param[1];
+    }
+    return params;
+  }
+
+  function gaia_prefillEmail() {
+    var form = null;
+    if (document.getElementById) {
+      form = document.getElementById('gaia_loginform');
+    }
+
+    if (form && form.Email &&
+        (form.Email.value == null || form.Email.value == '')
+        && (form.Email.type != 'hidden')) {
+      hashParams = gaia_parseFragment();
+      if (hashParams['Email'] && hashParams['Email'] != '') {
+        form.Email.value = hashParams['Email'];
+      }
+    }
+  }
+
+  
+  try {
+    gaia_prefillEmail();
+  } catch (e) {
+  }
+  
+</script>
+<script>
+  function gaia_setFocus() {
+  var form = null;
+  var isFocusableField = function(inputElement) {
+  if (!inputElement) {
+  return false;
+  }
+  if (inputElement.type != 'hidden' && inputElement.focus &&
+  inputElement.style.display != 'none') {
+  return true;
+  }
+  return false;
+  };
+  var isFocusableErrorField = function(inputElement) {
+  if (!inputElement) {
+  return false;
+  }
+  var hasError = inputElement.className.indexOf('form-error') > -1;
+  if (hasError && isFocusableField(inputElement)) {
+  return true;
+  }
+  return false;
+  };
+  var isFocusableEmptyField = function(inputElement) {
+  if (!inputElement) {
+  return false;
+  }
+  var isEmpty = inputElement.value == null || inputElement.value == '';
+  if (isEmpty && isFocusableField(inputElement)) {
+  return true;
+  }
+  return false;
+  };
+  if (document.getElementById) {
+  form = document.getElementById('gaia_loginform');
+  }
+  if (form) {
+  var userAgent = navigator.userAgent.toLowerCase();
+  var formFields = form.getElementsByTagName('input');
+  for (var i = 0; i < formFields.length; i++) {
+        var currentField = formFields[i];
+        if (isFocusableErrorField(currentField)) {
+          currentField.focus();
+          
+          var currentValue = currentField.value;
+          currentField.value = '';
+          currentField.value = currentValue;
+          return;
+        }
+      }
+      
+      
+      
+        for (var j = 0; j < formFields.length; j++) {
+          var currentField = formFields[j];
+          if (isFocusableEmptyField(currentField)) {
+            currentField.focus();
+            return;
+          }
+        }
+      
+    }
+  }
+
+  
+  
+  
+</script>
+<script>
+  var gaia_scrollToElement = function(element) {
+  var calculateOffsetHeight = function(element) {
+  var curtop = 0;
+  if (element.offsetParent) {
+  while (element) {
+  curtop += element.offsetTop;
+  element = element.offsetParent;
+  }
+  }
+  return curtop;
+  }
+  var siginOffsetHeight = calculateOffsetHeight(element);
+  var scrollHeight = siginOffsetHeight - window.innerHeight +
+  element.clientHeight + 0.02 * window.innerHeight;
+  window.scroll(0, scrollHeight);
+  }
+</script>
+<script>
+  (function(){
+  var signinInput = document.getElementById('signIn');
+  gaia_onLoginSubmit = function() {
+  try {
+  document.bg.invoke(function(response) {
+  document.getElementById('bgresponse').value = response;
+  });
+  } catch (err) {
+  document.getElementById('bgresponse').value = '';
+  }
+  return true;
+  }
+  document.getElementById('gaia_loginform').onsubmit = gaia_onLoginSubmit;
+  var signinButton = document.getElementById('signIn');
+  gaia_attachEvent(window, 'load', function(){
+  gaia_scrollToElement(signinButton);
+  });
+  })();
+</script>
+  <script>var e=this,g=function(c,b){var a=c.split("."),d=e;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var f;a.length&&(f=a.shift());)a.length||void 0===b?d[f]?d=d[f]:d=d[f]={}:d[f]=b};var h=function(){try{return new XMLHttpRequest}catch(c){for(var b=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"],a=0;a<b.length;a++)try{return new ActiveXObject(b[a])}catch(d){}}return null};g("gaia.ajax.newXmlHttpRequest",h);var k=function(){this.b=h();this.parameters={}};g("gaia.ajax.XmlHttpFormRequest",k);k.prototype.a=function(){};k.prototype.oncomplete=k.prototype.a;
+k.prototype.send=function(c){var b=[],a;for(a in this.parameters)b.push(a+"="+encodeURIComponent(this.parameters[a]));var b=b.join("&"),d=this.b,f=this.a;d.open("POST",c,!0);d.setRequestHeader("Content-type","application/x-www-form-urlencoded");d.onreadystatechange=function(){4==d.readyState&&f({status:d.status,text:d.responseText})};d.send(b)};k.prototype.send=k.prototype.send;
+k.prototype.d=function(c,b){var a=this.b,d=this.a;a.open("POST",c,!0);a.setRequestHeader("Content-type","application/json");a.onreadystatechange=function(){4==a.readyState&&d({status:a.status,text:a.responseText})};a.send(b)};k.prototype.sendJson=k.prototype.d;k.prototype.c=function(c){var b=this.a,a=this.b;a.open("GET",c,!0);a.onreadystatechange=function(){4==a.readyState&&b({status:a.status,text:a.responseText})};a.send()};k.prototype.get=k.prototype.c;var l=/\s*;\s*/,m=function(){if(!document.cookie)return"";for(var c=document.cookie.split(l),b=0;b<c.length;b++){var a=c[b],a=a.replace(/^\s+/,""),a=a.replace(/\s+$/,"");if(0==a.indexOf("APISID="))return a.substr(7)}return""};var n=null,p=function(c,b){this.d=c;this.c=b;this.b=m()},q=function(){var c=n,b=m();b!=c.b&&(c.b=b,b=new k,b.a=function(a){var b=n;a&&a.status&&200==a.status&&"OK"==a.text&&(b.a&&clearInterval(b.a),window.location=b.d)},b.c(c.c))},r=function(c){var b=n;if(b.a)return!1;b.a=setInterval(function(){q()},c);return!0};g("gaia.loginAutoRedirect.start",function(c,b,a){if(n||!a||!b||0>=c)return!1;n=new p(b,a);return r(c)});
+</script>
+  <script type="text/javascript">
+  gaia.loginAutoRedirect.start(5000,
+  'https:\x2F\x2Faccounts.google.com\x2FServiceLogin?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D51929456%26format%3Dcsv\x26followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D51929456%26format%3Dcsv\x26service=wise\x26ltmpl=sheets\x26passive=1209600\x26noautologin=true',
+  'https:\x2F\x2Faccounts.google.com\x2FPassiveLoginProber?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D51929456%26format%3Dcsv\x26followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D51929456%26format%3Dcsv\x26service=wise\x26ltmpl=sheets\x26passive=1209600');
+  </script>
+  </body>
+</html>
