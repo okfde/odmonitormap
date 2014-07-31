@@ -1,1168 +1,154 @@
-
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  <meta charset="utf-8">
-  <meta content="width=300, initial-scale=1" name="viewport">
-  <meta name="description" content="Create a new spreadsheet and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Sheets to edit Excel files. Free from Google.">
-  <title>Google Sheets - create and edit spreadsheets online, for free.</title>
-  <style>
-  @font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Open Sans Light'), local('OpenSans-Light'), url(//themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Open Sans'), local('OpenSans'), url(//themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
-}
-  </style>
-  <style>
-  h1, h2 {
-  -webkit-animation-duration: 0.1s;
-  -webkit-animation-name: fontfix;
-  -webkit-animation-iteration-count: 1;
-  -webkit-animation-timing-function: linear;
-  -webkit-animation-delay: 0;
-  }
-  @-webkit-keyframes fontfix {
-  from {
-  opacity: 1;
-  }
-  to {
-  opacity: 1;
-  }
-  }
-  </style>
-<style>
-  html, body {
-  font-family: Arial, sans-serif;
-  background: #fff;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  position: absolute;
-  height: 100%;
-  min-width: 100%;
-  font-size: 13px;
-  color: #404040;
-  direction: ltr;
-  -webkit-text-size-adjust: none;
-  }
-  button,
-  input[type=button],
-  input[type=submit] {
-  font-family: Arial, sans-serif;
-  font-size: 13px;
-  }
-  a,
-  a:hover,
-  a:visited {
-  color: #427fed;
-  cursor: pointer;
-  text-decoration: none;
-  }
-  a:hover {
-  text-decoration: underline;
-  }
-  h1 {
-  font-size: 20px;
-  color: #262626;
-  margin: 0 0 15px;
-  font-weight: normal;
-  }
-  h2 {
-  font-size: 14px;
-  color: #262626;
-  margin: 0 0 15px;
-  font-weight: bold;
-  }
-  input[type=email],
-  input[type=number],
-  input[type=password],
-  input[type=tel],
-  input[type=text],
-  input[type=url] {
-  -moz-appearance: none;
-  -webkit-appearance: none;
-  appearance: none;
-  display: inline-block;
-  height: 36px;
-  padding: 0 8px;
-  margin: 0;
-  background: #fff;
-  border: 1px solid #d9d9d9;
-  border-top: 1px solid #c0c0c0;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  -moz-border-radius: 1px;
-  -webkit-border-radius: 1px;
-  border-radius: 1px;
-  font-size: 15px;
-  color: #404040;
-  }
-  input[type=email]:hover,
-  input[type=number]:hover,
-  input[type=password]:hover,
-  input[type=tel]:hover,
-  input[type=text]:hover,
-  input[type=url]:hover {
-  border: 1px solid #b9b9b9;
-  border-top: 1px solid #a0a0a0;
-  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-  box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-  }
-  input[type=email]:focus,
-  input[type=number]:focus,
-  input[type=password]:focus,
-  input[type=tel]:focus,
-  input[type=text]:focus,
-  input[type=url]:focus {
-  outline: none;
-  border: 1px solid #4d90fe;
-  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  }
-  input[type=checkbox],
-  input[type=radio] {
-  -webkit-appearance: none;
-  display: inline-block;
-  width: 13px;
-  height: 13px;
-  margin: 0;
-  cursor: pointer;
-  vertical-align: bottom;
-  background: #fff;
-  border: 1px solid #c6c6c6;
-  -moz-border-radius: 1px;
-  -webkit-border-radius: 1px;
-  border-radius: 1px;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  position: relative;
-  }
-  input[type=checkbox]:active,
-  input[type=radio]:active {
-  background: #ebebeb;
-  }
-  input[type=checkbox]:hover {
-  border-color: #c6c6c6;
-  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-  box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-  }
-  input[type=radio] {
-  -moz-border-radius: 1em;
-  -webkit-border-radius: 1em;
-  border-radius: 1em;
-  width: 15px;
-  height: 15px;
-  }
-  input[type=checkbox]:checked,
-  input[type=radio]:checked {
-  background: #fff;
-  }
-  input[type=radio]:checked::after {
-  content: '';
-  display: block;
-  position: relative;
-  top: 3px;
-  left: 3px;
-  width: 7px;
-  height: 7px;
-  background: #666;
-  -moz-border-radius: 1em;
-  -webkit-border-radius: 1em;
-  border-radius: 1em;
-  }
-  input[type=checkbox]:checked::after {
-  content: url(//ssl.gstatic.com/ui/v1/menu/checkmark.png);
-  display: block;
-  position: absolute;
-  top: -6px;
-  left: -5px;
-  }
-  input[type=checkbox]:focus {
-  outline: none;
-  border-color: #4d90fe;
-  }
-  .stacked-label {
-  display: block;
-  font-weight: bold;
-  margin: .5em 0;
-  }
-  .hidden-label {
-  position: absolute !important;
-  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
-  clip: rect(1px, 1px, 1px, 1px);
-  height: 0px;
-  width: 0px;
-  overflow: hidden;
-  visibility: hidden;
-  }
-  input[type=checkbox].form-error,
-  input[type=email].form-error,
-  input[type=number].form-error,
-  input[type=password].form-error,
-  input[type=text].form-error,
-  input[type=tel].form-error,
-  input[type=url].form-error {
-  border: 1px solid #dd4b39;
-  }
-  .error-msg {
-  margin: .5em 0;
-  display: block;
-  color: #dd4b39;
-  line-height: 17px;
-  }
-  .help-link {
-  background: #dd4b39;
-  padding: 0 5px;
-  color: #fff;
-  font-weight: bold;
-  display: inline-block;
-  -moz-border-radius: 1em;
-  -webkit-border-radius: 1em;
-  border-radius: 1em;
-  text-decoration: none;
-  position: relative;
-  top: 0px;
-  }
-  .help-link:visited {
-  color: #fff;
-  }
-  .help-link:hover {
-  color: #fff;
-  background: #c03523;
-  text-decoration: none;
-  }
-  .help-link:active {
-  opacity: 1;
-  background: #ae2817;
-  }
-  .wrapper {
-  position: relative;
-  min-height: 100%;
-  }
-  .content {
-  padding: 0 44px;
-  }
-  .main {
-  padding-bottom: 100px;
-  }
-  /* For modern browsers */
-  .clearfix:before,
-  .clearfix:after {
-  content: "";
-  display: table;
-  }
-  .clearfix:after {
-  clear: both;
-  }
-  /* For IE 6/7 (trigger hasLayout) */
-  .clearfix {
-  zoom:1;
-  }
-  .google-header-bar {
-  height: 71px;
-  border-bottom: 1px solid #e5e5e5;
-  overflow: hidden;
-  }
-  .header .logo {
-  margin: 17px 0 0;
-  float: left;
-  height: 38px;
-  width: 116px;
-  }
-  .header .secondary-link {
-  margin: 28px 0 0;
-  float: right;
-  }
-  .header .secondary-link a {
-  font-weight: normal;
-  }
-  .google-header-bar.centered {
-  border: 0;
-  height: 108px;
-  }
-  .google-header-bar.centered .header .logo {
-  float: none;
-  margin: 40px auto 30px;
-  display: block;
-  }
-  .google-header-bar.centered .header .secondary-link {
-  display: none
-  }
-  .google-footer-bar {
-  position: absolute;
-  bottom: 0;
-  height: 35px;
-  width: 100%;
-  border-top: 1px solid #e5e5e5;
-  overflow: hidden;
-  }
-  .footer {
-  padding-top: 7px;
-  font-size: .85em;
-  white-space: nowrap;
-  line-height: 0;
-  }
-  .footer ul {
-  float: left;
-  max-width: 80%;
-  padding: 0;
-  }
-  .footer ul li {
-  color: #737373;
-  display: inline;
-  padding: 0;
-  padding-right: 1.5em;
-  }
-  .footer a {
-  color: #737373;
-  }
-  .lang-chooser-wrap {
-  float: right;
-  display: inline;
-  }
-  .lang-chooser-wrap img {
-  vertical-align: top;
-  }
-  .lang-chooser {
-  font-size: 13px;
-  height: 24px;
-  line-height: 24px;
-  }
-  .lang-chooser option {
-  font-size: 13px;
-  line-height: 24px;
-  }
-  .hidden {
-  height: 0px;
-  width: 0px;
-  overflow: hidden;
-  visibility: hidden;
-  display: none !important;
-  }
-  .banner {
-  text-align: center;
-  }
-  .card {
-  background-color: #f7f7f7;
-  padding: 20px 25px 30px;
-  margin: 0 auto 25px;
-  width: 304px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  border-radius: 2px;
-  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  }
-  .card > *:first-child {
-  margin-top: 0;
-  }
-  .rc-button,
-  .rc-button:visited {
-  display: inline-block;
-  min-width: 46px;
-  text-align: center;
-  color: #444;
-  font-size: 14px;
-  font-weight: 700;
-  height: 36px;
-  padding: 0 8px;
-  line-height: 36px;
-  -moz-border-radius: 3px;
-  -webkit-border-radius: 3px;
-  border-radius: 3px;
-  -o-transition: all 0.218s;
-  -moz-transition: all 0.218s;
-  -webkit-transition: all 0.218s;
-  transition: all 0.218s;
-  border: 1px solid #dcdcdc;
-  background-color: #f5f5f5;
-  background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
-  background-image: -moz-linear-gradient(top,#f5f5f5,#f1f1f1);
-  background-image: -ms-linear-gradient(top,#f5f5f5,#f1f1f1);
-  background-image: -o-linear-gradient(top,#f5f5f5,#f1f1f1);
-  background-image: linear-gradient(top,#f5f5f5,#f1f1f1);
-  -o-transition: none;
-  -moz-user-select: none;
-  -webkit-user-select: none;
-  user-select: none;
-  cursor: default;
-  }
-  .card .rc-button {
-  width: 100%;
-  padding: 0;
-  }
-  .rc-button.disabled,
-  .rc-button[disabled] {
-  opacity: .5;
-  filter: alpha(opacity=50);
-  cursor: default;
-  pointer-events: none;
-  }
-  .rc-button:hover {
-  border: 1px solid #c6c6c6;
-  color: #333;
-  text-decoration: none;
-  -o-transition: all 0.0s;
-  -moz-transition: all 0.0s;
-  -webkit-transition: all 0.0s;
-  transition: all 0.0s;
-  background-color: #f8f8f8;
-  background-image: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
-  background-image: -moz-linear-gradient(top,#f8f8f8,#f1f1f1);
-  background-image: -ms-linear-gradient(top,#f8f8f8,#f1f1f1);
-  background-image: -o-linear-gradient(top,#f8f8f8,#f1f1f1);
-  background-image: linear-gradient(top,#f8f8f8,#f1f1f1);
-  -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
-  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
-  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
-  }
-  .rc-button:active {
-  background-color: #f6f6f6;
-  background-image: -webkit-linear-gradient(top,#f6f6f6,#f1f1f1);
-  background-image: -moz-linear-gradient(top,#f6f6f6,#f1f1f1);
-  background-image: -ms-linear-gradient(top,#f6f6f6,#f1f1f1);
-  background-image: -o-linear-gradient(top,#f6f6f6,#f1f1f1);
-  background-image: linear-gradient(top,#f6f6f6,#f1f1f1);
-  -moz-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-  }
-  .rc-button-submit,
-  .rc-button-submit:visited {
-  border: 1px solid #3079ed;
-  color: #fff;
-  text-shadow: 0 1px rgba(0,0,0,0.1);
-  background-color: #4d90fe;
-  background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
-  background-image: -moz-linear-gradient(top,#4d90fe,#4787ed);
-  background-image: -ms-linear-gradient(top,#4d90fe,#4787ed);
-  background-image: -o-linear-gradient(top,#4d90fe,#4787ed);
-  background-image: linear-gradient(top,#4d90fe,#4787ed);
-  }
-  .rc-button-submit:hover {
-  border: 1px solid #2f5bb7;
-  color: #fff;
-  text-shadow: 0 1px rgba(0,0,0,0.3);
-  background-color: #357ae8;
-  background-image: -webkit-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: -moz-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: -ms-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: -o-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: linear-gradient(top,#4d90fe,#357ae8);
-  }
-  .rc-button-submit:active {
-  background-color: #357ae8;
-  background-image: -webkit-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: -moz-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: -ms-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: -o-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: linear-gradient(top,#4d90fe,#357ae8);
-  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  }
-  .rc-button-red,
-  .rc-button-red:visited {
-  border: 1px solid transparent;
-  color: #fff;
-  text-shadow: 0 1px rgba(0,0,0,0.1);
-  background-color: #d14836;
-  background-image: -webkit-linear-gradient(top,#dd4b39,#d14836);
-  background-image: -moz-linear-gradient(top,#dd4b39,#d14836);
-  background-image: -ms-linear-gradient(top,#dd4b39,#d14836);
-  background-image: -o-linear-gradient(top,#dd4b39,#d14836);
-  background-image: linear-gradient(top,#dd4b39,#d14836);
-  }
-  .rc-button-red:hover {
-  border: 1px solid #b0281a;
-  color: #fff;
-  text-shadow: 0 1px rgba(0,0,0,0.3);
-  background-color: #c53727;
-  background-image: -webkit-linear-gradient(top,#dd4b39,#c53727);
-  background-image: -moz-linear-gradient(top,#dd4b39,#c53727);
-  background-image: -ms-linear-gradient(top,#dd4b39,#c53727);
-  background-image: -o-linear-gradient(top,#dd4b39,#c53727);
-  background-image: linear-gradient(top,#dd4b39,#c53727);
-  }
-  .rc-button-red:active {
-  border: 1px solid #992a1b;
-  background-color: #b0281a;
-  background-image: -webkit-linear-gradient(top,#dd4b39,#b0281a);
-  background-image: -moz-linear-gradient(top,#dd4b39,#b0281a);
-  background-image: -ms-linear-gradient(top,#dd4b39,#b0281a);
-  background-image: -o-linear-gradient(top,#dd4b39,#b0281a);
-  background-image: linear-gradient(top,#dd4b39,#b0281a);
-  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  }
-  .secondary-actions {
-  text-align: center;
-  }
-</style>
-<style media="screen and (max-width: 800px), screen and (max-height: 800px)">
-  .google-header-bar.centered {
-  height: 83px;
-  }
-  .google-header-bar.centered .header .logo {
-  margin: 25px auto 20px;
-  }
-  .card {
-  margin-bottom: 20px;
-  }
-</style>
-<style media="screen and (max-width: 580px)">
-  html, body {
-  font-size: 14px;
-  }
-  .google-header-bar.centered {
-  height: 73px;
-  }
-  .google-header-bar.centered .header .logo {
-  margin: 20px auto 15px;
-  }
-  .content {
-  padding-left: 10px;
-  padding-right: 10px;
-  }
-  .hidden-small {
-  display: none;
-  }
-  .card {
-  padding: 20px 15px 30px;
-  width: 270px;
-  }
-  .footer ul li {
-  padding-right: 1em;
-  }
-  .lang-chooser-wrap {
-  display: none;
-  }
-</style>
-<style>
-  pre.debug {
-  font-family: monospace;
-  position: absolute;
-  left: 0;
-  margin: 0;
-  padding: 1.5em;
-  font-size: 13px;
-  background: #f1f1f1;
-  border-top: 1px solid #e5e5e5;
-  direction: ltr;
-  white-space: pre-wrap;
-  width: 90%;
-  overflow: hidden;
-  }
-</style>
-<style>
-  .banner h1 {
-  font-family: 'Open Sans', arial;
-  -webkit-font-smoothing: antialiased;
-  color: #555;
-  font-size: 42px;
-  font-weight: 300;
-  margin-top: 0;
-  margin-bottom: 20px;
-  }
-  .banner h2 {
-  font-family: 'Open Sans', arial;
-  -webkit-font-smoothing: antialiased;
-  color: #555;
-  font-size: 18px;
-  font-weight: 400;
-  margin-bottom: 20px;
-  }
-  .signin-card {
-  width: 274px;
-  padding: 40px 40px;
-  }
-  .signin-card .profile-img {
-  width: 96px;
-  height: 96px;
-  margin: 0 auto 10px;
-  display: block;
-  -moz-border-radius: 50%;
-  -webkit-border-radius: 50%;
-  border-radius: 50%;
-  }
-  .signin-card .profile-name {
-  font-size: 16px;
-  font-weight: bold;
-  text-align: center;
-  margin: 10px 0 0;
-  min-height: 1em;
-  }
-  .signin-card input[type=email],
-  .signin-card input[type=password],
-  .signin-card input[type=text],
-  .signin-card input[type=submit] {
-  width: 100%;
-  display: block;
-  margin-bottom: 10px;
-  z-index: 1;
-  position: relative;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  }
-  .signin-card #Email,
-  .signin-card #Passwd,
-  .signin-card .captcha {
-  direction: ltr;
-  height: 44px;
-  font-size: 16px;
-  }
-  .signin-card #Email + .stacked-label {
-  margin-top: 15px;
-  }
-  .signin-card #reauthEmail {
-  display: block;
-  margin-bottom: 10px;
-  line-height: 36px;
-  padding: 0 8px;
-  font-size: 15px;
-  color: #404040;
-  line-height: 2;
-  margin-bottom: 10px;
-  font-size: 14px;
-  text-align: center;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  }
-  .one-google p {
-  margin: 0 0 10px;
-  color: #555;
-  font-size: 14px;
-  text-align: center;
-  }
-  .one-google p.create-account,
-  .one-google p.switch-account {
-  margin-bottom: 60px;
-  }
-  .one-google img {
-  display: block;
-  width: 210px;
-  height: 17px;
-  margin: 10px auto;
-  }
-</style>
-<style media="screen and (max-width: 800px), screen and (max-height: 800px)">
-  .banner h1 {
-  font-size: 38px;
-  margin-bottom: 15px;
-  }
-  .banner h2 {
-  margin-bottom: 15px;
-  }
-  .one-google p.create-account,
-  .one-google p.switch-account {
-  margin-bottom: 30px;
-  }
-  .signin-card #Email {
-  margin-bottom: 0;
-  }
-  .signin-card #Passwd {
-  margin-top: -1px;
-  }
-  .signin-card #Email.form-error,
-  .signin-card #Passwd.form-error {
-  z-index: 2;
-  }
-  .signin-card #Email:hover,
-  .signin-card #Email:focus,
-  .signin-card #Passwd:hover,
-  .signin-card #Passwd:focus {
-  z-index: 3;
-  }
-</style>
-<style media="screen and (max-width: 580px)">
-  .banner h1 {
-  font-size: 22px;
-  margin-bottom: 15px;
-  }
-  .signin-card {
-  width: 260px;
-  padding: 20px 20px;
-  margin: 0 auto 20px;
-  }
-  .signin-card .profile-img {
-  width: 72px;
-  height: 72px;
-  -moz-border-radius: 72px;
-  -webkit-border-radius: 72px;
-  border-radius: 72px;
-  }
-</style>
-<style>
-  .jfk-tooltip {
-  background-color: #fff;
-  border: 1px solid;
-  color: #737373;
-  font-size: 12px;
-  position: absolute;
-  z-index: 800 !important;
-  border-color: #bbb #bbb #a8a8a8;
-  padding: 16px;
-  width: 250px;
-  }
- .jfk-tooltip h3 {
-  color: #555;
-  font-size: 12px;
-  margin: 0 0 .5em;
-  }
- .jfk-tooltip-content p:last-child {
-  margin-bottom: 0;
-  }
-  .jfk-tooltip-arrow {
-  position: absolute;
-  }
-  .jfk-tooltip-arrow .jfk-tooltip-arrowimplbefore,
-  .jfk-tooltip-arrow .jfk-tooltip-arrowimplafter {
-  display: block;
-  height: 0;
-  position: absolute;
-  width: 0;
-  }
-  .jfk-tooltip-arrow .jfk-tooltip-arrowimplbefore {
-  border: 9px solid;
-  }
-  .jfk-tooltip-arrow .jfk-tooltip-arrowimplafter {
-  border: 8px solid;
-  }
-  .jfk-tooltip-arrowdown {
-  bottom: 0;
-  }
-  .jfk-tooltip-arrowup {
-  top: -9px;
-  }
-  .jfk-tooltip-arrowleft {
-  left: -9px;
-  top: 30px;
-  }
-  .jfk-tooltip-arrowright {
-  right: 0;
-  top: 30px;
-  }
-  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplbefore,.jfk-tooltip-arrowup .jfk-tooltip-arrowimplbefore {
-  border-color: #bbb transparent;
-  left: -9px;
-  }
-  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplbefore {
-  border-color: #a8a8a8 transparent;
-  }
-  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplafter,.jfk-tooltip-arrowup .jfk-tooltip-arrowimplafter {
-  border-color: #fff transparent;
-  left: -8px;
-  }
-  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplbefore {
-  border-bottom-width: 0;
-  }
-  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplafter {
-  border-bottom-width: 0;
-  }
-  .jfk-tooltip-arrowup .jfk-tooltip-arrowimplbefore {
-  border-top-width: 0;
-  }
-  .jfk-tooltip-arrowup .jfk-tooltip-arrowimplafter {
-  border-top-width: 0;
-  top: 1px;
-  }
-  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplbefore,
-  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplbefore {
-  border-color: transparent #bbb;
-  top: -9px;
-  }
-  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplafter,
-  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplafter {
-  border-color:transparent #fff;
-  top:-8px;
-  }
-  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplbefore {
-  border-left-width: 0;
-  }
-  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplafter {
-  border-left-width: 0;
-  left: 1px;
-  }
-  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplbefore {
-  border-right-width: 0;
-  }
-  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplafter {
-  border-right-width: 0;
-  }
-  .jfk-tooltip-closebtn {
-  background: url("//ssl.gstatic.com/ui/v1/icons/common/x_8px.png") no-repeat;
-  border: 1px solid transparent;
-  height: 21px;
-  opacity: .4;
-  outline: 0;
-  position: absolute;
-  right: 2px;
-  top: 2px;
-  width: 21px;
-  }
-  .jfk-tooltip-closebtn:focus,
-  .jfk-tooltip-closebtn:hover {
-  opacity: .8;
-  cursor: pointer;
-  }
-  .jfk-tooltip-closebtn:focus {
-  border-color: #4d90fe;
-  }
-</style>
-<style media="screen and (max-width: 580px)">
-  .jfk-tooltip {
-  display: none;
-  }
-</style>
-<style>
-  .need-help-reverse {
-  float: right;
-  }
-  .remember .bubble-wrap {
-  position: absolute;
-  padding-top: 3px;
-  -o-transition: opacity .218s ease-in .218s;
-  -moz-transition: opacity .218s ease-in .218s;
-  -webkit-transition: opacity .218s ease-in .218s;
-  transition: opacity .218s ease-in .218s;
-  left: -999em;
-  opacity: 0;
-  width: 314px;
-  margin-left: -20px;
-  }
-  .remember:hover .bubble-wrap,
-  .remember input:focus ~ .bubble-wrap,
-  .remember .bubble-wrap:hover,
-  .remember .bubble-wrap:focus {
-  opacity: 1;
-  left: inherit;
-  }
-  .bubble-pointer {
-  border-left: 10px solid transparent;
-  border-right: 10px solid transparent;
-  border-bottom: 10px solid #fff;
-  width: 0;
-  height: 0;
-  margin-left: 17px;
-  }
-  .bubble {
-  background-color: #fff;
-  padding: 15px;
-  margin-top: -1px;
-  font-size: 11px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  border-radius: 2px;
-  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  }
-  #stay-signed-in {
-  float: left;
-  }
-  #stay-signed-in-tooltip {
-  left: auto;
-  margin-left: -20px;
-  padding-top: 3px;
-  position: absolute;
-  top: 0;
-  visibility: hidden;
-  width: 314px;
-  z-index: 1;
-  }
-  .dasher-tooltip {
-  position: absolute;
-  left: 50%;
-  top: 380px;
-  margin-left: 150px;
-  }
-  .dasher-tooltip .tooltip-pointer {
-  margin-top: 15px;
-  }
-  .dasher-tooltip p {
-  margin-top: 0;
-  }
-  .dasher-tooltip p span {
-  display: block;
-  }
-</style>
-<style media="screen and (max-width: 800px), screen and (max-height: 800px)">
-  .dasher-tooltip {
-  top: 340px;
-  }
-</style>
-  </head>
-  <body>
-  <div class="wrapper">
-  <div class="google-header-bar  centered">
-  <div class="header content clearfix">
-  <img alt="Google" class="logo" src="//ssl.gstatic.com/accounts/ui/logo_2x.png">
-  </div>
-  </div>
-  <div class="main content clearfix">
-<div class="banner">
-<h1>
-  One account. All of Google.
-</h1>
-  <h2 class="hidden-small">
-  Sign in to continue to Sheets
-  </h2>
-</div>
-<div class="card signin-card clearfix">
-<img class="profile-img" src="//ssl.gstatic.com/accounts/ui/avatar_2x.png" alt="">
-<p class="profile-name"></p>
-  <form novalidate method="post" action="https://accounts.google.com/ServiceLoginAuth" id="gaia_loginform">
-  <input name="GALX" type="hidden"
-           value="jX9CyROn77M">
-  <input name="continue" type="hidden" value="https://docs.google.com/spreadsheets/d/1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk/export?gid=336231741&amp;format=csv">
-  <input name="followup" type="hidden" value="https://docs.google.com/spreadsheets/d/1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk/export?gid=336231741&amp;format=csv">
-  <input name="service" type="hidden" value="wise">
-  <input name="ltmpl" type="hidden" value="sheets">
-  <input type="hidden" id="_utf8" name="_utf8" value="&#9731;"/>
-  <input type="hidden" name="bgresponse" id="bgresponse" value="js_disabled">
-<label class="hidden-label" for="Email">Email</label>
-<input id="Email" name="Email" type="email"
-       placeholder="Email"
-       value=""
-       spellcheck="false"
-       class="">
-<label class="hidden-label" for="Passwd">Password</label>
-<input id="Passwd" name="Passwd" type="password"
-       placeholder="Password"
-       class="">
-<input id="signIn" name="signIn" class="rc-button rc-button-submit" type="submit" value="Sign in">
-  <input type="hidden" name="PersistentCookie" value="yes">
-  <a id="link-forgot-passwd" href="https://accounts.google.com/RecoverAccount?service=wise&amp;continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D336231741%26format%3Dcsv"
-       
-       >
-  Need help?
-  </a>
-  </form>
-</div>
-<div class="one-google">
-  <p class="create-account">
-  <a id="link-signup" href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D336231741%26format%3Dcsv&amp;ltmpl=sheets">
-  Create an account
-  </a>
-  </p>
-<p class="tagline">
-  One Google Account for everything Google
-</p>
-<img src="//ssl.gstatic.com/accounts/ui/logo_strip_2x.png" width="210" height="17" alt="">
-</div>
-  </div>
-  <div class="google-footer-bar">
-  <div class="footer content clearfix">
-  <ul id="footer-list">
-  <li>
-  Google
-  </li>
-  <li>
-  <a href="https://accounts.google.com/TOS?loc=DE&hl=en" target="_blank">
-  Privacy &amp; Terms
-  </a>
-  </li>
-  <li>
-  <a href="http://www.google.com/support/accounts?hl=en" target="_blank">
-  Help
-  </a>
-  </li>
-  </ul>
-  </div>
-</div>
-  </div>
-<script type="text/javascript">
-  var gaia_attachEvent = function(element, event, callback) {
-  if (element.addEventListener) {
-  element.addEventListener(event, callback, false);
-  } else if (element.attachEvent) {
-  element.attachEvent('on' + event, callback);
-  }
-  };
-  (function() {
-  var gaia_hideNavBar = function() {
-  setTimeout(function() {
-  window.scrollTo(0, 1);
-  }, 0);
-  };
-  gaia_attachEvent(window, 'load', gaia_hideNavBar);
-  })();
-</script>
-  <script type="text/javascript">/* Anti-spam. Want to say hello? Contact (base64) Ym90Z3VhcmQtY29udGFjdEBnb29nbGUuY29tCg== */(function(){eval('var f,k,m=true,p=null,q=false,u=this,v=void 0,aa=Array.prototype,w=function(a,b){return a<b?-1:a>b?1:0},x=function(a,b,c,d,e){c=a.split("."),d=u,c[0]in d||!d.execScript||d.execScript("var "+c[0]);for(;c.length&&(e=c.shift());)c.length||b===v?d=d[e]?d[e]:d[e]={}:d[e]=b},y=function(a,b,c){if(b=typeof a,"object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;if(c=Object.prototype.toString.call(a),"[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b};t:{var z=u.navigator;if(z){var ba=z.userAgent;if(ba){k=ba;break t}}k=""}var A="",ca=function(a){return(a=u.document)?a.documentMode:v},da=/\\b(?:MSIE|rv)[: ]([^\\);]+)(\\)|;)/.exec(k),A=da?da[1]:"",ea=ca(),fa=ea>parseFloat(A)?String(ea):A,ga={},ha=u.document,B=function(a,b,c,d,e,g,h,l,n,s,r,t){if(!(b=ga[a])){for(b=0,c=String(fa).replace(/^[\\s\\xa0]+|[\\s\\xa0]+$/g,"").split("."),d=String(a).replace(/^[\\s\\xa0]+|[\\s\\xa0]+$/g,"").split("."),e=Math.max(c.length,d.length),g=0;0==b&&g<e;g++){h=c[g]||"",l=d[g]||"",n=RegExp("(\\\\d*)(\\\\D*)","g"),s=RegExp("(\\\\d*)(\\\\D*)","g");do{if(r=n.exec(h)||["","",""],t=s.exec(l)||["","",""],0==r[0].length&&0==t[0].length)break;b=w(0==r[1].length?0:parseInt(r[1],10),0==t[1].length?0:parseInt(t[1],10))||w(0==r[2].length,0==t[2].length)||w(r[2],t[2])}while(0==b)}b=ga[a]=0<=b}return b},ia=ha?ca()||("CSS1Compat"==ha.compatMode?parseInt(fa,10):5):v,C=(B("9"),new function(){},p),D=p,F=p,G=9<=ia,ja=function(a){if(!C)for(C={},D={},F={},a=0;65>a;a++)C[a]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(a),D[C[a]]=a,F[a]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_.".charAt(a)},ka=function(a,b,c,d,e){for(a=a.replace(/\\r\\n/g,"\\n"),b=[],d=c=0;d<a.length;d++)e=a.charCodeAt(d),128>e?b[c++]=e:(2048>e?b[c++]=e>>6|192:(b[c++]=e>>12|224,b[c++]=e>>6&63|128),b[c++]=e&63|128);return b},la=!B("9"),H=(B("8"),B("9"),function(a,b){this.type=a,this.currentTarget=this.target=b,this.defaultPrevented=q}),I=(H.prototype.preventDefault=function(){this.defaultPrevented=m},function(a,b,c,d){H.call(this,a?a.type:""),this.relatedTarget=this.currentTarget=this.target=p,this.charCode=this.keyCode=this.button=this.screenY=this.screenX=this.clientY=this.clientX=this.offsetY=this.offsetX=0,this.metaKey=this.shiftKey=this.altKey=this.ctrlKey=q,this.Z=this.state=p,a&&(c=this.type=a.type,this.currentTarget=b,d=a.relatedTarget,this.target=a.target||a.srcElement,d||("mouseover"==c?d=a.fromElement:"mouseout"==c&&(d=a.toElement)),this.relatedTarget=d,this.Z=a,this.button=a.button,this.ctrlKey=a.ctrlKey,this.altKey=a.altKey,this.shiftKey=a.shiftKey,this.metaKey=a.metaKey,this.state=a.state,this.screenX=a.screenX||0,this.screenY=a.screenY||0,this.keyCode=a.keyCode||0,this.offsetX=a.offsetX!==v?a.offsetX:a.layerX,this.offsetY=a.offsetY!==v?a.offsetY:a.layerY,this.clientX=a.clientX!==v?a.clientX:a.pageX,this.clientY=a.clientY!==v?a.clientY:a.pageY,this.charCode=a.charCode||("keypress"==c?a.keyCode:0),a.defaultPrevented&&this.preventDefault())}),ma=(function(){function a(){}a.prototype=H.prototype,I.qa=H.prototype,I.prototype=new a,I.ua=function(a,c,d){return H.prototype[c].apply(a,Array.prototype.slice.call(arguments,2))}}(),I.prototype.preventDefault=function(a){if(I.qa.preventDefault.call(this),a=this.Z,a.preventDefault)a.preventDefault();else if(a.returnValue=q,la)try{if(a.ctrlKey||112<=a.keyCode&&123>=a.keyCode)a.keyCode=-1}catch(b){}},"closure_listenable_"+(1E6*Math.random()|0)),na=0,J=function(a){this.src=a,this.l={},this.N=0},oa=function(a){a.t=m,a.k=p,a.u=p,a.src=p,a.L=p},pa=function(a,b,c,d,e){this.k=a,this.u=p,this.src=b,this.type=c,this.L=e,this.X=!!d,this.key=++na,this.t=this.M=q},K=(J.prototype.add=function(a,b,c,d,e,g,h,l){g=a.toString(),a=this.l[g],a||(a=this.l[g]=[],this.N++);t:{for(h=0;h<a.length;++h)if(l=a[h],!l.t&&l.k==b&&l.X==!!d&&l.L==e)break t;h=-1}return-1<h?(b=a[h],c||(b.M=q)):(b=new pa(b,this.src,g,!!d,e),b.M=c,a.push(b)),b},"closure_lm_"+(1E6*Math.random()|0)),L={},qa=0,ra=function(a){return a=a[K],a instanceof J?a:p},sa=function(a){return a in L?L[a]:L[a]="on"+a},va=function(a,b){return a=ta,b=G?function(c){return a.call(b.src,b.k,c)}:function(c){if(c=a.call(b.src,b.k,c),!c)return c}},ta=function(a,b,c,d,e){if(a.t)return m;if(!G){if(!(c=b))t:{for(d=u,c=["window","event"];e=c.shift();)if(d[e]!=p)d=d[e];else{c=p;break t}c=d}return c=new I(c,this),d=m,d=wa(a,c)}return wa(a,new I(b,this))},M=function(a,b,c,d,e,g,h){if("array"==y(b))for(g=0;g<b.length;g++)M(a,b[g],c,d,e);else if(c=xa(c),a&&a[ma])a.ta(b,c,d,e);else{if(!b)throw Error("Invalid event type");if(g=!!d,!g||G)(h=ra(a))||(a[K]=h=new J(a)),c=h.add(b,c,q,d,e),c.u||(d=va(),c.u=d,d.src=a,d.k=c,a.addEventListener?a.addEventListener(b.toString(),d,g):a.attachEvent(sa(b.toString()),d),qa++)}},wa=function(a,b,c,d,e,g,h,l,n,s){if(c=a.k,d=a.L||a.src,a.M&&"number"!=typeof a&&a&&!a.t)if((e=a.src)&&e[ma])e.sa(a);else if(g=a.type,h=a.u,e.removeEventListener?e.removeEventListener(g,h,a.X):e.detachEvent&&e.detachEvent(sa(g),h),qa--,g=ra(e)){if(h=a.type,l=h in g.l){l=g.l[h];i:if("string"==typeof l)n="string"==typeof a&&1==a.length?l.indexOf(a,0):-1;else{for(n=0;n<l.length;n++)if(n in l&&l[n]===a)break i;n=-1}(s=0<=n)&&aa.splice.call(l,n,1),l=s}l&&(oa(a),0==g.l[h].length&&(delete g.l[h],g.N--)),0==g.N&&(g.src=p,e[K]=p)}else oa(a);return c.call(d,b)},N="__closure_events_fn_"+(1E9*Math.random()>>>0),O=function(a,b){a.p=("E:"+b.message+":"+b.stack).slice(0,2048)},ya=function(a,b){for(b=Array(a);a--;)b[a]=255*Math.random()|0;return b},P=function(a,b){return a[b]<<24|a[b+1]<<16|a[b+2]<<8|a[b+3]},za=function(a,b){a.T.push(a.c.slice()),a.c[a.b]=v,Q(a,a.b,b)},xa=function(a){if("function"==y(a))return a;return a[N]||(a[N]=function(b){return a.handleEvent(b)}),a[N]},Aa=function(a,b,c){return c=function(){return a},b=function(){return c()},b.da=function(b){a=b},b},Ca=function(a,b,c,d){return function(){if(!d||a.B)return Q(a,a.W,arguments),Q(a,a.m,c),Ba(a,b)}},R=function(a,b,c,d){for(c=[],d=b-1;0<=d;d--)c[b-1-d]=a>>8*d&255;return c},Ba=function(a,b,c,d){return c=a.a(a.b),a.f&&c<a.f.length?(Q(a,a.b,a.f.length),za(a,b)):Q(a,a.b,b),d=a.C(),Q(a,a.b,c),d},T=function(a,b,c,d){for(b={},b.J=a.a(S(a)),b.K=S(a),c=S(a)-1,d=S(a),b.self=a.a(d),b.s=[];c--;)d=S(a),b.s.push(a.a(d));return b},Da=function(a,b,c,d){try{for(d=0;84941944608!=d;)a+=(b<<4^b>>>5)+b^d+c[d&3],d+=2654435769,b+=(a<<4^a>>>5)+a^d+c[d>>>11&3];return[a>>>24,a>>16&255,a>>8&255,a&255,b>>>24,b>>16&255,b>>8&255,b&255]}catch(e){throw e;}},Q=function(a,b,c){if(b==a.b||b==a.o)a.c[b]?a.c[b].da(c):a.c[b]=Aa(c);else if(b!=a.d&&b!=a.g&&b!=a.h||!a.c[b])a.c[b]=Ea(c,a.a);b==a.A&&(a.D=v,Q(a,a.b,a.a(a.b)+4))},U=function(a,b){return b<=a.ja?b==a.h||b==a.d||b==a.g||b==a.w?a.q:b==a.W||b==a.Q||b==a.R||b==a.m?a.F:b==a.H?a.i:b==a.j||b==a.v?2:b==a.n?1:4:[1,2,4,a.q,a.F,a.i][b%a.ka]},S=function(a,b,c){if(b=a.a(a.b),!(b in a.f))throw a.e(a.ga),a.G;return a.D==v&&(a.D=P(a.f,b-4),a.I=v),a.I!=b>>3&&(a.I=b>>3,c=[0,0,0,a.a(a.A)],a.ha=Da(a.D,a.I,c)),Q(a,a.b,b+1),a.f[b]^a.ha[b%8]},Ea=function(a,b,c,d,e,g,h,l,n){return l=Z,e=Z.prototype,g=e.C,h=e.Y,n=e.e,d=function(){return c()},c=function(a,r,t){for(t=0,a=d[e.O],r=a===b,a=a&&a[e.O];a&&a!=g&&a!=h&&a!=l&&a!=n&&20>t;)t++,a=a[e.O];return c[e.pa+r+!(!a+(t>>2))]},d[e.S]=e,c[e.oa]=a,a=v,d},$=function(a,b,c,d,e,g){for(e=a.a(b),b=b==a.g?function(b,c,d,g){if(c=e.length,d=c-4>>3,e.ma!=d){e.ma=d,d=(d<<3)-4,g=[0,0,0,a.a(a.P)];try{e.la=Da(P(e,d),P(e,d+4),g)}catch(r){throw r;}}e.push(e.la[c&7]^b)}:function(a){e.push(a)},d&&b(d&255),g=0,d=c.length;g<d;g++)b(c[g])},Z=function(a,b,c,d,e,g,h,l){try{if(this.c=[],Q(this,this.b,0),Q(this,this.o,0),Q(this,this.A,0),Q(this,this.h,[]),Q(this,this.d,[]),Q(this,this.Q,"object"==typeof window?window:u),Q(this,this.R,this),Q(this,this.n,0),Q(this,this.v,0),Q(this,this.P,0),Q(this,this.g,ya(4)),Q(this,this.w,[]),Q(this,this.m,{}),Q(this,this.j,2048),this.B=m,a&&"!"==a[0])this.p=a;else{for(ja(),b=D,c=[],d=0;d<a.length;){if(e=b[a.charAt(d++)],g=d<a.length?b[a.charAt(d)]:0,++d,h=d<a.length?b[a.charAt(d)]:64,++d,l=d<a.length?b[a.charAt(d)]:64,++d,e==p||g==p||h==p||l==p)throw Error();c.push(e<<2|g>>4),64!=h&&(c.push(g<<4&240|h>>2),64!=l&&c.push(h<<6&192|l))}(this.f=c)&&this.f.length?(this.T=[],this.C()):this.e(this.ca)}}catch(n){O(this,n)}};f=Z.prototype,f.b=0,f.A=1,f.h=2,f.o=3,f.d=4,f.H=5,f.W=6,f.j=7,f.U=8,f.Q=9,f.R=10,f.n=11,f.v=12,f.P=13,f.g=14,f.w=15,f.m=16,f.ja=17,f.$=15,f.ia=12,f.aa=10,f.ba=42,f.ka=6,f.i=-1,f.q=-2,f.F=-3,f.ca=17,f.ea=21,f.r=22,f.na=30,f.ga=31,f.fa=33,f.G={},f.O="caller",f.S="toString",f.pa=34,f.oa=36,Z.prototype.a=function(a,b){if(b=this.c[a],b===v)throw this.e(this.na,0,a),this.G;return b()},Z.prototype.xa=function(a,b,c,d){d=a[(b+2)%3],a[b]=a[b]-a[(b+1)%3]-d^(1==b?d<<c:d>>>c)},Z.prototype.wa=function(a,b,c,d){if(3==a.length){for(c=0;3>c;c++)b[c]+=a[c];for(c=0,d=[13,8,13,12,16,5,3,10,15];9>c;c++)b[3](b,c%3,d[c])}},Z.prototype.ya=function(a,b){b.push(a[0]<<24|a[1]<<16|a[2]<<8|a[3]),b.push(a[4]<<24|a[5]<<16|a[6]<<8|a[7]),b.push(a[8]<<24|a[9]<<16|a[10]<<8|a[11])},Z.prototype.e=function(a,b,c,d){d=this.a(this.o),a=[a,d>>8&255,d&255],c!=v&&a.push(c),0==this.a(this.h).length&&(this.c[this.h]=v,Q(this,this.h,a)),c="",b&&(b.message&&(c+=b.message),b.stack&&(c+=":"+b.stack)),b=this.a(this.j),3<b&&(c=c.slice(0,b-3),b-=c.length+3,c=ka(c),$(this,this.g,R(c.length,2).concat(c),this.ia)),Q(this,this.j,b)},f.V=[function(){},function(a,b,c,d,e){b=S(a),c=S(a),d=a.a(b),b=U(a,b),e=U(a,c),e==a.i||e==a.q?d=""+d:0<b&&(1==b?d&=255:2==b?d&=65535:4==b&&(d&=4294967295)),Q(a,c,d)},function(a,b,c,d,e,g,h,l,n){if(b=S(a),c=U(a,b),0<c){for(d=0;c--;)d=d<<8|S(a);Q(a,b,d)}else if(c!=a.F){if(d=S(a)<<8|S(a),c==a.i)if(c="",a.c[a.H]!=v)for(e=a.a(a.H);d--;)g=e[S(a)<<8|S(a)],c+=g;else{for(c=Array(d),e=0;e<d;e++)c[e]=S(a);for(d=c,c=[],g=e=0;e<d.length;)h=d[e++],128>h?c[g++]=String.fromCharCode(h):191<h&&224>h?(l=d[e++],c[g++]=String.fromCharCode((h&31)<<6|l&63)):(l=d[e++],n=d[e++],c[g++]=String.fromCharCode((h&15)<<12|(l&63)<<6|n&63));c=c.join("")}else for(c=Array(d),e=0;e<d;e++)c[e]=S(a);Q(a,b,c)}},function(a){S(a)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),c=a.a(c),b=a.a(b),Q(a,d,b[c])},function(a,b,c){b=S(a),c=S(a),b=a.a(b),Q(a,c,y(b))},function(a,b,c,d,e){b=S(a),c=S(a),d=U(a,b),e=U(a,c),c!=a.h&&(d==a.i&&e==a.i?(a.c[c]==v&&Q(a,c,""),Q(a,c,a.a(c)+a.a(b))):e==a.q&&(0>d?(b=a.a(b),d==a.i&&(b=ka(""+b)),c!=a.d&&c!=a.g&&c!=a.w||$(a,c,R(b.length,2)),$(a,c,b)):0<d&&$(a,c,R(a.a(b),d))))},function(a,b,c){b=S(a),c=S(a),Q(a,c,function(a){return eval(a)}(a.a(b)))},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)-a.a(b))},function(a,b){b=T(a),Q(a,b.K,b.J.apply(b.self,b.s))},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)%a.a(b))},function(a,b,c,d,e){b=S(a),c=a.a(S(a)),d=a.a(S(a)),e=a.a(S(a)),b=a.a(b),M(b,c,Ca(a,d,e,m))},function(a,b,c,d){b=S(a),c=S(a),d=S(a),a.a(b)[a.a(c)]=a.a(d)},function(a,b,c,d,e){b=T(a),c=b.s,d=b.self,e=b.J;switch(c.length){case 0:c=d[e]();break;case 1:c=d[e](c[0]);break;case 2:c=d[e](c[0],c[1]);break;case 3:c=d[e](c[0],c[1],c[2]);break;default:a.e(a.r);return}Q(a,b.K,c)},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)+a.a(b))},function(a,b,c){b=S(a),c=S(a),0!=a.a(b)&&Q(a,a.b,a.a(c))},function(a,b,c,d){b=S(a),c=S(a),d=S(a),a.a(b)==a.a(c)&&Q(a,d,a.a(d)+1)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),a.a(b)>a.a(c)&&Q(a,d,a.a(d)+1)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)<<c)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)|a.a(c))},function(a,b){b=a.a(S(a)),za(a,b)},function(a,b,c,d){if(b=a.T.pop()){for(c=S(a);0<c;c--)d=S(a),b[d]=a.c[d];a.c=b}else Q(a,a.b,a.f.length)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,(a.a(b)in a.a(c))+0)},function(a,b,c,d){b=S(a),c=a.a(S(a)),d=a.a(S(a)),Q(a,b,Ca(a,c,d))},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)*a.a(b))},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)>>c)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)||a.a(c))},function(a,b,c,d,e){b=T(a),c=b.s,d=b.self,e=b.J;switch(c.length){case 0:c=new d[e];break;case 1:c=new d[e](c[0]);break;case 2:c=new d[e](c[0],c[1]);break;case 3:c=new d[e](c[0],c[1],c[2]);break;case 4:c=new d[e](c[0],c[1],c[2],c[3]);break;default:a.e(a.r);return}Q(a,b.K,c)},function(a,b,c,d,e,g){if(b=S(a),c=S(a),d=S(a),e=S(a),b=a.a(b),c=a.a(c),d=a.a(d),a=a.a(e),"object"==y(b)){for(g in e=[],b)e.push(g);b=e}for(e=0,g=b.length;e<g;e+=d)c(b.slice(e,e+d),a)}],Z.prototype.va=function(a){return(a=window.performance)&&a.now?function(){return a.now()|0}:function(){return+new Date}}(),Z.prototype.ra=function(a,b){return b=this.Y(),a&&a(b),b},Z.prototype.C=function(a,b,c,d,e,g){try{for(b=5001,c=v,d=0,a=this.f.length;--b&&(d=this.a(this.b))<a;)try{Q(this,this.o,d),e=S(this)%this.V.length,(c=this.V[e])?c(this):this.e(this.ea,0,e)}catch(h){h!=this.G&&((g=this.a(this.n))?(Q(this,g,h),Q(this,this.n,0)):this.e(this.r,h))}b||this.e(this.fa)}catch(l){try{this.e(this.r,l)}catch(n){O(this,n)}}return this.a(this.m)},Z.prototype.Y=function(a,b,c,d,e,g,h,l,n,s,r,t,V,ua,W,X,Y,E){if(this.p)return this.p;try{for(this.B=q,b=this.a(this.d).length,c=this.a(this.g).length,d=this.a(this.j),this.c[this.U]&&Ba(this,this.a(this.U)),e=this.a(this.h),0<e.length&&$(this,this.d,R(e.length,2).concat(e),this.$),g=this.a(this.v)&255,g-=this.a(this.d).length+4,h=this.a(this.g),4<h.length&&(g-=h.length+3),0<g&&$(this,this.d,R(g,2).concat(ya(g)),this.aa),4<h.length&&$(this,this.d,R(h.length,2).concat(h),this.ba),l=[3].concat(this.a(this.d)),ja(),s=[],e=0;e<l.length;e+=3)r=l[e],V=(t=e+1<l.length)?l[e+1]:0,W=(ua=e+2<l.length)?l[e+2]:0,g=r>>2,Y=W&63,h=(r&3)<<4|V>>4,X=(V&15)<<2|W>>6,ua||(Y=64,t||(X=64)),s.push(F[g],F[h],F[X],F[Y]);if(n=s=s.join("").replace(/\\./g,""))n="!"+n;else for(n="",s=0;s<l.length;s++)E=l[s][this.S](16),1==E.length&&(E="0"+E),n+=E;this.a(this.d).length=b,this.a(this.g).length=c,Q(this,this.j,d),a=n,this.B=m}catch(Fa){O(this,Fa),a=this.p}return a};try{M(window,"unload",function(){})}catch(Ga){}x("botguard.bg",Z),x("botguard.bg.prototype.invoke",Z.prototype.ra);')})()</script>
-  <script type="text/javascript">
-  document.bg = new botguard.bg('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');
-  </script>
-<script>
-  function gaia_parseFragment() {
-  var hash = location.hash;
-  var params = {};
-  if (!hash) {
-  return params;
-  }
-  var paramStrs = decodeURIComponent(hash.substring(1)).split('&');
-  for (var i = 0; i < paramStrs.length; i++) {
-      var param = paramStrs[i].split('=');
-      params[param[0]] = param[1];
-    }
-    return params;
-  }
-
-  function gaia_prefillEmail() {
-    var form = null;
-    if (document.getElementById) {
-      form = document.getElementById('gaia_loginform');
-    }
-
-    if (form && form.Email &&
-        (form.Email.value == null || form.Email.value == '')
-        && (form.Email.type != 'hidden')) {
-      hashParams = gaia_parseFragment();
-      if (hashParams['Email'] && hashParams['Email'] != '') {
-        form.Email.value = hashParams['Email'];
-      }
-    }
-  }
-
-  
-  try {
-    gaia_prefillEmail();
-  } catch (e) {
-  }
-  
-</script>
-<script>
-  function gaia_setFocus() {
-  var form = null;
-  var isFocusableField = function(inputElement) {
-  if (!inputElement) {
-  return false;
-  }
-  if (inputElement.type != 'hidden' && inputElement.focus &&
-  inputElement.style.display != 'none') {
-  return true;
-  }
-  return false;
-  };
-  var isFocusableErrorField = function(inputElement) {
-  if (!inputElement) {
-  return false;
-  }
-  var hasError = inputElement.className.indexOf('form-error') > -1;
-  if (hasError && isFocusableField(inputElement)) {
-  return true;
-  }
-  return false;
-  };
-  var isFocusableEmptyField = function(inputElement) {
-  if (!inputElement) {
-  return false;
-  }
-  var isEmpty = inputElement.value == null || inputElement.value == '';
-  if (isEmpty && isFocusableField(inputElement)) {
-  return true;
-  }
-  return false;
-  };
-  if (document.getElementById) {
-  form = document.getElementById('gaia_loginform');
-  }
-  if (form) {
-  var userAgent = navigator.userAgent.toLowerCase();
-  var formFields = form.getElementsByTagName('input');
-  for (var i = 0; i < formFields.length; i++) {
-        var currentField = formFields[i];
-        if (isFocusableErrorField(currentField)) {
-          currentField.focus();
-          
-          var currentValue = currentField.value;
-          currentField.value = '';
-          currentField.value = currentValue;
-          return;
-        }
-      }
-      
-      
-      
-        for (var j = 0; j < formFields.length; j++) {
-          var currentField = formFields[j];
-          if (isFocusableEmptyField(currentField)) {
-            currentField.focus();
-            return;
-          }
-        }
-      
-    }
-  }
-
-  
-  
-  
-</script>
-<script>
-  var gaia_scrollToElement = function(element) {
-  var calculateOffsetHeight = function(element) {
-  var curtop = 0;
-  if (element.offsetParent) {
-  while (element) {
-  curtop += element.offsetTop;
-  element = element.offsetParent;
-  }
-  }
-  return curtop;
-  }
-  var siginOffsetHeight = calculateOffsetHeight(element);
-  var scrollHeight = siginOffsetHeight - window.innerHeight +
-  element.clientHeight + 0.02 * window.innerHeight;
-  window.scroll(0, scrollHeight);
-  }
-</script>
-<script>
-  (function(){
-  var signinInput = document.getElementById('signIn');
-  gaia_onLoginSubmit = function() {
-  try {
-  document.bg.invoke(function(response) {
-  document.getElementById('bgresponse').value = response;
-  });
-  } catch (err) {
-  document.getElementById('bgresponse').value = '';
-  }
-  return true;
-  }
-  document.getElementById('gaia_loginform').onsubmit = gaia_onLoginSubmit;
-  var signinButton = document.getElementById('signIn');
-  gaia_attachEvent(window, 'load', function(){
-  gaia_scrollToElement(signinButton);
-  });
-  })();
-</script>
-  <script>var e=this,g=function(c,b){var a=c.split("."),d=e;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var f;a.length&&(f=a.shift());)a.length||void 0===b?d[f]?d=d[f]:d=d[f]={}:d[f]=b};var h=function(){try{return new XMLHttpRequest}catch(c){for(var b=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"],a=0;a<b.length;a++)try{return new ActiveXObject(b[a])}catch(d){}}return null};g("gaia.ajax.newXmlHttpRequest",h);var k=function(){this.b=h();this.parameters={}};g("gaia.ajax.XmlHttpFormRequest",k);k.prototype.a=function(){};k.prototype.oncomplete=k.prototype.a;
-k.prototype.send=function(c){var b=[],a;for(a in this.parameters)b.push(a+"="+encodeURIComponent(this.parameters[a]));var b=b.join("&"),d=this.b,f=this.a;d.open("POST",c,!0);d.setRequestHeader("Content-type","application/x-www-form-urlencoded");d.onreadystatechange=function(){4==d.readyState&&f({status:d.status,text:d.responseText})};d.send(b)};k.prototype.send=k.prototype.send;
-k.prototype.d=function(c,b){var a=this.b,d=this.a;a.open("POST",c,!0);a.setRequestHeader("Content-type","application/json");a.onreadystatechange=function(){4==a.readyState&&d({status:a.status,text:a.responseText})};a.send(b)};k.prototype.sendJson=k.prototype.d;k.prototype.c=function(c){var b=this.a,a=this.b;a.open("GET",c,!0);a.onreadystatechange=function(){4==a.readyState&&b({status:a.status,text:a.responseText})};a.send()};k.prototype.get=k.prototype.c;var l=/\s*;\s*/,m=function(){if(!document.cookie)return"";for(var c=document.cookie.split(l),b=0;b<c.length;b++){var a=c[b],a=a.replace(/^\s+/,""),a=a.replace(/\s+$/,"");if(0==a.indexOf("APISID="))return a.substr(7)}return""};var n=null,p=function(c,b){this.d=c;this.c=b;this.b=m()},q=function(){var c=n,b=m();b!=c.b&&(c.b=b,b=new k,b.a=function(a){var b=n;a&&a.status&&200==a.status&&"OK"==a.text&&(b.a&&clearInterval(b.a),window.location=b.d)},b.c(c.c))},r=function(c){var b=n;if(b.a)return!1;b.a=setInterval(function(){q()},c);return!0};g("gaia.loginAutoRedirect.start",function(c,b,a){if(n||!a||!b||0>=c)return!1;n=new p(b,a);return r(c)});
-</script>
-  <script type="text/javascript">
-  gaia.loginAutoRedirect.start(5000,
-  'https:\x2F\x2Faccounts.google.com\x2FServiceLogin?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D336231741%26format%3Dcsv\x26followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D336231741%26format%3Dcsv\x26service=wise\x26ltmpl=sheets\x26passive=1209600\x26noautologin=true',
-  'https:\x2F\x2Faccounts.google.com\x2FPassiveLoginProber?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D336231741%26format%3Dcsv\x26followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D336231741%26format%3Dcsv\x26service=wise\x26ltmpl=sheets\x26passive=1209600');
-  </script>
-  </body>
-</html>
+Quelle,Stadt,URL PARENT,Dateibezeichnung,URL Datei,Format,Beschreibung,Zeitlicher Bezug,Lizenz,Kosten,Veröffentlichende Stelle,Arbeitsmarkt,Bevölkerung,Bildung und Wissenschaft,Haushalt und Steuern,Stadtentwicklung und Bebauung,Wohnen und Immobilien,Sozialleistungen,Öffentl. Sicherheit,Gesundheit,Kunst und Kultur,Land- und Forstwirtschaft,Sport und Freizeit,Umwelt,Transport und Verkehr,"Energie, Ver- und Entsorgung",Politik und Wahlen,Gesetze und Justiz,Wirtschaft und Wirtschaftsförderung,Tourismus,Verbraucher,Sonstiges,Noch nicht kategorisiert,keyword,groups,tags,name,geo,id,author_email,maintainer,maintainer_email,metadata_created,metadata_modified,capacity,state,URL_Dateiname,Title_PARENT
+d,rostock.de,http://www.opendata-hro.de/dataset/934ec65d-398b-49d0-9833-9aa713c0ff87 ,Abfallbehälter,,"CSV,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Abfallbehälter im Eigentum der Hansestadt Rostock mit Informationen zur Art. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 1 Tag,2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,x,,,,,,,,,"infrastruktur_bauen_wohnen,umwelt_klima","Abfall,Abfallbehälter,Entsorgung,Grünanlage,Hygiene,Infrastruktur,Müll,Mülleimer,Papierkorb,Park,Schmutz,Stadtmöbel",abfallbehaelter,x,934ec65d-398b-49d0-9833-9aa713c0ff87,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-14T10:41:22.785Z,2014-07-10T04:11:48.701Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/310d8444-01f6-4432-aed1-4cd6d3b93f95,Adressenliste,,"CSV,XLSX,JSON,WMS","Dieser Datensatz umfasst die Liste der Adressen in Rostock mit Informationen zu Kreis, Gemeindeverband, Gemeinde, Gemeindeteil, Straße, Hausnummer und Postleitzahl. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 1 Tag",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,x,,,,,,,,,,,,,,,,,,,verwaltung,"Adresse,Hausnummer",adressenliste,x,310d8444-01f6-4432-aed1-4cd6d3b93f95,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-23T15:21:43.83Z,2014-07-10T04:15:51.904Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/27e1cb37-ee30-4108-a0c6-9c98defe7c19,Ärztehäuser,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Ärztehäuser in Rostock mit Informationen zu Adresse, Bezeichnung, Betreiber, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,x,,,,,,,,,,,,,,,"gesundheit,wirtschaft_arbeit","Arzt,Gesundheit,Medizin,Versorgung",aerztehaeuser,x,27e1cb37-ee30-4108-a0c6-9c98defe7c19,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-16T13:20:44.293Z,2014-06-05T08:38:36.189Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/e20b32ea-1e32-45c4-8305-2c2b8110a5bc,Altkleidercontainer,,"CSV,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Altkleidercontainer in Rostock. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,,,,,,,,,,,x,,,,,,,,,"infrastruktur_bauen_wohnen,umwelt_klima","Altkleider,Altkleidersammlung,Container,Entsorgung,Hygiene,Infrastruktur,Kleidung,Recycling",altkleidercontainer,x,e20b32ea-1e32-45c4-8305-2c2b8110a5bc,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-15T09:46:43.088Z,2014-06-11T07:13:21.412Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/652e7b9e-5bb2-4a7e-aeff-12421d3c32a5,Apotheken,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Apotheken in Rostock mit Informationen zu Adresse, Bezeichnung, Betreiber, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,x,,,,,,,,,,,,,,,"gesundheit,verbraucher,wirtschaft_arbeit","Apotheke,Gesundheit,Medizin,Versorgung",apotheken,x,652e7b9e-5bb2-4a7e-aeff-12421d3c32a5,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-16T12:56:50.885Z,2014-06-05T08:51:30.983Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/e4344ed2-ca33-4fb7-ab01-3b62fce36a85,Augenoptiker,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Augenoptiker in Rostock mit Informationen zu Adresse, Bezeichnung, Betreiber, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,x,,,,,,,,,,,,,,,"gesundheit,verbraucher,wirtschaft_arbeit","Augenoptiker,Gesundheit,Medizin,Versorgung",augenoptiker,x,e4344ed2-ca33-4fb7-ab01-3b62fce36a85,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-03-25T09:44:05.395Z,2014-07-10T04:19:28.661Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/91bf3ccf-3407-4766-a4d3-abd3684cd747,Bäckereien,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Bäckereien in Rostock mit Informationen zu Adresse, Bezeichnung, Betreiber, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,,,,,,,x,,,"verbraucher,wirtschaft_arbeit","Bäckerei,Einzelhandel,Konditorei,Lebensmittel,Versorgung",baeckereien,x,91bf3ccf-3407-4766-a4d3-abd3684cd747,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-02-20T11:39:31.629Z,2014-07-10T04:10:15.332Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/5ca49844-a899-4690-b163-bd0de889ffd6,Bänke,,"CSV,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Bänke im Eigentum der Hansestadt Rostock mit Informationen zur Art. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 1 Tag,2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,x,,,,,,,,,,,,"infrastruktur_bauen_wohnen,kultur_freizeit_sport_tourismus","Erholung,Freizeit,Garten,Grünanlage,Infrastruktur,Park,Stadtmöbel",baenke,x,5ca49844-a899-4690-b163-bd0de889ffd6,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-14T11:02:34.893Z,2014-07-10T04:14:39.754Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/c8d7bc49-0125-4bd9-96ae-5bdef7ab9c49,Banken,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Banken in Rostock mit Informationen zu Adresse, Bezeichnung, Betreiber, BIC, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,,,,x,,,,,,"verbraucher,wirtschaft_arbeit","Bank,Geld,Kredit",banken,x,c8d7bc49-0125-4bd9-96ae-5bdef7ab9c49,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-03-18T14:46:43.211Z,2014-06-05T09:09:41.643Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9,Bau- und Gartenmärkte,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Bau- und Gartenmärkte in Rostock mit Informationen zu Adresse, Bezeichnung, Art, Betreiber, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,,,,,,x,,,,"infrastruktur_bauen_wohnen,verbraucher,wirtschaft_arbeit","Baumarkt,Einzelhandel,Gartenmarkt,Versorgung",bau_gartenmaerkte,x,e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-02-13T13:20:18.355Z,2014-06-05T09:16:09.214Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/78c98423-8d83-48db-ba8c-705ff1829d6e,Baudenkmale,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Flächen der amtlich erfassten Baudenkmale in Rostock mit Informationen zur Art sowie einer Beschreibung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Amt für Kultur und Denkmalpflege,,,,,,,,,,x,,,,,,,,,x,,,,,"bildung_wissenschaft,infrastruktur_bauen_wohnen,kultur_freizeit_sport_tourismus","Attraktion,Bau,Baudenkmal,Bildung,Denkmal,Kultur,Sehenswürdigkeit,Tourismus",baudenkmale,x,78c98423-8d83-48db-ba8c-705ff1829d6e,opendata.hro@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-15T12:13:23.525Z,2014-06-05T09:47:53.346Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/fb03c3c5-cae0-41cd-9256-5472b0677377,Baustellen,,"CSV,XLSX,GEOJSON,GEORSS,KML,GML,WFS,WMS","Dieser Datensatz umfasst die Standorte der amtlich erfassten Straßenbaustellen in Rostock mit Informationen zur genauen Lage, zu Art und Grund der Sperrung, zu Beginn und Ende der Sperrung sowie etwaigen Bemerkungen. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 1 Tag",2013,odc-by,,Hansestadt Rostock – Stadtamt,,,,,x,,,,,,,,,x,,,,,,,,,,"infrastruktur_bauen_wohnen,transport_verkehr","Bau,Baustelle,Sperrung,Straße,Verkehr,Weg",baustellen,x,fb03c3c5-cae0-41cd-9256-5472b0677377,stadtamt-verkehrsabteilung@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-05T12:25:49.613Z,2014-07-10T04:18:29.247Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/b6cadf55-e2e2-4113-9821-e2f2adcae5c1,Bebauungspläne (Geltungsbereiche),,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS","Dieser Datensatz umfasst die Geltungsbereiche der rechtskräftigen Bebauungspläne der Hansestadt Rostock mit Informationen zur Nummer, zur Bezeichnung, zur Art und zum Bekanntmachungsdatum des Plans sowie zur Größe der betroffenen Fläche. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,x,,,,,,,x,,,,,,,,,,,,infrastruktur_bauen_wohnen,"B-Plan,Bau,Bauleitplan,Bebauung,Bebauungsplan,Planung,Stadtplanung",bebauungsplaene-umrisse,x,b6cadf55-e2e2-4113-9821-e2f2adcae5c1,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-21T12:41:14.126Z,2014-06-10T07:48:11.043Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/4b3353d0-965a-4c9a-b191-9bd6a9599730,Begegnungszentren,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Begegnungszentren in Rostock mit Informationen zur Bezeichnung, zum Träger, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,x,,,,,,,,,,,,,,"bevoelkerung,kultur_freizeit_sport_tourismus,soziales","Begegnung,Begegnungszentrum,Freizeit,Mehrgenerationenhaus,Ortsteil,Stadtteil",begegnungszentren,x,4b3353d0-965a-4c9a-b191-9bd6a9599730,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-15T10:18:54.7Z,2014-07-09T04:16:49.785Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/658f0d83-31e1-4f34-bdff-4498972a9163,Behörden (kommunal),,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der kommunalen Behörden in Rostock mit Informationen zu Adresse, Bezeichnung, Verwaltungsebene, Barrierefreiheit, Sprechzeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,,,,,,,x,,,verwaltung,"Behörde,Institution,Organisation,Politik,Verwaltung",behoerden-kommunal,x,658f0d83-31e1-4f34-bdff-4498972a9163,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-03-14T09:48:47.919Z,2014-07-09T04:14:51.658Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/bcc44f79-75bd-4aa7-b7f5-35097a62d9e6,Behörden (nicht-kommunal),,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der nicht-kommunalen Behörden in Rostock mit Informationen zu Adresse, Bezeichnung, Verwaltungsebene, Barrierefreiheit, Sprechzeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,,,,,,,x,,,verwaltung,"Behörde,Institution,Organisation,Politik,Verwaltung",behoerden-nicht-kommunal,x,bcc44f79-75bd-4aa7-b7f5-35097a62d9e6,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-22T15:58:09.161Z,2014-06-10T08:35:51.744Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/312bb56d-15b4-4aa0-a1bd-2e867dd95e4a,Bevölkerungsstruktur 2005,,"XLSX,CSV,JSON","Dieser Datensatz umfasst die statistischen Daten zur Bevölkerungsstruktur in Rostock (Bevölkerung mit Hauptwohnung in der Hansestadt Rostock) des Jahres 2005 nach Stadtbereichen (Quelle: Melderegister der Hansestadt Rostock). Die Ressourcen zur Bevölkerung insgesamt, zur Bevölkerung nach Geschlecht, nach Alter, nach Familienstand sowie nach Staatsangehörigkeit umfassen Bevölkerungsbestandsangaben vom 31.12.2005 und die Ressourcen zur natürlichen, räumlichen und gesamten Bevölkerungsbewegung umfassen Daten des Gesamtjahres 2005. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig im Zeitraum vom 01.01.2005 bis 31.12.2005 erfasst.",2005,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,x,,,,,,,,,,,,,,,,,,,,,,"bevoelkerung,verwaltung","Altersstruktur,Bevölkerung,Bevölkerungsbewegung,Bevölkerungsstruktur,Einwohner,Familie,Stadtbereich,Statistik",bevoelkerungsstruktur_2005,,312bb56d-15b4-4aa0-a1bd-2e867dd95e4a,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-12T15:25:45.406Z,2014-06-10T12:21:12.758Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/95235ea3-87a2-4a9a-aedc-f171107ead85,Bevölkerungsstruktur 2006,,"XLSX,CSV,JSON","Dieser Datensatz umfasst die statistischen Daten zur Bevölkerungsstruktur in Rostock (Bevölkerung mit Hauptwohnung in der Hansestadt Rostock) des Jahres 2006 nach Stadtbereichen (Quelle: Melderegister der Hansestadt Rostock). Die Ressourcen zur Bevölkerung insgesamt, zur Bevölkerung nach Geschlecht, nach Alter, nach Familienstand sowie nach Staatsangehörigkeit umfassen Bevölkerungsbestandsangaben vom 31.12.2006 und die Ressourcen zur natürlichen, räumlichen und gesamten Bevölkerungsbewegung umfassen Daten des Gesamtjahres 2006. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig im Zeitraum vom 01.01.2006 bis 31.12.2006 erfasst.",2006,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,x,,,,,,,,,,,,,,,,,,,,,,"bevoelkerung,verwaltung","Altersstruktur,Bevölkerung,Bevölkerungsbewegung,Bevölkerungsstruktur,Einwohner,Familie,Stadtbereich,Statistik",bevoelkerungsstruktur_2006,,95235ea3-87a2-4a9a-aedc-f171107ead85,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-13T11:40:54.733Z,2014-06-10T12:14:48.898Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/ca6846a1-5bf5-46a9-9b2f-5f7cb25fef6b,Bevölkerungsstruktur 2007,,"XLSX,CSV,JSON","Dieser Datensatz umfasst die statistischen Daten zur Bevölkerungsstruktur in Rostock (Bevölkerung mit Hauptwohnung in der Hansestadt Rostock) des Jahres 2007 nach Stadtbereichen (Quelle: Melderegister der Hansestadt Rostock). Die Ressourcen zur Bevölkerung insgesamt, zur Bevölkerung nach Geschlecht, nach Alter, nach Familienstand sowie nach Staatsangehörigkeit umfassen Bevölkerungsbestandsangaben vom 31.12.2007 und die Ressourcen zur natürlichen, räumlichen und gesamten Bevölkerungsbewegung umfassen Daten des Gesamtjahres 2007. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig im Zeitraum vom 01.01.2007 bis 31.12.2007 erfasst.",2007,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,x,,,,,,,,,,,,,,,,,,,,,,"bevoelkerung,verwaltung","Altersstruktur,Bevölkerung,Bevölkerungsbewegung,Bevölkerungsstruktur,Einwohner,Familie,Stadtbereich,Statistik",bevoelkerungsstruktur_2007,,ca6846a1-5bf5-46a9-9b2f-5f7cb25fef6b,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-13T11:18:04.107Z,2014-06-11T05:54:42.143Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/0c09f284-6b90-402b-83c8-5eefdb381bbe,Bevölkerungsstruktur 2008,,"XLSX,CSV,JSON","Dieser Datensatz umfasst die statistischen Daten zur Bevölkerungsstruktur in Rostock (Bevölkerung mit Hauptwohnung in der Hansestadt Rostock) des Jahres 2008 nach Stadtbereichen (Quelle: Melderegister der Hansestadt Rostock). Die Ressourcen zur Bevölkerung insgesamt, zur Bevölkerung nach Geschlecht, nach Alter, nach Familienstand sowie nach Staatsangehörigkeit umfassen Bevölkerungsbestandsangaben vom 31.12.2008 und die Ressourcen zur natürlichen, räumlichen und gesamten Bevölkerungsbewegung umfassen Daten des Gesamtjahres 2008. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig im Zeitraum vom 01.01.2008 bis 31.12.2008 erfasst.",2008,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,x,,,,,,,,,,,,,,,,,,,,,,"bevoelkerung,verwaltung","Altersstruktur,Bevölkerung,Bevölkerungsbewegung,Bevölkerungsstruktur,Einwohner,Familie,Stadtbereich,Statistik",bevoelkerungsstruktur_2008,,0c09f284-6b90-402b-83c8-5eefdb381bbe,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-13T10:52:23.608Z,2014-06-11T05:54:15.615Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/6a218346-593a-478c-ae3e-937e254947e3,Bevölkerungsstruktur 2009,,"XLSX,CSV,JSON","Dieser Datensatz umfasst die statistischen Daten zur Bevölkerungsstruktur in Rostock (Bevölkerung mit Hauptwohnung in der Hansestadt Rostock) des Jahres 2009 nach Stadtbereichen (Quelle: Melderegister der Hansestadt Rostock). Die Ressourcen zur Bevölkerung insgesamt, zur Bevölkerung nach Geschlecht, nach Alter, nach Familienstand sowie nach Staatsangehörigkeit umfassen Bevölkerungsbestandsangaben vom 31.12.2009 und die Ressourcen zur natürlichen, räumlichen und gesamten Bevölkerungsbewegung umfassen Daten des Gesamtjahres 2009. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig im Zeitraum vom 01.01.2009 bis 31.12.2009 erfasst.",2009,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,x,,,,,,,,,,,,,,,,,,,,,,"bevoelkerung,verwaltung","Altersstruktur,Bevölkerung,Bevölkerungsbewegung,Bevölkerungsstruktur,Einwohner,Familie,Stadtbereich,Statistik",bevoelkerungsstruktur_2009,,6a218346-593a-478c-ae3e-937e254947e3,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-13T10:11:50.841Z,2014-06-10T11:13:21.353Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/45e94633-189b-4857-b710-f9b6fb4aa7a8,Bevölkerungsstruktur 2010,,"XLSX,CSV,JSON","Dieser Datensatz umfasst die statistischen Daten zur Bevölkerungsstruktur in Rostock (Bevölkerung mit Hauptwohnung in der Hansestadt Rostock) des Jahres 2010 nach Stadtbereichen (Quelle: Melderegister der Hansestadt Rostock). Die Ressourcen zur Bevölkerung insgesamt, zur Bevölkerung nach Geschlecht, nach Alter, nach Familienstand sowie nach Staatsangehörigkeit umfassen Bevölkerungsbestandsangaben vom 31.12.2010 und die Ressourcen zur natürlichen, räumlichen und gesamten Bevölkerungsbewegung umfassen Daten des Gesamtjahres 2010. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig im Zeitraum vom 01.01.2010 bis 31.12.2010 erfasst.",2010,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,x,,,,,,,,,,,,,,,,,,,,,,"bevoelkerung,verwaltung","Altersstruktur,Bevölkerung,Bevölkerungsbewegung,Bevölkerungsstruktur,Einwohner,Familie,Stadtbereich,Statistik",bevoelkerungsstruktur_2010,,45e94633-189b-4857-b710-f9b6fb4aa7a8,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-13T09:43:00.077Z,2014-06-11T05:53:36.67Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/92437de0-a730-428a-921d-1d9c418072d6,Bevölkerungsstruktur 2011,,"XLSX,CSV,JSON","Dieser Datensatz umfasst die statistischen Daten zur Bevölkerungsstruktur in Rostock (Bevölkerung mit Hauptwohnung in der Hansestadt Rostock) des Jahres 2011 nach Stadtbereichen (Quelle: Melderegister der Hansestadt Rostock). Die Ressourcen zur Haushaltsstruktur, zur Bevölkerung insgesamt, zur Bevölkerung nach Geschlecht, nach Alter, nach Familienstand sowie nach Staatsangehörigkeit umfassen Bevölkerungsbestandsangaben vom 31.12.2011 und die Ressourcen zur natürlichen, räumlichen und gesamten Bevölkerungsbewegung umfassen Daten des Gesamtjahres 2011. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig im Zeitraum vom 01.01.2011 bis 31.12.2011 erfasst.",2011,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,x,,,,,,,,,,,,,,,,,,,,,,"bevoelkerung,verwaltung","Altersstruktur,Bevölkerung,Bevölkerungsbewegung,Bevölkerungsstruktur,Einwohner,Familie,Haushaltsstruktur,Stadtbereich,Statistik",bevoelkerungsstruktur_2011,,92437de0-a730-428a-921d-1d9c418072d6,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-13T09:04:29.296Z,2014-06-10T10:42:25.822Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/de4cc79a-137f-4467-b5c3-302d2d465f07,Bevölkerungsstruktur 2012,,"XLSX,CSV,JSON","Dieser Datensatz umfasst die statistischen Daten zur Bevölkerungsstruktur in Rostock (Bevölkerung mit Hauptwohnung in der Hansestadt Rostock) des Jahres 2012 nach Stadtbereichen (Quelle: Melderegister der Hansestadt Rostock). Die Ressourcen zur Bevölkerung insgesamt, zur Bevölkerung nach Geschlecht, nach Alter, nach Familienstand sowie nach Staatsangehörigkeit umfassen Bevölkerungsbestandsangaben vom 31.12.2012 und die Ressourcen zur natürlichen, räumlichen und gesamten Bevölkerungsbewegung umfassen Daten des Gesamtjahres 2012. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig im Zeitraum vom 01.01.2012 bis 31.12.2012 erfasst.",2012,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,x,,,,,,,,,,,,,,,,,,,,,,"bevoelkerung,verwaltung","Altersstruktur,Bevölkerung,Bevölkerungsbewegung,Bevölkerungsstruktur,Einwohner,Familie,Stadtbereich,Statistik",bevoelkerungsstruktur_2012,,de4cc79a-137f-4467-b5c3-302d2d465f07,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-12T13:05:55.534Z,2014-06-10T10:22:10.299Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/0bd49d5f-cd42-44a9-8938-75173fe07b17,Bibliotheken,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Bibliotheken in Rostock mit Informationen zur Bezeichnung, zur Art, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,x,,,,,,,x,,,,,,,,,,,,,,"bildung_wissenschaft,kultur_freizeit_sport_tourismus","Bibliothek,Bildung,Buch,Bücherei,Freizeit,Kultur,Zeitschrift,Zeitung",bibliotheken,x,0bd49d5f-cd42-44a9-8938-75173fe07b17,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-14T10:08:15.98Z,2014-06-16T04:12:00.935Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/1bc67d41-8996-4018-b9e0-eafc16971415,Blutspendeeinrichtungen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Blutspendeeinrichtungen in Rostock mit Informationen zu Adresse, Bezeichnung, Art, Betreiber, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,x,,,,,,,,,,,,,,,"gesundheit,verbraucher,wirtschaft_arbeit","Blutspende,Gesundheit,Medizin,Plasmaspende,Versorgung",blutspendeeinrichtungen,x,1bc67d41-8996-4018-b9e0-eafc16971415,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-03-05T09:40:15.813Z,2014-06-10T09:02:19.274Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/c952cb9c-eb1e-4a19-8817-e52f6639b57e,Brunnen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Brunnen in Rostock mit Informationen zur Bezeichnung, zum Schöpfer, zum Einweihungszeitpunkt, zur Laufzeit und zur Patenschaft sowie einem Verweis auf das entsprechende Wikipedia-Foto. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Amt für Stadtgrün, Naturschutz und Landschaftspflege",,,,,,,,,, x,,,,,,,,,x,,,,,"bildung_wissenschaft,infrastruktur_bauen_wohnen,kultur_freizeit_sport_tourismus","Attraktion,Bau,Bildung,Brunnen,Kultur,Kunst,Sehenswürdigkeit,Tourismus,Wasser,Wasserlauf,Wasserspiel,Zierbrunnen",brunnen,x,c952cb9c-eb1e-4a19-8817-e52f6639b57e,stadtgruen@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-15T12:58:55.039Z,2014-07-04T04:09:15.822Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/c3cadd4c-b27d-40d7-b98b-e618cf84b89e,Bürgerschaftswahl 2004,,"CSV,XLSX,JSON",Dieser Datensatz umfasst die amtlichen statistischen Daten zur Bürgerschaftswahl 2004 in Rostock vom 13.06.2004 nach Stadtbereichen. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 13.06.2004 erfasst.,2004,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,politik_wahlen,"Bürgerschaft,Politik,Statistik,Verwaltung,Wahl",buergerschaftswahl_2004,,c3cadd4c-b27d-40d7-b98b-e618cf84b89e,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-19T09:22:24.631Z,2014-06-10T12:29:12.063Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/b2e2f9be-b977-4459-a9b0-e1bf303b0d99,Bürgerschaftswahl 2009,,"CSV,XLSX,JSON",Dieser Datensatz umfasst die amtlichen statistischen Daten zur Bürgerschaftswahl 2009 in Rostock vom 07.06.2009 nach Stadtbereichen. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 07.06.2009 erfasst.,2009,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,politik_wahlen,"Bürgerschaft,Politik,Statistik,Verwaltung,Wahl",buergerschaftswahl_2009,,b2e2f9be-b977-4459-a9b0-e1bf303b0d99,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-19T09:31:34.736Z,2014-06-10T12:32:10.872Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/31e6734c-84dd-4671-9b19-680910ebc0db,Bürgerschaftswahl 2014,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS","Dieser Datensatz umfasst die amtlichen Wahlbereiche, Wahlbezirke und Wahllokale zur Bürgerschaftswahl 2014 in Rostock vom 25.05.2014. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 25.05.2014 erfasst.",2014,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,"geo,politik_wahlen","Bürgerschaft,Geobasisdaten,Geodaten,Politik,Stimmbezirk,Verwaltung,Wahl,Wahlbezirk,Wahllokal",buergerschaftswahl_2014,x,31e6734c-84dd-4671-9b19-680910ebc0db,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2014-04-17T07:20:36.715Z,2014-06-10T14:11:34.815Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/e2ae83b6-9b9b-4f07-8399-35442395299c,Bundestagswahl 2002,,"CSV,XLSX,JSON",Dieser Datensatz umfasst die amtlichen statistischen Daten zur Bundestagswahl 2002 in Rostock vom 22.09.2002 nach Stadtbereichen. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 22.09.2002 erfasst.,2002,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,politik_wahlen,"Bund,Bundestag,Politik,Statistik,Verwaltung,Wahl",bundestagswahl_2002,,e2ae83b6-9b9b-4f07-8399-35442395299c,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-19T08:11:15.827Z,2014-06-10T12:37:31.44Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/d31b7c96-c44a-46d3-87b7-e6275d7637ca,Bundestagswahl 2005,,"CSV,XLSX,JSON",Dieser Datensatz umfasst die amtlichen statistischen Daten zur Bundestagswahl 2005 in Rostock vom 18.09.2005 nach Stadtbereichen. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 18.09.2005 erfasst.,2005,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,politik_wahlen,"Bund,Bundestag,Politik,Statistik,Verwaltung,Wahl",bundestagswahl_2005,,d31b7c96-c44a-46d3-87b7-e6275d7637ca,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-19T08:22:35.446Z,2014-06-10T12:41:08.906Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/b9173e26-0b66-4fa1-84e8-e2662e1c5f79,Bundestagswahl 2009,,"CSV,XLSX,JSON",Dieser Datensatz umfasst die amtlichen statistischen Daten zur Bundestagswahl 2009 in Rostock vom 27.09.2009 nach Stadtbereichen. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 27.09.2009 erfasst.,2009,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,politik_wahlen,"Bund,Bundestag,Politik,Statistik,Verwaltung,Wahl",bundestagswahl_2009,,b9173e26-0b66-4fa1-84e8-e2662e1c5f79,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-19T08:29:11.972Z,2014-06-10T12:44:17.984Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/e7c10dd4-d8fb-440c-9fc1-e2649b73e5d7,Bundestagswahl 2013,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die amtlichen Wahlbezirke und Wahllokale zur Bundestagswahl 2013 in Rostock vom 22.09.2013. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 22.09.2013 erfasst.,2013,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,"geo,politik_wahlen","Bund,Bundestag,Geobasisdaten,Geodaten,Politik,Stimmbezirk,Verwaltung,Wahl,Wahlbezirk,Wahllokal",bundestagswahl_2013,x,e7c10dd4-d8fb-440c-9fc1-e2649b73e5d7,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-08-20T12:34:43.109Z,2014-06-10T14:17:06.232Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/404cee33-a87a-4ca7-a250-6355360d2b61,Denkmale,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Denkmale in Rostock mit Informationen zur Bezeichnung, zur Art, zum Schöpfer und zum Entstehungszeitpunkt sowie einem Verweis auf das entsprechende Wikipedia-Foto. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Amt für Kultur und Denkmalpflege,,,,,,,,,,x,,,,,,,,,x,,,,,"bildung_wissenschaft,kultur_freizeit_sport_tourismus","Attraktion,Bildung,Denkmal,Kultur,Kunst,Sehenswürdigkeit,Tourismus",denkmale,x,404cee33-a87a-4ca7-a250-6355360d2b61,opendata.hro@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-15T12:28:22.775Z,2014-07-04T04:11:59.416Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/305d5bb9-28cb-496f-ad29-09838c5dcdbc,Drogerien,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Drogerien in Rostock mit Informationen zu Adresse, Bezeichnung, Betreiber, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,,,,,,x,,,,"gesundheit,verbraucher,wirtschaft_arbeit","Drogerie,Einzelhandel,Gesundheit,Versorgung",drogerien,x,305d5bb9-28cb-496f-ad29-09838c5dcdbc,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-02-14T13:30:38.736Z,2014-06-11T06:57:36.441Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/ef69aa52-2315-4ec4-a62c-a625834e5fa9,Europaparlamentswahl 2004,,"CSV,XLSX,JSON",Dieser Datensatz umfasst die amtlichen statistischen Daten zur Europaparlamentswahl 2004 in Rostock vom 13.06.2004 nach Stadtbereichen. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 13.06.2004 erfasst.,2004,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,politik_wahlen,"Europa,Europaparlament,Politik,Statistik,Verwaltung,Wahl",europaparlamentswahl_2004,,ef69aa52-2315-4ec4-a62c-a625834e5fa9,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-18T14:11:06.262Z,2014-06-10T12:51:07.645Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/c7629958-542f-49d4-ad38-ec3b85700107,Europaparlamentswahl 2009,,"CSV,XLSX,JSON",Dieser Datensatz umfasst die amtlichen statistischen Daten zur Europaparlamentswahl 2009 in Rostock vom 07.06.2009 nach Stadtbereichen. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 07.06.2009 erfasst.,2009,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,politik_wahlen,"Europa,Europaparlament,Politik,Statistik,Verwaltung,Wahl",europaparlamentswahl_2009,,c7629958-542f-49d4-ad38-ec3b85700107,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-18T15:00:36.086Z,2014-06-10T12:57:55.421Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/f709d112-a2d1-4098-a8ca-41e364899490,Europaparlamentswahl 2014,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die amtlichen Wahlbezirke und Wahllokale zur Europaparlamentswahl 2014 in Rostock vom 25.05.2014. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 25.05.2014 erfasst.,2014,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,"geo,politik_wahlen","Europa,Europaparlament,Geobasisdaten,Geodaten,Politik,Stimmbezirk,Verwaltung,Wahl,Wahlbezirk,Wahllokal",europaparlamentswahl_2014,x,f709d112-a2d1-4098-a8ca-41e364899490,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2014-04-17T06:21:31.13Z,2014-06-10T14:04:53.343Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/07ee6be5-9d7f-43ee-b9cf-06a4f8b6c53f,Fähranleger,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Fähranleger in Rostock mit Informationen zum Betreiber, zur Art und zur Route sowie einem Verweis auf den entsprechenden Fahrplan. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,x,,,,,,,,,,"kultur_freizeit_sport_tourismus,transport_verkehr","Fähranleger,Fähre,Nahverkehr,Personenverkehr,Verkehr,ÖPNV",faehranleger,x,07ee6be5-9d7f-43ee-b9cf-06a4f8b6c53f,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-22T14:53:52.715Z,2014-06-11T07:01:14.299Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/65ed5731-5b2a-4482-bf81-95a66d3c2a7e,Fahrradabstellanlagen,,"CSV,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Fahrradabstellanlagen in Rostock mit Informationen zu Art, Stellplätzen, Gebühren und Überdachung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,Hansestadt Rostock – Tief- und Hafenbauamt,,,,,,,,,,,,,,x,,,,,,,,,,"infrastruktur_bauen_wohnen,transport_verkehr,umwelt_klima","Fahrrad,Fahrradabstellanlage,Fahrradbox,Fahrradbügel,Fahrradständer,Rad,Verkehr",fahrradabstellanlagen,x,65ed5731-5b2a-4482-bf81-95a66d3c2a7e,opendata.hro@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-06-17T14:07:13.512Z,2014-07-10T04:15:22.575Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/3028514e-0992-48ae-88fd-d0f5c7f83adc,Fair-Trade-Einzelhandel,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte des Fair-Trade-Einzelhandels in Rostock mit Informationen zu Adresse, Bezeichnung, Betreiber, Fair-Trade-Angebot, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,Eine-Welt-Landesnetzwerk Mecklenburg-Vorpommern,,,,,,,,,,,,,,,,,,,,x,,,,"soziales,verbraucher,wirtschaft_arbeit","Einzelhandel,Fair Trade,Fairer Handel,Lebensmittel,Versorgung",fair-trade-einzelhandel,x,3028514e-0992-48ae-88fd-d0f5c7f83adc,fairtrade@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-22T07:54:18.361Z,2014-06-11T07:05:04.354Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/ac2459b3-67ee-4e49-8764-6f518b0c33ec,Fair-Trade-Gastronomie,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Fair-Trade-Gastronomie in Rostock mit Informationen zu Adresse, Bezeichnung, Betreiber, Fair-Trade-Angebot, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,Eine-Welt-Landesnetzwerk Mecklenburg-Vorpommern,,,,,,,,,,,,,,,,,,,,x,,,,"soziales,verbraucher,wirtschaft_arbeit","Fair Trade,Fairer Handel,Gastronomie,Lebensmittel,Restaurant,Versorgung",fair-trade-gastronomie,x,ac2459b3-67ee-4e49-8764-6f518b0c33ec,fairtrade@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-22T08:45:32.707Z,2014-07-10T04:12:30.55Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/02155f4b-ccf3-4f55-a08a-ee512773677d,Fernwärmevorranggebiete,,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Umrisse der amtlichen Fernwärmevorranggebiete in Rostock und Umgebung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,,,,,,,,,,,x,,,,,,,,,"infrastruktur_bauen_wohnen,umwelt_klima","Bau,Bebauung,Energie,Fernwärme,Fernwärmevorranggebiet,Planung,Stadtplanung,Versorgung",fernwaermevorranggebiete,x,02155f4b-ccf3-4f55-a08a-ee512773677d,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-31T09:07:24.528Z,2014-07-04T04:16:56.9Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/2c61ffee-0e05-42ee-9afc-242328be728e,Feuerwachen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Feuerwachen in Rostock mit Informationen zur Bezeichnung, zur Art der Besetzung, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Brandschutz- und Rettungsamt,,,,,,,,x,,,,,,,,,,,,,,,,"infrastruktur_bauen_wohnen,verwaltung","Brand,Einsatz,Feuer,Feuerwache,Feuerwehr,Rettung",feuerwachen,x,2c61ffee-0e05-42ee-9afc-242328be728e,feuerwehr@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-05T11:55:12.658Z,2014-07-04T04:10:54.427Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/cb0ebb4f-7049-4a77-ac9d-812c6754d734,Fließgewässer,,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Verläufe der Fließgewässer in Rostock und Umgebung mit Informationen zur Art. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,,,,,,,,,x,,,,,,,,,,,"geo,umwelt_klima","Bach,Durchlass,Fließgewässer,Gewässer,Graben,Natur,Rohr,Umwelt",fliessgewaesser,x,cb0ebb4f-7049-4a77-ac9d-812c6754d734,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-07-18T08:39:09.237Z,2014-04-17T10:16:31.381Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/e9fda07a-424b-4e63-8aa1-2c24313b9002,Friedhöfe,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Flächen der Friedhöfe im Eigentum der Hansestadt Rostock mit Informationen zur Bezeichnung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 1 Tag,2013,odc-by,,"Hansestadt Rostock – Amt für Stadtgrün, Naturschutz und Landschaftspflege",,,,,x,,,,,,,,,,,,,,,,,,,infrastruktur_bauen_wohnen,"Begräbnis,Friedhof,Garten,Grab,Grünanlage",friedhoefe,x,e9fda07a-424b-4e63-8aa1-2c24313b9002,stadtgruen@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-15T11:27:17.426Z,2014-07-10T04:17:56.697Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/31690e95-4366-4aae-bcc7-5a21828c2988,Geldautomaten,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Geldautomaten in Rostock mit Informationen zu Adresse, Bezeichnung, Betreiber, Bankverbundnetzwerk, Barrierefreiheit und Öffnungszeiten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,,,,,,x,,,,"infrastruktur_bauen_wohnen,verbraucher,wirtschaft_arbeit","Bank,Geld,Geldautomat",geldautomaten,x,31690e95-4366-4aae-bcc7-5a21828c2988,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-03-20T12:50:42.886Z,2014-06-11T07:27:31.104Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/fb8903bb-df12-45a7-a7de-5d0f17e2fca2,Gemeindefläche,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS","Dieser Datensatz umfasst die Gemeindefläche Rostocks mit Informationen zu Kreis, Gemeindeverband und Gemeinde. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,x,,,,,,,,,"geo,verwaltung","Gemeinde,gemeindefreie Kommune",gemeindeflaeche,x,fb8903bb-df12-45a7-a7de-5d0f17e2fca2,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-23T13:37:38.969Z,2014-06-12T07:57:36.86Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/6bfac7ac-6ac6-4415-b90a-19343c3e9386,Geothermiepotential,,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS","Dieser Datensatz umfasst die Umrisse der Geothermiepotentialflächen in Rostock und Umgebung in den Betrachtungstiefen bis 75 m und 100 m, jeweils mit Informationen zur Wärmeleitfähigkeit in der Einheit Watt je Kelvin und Meter. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig im Zeitraum vom 01.01.2012 bis 31.12.2012 erfasst.",2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,,,,,,,,,x,,,,,,,,,,,"infrastruktur_bauen_wohnen,umwelt_klima,wirtschaft_arbeit","Bau,Bebauung,Elektrizität,Energie,Erdwärme,Erneuerbare,Geothermie,Geothermiepotential,Heizung,Planung,Regenerative,Strom,Versorgung",geothermiepotential,x,6bfac7ac-6ac6-4415-b90a-19343c3e9386,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-07-24T06:38:01.256Z,2014-04-17T11:40:44.953Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/41e083a5-862a-4c9e-abe8-3427ac61b83b,Glascontainer,,"CSV,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Glascontainer in Rostock. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,,,,,,,,,,,x,,,,,,,,,"infrastruktur_bauen_wohnen,umwelt_klima","Altglas,Container,Entsorgung,Glas,Hygiene,Infrastruktur,Recycling",glascontainer,x,41e083a5-862a-4c9e-abe8-3427ac61b83b,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-15T10:00:52.207Z,2014-04-17T10:21:39.279Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/fffea4a8-e55a-4b91-a53b-a9d598a7acfa,Haltestellen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Haltestellen in Rostock und Umgebung mit Informationen zur Gemeinde, zum Ort, zur Bezeichnung, zu den Plattformen, zu den Besonderheiten, zu den Richtungsinformationen, zur Art, zum Verkehrsmittel, zum Betreiber, zu den anfahrenden Linien sowie einem Verweis auf den entsprechenden Fahrplan. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Tief- und Hafenbauamt,,,,,,,,,,,,,,x,,,,,,,,,,transport_verkehr,"Bahn,Bhanhof,Bus,Fernbus,Fähre,Halt,Haltepunkt,Haltestelle,Linie,Nahverkehr,Personenverkehr,Regionalbahn,Regionalbus,S-Bahn,Stadtbus,Station,Straßenbahn,Tram,Verkehr,ZOB,ÖPNV",haltestellen,x,fffea4a8-e55a-4b91-a53b-a9d598a7acfa,opendata.hro@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-18T09:19:50.631Z,2014-06-11T07:30:58.342Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/32cc18e5-80ea-45a0-8c28-c30d04b50f02,Hörgeräteakustiker,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Hörgeräteakustiker in Rostock mit Informationen zu Adresse, Bezeichnung, Betreiber, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,x,,,,,,,,,,,,,,,"gesundheit,verbraucher,wirtschaft_arbeit","Gesundheit,Hörgeräteakustiker,Medizin,Versorgung",hoergeraeteakustiker,x,32cc18e5-80ea-45a0-8c28-c30d04b50f02,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-03-25T09:52:00.847Z,2014-06-13T04:16:40.661Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/d8f701a5-48e8-4995-86e8-42471b878986,Hundetoiletten,,"CSV,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Hundetoiletten im Eigentum der Hansestadt Rostock mit Informationen zur Art. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,x,,,,,,,,,"infrastruktur_bauen_wohnen,umwelt_klima","Entsorgung,Grünanlage,Hund,Hundeklo,Hundetoilette,Hygiene,Infrastruktur,Müll,Park,Schmutz,Stadtmöbel",hundetoiletten,x,d8f701a5-48e8-4995-86e8-42471b878986,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-14T10:13:49.064Z,2014-07-04T04:11:23.701Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/8604e283-9439-4009-9139-67031fcfb2d8,Kinder- und Jugendbetreuung,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Kinder- und Jugendbetreuung in Rostock mit Informationen zur Bezeichnung, zum Träger, zur Art, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Amt für Jugend und Soziales,,,,,,,x,,,,,,,,,,,,,,,,,"bevoelkerung,soziales","Betreuung,Bildung,Erziehung,Freizeit,Förderung,Hilfe,Jugend,Kinder",kinder_jugendbetreuung,x,8604e283-9439-4009-9139-67031fcfb2d8,sozialamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-06T11:53:22.608Z,2014-06-11T09:40:35.961Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/def01e2f-270d-450d-a329-557e635c37d5,Kinderbetreuungseinrichtungen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Kinderbetreuungseinrichtungen in Rostock mit Informationen zu Adresse, Bezeichnung, Art, Träger, pädagogischem Konzept, Plätzen, Elternbeiträgen und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Amt für Jugend und Soziales,,,,,,,x,,,,,,,,,,,,,,,,,"bevoelkerung,soziales","Bildung,Hort,Kinderbetreuungseinrichtung,Kindergarten,Kinderkrippe,Kindertagesstätte,Kita",kinderbetreuungseinrichtungen,x,def01e2f-270d-450d-a329-557e635c37d5,sozialamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-06T12:45:36.656Z,2014-07-07T04:14:05.639Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/d7f5a5e3-64c8-4f13-9613-a01b440f2610,Kinos,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Kinos in Rostock mit Informationen zur Bezeichnung, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,x,,,,,,,,,,,,,,kultur_freizeit_sport_tourismus,"Film,Freizeit,Kino,Kultur,Lichtspiel,Theater",kinos,x,d7f5a5e3-64c8-4f13-9613-a01b440f2610,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-14T09:01:52.782Z,2014-06-11T10:14:43.117Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/4bdb38a2-ec28-415b-a486-31c6647773bc,Kleingartenanlagen,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Flächen der Kleingartenanlagen im Eigentum der Hansestadt Rostock mit Informationen zur Bezeichnung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 1 Tag,2013,odc-by,,"Hansestadt Rostock – Amt für Stadtgrün, Naturschutz und Landschaftspflege",,,,,,,,,,,,,x,,,,,,,,,,,"infrastruktur_bauen_wohnen,kultur_freizeit_sport_tourismus","Erholung,Freizeit,Garten,Gartenkolonie,Grünanlage,Kleingarten,Laube,Laubenkolonie,Schrebergarten",kleingartenanlagen,x,4bdb38a2-ec28-415b-a486-31c6647773bc,stadtgruen@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-15T11:45:21.52Z,2014-07-10T04:14:49.698Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/f40a0952-1f55-4ac6-bc75-45c15c9d2365,Kliniken,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Kliniken in Rostock mit Informationen zu Adresse, Bezeichnung, Art, Träger, Bettenzahl, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,x,,,,,,,,,,,,,,,"gesundheit,wirtschaft_arbeit","Arzt,Gesundheit,Klinikum,Krankenhaus,Medizin,Versorgung",kliniken,x,f40a0952-1f55-4ac6-bc75-45c15c9d2365,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-16T14:18:17.111Z,2014-06-11T11:15:19.786Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/9f7b6293-9e16-4f26-ac2a-920b20d4d830,Kunst im öffentlichen Raum,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Kunst im öffentlichen Raum in Rostock mit Informationen zur Bezeichnung, zur Art, zum Künstler und zum Entstehungszeitpunkt sowie einem Verweis auf das entsprechende Wikipedia-Foto. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,x,,,,,,,,,,,,,,"bildung_wissenschaft,kultur_freizeit_sport_tourismus","Attraktion,Bildung,Freizeit,Kultur,Kunst,Sehenswürdigkeit,Tourismus",kunst_im_oeffentlichen_raum,x,9f7b6293-9e16-4f26-ac2a-920b20d4d830,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-23T08:23:26.229Z,2014-07-04T04:11:33.113Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/6714c938-5003-40b3-be72-e8f1c7a2f211,Landtagswahl 2002,,"CSV,XLSX,JSON",Dieser Datensatz umfasst die amtlichen statistischen Daten zur Landtagswahl 2002 in Rostock vom 22.09.2002 nach Stadtbereichen. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 22.09.2002 erfasst.,2002,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,politik_wahlen,"Land,Landtag,Politik,Statistik,Verwaltung,Wahl",landtagswahl_2002,,6714c938-5003-40b3-be72-e8f1c7a2f211,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-19T08:42:37.218Z,2014-06-10T13:01:34.819Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/4e932629-4bc2-4b23-9642-8076ee9fb8d4,Landtagswahl 2006,,"CSV,XLSX,JSON",Dieser Datensatz umfasst die amtlichen statistischen Daten zur Landtagswahl 2006 in Rostock vom 17.09.2006 nach Stadtbereichen. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 17.09.2006 erfasst.,2006,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,politik_wahlen,"Land,Landtag,Politik,Statistik,Verwaltung,Wahl",landtagswahl_2006,,4e932629-4bc2-4b23-9642-8076ee9fb8d4,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-19T08:49:45.854Z,2014-06-10T13:04:12.445Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/debb7ae4-6149-47ac-bc34-3a4cc38e8a8a,Landtagswahl 2011,,"CSV,XLSX,JSON",Dieser Datensatz umfasst die amtlichen statistischen Daten zur Landtagswahl 2011 in Rostock vom 04.09.2011 nach Stadtbereichen. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 04.09.2011 erfasst.,2011,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,politik_wahlen,"Land,Landtag,Politik,Statistik,Verwaltung,Wahl",landtagswahl_2011,,debb7ae4-6149-47ac-bc34-3a4cc38e8a8a,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-19T08:58:24.976Z,2014-06-10T13:17:44.721Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/69562564-657b-4761-8a76-a27ac1d5c70a,Leuchten,,"CSV,XLSX,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Leuchten im Eigentum der Hansestadt Rostock. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Tief- und Hafenbauamt,,,,,,,,,,,,,,,x,,,,,,,,,infrastruktur_bauen_wohnen,"Lampe,Laterne,Leuchte,Licht,Lichtpunkt,Straße,Straßenlampe,Straßenlaterne,Straßenleuchte",leuchten,x,69562564-657b-4761-8a76-a27ac1d5c70a,opendata.hro@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-06-10T13:11:41.572Z,2014-07-04T04:22:35.906Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/da57845f-ae51-41ca-944a-8f7beb132e8f,Lichtsignalanlagen,,"CSV,XLSX,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Lichtsignalanlagen im Eigentum der Hansestadt Rostock mit Informationen zur Ausstattung mit Tonsignal. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Tief- und Hafenbauamt,,,,,,,,,,,,,,,x,,,,,,,,,"infrastruktur_bauen_wohnen,transport_verkehr","Ampel,Fußgänger,Lichtsignalanlage,Lichtzeichenanlage,Straße,Verkehr",lichtsignalanlagen,x,da57845f-ae51-41ca-944a-8f7beb132e8f,opendata.hro@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-06-10T12:56:26.67Z,2014-07-04T04:15:48.986Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/ba932851-6d18-482f-b9fc-98cd156ac7bc,Mobilfunkantennen,,"CSV,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Mobilfunkantennen in Rostock. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,,,,,,,,,,,x,,,,,,,,,infrastruktur_bauen_wohnen,"Antenne,Bau,Bebauung,Funk,Infrastruktur,Mobilfunk,Mobilfunkantenne,Planung,Stadtplanung",mobilfunkantennen,x,ba932851-6d18-482f-b9fc-98cd156ac7bc,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-31T08:18:21.278Z,2014-04-17T10:16:07.906Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/b13647f2-617e-40ac-8551-0ae77c9584bf,Museen und Galerien,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Museen und Galerien in Rostock mit Informationen zur Bezeichnung, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,x,,,,,,,x,,,,,,,,,,,,,,"bildung_wissenschaft,kultur_freizeit_sport_tourismus","Ausstellung,Bildung,Freizeit,Galerie,Kultur,Kunst,Museum,Sammlung",museen_galerien,x,b13647f2-617e-40ac-8551-0ae77c9584bf,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-14T13:22:53.085Z,2014-06-11T11:58:24.555Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/5f3d484a-4831-4e2a-916f-713c6f35dc94,Musik- und Tanzschulen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Musik- und Tanzschulen in Rostock mit Informationen zur Bezeichnung, zur Art, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,x,,,,,,,,,x,,,,,,,,,,,,"bildung_wissenschaft,kultur_freizeit_sport_tourismus","Ausbildung,Bildung,Freizeit,Kultur,Lehre,Musik,Schule,Tanz",musik_tanzschulen,x,5f3d484a-4831-4e2a-916f-713c6f35dc94,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-17T10:59:31.956Z,2014-06-11T12:08:10.766Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/c3d9bc4f-4828-4d19-ae36-f7d8c44702be,Musikclubs,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Musikclubs in Rostock mit Informationen zur Bezeichnung, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,x,,,,,,,,,,,,,,kultur_freizeit_sport_tourismus,"Club,Diskothek,Freizeit,Lokal,Musik,Nachtleben,Tanz",musikclubs,x,c3d9bc4f-4828-4d19-ae36-f7d8c44702be,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-15T07:34:32.847Z,2014-06-11T12:16:55.155Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/b56d16f0-2be4-40c0-8145-ec0694a142ca,Naturdenkmale,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Naturdenkmale in Rostock mit Informationen zur Bezeichnung, zur lateinischen Bezeichnung und zur Veröffentlichung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Amt für Stadtgrün, Naturschutz und Landschaftspflege",,,,,,,,,,x,,,x,,,,,,,,,,,"geo,umwelt_klima","Attraktion,Bildung,Kultur,Natur,Naturdenkmal,Naturschutz,Sehenswürdigkeit,Tourismus",naturdenkmale,x,b56d16f0-2be4-40c0-8145-ec0694a142ca,stadtgruen@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-15T13:15:17.054Z,2014-07-04T04:20:54.792Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/0b21dcd5-802a-4250-911f-2d70cff2e3ea,Oberbürgermeisterwahl 2012,,"CSV,XLSX,JSON,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die amtlichen statistischen Daten zur Oberbürgermeisterwahl 2012 in Rostock vom 05.02.2012 nach Stadtbereichen. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig für den 05.02.2012 erfasst.,2012,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,,,,,,,,,,,,x,,,,,,,,"geo,politik_wahlen","Geobasisdaten,Geodaten,Oberbürgermeister,Politik,Statistik,Stimmbezirk,Verwaltung,Wahl,Wahlbezirk,Wahllokal",oberbuergermeisterwahl_2012,x,0b21dcd5-802a-4250-911f-2d70cff2e3ea,statistik@rostock.de,Hansestadt Rostock – Hauptverwaltungsamt,statistik@rostock.de,2013-02-19T10:10:31.884Z,2014-06-10T13:59:05.83Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/c3c935a0-a8fb-45ec-a4cc-aba211c2d978,Offene Regionalkarte Mecklenburg-Vorpommern (ORKa.MV),,"TMS,WMS","Dieser Datensatz umfasst Ressourcen der Offenen Regionalkarte Mecklenburg-Vorpommern (ORKa.MV), des Kartendienstes für Mecklenburg-Vorpommern auf Basis von amtlichen und OpenStreetMap-Daten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 1 Tag",2013,cc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,x,,,,,,,,,,,,,,,,,,,"geo,verwaltung","Geobasisdaten,Geodaten,Karte,Kataster,Land,ORKa.MV,OSM,OpenStreetMap,Stadtplan",orka_mv,x,c3c935a0-a8fb-45ec-a4cc-aba211c2d978,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-23T12:58:52.865Z,2014-04-17T11:41:19.944Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/aceccfc0-dbf2-42a3-9456-389c6a0edb7c,Ortsamtsbereiche,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Flächen der amtlichen Ortsamtsbereiche Rostocks mit Informationen zur Bezeichnung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,x,,,,,,,,,,,,,,,,,,,"geo,verwaltung","Geobasisdaten,Geodaten,Ortsamt,Ortsamtsbereich,Verwaltung",ortsamtsbereiche,x,aceccfc0-dbf2-42a3-9456-389c6a0edb7c,statistik@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-14T11:56:49.64Z,2014-06-11T12:28:23.486Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/dd8a8a8a-797d-494b-8586-09d1f57fb0a2,Ortsbeiratsbereiche,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Flächen der amtlichen Ortsbeiratsbereiche Rostocks mit Informationen zur Bezeichnung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,x,,,,,,,,,,,,,,,,,,,"geo,verwaltung","Geobasisdaten,Geodaten,Ortsbeirat,Ortsbeiratsbereich,Verwaltung",ortsbeiratsbereiche,x,dd8a8a8a-797d-494b-8586-09d1f57fb0a2,statistik@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-14T12:08:44.53Z,2014-06-11T12:33:05.273Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/875b8298-1a28-42b0-9ce4-b31e316f1196,Ortsteile,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS","Dieser Datensatz umfasst die Flächen der Ortsteile Rostocks mit Informationen zu Kreis, Gemeindeverband, Gemeinde, Gemeindeteil und Abkürzung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,x,,,,,,,,,,,,,,,,,,,"geo,verwaltung","Gemarkung,Gemeindeteil,Ort,Ortsteil,Stadtgebiet,Stadtteil",ortsteile,x,875b8298-1a28-42b0-9ce4-b31e316f1196,statistik@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-14T11:35:20.055Z,2014-07-04T04:15:37.441Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/e7dba159-67b0-4956-a2fe-a0af435eecb9,Paketautomaten,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Paketautomaten in Rostock mit Informationen zu Adresse, Bezeichnung, Art, Betreiber und Barrierefreiheit. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,x,,,,,,,,,"infrastruktur_bauen_wohnen,verbraucher,wirtschaft_arbeit","24-7-Station,Packstation,Paketautomat,Paketbox,Post",paketautomaten,x,e7dba159-67b0-4956-a2fe-a0af435eecb9,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-03-13T08:13:40.605Z,2014-06-11T12:38:55.666Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/3d57acf5-d768-497a-81ff-14a77ce59d85,Papiercontainer,,"CSV,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Papiercontainer in Rostock. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,,,,,,,,,,,x,,,,,,,,,"infrastruktur_bauen_wohnen,umwelt_klima","Altpapier,Container,Entsorgung,Hygiene,Infrastruktur,Papier,Pappe,Recycling",papiercontainer,x,3d57acf5-d768-497a-81ff-14a77ce59d85,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-15T10:11:13.418Z,2014-04-17T10:24:45.328Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/a9486089-80ce-43ae-87fd-97f81260f34c,Parkanlagen,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Flächen der Parkanlagen im Eigentum der Hansestadt Rostock mit Informationen zur Bezeichnung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 1 Tag,2013,odc-by,,"Hansestadt Rostock – Amt für Stadtgrün, Naturschutz und Landschaftspflege",,,,,,,,,,,,,x,,,,,,,,,,,"infrastruktur_bauen_wohnen,kultur_freizeit_sport_tourismus,umwelt_klima","Erholung,Freizeit,Garten,Grünanlage,Park",parkanlagen,x,a9486089-80ce-43ae-87fd-97f81260f34c,stadtgruen@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-06T08:14:33.584Z,2014-07-10T04:13:00.126Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/220781e3-2e11-4e06-955c-6bf5307973ff,Parkmöglichkeiten,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Parkmöglichkeiten in Rostock mit Informationen zur Art, zum genauen Standort, zur Anzahl der Stellplätze und zu den Gebühren. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Tief- und Hafenbauamt,,,,,,,,,,,,,,x,,,,,,,,,,"infrastruktur_bauen_wohnen,transport_verkehr","Auto,Automobil,Kfz,Kraftfahrzeug,Parkhaus,Parkmöglichkeit,Parkplatz,Pkw,Straße,Tiefgarage,Verkehr",parkmoeglichkeiten,x,220781e3-2e11-4e06-955c-6bf5307973ff,opendata.hro@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-15T13:50:35.845Z,2014-06-11T13:11:50.755Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/c9e556d8-a04e-418a-be98-bbe32a8f716b,Pedelec-Ladestationen,,"CSV,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Pedelec-Ladestationen in Rostock mit Informationen zu Boxen. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2014,odc-by,,Rostocker Straßenbahn AG – Mobilitätsmanagement,,,,,,,,,,,,,,,x,,,,,,,,,"infrastruktur_bauen_wohnen,transport_verkehr,umwelt_klima","Elektrofahrrad,Fahrrad,Fahrradbox,Pedelec,Rad,Verkehr",pedelec_ladestationen,x,c9e556d8-a04e-418a-be98-bbe32a8f716b,info@rsag-online.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-06-19T13:26:48.4Z,2014-06-23T12:45:33.766Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/e8d34128-b923-4e37-a18d-09ef5d6d5e61,Pflegeeinrichtungen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Pflegeeinrichtungen in Rostock mit Informationen zur Bezeichnung, zum Träger, zur Art, zur Anzahl der Plätze, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Amt für Jugend und Soziales,,,,,,,,,x,,,,,,,,,,,,,,,"bevoelkerung,soziales","Behinderteneinrichtung,Behinderung,Betreuung,Fürsorge,Hilfe,Hospiz,Pflege,Pflegeeinrichtung,Psychiatrie,Wohlfahrt",pflegeeinrichtungen,x,e8d34128-b923-4e37-a18d-09ef5d6d5e61,sozialamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-06T11:17:46.597Z,2014-06-11T13:15:38.75Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/01d00406-1f5a-428e-b4c8-cee1687d67c6,Polizeidienststellen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Polizeidienststellen in Rostock mit Informationen zur Bezeichnung, zur Art, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,x,,,,,,,,,,,,,,,,"gesetze_justiz,verwaltung","Behörde,Einsatz,Kriminalität,Polizei,Polizeidienststelle,Revier,Verwaltung",polizeidienststellen,x,01d00406-1f5a-428e-b4c8-cee1687d67c6,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-22T15:25:10.108Z,2014-06-11T13:19:17.75Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/6e48cf86-e713-4c31-969c-6045609f24be,Postbriefkästen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Postbriefkästen in Rostock mit Informationen zu Adresse, Betreiber, Barrierefreiheit und Leerungszeiten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,,,,,,x,x,,,"infrastruktur_bauen_wohnen,verbraucher,wirtschaft_arbeit","Post,Postbriefkasten",postbriefkaesten,x,6e48cf86-e713-4c31-969c-6045609f24be,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-03-13T07:49:05.842Z,2014-07-10T04:17:41.872Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/cdf7d719-9049-43cf-8536-1fc6596601c0,Poststellen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Poststellen in Rostock mit Informationen zu Adresse, Bezeichnung, Betreiber, Lokalität, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,,,,,,x,x,,,"verbraucher,wirtschaft_arbeit","Post,Postfiliale,Poststelle",poststellen,x,cdf7d719-9049-43cf-8536-1fc6596601c0,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-03-14T09:28:12.721Z,2014-07-10T04:19:08.066Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/8f8a9f32-9247-43d9-8862-29e1c8946153,Radmonitore,,"CSV,XLSX,GEOJSON,KML,GML,JSON,WMS","Dieser Datensatz umfasst die Standorte der Radmonitore in Rostock sowie die jeweiligen Daten, das heißt je Radmonitor die Summe der gezählten Radfahrerinnen und Radfahrer je 15 Minuten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 1 Tag",2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,,,,,,,,,,x,,,,,,,,,,"infrastruktur_bauen_wohnen,transport_verkehr,umwelt_klima","Fahrrad,Fahrradmonitor,Fahrradzählstation,Monitor,Rad,Radfahrer,Radmonitor,Radverkehr,Radweg,Verkehr,Zählstation,Zählung",radmonitore,x,8f8a9f32-9247-43d9-8862-29e1c8946153,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-12-13T12:14:19.832Z,2014-07-08T04:13:56.736Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/e21bad4a-713a-447a-8474-51c677d9aa1b,Radwege,,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Verläufe der Radwege in Rostock und Umgebung mit Informationen zur Wegeart sowie einer etwaigen Bezeichnung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Tief- und Hafenbauamt,,,,,,,,,,,,,x,x,,,,,,,,,,"geo,kultur_freizeit_sport_tourismus,transport_verkehr","Fahrrad,Freizeit,Rad,Radweg,Straße,Verkehr,Weg",radwege,x,e21bad4a-713a-447a-8474-51c677d9aa1b,opendata.hro@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-05T13:03:13.815Z,2014-07-04T04:10:27.846Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/efdcff26-4066-40ad-9c30-6b4d24b9024b,Recyclinghöfe,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Recyclinghöfe in Rostock mit Informationen zur Bezeichnung, zu den Öffnungszeiten, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,,,,,,,,,,,x,,,,,,,,,"infrastruktur_bauen_wohnen,umwelt_klima","Abfall,Container,Entsorgung,Hygiene,Infrastruktur,Müll,Recycling,Schrott,Sperrmüll,Wertstoff,Wertstoffhof",recyclinghoefe,x,efdcff26-4066-40ad-9c30-6b4d24b9024b,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-15T10:34:19.093Z,2014-07-04T04:11:03.167Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/3cf4bc27-0769-48a2-aa46-95cccc4c80b5,Reisebusparkplätze,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Reisebusparkplätze in Rostock mit Informationen zur Bezeichnung, zur Anzahl der Stellplätze, zu den Gebühren und zu eventuellen Einschränkungen. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Tief- und Hafenbauamt,,,,,,,,,,,,,,x,,,,,,,,,,transport_verkehr,"Bus,Parkmöglichkeit,Parkplatz,Reisebus,Reisebusparkplatz,Verkehr",reisebusparkplaetze,x,3cf4bc27-0769-48a2-aa46-95cccc4c80b5,opendata.hro@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-18T09:47:58.733Z,2014-06-11T13:54:21.921Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/141c4422-a265-427f-b8b3-208e216f4008,Reisebusterminals,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Reisebusterminals in Rostock mit Informationen zur Bezeichnung, zur Anzahl der Stellplätze, zu den Gebühren und zu eventuellen Einschränkungen. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Tief- und Hafenbauamt,,,,,,,,,,,,,,x,,,,,,,,,,transport_verkehr,"Bus,Reisebus,Reisebusterminal,Terminal,Verkehr",reisebusterminals,x,141c4422-a265-427f-b8b3-208e216f4008,opendata.hro@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-18T10:24:05.586Z,2014-06-11T13:56:53.747Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/613c98c1-2cc2-4bd1-b298-f3a9716c3755,Rettungswachen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Rettungswachen in Rostock mit Informationen zur Bezeichnung, zum Betreiber, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Brandschutz- und Rettungsamt,,,,,,,,x,,,,,,,,,,,,,,,,"gesundheit,infrastruktur_bauen_wohnen,verwaltung","Arzt,Doktor,Einsatz,Gesundheit,Medizin,Rettung,Rettungswache",rettungswachen,x,613c98c1-2cc2-4bd1-b298-f3a9716c3755,feuerwehr@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-07T07:30:30.295Z,2014-07-04T04:17:38.487Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/ec4de52b-afd2-483e-9f51-f5ef96440065,Sanierungsgebiet,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS","Dieser Datensatz umfasst die Umrisse des amtlichen Sanierungsgebietes in Rostock mit Informationen zur Art, zum Verfahren und zum Bekanntmachungsdatum im Städtischen Anzeiger. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Bauamt,,,,,x,,,,,,,,,,,,,,,,,,,"infrastruktur_bauen_wohnen,umwelt_klima","Bau,Bebauung,Planung,Sanierung,Sanierungsgebiet,Stadtplanung",sanierungsgebiet,x,ec4de52b-afd2-483e-9f51-f5ef96440065,bauamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-06T13:15:24.249Z,2014-07-07T04:21:03.064Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/d338266b-4f94-4cad-ae97-fe350baf8287,Sanitätshäuser,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Sanitätshäuser in Rostock mit Informationen zu Adresse, Bezeichnung, Betreiber, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,x,,,,,,,,,,,,,,,"gesundheit,verbraucher,wirtschaft_arbeit","Gesundheit,Medizin,Sanitätshaus,Versorgung",sanitaetshaeuser,x,d338266b-4f94-4cad-ae97-fe350baf8287,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-03-25T09:57:43.327Z,2014-06-11T14:05:49.639Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/89413ed1-ad41-4211-a144-212172e50545,Schöpfwerkeinflussbereiche,,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Umrisse der Schöpfwerkeinflussbereiche in Rostock und Umgebung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,,,,,,,,,x,,,,,,,,,,,"geo,umwelt_klima","Natur,Schöpfwerkeinflussbereich,Umwelt",schoepfwerkeinflussbereiche,x,89413ed1-ad41-4211-a144-212172e50545,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-07-18T11:09:22.89Z,2014-04-17T10:20:19.388Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/a8f9084d-fb11-4f53-9db0-e25984d47339,Schulen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Schulen in Rostock mit Informationen zu Adresse, Bezeichnung, ISCED-Level, Art, Bildungsschwerpunkt, Träger, pädagogischem Konzept, Leitung und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Amt für Schule und Sport,,,x,,,,,,,,,,,,,,,,,,,,,bildung_wissenschaft,"Ausbildungsstätte,Bildung,Schule,Universität",schulen,x,a8f9084d-fb11-4f53-9db0-e25984d47339,amt-schule-sport@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-05T10:09:03.197Z,2014-07-09T04:15:06.639Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/38c996e9-bcca-46b1-82ac-e1996fd63435,Sehenswürdigkeiten,,"CSV,XLSX,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Sehenswürdigkeiten in Rostock mit Informationen zur Bezeichnung sowie einem Verweis auf den entsprechenden Wikipedia-Artikel. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,,,,,x,,,,,"bildung_wissenschaft,kultur_freizeit_sport_tourismus","Attraktion,Bildung,Kultur,Sehenswürdigkeit,Tourismus",sehenswuerdigkeiten,x,38c996e9-bcca-46b1-82ac-e1996fd63435,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-22T09:58:08.915Z,2014-07-04T04:20:13.834Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/9d8d6332-2d39-408a-9cfb-c509961e2c3c,Solarpotential 2011,,"CSV,GEOJSON,SHAPEFILE,KML,GML","Dieser Datensatz umfasst die Umrisse der Dachflächen in Rostock mit Informationen zur Photovoltaik-Eignung, zur Solarthermie-Eignung, zur Art, zum Neigungswinkel, zum Azimut, zur Größe, zum Energiepotential pro m² und Jahr und zum Gesamtenergiepotential pro Jahr. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig im Zeitraum vom 21.03.2011 bis 21.06.2011 erfasst.",2011,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,x,,,,,,,,x,,,,,,,,,,,"infrastruktur_bauen_wohnen,umwelt_klima,wirtschaft_arbeit","Bau,Bebauung,Elektrizität,Energie,Erneuerbare,Photovoltaik,Planung,Regenerative,Solar,Solarenergie,Solarpotential,Solarthermie,Strom,Versorgung",solarpotential_2011,x,9d8d6332-2d39-408a-9cfb-c509961e2c3c,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-31T12:54:52.833Z,2014-04-17T11:41:51.321Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/809da8a1-2d6e-4eec-8611-ec27ad57d97d,Solarpotential 2013,,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS","Dieser Datensatz umfasst die Umrisse der Dachflächen in Rostock mit Informationen zur Art der Dachfläche, zum Neigungswinkel, zum Azimut, zur Dachflächengröße, zum für Photovoltaik sehr gut geeigneten Flächenanteil, zum Energiepotential pro m² und Jahr des für Photovoltaik sehr gut geeigneten Flächenanteils, zum Gesamtenergiepotential pro Jahr des für Photovoltaik sehr gut geeigneten Flächenanteils, zum für Photovoltaik gut geeigneten Flächenanteil, zum Energiepotential pro m² und Jahr des für Photovoltaik gut geeigneten Flächenanteils, zum Gesamtenergiepotential pro Jahr des für Photovoltaik gut geeigneten Flächenanteils, zum für Photovoltaik bedingt geeigneten Flächenanteil, zum Energiepotential pro m² und Jahr des für Photovoltaik bedingt geeigneten Flächenanteils, zum Gesamtenergiepotential pro Jahr des für Photovoltaik bedingt geeigneten Flächenanteils, zum für Solarthermie sehr gut geeigneten Flächenanteil, zum Energiepotential pro m² und Jahr des für Solarthermie sehr gut geeigneten Flächenanteils und zum Gesamtenergiepotential pro Jahr des für Solarthermie sehr gut geeigneten Flächenanteils. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig im Zeitraum vom 01.01.2013 bis 20.03.2013 erfasst.",2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,x,,,,,,,,x,,,,,,,,,,,"infrastruktur_bauen_wohnen,umwelt_klima,wirtschaft_arbeit","Bau,Bebauung,Elektrizität,Energie,Erneuerbare,Photovoltaik,Planung,Regenerative,Solar,Solarenergie,Solarpotential,Solarthermie,Strom,Versorgung",solarpotential_2013,x,809da8a1-2d6e-4eec-8611-ec27ad57d97d,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-07-17T08:55:40.955Z,2014-04-17T11:42:31.964Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/035c3b2e-3704-4afc-ad2d-6eeb80ec411e,Spielanlagen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Spielanlagen im Eigentum der Hansestadt Rostock mit Informationen zur Bezeichnung, zur Art, zum Angebot und zur freigegebenen Altersklasse. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Amt für Stadtgrün, Naturschutz und Landschaftspflege",,,,,,,,,,,,x,,,,,,,,,,,,kultur_freizeit_sport_tourismus,"Erholung,Familie,Freizeit,Jugend,Kinder,Spiel,Spielanlage,Spielplatz",spielanlagen,x,035c3b2e-3704-4afc-ad2d-6eeb80ec411e,stadtgruen@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-06T09:43:34.787Z,2014-06-11T14:15:06.906Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/9b7cbfc5-ffcb-4b51-9227-5bfe46eacc5d,Sportanlagen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Sportanlagen in Rostock mit Informationen zur Bezeichnung, zum Träger, zu den Sportarten, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,x,,,,,,,,,,,,kultur_freizeit_sport_tourismus,"Erholung,Freizeit,Sport,Sportanlage,Sportplatz,Stadion",sportanlagen,x,9b7cbfc5-ffcb-4b51-9227-5bfe46eacc5d,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-22T09:17:33.32Z,2014-06-11T14:17:58.072Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/ccaafa29-7055-4d14-933a-2f8feed30a3d,Sporthallen,,"CSV,XLSX,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Sporthallen in Rostock mit Informationen zur Bezeichnung und zur Adresse. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Amt für Schule und Sport,,,,,,,,,,,,x,,,,,,,,,,,,"infrastruktur_bauen_wohnen,kultur_freizeit_sport_tourismus","Erholung,Freizeit,Sport,Sporthalle,Turnen,Turnhalle",sporthallen,x,ccaafa29-7055-4d14-933a-2f8feed30a3d,amt-schule-sport@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-06T10:08:26.199Z,2014-06-11T14:20:37.898Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/aa692117-79fb-4d7a-87f9-d84db751aa3f,Stadtbereiche,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Flächen der amtlichen Stadtbereiche Rostocks mit Informationen zur Bezeichnung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,x,,,,,,,,,,,,,,,,,,,"geo,verwaltung","Geobasisdaten,Geodaten,Stadtbereich,Statistik,Verwaltung",stadtbereiche,x,aa692117-79fb-4d7a-87f9-d84db751aa3f,statistik@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-13T12:43:02.463Z,2014-06-11T14:23:33.203Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/3f9c3016-fc26-40af-96d4-f9cd5037ca6d,Stadtbuslinien,,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Verläufe der Stadtbuslinien in Rostock und Umgebung mit Informationen zu den befahrenden Linien. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,x,,,,,,,,,,transport_verkehr,"Bus,Linie,Nahverkehr,Personenverkehr,Stadtbus,Verkehr,ÖPNV",stadtbuslinien,x,3f9c3016-fc26-40af-96d4-f9cd5037ca6d,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-21T08:10:21.604Z,2014-04-17T10:33:18.404Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/299dbf43-3fb5-471f-a0fa-2c8b7ce9e19c,Statistische Bezirke,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Flächen der amtlichen statistischen Bezirke Rostocks mit Informationen zur Bezeichnung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,x,,,,,,,,,,,,,,,,,,,"geo,verwaltung","Bezirk,Geobasisdaten,Geodaten,Statistik,Statistischer Bezirk,Verwaltung",statistische_bezirke,x,299dbf43-3fb5-471f-a0fa-2c8b7ce9e19c,statistik@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-14T12:26:38.259Z,2014-06-11T14:29:05.536Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/1d163996-5ed7-488d-8d8e-11910a3c99c2,Statistische Blöcke,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Flächen der amtlichen statistischen Blöcke Rostocks mit Informationen zur Nummer sowie zum Schlüssel und zur Bezeichnung des zugehörigen Ortsteils. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Hauptverwaltungsamt,,,,,x,,,,,,,,,,,,,,,,,,,"geo,verwaltung","Block,Geobasisdaten,Geodaten,Statistik,Statistischer Block,Verwaltung",statistische_bloecke,x,1d163996-5ed7-488d-8d8e-11910a3c99c2,statistik@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-14T12:52:22.876Z,2014-06-11T14:31:41.614Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136,Straßen,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS","Dieser Datensatz umfasst die Verläufe der Straßen in Rostock und Umgebung mit Informationen zu Kreis, Gemeindeverband, Gemeinde und Gemeindeteil. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 1 Tag",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,x,,,,,,,,,,"geo,transport_verkehr,verwaltung","Straße,Verkehr,Weg",strassen,x,36e3596b-71d4-4bcb-bf03-040e662b5136,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-23T14:16:48.381Z,2014-07-10T04:16:22.285Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/ecb362e0-49d5-4bf2-a3a2-17851c6ac9f4,Straßenbahnlinien,,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst die Verläufe der Straßenbahnlinien in Rostock und Umgebung mit Informationen zu den befahrenden Linien. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,x,,,,,,,,,,transport_verkehr,"Linie,Nahverkehr,Personenverkehr,Straßenbahn,Tram,Verkehr,ÖPNV",strassenbahnlinien,x,ecb362e0-49d5-4bf2-a3a2-17851c6ac9f4,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-22T13:48:23.684Z,2014-07-04T04:15:27.652Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/79fc3386-6677-4af2-a9ef-5346225bc794,Sturmflut Ostsee,,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS","Dieser Datensatz umfasst die Umrisse der potentiellen Überflutungsflächen (Gebiete ohne technischen Hochwasserschutz) und geschützten Gebiete (potentielle Überflutungsflächen hinter Schutzanlagen) in Rostock und Umgebung bei Pegel der Ostsee bis 1,0 m (Sturmflut), bis 1,5 m (mittlere Sturmflut), bis 2,0 m (schwere Sturmflut) und bis 2,5 m (sehr schwere Sturmflut) über dem Normal-Mittelwasserstand (NMW). Das entspricht ungefähr einem auf statistischer Grundlage ermittelten Hochwasser mit einem Wiederkehrsintervall von 200 Jahren (HW200) für die Unterwarnow im Bereich des Stadthafens. Für die nördlicher gelegenen Küstenabschnitte (Gehlsdorf/Schmarl und Breitling/Außenküste) liegt dieser so genannte Referenzhochwasserstand (RHW) bei 2,4 m und 2,3 m über NMW. Die Ressourcen werden nicht aktualisiert. Dieser Datensatz wurde einmalig im Zeitraum vom 01.01.2007 bis 31.12.2007 erfasst.",2007,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,,,,,,,,,x,,,,,,,,,,,"geo,umwelt_klima","Hochwasser,Hochwasserschutz,NMW,Normal-Mittelwasserstand,Ostsee,Pegel,Schutzanlage,Sturmflut,Überflutung,Überflutungsfläche",sturmflut_ostsee,x,79fc3386-6677-4af2-a9ef-5346225bc794,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-07-30T06:14:40.411Z,2014-04-17T11:44:30.281Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/95a9259a-ef62-4223-9be3-36eb80cf276a,Supermärkte,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Supermärkte in Rostock mit Informationen zu Adresse, Bezeichnung, Art, Betreiber, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2014,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,,,,,,x,,,,"verbraucher,wirtschaft_arbeit","Abholgroßmarkt,Biosupermarkt,Discounter,Einzelhandel,Hypermarkt,Lebensmittel,Supermarkt,Versorgung",supermaerkte,x,95a9259a-ef62-4223-9be3-36eb80cf276a,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2014-02-20T10:23:20.217Z,2014-07-10T04:12:15.537Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/e5773f72-970e-4337-a133-6a547dce7fa7,Tagespflegeeinrichtungen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Tagespflegeeinrichtungen in Rostock mit Informationen zur Bezeichnung, zum Träger, zur Anzahl der Plätze, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Amt für Jugend und Soziales,,,,,,,,,x,,,,,,,,,,,,,,,"bevoelkerung,soziales","Behinderteneinrichtung,Behinderung,Betreuung,Fürsorge,Hilfe,Pflege,Pflegeeinrichtung,Tagespflege,Wohlfahrt",tagespflegeeinrichtungen,x,e5773f72-970e-4337-a133-6a547dce7fa7,sozialamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-06T10:49:13.658Z,2014-07-04T04:14:43.118Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/f9ff00f8-0928-4255-8e27-d965cfeeedef,Tankstellen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Tankstellen in Rostock mit Informationen zum Betreiber, zur Art, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,x,,,,,,,,,,"transport_verkehr,wirtschaft_arbeit","Auto,Automobil,Kfz,Kraftfahrzeug,Pkw,Straße,Tankstelle,Verkehr,Versorgung",tankstellen,x,f9ff00f8-0928-4255-8e27-d965cfeeedef,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-22T13:21:01.595Z,2014-07-09T04:10:37.735Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/ae5e53ed-3fda-495f-81ce-fe65163bf4c2,Taxistände,,"CSV,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Taxistände in Rostock mit Informationen zur Anzahl der Stellplätze. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Stadtamt,,,,,,,,,,,,,,x,,,,,,,,,,"infrastruktur_bauen_wohnen,transport_verkehr","Nahverkehr,Personenverkehr,Straße,Taxi,Taxistand,Verkehr,ÖPNV",taxistaende,x,ae5e53ed-3fda-495f-81ce-fe65163bf4c2,stadtamt-verkehrsabteilung@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-15T13:32:00.299Z,2014-04-17T10:21:49.209Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/7cc90153-1106-4f80-9270-6f99cafa4ba1,Theater,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Theater in Rostock mit Informationen zur Bezeichnung, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,x,,,,,,,,,,,,,,kultur_freizeit_sport_tourismus,"Bildung,Bühne,Freizeit,Kultur,Kunst,Schauspiel,Theater",theater,x,7cc90153-1106-4f80-9270-6f99cafa4ba1,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-14T12:33:06.012Z,2014-06-12T07:50:22.825Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/aca0b5e5-d897-4ce3-8117-059cbd73d7e0,Toiletten,,"CSV,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Toiletten in Rostock mit Informationen zur Art, zu den Öffnungszeiten und zur Barrierefreiheit. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,x,,,,,,,,,,,,,,,,,,,"infrastruktur_bauen_wohnen,umwelt_klima","Hygiene,Infrastruktur,Toilette,WC",toiletten,x,aca0b5e5-d897-4ce3-8117-059cbd73d7e0,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-02-15T11:11:02.211Z,2014-06-23T04:18:16.203Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/e543112e-7f46-42bf-ab8c-23fa7774a034,Touristeninformation,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Touristeninformation in Rostock mit Informationen zur Bezeichnung, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,,,,,x,,,,,kultur_freizeit_sport_tourismus,"Fremdenverkehr,Information,Tourismus,Touristeninformation",touristeninformation,x,e543112e-7f46-42bf-ab8c-23fa7774a034,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-22T12:04:42.089Z,2014-06-12T07:52:44.008Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/318b669e-d699-4d2c-a73d-dbea7b919693,Trinkwasserschutzzonen,,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS","Dieser Datensatz umfasst die Umrisse der Trinkwasserschutzzonen in Rostock und Umgebung mit Informationen zur Bezeichnung, zur Art und zur Nummer. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,,,,,,,,,x,,,,,,,,,,,"geo,umwelt_klima","Natur,Schutzzone,Trinkwasserschutzzone,Umwelt,Wasserschutzgebiet",trinkwasserschutzzonen,x,318b669e-d699-4d2c-a73d-dbea7b919693,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-07-24T08:11:53.16Z,2014-06-12T07:55:06.929Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/895bdc42-1bcc-4af2-9713-dbacd7bbf43b,Überschwemmungsgebiet,,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",Dieser Datensatz umfasst den Umriss des Überschwemmungsgebietes „Warnowniederung zwischen Klein Raden und der Hansestadt Rostock“ (ÜSG WarnowVO). Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,Hansestadt Rostock – Amt für Umweltschutz,,,,,,,,,,,,,x,,,,,,,,,,,"geo,umwelt_klima","Natur,Umwelt,Warnow,Überschwemmungsgebiet",ueberschwemmungsgebiet,x,895bdc42-1bcc-4af2-9713-dbacd7bbf43b,umweltamt@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-07-18T11:20:50.482Z,2014-04-17T10:28:38.879Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/36d8b5ec-78ac-4c41-b948-f328bdb41e86,Universität,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Universität in Rostock mit Informationen zur Bezeichnung, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,x,,,,,,,,,,,,,,,,,,,,,bildung_wissenschaft,"Ausbildungsstätte,Bildung,Forschung,Schule,Universität,Wissenschaft",universitaet,x,36d8b5ec-78ac-4c41-b948-f328bdb41e86,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-15T08:48:31.661Z,2014-06-13T13:33:46.966Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/f7e80691-34a5-4921-833d-b852efed871f,Unterkünfte,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der Unterkünfte in Rostock mit Informationen zur Bezeichnung, zur Art, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,,,,,,,x,,,,,kultur_freizeit_sport_tourismus,"Camping,Freizeit,Herberge,Hotel,Jugendherberge,Pension,Tourismus,Unterkunft",unterkuenfte,x,f7e80691-34a5-4921-833d-b852efed871f,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-22T10:34:57.406Z,2014-07-03T04:20:27.245Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/8da7047b-cd29-463d-b2b5-bb39efdcc524,Windenergieanlagen,,"CSV,GEOJSON,KML,GML,WMS",Dieser Datensatz umfasst die Standorte der Windenergieanlagen in Rostock. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage,2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,,,,,,,,,,,x,,,,,,,,,,,"infrastruktur_bauen_wohnen,umwelt_klima","Elektrizität,Energie,Erneuerbare,Regenerative,Strom,Versorgung,Wind,Windenergieanlage,Windkraft",windenergieanlagen,x,8da7047b-cd29-463d-b2b5-bb39efdcc524,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-17T10:12:22.722Z,2014-07-04T04:17:53.102Z,public,active,,
+d,rostock.de,http://www.opendata-hro.de/dataset/1b59b3e2-a01a-4b42-9a67-f133f66438c6,Wissenschaftliche Einrichtungen,,"CSV,XLSX,GEOJSON,KML,GML,WMS","Dieser Datensatz umfasst die Standorte der wissenschaftlichen Einrichtungen in Rostock mit Informationen zur Bezeichnung, zur Adresse und zu Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage",2013,odc-by,,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",,,x,,,,,,,,,,,,,,,,,,,,,bildung_wissenschaft,"Forschung,Wissenschaft",wissenschaftliche_einrichtungen,x,1b59b3e2-a01a-4b42-9a67-f133f66438c6,geodienste@rostock.de,"Hansestadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt",geodienste@rostock.de,2013-01-15T09:41:46.073Z,2014-06-16T04:10:58.774Z,public,active,,
+c,rostock.de,http://rathaus.rostock.de/sixcms/detail.php?_sid1=rostock_01.c.260.de&_sid2=rostock_01.c.267.de&_sid3=&_sid4=&_sid5=&id=35490,"Liste der Tagespflegepersonen, Stand 12.12.2013",/sixcms/media.php/1246/Tagespflege%20Vermittlung%201213.xls,XLS,Übersicht zu den Tagespflegestellen in der Hansestadt Rostock nach Stadtbereichen (Stand 12.12.2013),2013,nicht bekannt,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tagespflege%20Vermittlung%201213.xls,Hansestadt Rostock - Rathaus
+g,rostock.de,,polizeidienststellen.xlsx,https://geo.sv.rostock.de/download/opendata/polizeidienststellen/polizeidienststellen.xlsx,XLSX,Liste von Polizeidienststellen,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,ortsteile.xlsx,https://geo.sv.rostock.de/download/opendata/ortsteile/ortsteile.xlsx,XLSX,Liste von Ortsteilen,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,begegnungszentren.xlsx,https://geo.sv.rostock.de/download/opendata/begegnungszentren/begegnungszentren.xlsx,XLSX,Liste von Begegnungsstätten,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,bevoelkerungsstruktur_2007.xlsx,https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2007/bevoelkerungsstruktur_2007.xlsx,XLSX,Bevölkerungsstruktur 2007,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,bevoelkerungsstruktur_2006.xlsx,https://geo.sv.rostock.de/download/opendata/bevoelkerungsstruktur_2006/bevoelkerungsstruktur_2006.xlsx,XLSX,Bevölkerungsstruktur 2006,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,musikclubs.xlsx,https://geo.sv.rostock.de/download/opendata/musikclubs/musikclubs.xlsx,XLSX,Liste von Musikclubs,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,rettungswachen.xlsx,https://geo.sv.rostock.de/download/opendata/rettungswachen/rettungswachen.xlsx,XLSX,Liste von Rettungswachen,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,museen_galerien.xlsx,https://geo.sv.rostock.de/download/opendata/museen_galerien/museen_galerien.xlsx,XLSX,Liste von Museen und Galerien,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,bibliotheken.xlsx,https://geo.sv.rostock.de/download/opendata/bibliotheken/bibliotheken.xlsx,XLSX,Liste von Bibliotheken,,,,,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,tagespflegeeinrichtungen.xlsx,https://geo.sv.rostock.de/download/opendata/tagespflegeeinrichtungen/tagespflegeeinrichtungen.xlsx,XLSX,Liste von Tagespflegeeinrichtungen,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,sporthallen.xlsx,https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.xlsx,XLSX,Liste von Sporthallen,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,theater.xlsx,https://geo.sv.rostock.de/download/opendata/theater/theater.xlsx,XLSX,Liste von Theatern,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,feuerwachen.xlsx,https://geo.sv.rostock.de/download/opendata/feuerwachen/feuerwachen.xlsx,XLSX,Liste von Feuerwachen,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,statistische_bezirke.xlsx,https://geo.sv.rostock.de/download/opendata/statistische_bezirke/statistische_bezirke.xlsx,XLSX,statistische Bezirke ,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,recyclinghoefe.xlsx,https://geo.sv.rostock.de/download/opendata/recyclinghoefe/recyclinghoefe.xlsx,XLSX,Liste von Recyclinghöfen,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,kinos.xlsx,https://geo.sv.rostock.de/download/opendata/kinos/kinos.xlsx,XLSX,Liste von Kinos,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,touristeninformation.xlsx,https://geo.sv.rostock.de/download/opendata/touristeninformation/touristeninformation.xlsx,XLSX,Liste von Touristeninformationsständen,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,
+g,rostock.de,,reisebusterminals.xlsx,https://geo.sv.rostock.de/download/opendata/reisebusterminals/reisebusterminals.xlsx,XLSX,Liste von Reisebusterminals,,,,,,,,,,,,,,,,,,x,,,,,x,,,,,,,,,,,,,,,,,,
+g,rostock.de,,gemeindeflaeche.xlsx,https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.xlsx,XLSX,Gemeindefläche Rostock,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,trinkwasserschutzzonen.xlsx,https://geo.sv.rostock.de/download/opendata/trinkwasserschutzzonen/trinkwasserschutzzonen.xlsx,XLSX,Trinkwasserschutzzonen,,,,,,,,,,,,,,,,,x,,x,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,Tagespflege%20Vermittlung%201213.xls,http://rathaus.rostock.de/sixcms/media.php/1246/Tagespflege%20Vermittlung%201213.xls,XLS,Liste von Tagespflegen,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,parkmoeglichkeiten.xlsx,https://geo.sv.rostock.de/download/opendata/parkmoeglichkeiten/parkmoeglichkeiten.xlsx,XLSX,Liste von Parkmöglichkeiten,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,sehenswuerdigkeiten.xlsx,https://geo.sv.rostock.de/download/opendata/sehenswuerdigkeiten/sehenswuerdigkeiten.xlsx,XLSX,Liste von Sehenswüridgkeiten,,,,,,,,,,,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,
+g,rostock.de,,faehranleger.xlsx,https://geo.sv.rostock.de/download/opendata/faehranleger/faehranleger.xlsx,XLSX,Liste von Fährenanleger,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,musik_tanzschulen.xlsx,https://geo.sv.rostock.de/download/opendata/musik_tanzschulen/musik_tanzschulen.xlsx,XLSX,Liste von Musik-/Tanzschulen,,,,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,brunnen.xlsx,https://geo.sv.rostock.de/download/opendata/brunnen/brunnen.xlsx,XLSX,Liste von Brunnen ,,,,,,,,,,,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,
+g,rostock.de,,tankstellen.xlsx,https://geo.sv.rostock.de/download/opendata/tankstellen/tankstellen.xlsx,XLSX,Liste von Tankstellen,,,,,,,,,,,,,,,,,,x,x,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,ortsbeiratsbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/ortsbeiratsbereiche/ortsbeiratsbereiche.xlsx ,XLSX,Liste der Ortsbeiratsbereiche,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,stadtbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/stadtbereiche/stadtbereiche.xlsx ,XLSX,Liste der Stadtbereiche,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,ortsamtsbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/ortsamtsbereiche/ortsamtsbereiche.xlsx ,XLSX,Liste der Ortsamtsbereiche,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,rostock.de,,denkmale.xlsx,https://geo.sv.rostock.de/download/opendata/denkmale/denkmale.xlsx ,XLSX,Liste von Denkmalen mit Links zu Wikipedia,,,,,,,,,,,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,
+b,rostock.de,,TagespflegeVermittlung12-13 ,http://rathaus.rostock.de/sixcms/media.php/1246/Tagespflege%20Vermittlung%201213.xls,XLS,Übersicht zu den Tagespflegestellen in der Hansestadt Rostock nach Stadtbereichen Telefon Name Vorname PLZ Straße Warnemünde,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,1168 +1,821 @@
-
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  <meta charset="utf-8">
-  <meta content="width=300, initial-scale=1" name="viewport">
-  <meta name="description" content="Create a new spreadsheet and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Sheets to edit Excel files. Free from Google.">
-  <title>Google Sheets - create and edit spreadsheets online, for free.</title>
-  <style>
-  @font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Open Sans Light'), local('OpenSans-Light'), url(//themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Open Sans'), local('OpenSans'), url(//themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
-}
-  </style>
-  <style>
-  h1, h2 {
-  -webkit-animation-duration: 0.1s;
-  -webkit-animation-name: fontfix;
-  -webkit-animation-iteration-count: 1;
-  -webkit-animation-timing-function: linear;
-  -webkit-animation-delay: 0;
-  }
-  @-webkit-keyframes fontfix {
-  from {
-  opacity: 1;
-  }
-  to {
-  opacity: 1;
-  }
-  }
-  </style>
-<style>
-  html, body {
-  font-family: Arial, sans-serif;
-  background: #fff;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  position: absolute;
-  height: 100%;
-  min-width: 100%;
-  font-size: 13px;
-  color: #404040;
-  direction: ltr;
-  -webkit-text-size-adjust: none;
-  }
-  button,
-  input[type=button],
-  input[type=submit] {
-  font-family: Arial, sans-serif;
-  font-size: 13px;
-  }
-  a,
-  a:hover,
-  a:visited {
-  color: #427fed;
-  cursor: pointer;
-  text-decoration: none;
-  }
-  a:hover {
-  text-decoration: underline;
-  }
-  h1 {
-  font-size: 20px;
-  color: #262626;
-  margin: 0 0 15px;
-  font-weight: normal;
-  }
-  h2 {
-  font-size: 14px;
-  color: #262626;
-  margin: 0 0 15px;
-  font-weight: bold;
-  }
-  input[type=email],
-  input[type=number],
-  input[type=password],
-  input[type=tel],
-  input[type=text],
-  input[type=url] {
-  -moz-appearance: none;
-  -webkit-appearance: none;
-  appearance: none;
-  display: inline-block;
-  height: 36px;
-  padding: 0 8px;
-  margin: 0;
-  background: #fff;
-  border: 1px solid #d9d9d9;
-  border-top: 1px solid #c0c0c0;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  -moz-border-radius: 1px;
-  -webkit-border-radius: 1px;
-  border-radius: 1px;
-  font-size: 15px;
-  color: #404040;
-  }
-  input[type=email]:hover,
-  input[type=number]:hover,
-  input[type=password]:hover,
-  input[type=tel]:hover,
-  input[type=text]:hover,
-  input[type=url]:hover {
-  border: 1px solid #b9b9b9;
-  border-top: 1px solid #a0a0a0;
-  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-  box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-  }
-  input[type=email]:focus,
-  input[type=number]:focus,
-  input[type=password]:focus,
-  input[type=tel]:focus,
-  input[type=text]:focus,
-  input[type=url]:focus {
-  outline: none;
-  border: 1px solid #4d90fe;
-  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  }
-  input[type=checkbox],
-  input[type=radio] {
-  -webkit-appearance: none;
-  display: inline-block;
-  width: 13px;
-  height: 13px;
-  margin: 0;
-  cursor: pointer;
-  vertical-align: bottom;
-  background: #fff;
-  border: 1px solid #c6c6c6;
-  -moz-border-radius: 1px;
-  -webkit-border-radius: 1px;
-  border-radius: 1px;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  position: relative;
-  }
-  input[type=checkbox]:active,
-  input[type=radio]:active {
-  background: #ebebeb;
-  }
-  input[type=checkbox]:hover {
-  border-color: #c6c6c6;
-  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-  box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-  }
-  input[type=radio] {
-  -moz-border-radius: 1em;
-  -webkit-border-radius: 1em;
-  border-radius: 1em;
-  width: 15px;
-  height: 15px;
-  }
-  input[type=checkbox]:checked,
-  input[type=radio]:checked {
-  background: #fff;
-  }
-  input[type=radio]:checked::after {
-  content: '';
-  display: block;
-  position: relative;
-  top: 3px;
-  left: 3px;
-  width: 7px;
-  height: 7px;
-  background: #666;
-  -moz-border-radius: 1em;
-  -webkit-border-radius: 1em;
-  border-radius: 1em;
-  }
-  input[type=checkbox]:checked::after {
-  content: url(//ssl.gstatic.com/ui/v1/menu/checkmark.png);
-  display: block;
-  position: absolute;
-  top: -6px;
-  left: -5px;
-  }
-  input[type=checkbox]:focus {
-  outline: none;
-  border-color: #4d90fe;
-  }
-  .stacked-label {
-  display: block;
-  font-weight: bold;
-  margin: .5em 0;
-  }
-  .hidden-label {
-  position: absolute !important;
-  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
-  clip: rect(1px, 1px, 1px, 1px);
-  height: 0px;
-  width: 0px;
-  overflow: hidden;
-  visibility: hidden;
-  }
-  input[type=checkbox].form-error,
-  input[type=email].form-error,
-  input[type=number].form-error,
-  input[type=password].form-error,
-  input[type=text].form-error,
-  input[type=tel].form-error,
-  input[type=url].form-error {
-  border: 1px solid #dd4b39;
-  }
-  .error-msg {
-  margin: .5em 0;
-  display: block;
-  color: #dd4b39;
-  line-height: 17px;
-  }
-  .help-link {
-  background: #dd4b39;
-  padding: 0 5px;
-  color: #fff;
-  font-weight: bold;
-  display: inline-block;
-  -moz-border-radius: 1em;
-  -webkit-border-radius: 1em;
-  border-radius: 1em;
-  text-decoration: none;
-  position: relative;
-  top: 0px;
-  }
-  .help-link:visited {
-  color: #fff;
-  }
-  .help-link:hover {
-  color: #fff;
-  background: #c03523;
-  text-decoration: none;
-  }
-  .help-link:active {
-  opacity: 1;
-  background: #ae2817;
-  }
-  .wrapper {
-  position: relative;
-  min-height: 100%;
-  }
-  .content {
-  padding: 0 44px;
-  }
-  .main {
-  padding-bottom: 100px;
-  }
-  /* For modern browsers */
-  .clearfix:before,
-  .clearfix:after {
-  content: "";
-  display: table;
-  }
-  .clearfix:after {
-  clear: both;
-  }
-  /* For IE 6/7 (trigger hasLayout) */
-  .clearfix {
-  zoom:1;
-  }
-  .google-header-bar {
-  height: 71px;
-  border-bottom: 1px solid #e5e5e5;
-  overflow: hidden;
-  }
-  .header .logo {
-  margin: 17px 0 0;
-  float: left;
-  height: 38px;
-  width: 116px;
-  }
-  .header .secondary-link {
-  margin: 28px 0 0;
-  float: right;
-  }
-  .header .secondary-link a {
-  font-weight: normal;
-  }
-  .google-header-bar.centered {
-  border: 0;
-  height: 108px;
-  }
-  .google-header-bar.centered .header .logo {
-  float: none;
-  margin: 40px auto 30px;
-  display: block;
-  }
-  .google-header-bar.centered .header .secondary-link {
-  display: none
-  }
-  .google-footer-bar {
-  position: absolute;
-  bottom: 0;
-  height: 35px;
-  width: 100%;
-  border-top: 1px solid #e5e5e5;
-  overflow: hidden;
-  }
-  .footer {
-  padding-top: 7px;
-  font-size: .85em;
-  white-space: nowrap;
-  line-height: 0;
-  }
-  .footer ul {
-  float: left;
-  max-width: 80%;
-  padding: 0;
-  }
-  .footer ul li {
-  color: #737373;
-  display: inline;
-  padding: 0;
-  padding-right: 1.5em;
-  }
-  .footer a {
-  color: #737373;
-  }
-  .lang-chooser-wrap {
-  float: right;
-  display: inline;
-  }
-  .lang-chooser-wrap img {
-  vertical-align: top;
-  }
-  .lang-chooser {
-  font-size: 13px;
-  height: 24px;
-  line-height: 24px;
-  }
-  .lang-chooser option {
-  font-size: 13px;
-  line-height: 24px;
-  }
-  .hidden {
-  height: 0px;
-  width: 0px;
-  overflow: hidden;
-  visibility: hidden;
-  display: none !important;
-  }
-  .banner {
-  text-align: center;
-  }
-  .card {
-  background-color: #f7f7f7;
-  padding: 20px 25px 30px;
-  margin: 0 auto 25px;
-  width: 304px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  border-radius: 2px;
-  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  }
-  .card > *:first-child {
-  margin-top: 0;
-  }
-  .rc-button,
-  .rc-button:visited {
-  display: inline-block;
-  min-width: 46px;
-  text-align: center;
-  color: #444;
-  font-size: 14px;
-  font-weight: 700;
-  height: 36px;
-  padding: 0 8px;
-  line-height: 36px;
-  -moz-border-radius: 3px;
-  -webkit-border-radius: 3px;
-  border-radius: 3px;
-  -o-transition: all 0.218s;
-  -moz-transition: all 0.218s;
-  -webkit-transition: all 0.218s;
-  transition: all 0.218s;
-  border: 1px solid #dcdcdc;
-  background-color: #f5f5f5;
-  background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
-  background-image: -moz-linear-gradient(top,#f5f5f5,#f1f1f1);
-  background-image: -ms-linear-gradient(top,#f5f5f5,#f1f1f1);
-  background-image: -o-linear-gradient(top,#f5f5f5,#f1f1f1);
-  background-image: linear-gradient(top,#f5f5f5,#f1f1f1);
-  -o-transition: none;
-  -moz-user-select: none;
-  -webkit-user-select: none;
-  user-select: none;
-  cursor: default;
-  }
-  .card .rc-button {
-  width: 100%;
-  padding: 0;
-  }
-  .rc-button.disabled,
-  .rc-button[disabled] {
-  opacity: .5;
-  filter: alpha(opacity=50);
-  cursor: default;
-  pointer-events: none;
-  }
-  .rc-button:hover {
-  border: 1px solid #c6c6c6;
-  color: #333;
-  text-decoration: none;
-  -o-transition: all 0.0s;
-  -moz-transition: all 0.0s;
-  -webkit-transition: all 0.0s;
-  transition: all 0.0s;
-  background-color: #f8f8f8;
-  background-image: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
-  background-image: -moz-linear-gradient(top,#f8f8f8,#f1f1f1);
-  background-image: -ms-linear-gradient(top,#f8f8f8,#f1f1f1);
-  background-image: -o-linear-gradient(top,#f8f8f8,#f1f1f1);
-  background-image: linear-gradient(top,#f8f8f8,#f1f1f1);
-  -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
-  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
-  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
-  }
-  .rc-button:active {
-  background-color: #f6f6f6;
-  background-image: -webkit-linear-gradient(top,#f6f6f6,#f1f1f1);
-  background-image: -moz-linear-gradient(top,#f6f6f6,#f1f1f1);
-  background-image: -ms-linear-gradient(top,#f6f6f6,#f1f1f1);
-  background-image: -o-linear-gradient(top,#f6f6f6,#f1f1f1);
-  background-image: linear-gradient(top,#f6f6f6,#f1f1f1);
-  -moz-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-  }
-  .rc-button-submit,
-  .rc-button-submit:visited {
-  border: 1px solid #3079ed;
-  color: #fff;
-  text-shadow: 0 1px rgba(0,0,0,0.1);
-  background-color: #4d90fe;
-  background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
-  background-image: -moz-linear-gradient(top,#4d90fe,#4787ed);
-  background-image: -ms-linear-gradient(top,#4d90fe,#4787ed);
-  background-image: -o-linear-gradient(top,#4d90fe,#4787ed);
-  background-image: linear-gradient(top,#4d90fe,#4787ed);
-  }
-  .rc-button-submit:hover {
-  border: 1px solid #2f5bb7;
-  color: #fff;
-  text-shadow: 0 1px rgba(0,0,0,0.3);
-  background-color: #357ae8;
-  background-image: -webkit-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: -moz-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: -ms-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: -o-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: linear-gradient(top,#4d90fe,#357ae8);
-  }
-  .rc-button-submit:active {
-  background-color: #357ae8;
-  background-image: -webkit-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: -moz-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: -ms-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: -o-linear-gradient(top,#4d90fe,#357ae8);
-  background-image: linear-gradient(top,#4d90fe,#357ae8);
-  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  }
-  .rc-button-red,
-  .rc-button-red:visited {
-  border: 1px solid transparent;
-  color: #fff;
-  text-shadow: 0 1px rgba(0,0,0,0.1);
-  background-color: #d14836;
-  background-image: -webkit-linear-gradient(top,#dd4b39,#d14836);
-  background-image: -moz-linear-gradient(top,#dd4b39,#d14836);
-  background-image: -ms-linear-gradient(top,#dd4b39,#d14836);
-  background-image: -o-linear-gradient(top,#dd4b39,#d14836);
-  background-image: linear-gradient(top,#dd4b39,#d14836);
-  }
-  .rc-button-red:hover {
-  border: 1px solid #b0281a;
-  color: #fff;
-  text-shadow: 0 1px rgba(0,0,0,0.3);
-  background-color: #c53727;
-  background-image: -webkit-linear-gradient(top,#dd4b39,#c53727);
-  background-image: -moz-linear-gradient(top,#dd4b39,#c53727);
-  background-image: -ms-linear-gradient(top,#dd4b39,#c53727);
-  background-image: -o-linear-gradient(top,#dd4b39,#c53727);
-  background-image: linear-gradient(top,#dd4b39,#c53727);
-  }
-  .rc-button-red:active {
-  border: 1px solid #992a1b;
-  background-color: #b0281a;
-  background-image: -webkit-linear-gradient(top,#dd4b39,#b0281a);
-  background-image: -moz-linear-gradient(top,#dd4b39,#b0281a);
-  background-image: -ms-linear-gradient(top,#dd4b39,#b0281a);
-  background-image: -o-linear-gradient(top,#dd4b39,#b0281a);
-  background-image: linear-gradient(top,#dd4b39,#b0281a);
-  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-  }
-  .secondary-actions {
-  text-align: center;
-  }
-</style>
-<style media="screen and (max-width: 800px), screen and (max-height: 800px)">
-  .google-header-bar.centered {
-  height: 83px;
-  }
-  .google-header-bar.centered .header .logo {
-  margin: 25px auto 20px;
-  }
-  .card {
-  margin-bottom: 20px;
-  }
-</style>
-<style media="screen and (max-width: 580px)">
-  html, body {
-  font-size: 14px;
-  }
-  .google-header-bar.centered {
-  height: 73px;
-  }
-  .google-header-bar.centered .header .logo {
-  margin: 20px auto 15px;
-  }
-  .content {
-  padding-left: 10px;
-  padding-right: 10px;
-  }
-  .hidden-small {
-  display: none;
-  }
-  .card {
-  padding: 20px 15px 30px;
-  width: 270px;
-  }
-  .footer ul li {
-  padding-right: 1em;
-  }
-  .lang-chooser-wrap {
-  display: none;
-  }
-</style>
-<style>
-  pre.debug {
-  font-family: monospace;
-  position: absolute;
-  left: 0;
-  margin: 0;
-  padding: 1.5em;
-  font-size: 13px;
-  background: #f1f1f1;
-  border-top: 1px solid #e5e5e5;
-  direction: ltr;
-  white-space: pre-wrap;
-  width: 90%;
-  overflow: hidden;
-  }
-</style>
-<style>
-  .banner h1 {
-  font-family: 'Open Sans', arial;
-  -webkit-font-smoothing: antialiased;
-  color: #555;
-  font-size: 42px;
-  font-weight: 300;
-  margin-top: 0;
-  margin-bottom: 20px;
-  }
-  .banner h2 {
-  font-family: 'Open Sans', arial;
-  -webkit-font-smoothing: antialiased;
-  color: #555;
-  font-size: 18px;
-  font-weight: 400;
-  margin-bottom: 20px;
-  }
-  .signin-card {
-  width: 274px;
-  padding: 40px 40px;
-  }
-  .signin-card .profile-img {
-  width: 96px;
-  height: 96px;
-  margin: 0 auto 10px;
-  display: block;
-  -moz-border-radius: 50%;
-  -webkit-border-radius: 50%;
-  border-radius: 50%;
-  }
-  .signin-card .profile-name {
-  font-size: 16px;
-  font-weight: bold;
-  text-align: center;
-  margin: 10px 0 0;
-  min-height: 1em;
-  }
-  .signin-card input[type=email],
-  .signin-card input[type=password],
-  .signin-card input[type=text],
-  .signin-card input[type=submit] {
-  width: 100%;
-  display: block;
-  margin-bottom: 10px;
-  z-index: 1;
-  position: relative;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  }
-  .signin-card #Email,
-  .signin-card #Passwd,
-  .signin-card .captcha {
-  direction: ltr;
-  height: 44px;
-  font-size: 16px;
-  }
-  .signin-card #Email + .stacked-label {
-  margin-top: 15px;
-  }
-  .signin-card #reauthEmail {
-  display: block;
-  margin-bottom: 10px;
-  line-height: 36px;
-  padding: 0 8px;
-  font-size: 15px;
-  color: #404040;
-  line-height: 2;
-  margin-bottom: 10px;
-  font-size: 14px;
-  text-align: center;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  }
-  .one-google p {
-  margin: 0 0 10px;
-  color: #555;
-  font-size: 14px;
-  text-align: center;
-  }
-  .one-google p.create-account,
-  .one-google p.switch-account {
-  margin-bottom: 60px;
-  }
-  .one-google img {
-  display: block;
-  width: 210px;
-  height: 17px;
-  margin: 10px auto;
-  }
-</style>
-<style media="screen and (max-width: 800px), screen and (max-height: 800px)">
-  .banner h1 {
-  font-size: 38px;
-  margin-bottom: 15px;
-  }
-  .banner h2 {
-  margin-bottom: 15px;
-  }
-  .one-google p.create-account,
-  .one-google p.switch-account {
-  margin-bottom: 30px;
-  }
-  .signin-card #Email {
-  margin-bottom: 0;
-  }
-  .signin-card #Passwd {
-  margin-top: -1px;
-  }
-  .signin-card #Email.form-error,
-  .signin-card #Passwd.form-error {
-  z-index: 2;
-  }
-  .signin-card #Email:hover,
-  .signin-card #Email:focus,
-  .signin-card #Passwd:hover,
-  .signin-card #Passwd:focus {
-  z-index: 3;
-  }
-</style>
-<style media="screen and (max-width: 580px)">
-  .banner h1 {
-  font-size: 22px;
-  margin-bottom: 15px;
-  }
-  .signin-card {
-  width: 260px;
-  padding: 20px 20px;
-  margin: 0 auto 20px;
-  }
-  .signin-card .profile-img {
-  width: 72px;
-  height: 72px;
-  -moz-border-radius: 72px;
-  -webkit-border-radius: 72px;
-  border-radius: 72px;
-  }
-</style>
-<style>
-  .jfk-tooltip {
-  background-color: #fff;
-  border: 1px solid;
-  color: #737373;
-  font-size: 12px;
-  position: absolute;
-  z-index: 800 !important;
-  border-color: #bbb #bbb #a8a8a8;
-  padding: 16px;
-  width: 250px;
-  }
- .jfk-tooltip h3 {
-  color: #555;
-  font-size: 12px;
-  margin: 0 0 .5em;
-  }
- .jfk-tooltip-content p:last-child {
-  margin-bottom: 0;
-  }
-  .jfk-tooltip-arrow {
-  position: absolute;
-  }
-  .jfk-tooltip-arrow .jfk-tooltip-arrowimplbefore,
-  .jfk-tooltip-arrow .jfk-tooltip-arrowimplafter {
-  display: block;
-  height: 0;
-  position: absolute;
-  width: 0;
-  }
-  .jfk-tooltip-arrow .jfk-tooltip-arrowimplbefore {
-  border: 9px solid;
-  }
-  .jfk-tooltip-arrow .jfk-tooltip-arrowimplafter {
-  border: 8px solid;
-  }
-  .jfk-tooltip-arrowdown {
-  bottom: 0;
-  }
-  .jfk-tooltip-arrowup {
-  top: -9px;
-  }
-  .jfk-tooltip-arrowleft {
-  left: -9px;
-  top: 30px;
-  }
-  .jfk-tooltip-arrowright {
-  right: 0;
-  top: 30px;
-  }
-  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplbefore,.jfk-tooltip-arrowup .jfk-tooltip-arrowimplbefore {
-  border-color: #bbb transparent;
-  left: -9px;
-  }
-  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplbefore {
-  border-color: #a8a8a8 transparent;
-  }
-  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplafter,.jfk-tooltip-arrowup .jfk-tooltip-arrowimplafter {
-  border-color: #fff transparent;
-  left: -8px;
-  }
-  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplbefore {
-  border-bottom-width: 0;
-  }
-  .jfk-tooltip-arrowdown .jfk-tooltip-arrowimplafter {
-  border-bottom-width: 0;
-  }
-  .jfk-tooltip-arrowup .jfk-tooltip-arrowimplbefore {
-  border-top-width: 0;
-  }
-  .jfk-tooltip-arrowup .jfk-tooltip-arrowimplafter {
-  border-top-width: 0;
-  top: 1px;
-  }
-  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplbefore,
-  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplbefore {
-  border-color: transparent #bbb;
-  top: -9px;
-  }
-  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplafter,
-  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplafter {
-  border-color:transparent #fff;
-  top:-8px;
-  }
-  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplbefore {
-  border-left-width: 0;
-  }
-  .jfk-tooltip-arrowleft .jfk-tooltip-arrowimplafter {
-  border-left-width: 0;
-  left: 1px;
-  }
-  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplbefore {
-  border-right-width: 0;
-  }
-  .jfk-tooltip-arrowright .jfk-tooltip-arrowimplafter {
-  border-right-width: 0;
-  }
-  .jfk-tooltip-closebtn {
-  background: url("//ssl.gstatic.com/ui/v1/icons/common/x_8px.png") no-repeat;
-  border: 1px solid transparent;
-  height: 21px;
-  opacity: .4;
-  outline: 0;
-  position: absolute;
-  right: 2px;
-  top: 2px;
-  width: 21px;
-  }
-  .jfk-tooltip-closebtn:focus,
-  .jfk-tooltip-closebtn:hover {
-  opacity: .8;
-  cursor: pointer;
-  }
-  .jfk-tooltip-closebtn:focus {
-  border-color: #4d90fe;
-  }
-</style>
-<style media="screen and (max-width: 580px)">
-  .jfk-tooltip {
-  display: none;
-  }
-</style>
-<style>
-  .need-help-reverse {
-  float: right;
-  }
-  .remember .bubble-wrap {
-  position: absolute;
-  padding-top: 3px;
-  -o-transition: opacity .218s ease-in .218s;
-  -moz-transition: opacity .218s ease-in .218s;
-  -webkit-transition: opacity .218s ease-in .218s;
-  transition: opacity .218s ease-in .218s;
-  left: -999em;
-  opacity: 0;
-  width: 314px;
-  margin-left: -20px;
-  }
-  .remember:hover .bubble-wrap,
-  .remember input:focus ~ .bubble-wrap,
-  .remember .bubble-wrap:hover,
-  .remember .bubble-wrap:focus {
-  opacity: 1;
-  left: inherit;
-  }
-  .bubble-pointer {
-  border-left: 10px solid transparent;
-  border-right: 10px solid transparent;
-  border-bottom: 10px solid #fff;
-  width: 0;
-  height: 0;
-  margin-left: 17px;
-  }
-  .bubble {
-  background-color: #fff;
-  padding: 15px;
-  margin-top: -1px;
-  font-size: 11px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  border-radius: 2px;
-  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  }
-  #stay-signed-in {
-  float: left;
-  }
-  #stay-signed-in-tooltip {
-  left: auto;
-  margin-left: -20px;
-  padding-top: 3px;
-  position: absolute;
-  top: 0;
-  visibility: hidden;
-  width: 314px;
-  z-index: 1;
-  }
-  .dasher-tooltip {
-  position: absolute;
-  left: 50%;
-  top: 380px;
-  margin-left: 150px;
-  }
-  .dasher-tooltip .tooltip-pointer {
-  margin-top: 15px;
-  }
-  .dasher-tooltip p {
-  margin-top: 0;
-  }
-  .dasher-tooltip p span {
-  display: block;
-  }
-</style>
-<style media="screen and (max-width: 800px), screen and (max-height: 800px)">
-  .dasher-tooltip {
-  top: 340px;
-  }
-</style>
-  </head>
-  <body>
-  <div class="wrapper">
-  <div class="google-header-bar  centered">
-  <div class="header content clearfix">
-  <img alt="Google" class="logo" src="//ssl.gstatic.com/accounts/ui/logo_2x.png">
-  </div>
-  </div>
-  <div class="main content clearfix">
-<div class="banner">
-<h1>
-  One account. All of Google.
-</h1>
-  <h2 class="hidden-small">
-  Sign in to continue to Sheets
-  </h2>
-</div>
-<div class="card signin-card clearfix">
-<img class="profile-img" src="//ssl.gstatic.com/accounts/ui/avatar_2x.png" alt="">
-<p class="profile-name"></p>
-  <form novalidate method="post" action="https://accounts.google.com/ServiceLoginAuth" id="gaia_loginform">
-  <input name="GALX" type="hidden"
-           value="840v1_D9KC0">
-  <input name="continue" type="hidden" value="https://docs.google.com/spreadsheets/d/1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk/export?gid=1992341045&amp;format=csv">
-  <input name="followup" type="hidden" value="https://docs.google.com/spreadsheets/d/1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk/export?gid=1992341045&amp;format=csv">
-  <input name="service" type="hidden" value="wise">
-  <input name="ltmpl" type="hidden" value="sheets">
-  <input type="hidden" id="_utf8" name="_utf8" value="&#9731;"/>
-  <input type="hidden" name="bgresponse" id="bgresponse" value="js_disabled">
-<label class="hidden-label" for="Email">Email</label>
-<input id="Email" name="Email" type="email"
-       placeholder="Email"
-       value=""
-       spellcheck="false"
-       class="">
-<label class="hidden-label" for="Passwd">Password</label>
-<input id="Passwd" name="Passwd" type="password"
-       placeholder="Password"
-       class="">
-<input id="signIn" name="signIn" class="rc-button rc-button-submit" type="submit" value="Sign in">
-  <input type="hidden" name="PersistentCookie" value="yes">
-  <a id="link-forgot-passwd" href="https://accounts.google.com/RecoverAccount?service=wise&amp;continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D1992341045%26format%3Dcsv"
-       
-       >
-  Need help?
-  </a>
-  </form>
-</div>
-<div class="one-google">
-  <p class="create-account">
-  <a id="link-signup" href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D1992341045%26format%3Dcsv&amp;ltmpl=sheets">
-  Create an account
-  </a>
-  </p>
-<p class="tagline">
-  One Google Account for everything Google
-</p>
-<img src="//ssl.gstatic.com/accounts/ui/logo_strip_2x.png" width="210" height="17" alt="">
-</div>
-  </div>
-  <div class="google-footer-bar">
-  <div class="footer content clearfix">
-  <ul id="footer-list">
-  <li>
-  Google
-  </li>
-  <li>
-  <a href="https://accounts.google.com/TOS?loc=DE&hl=en" target="_blank">
-  Privacy &amp; Terms
-  </a>
-  </li>
-  <li>
-  <a href="http://www.google.com/support/accounts?hl=en" target="_blank">
-  Help
-  </a>
-  </li>
-  </ul>
-  </div>
-</div>
-  </div>
-<script type="text/javascript">
-  var gaia_attachEvent = function(element, event, callback) {
-  if (element.addEventListener) {
-  element.addEventListener(event, callback, false);
-  } else if (element.attachEvent) {
-  element.attachEvent('on' + event, callback);
-  }
-  };
-  (function() {
-  var gaia_hideNavBar = function() {
-  setTimeout(function() {
-  window.scrollTo(0, 1);
-  }, 0);
-  };
-  gaia_attachEvent(window, 'load', gaia_hideNavBar);
-  })();
-</script>
-  <script type="text/javascript">/* Anti-spam. Want to say hello? Contact (base64) Ym90Z3VhcmQtY29udGFjdEBnb29nbGUuY29tCg== */(function(){eval('var f,k,m=true,p=null,q=false,u=this,v=void 0,aa=Array.prototype,w=function(a,b){return a<b?-1:a>b?1:0},x=function(a,b,c,d,e){c=a.split("."),d=u,c[0]in d||!d.execScript||d.execScript("var "+c[0]);for(;c.length&&(e=c.shift());)c.length||b===v?d=d[e]?d[e]:d[e]={}:d[e]=b},y=function(a,b,c){if(b=typeof a,"object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;if(c=Object.prototype.toString.call(a),"[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b};t:{var z=u.navigator;if(z){var ba=z.userAgent;if(ba){k=ba;break t}}k=""}var A="",ca=function(a){return(a=u.document)?a.documentMode:v},da=/\\b(?:MSIE|rv)[: ]([^\\);]+)(\\)|;)/.exec(k),A=da?da[1]:"",ea=ca(),fa=ea>parseFloat(A)?String(ea):A,ga={},ha=u.document,B=function(a,b,c,d,e,g,h,l,n,s,r,t){if(!(b=ga[a])){for(b=0,c=String(fa).replace(/^[\\s\\xa0]+|[\\s\\xa0]+$/g,"").split("."),d=String(a).replace(/^[\\s\\xa0]+|[\\s\\xa0]+$/g,"").split("."),e=Math.max(c.length,d.length),g=0;0==b&&g<e;g++){h=c[g]||"",l=d[g]||"",n=RegExp("(\\\\d*)(\\\\D*)","g"),s=RegExp("(\\\\d*)(\\\\D*)","g");do{if(r=n.exec(h)||["","",""],t=s.exec(l)||["","",""],0==r[0].length&&0==t[0].length)break;b=w(0==r[1].length?0:parseInt(r[1],10),0==t[1].length?0:parseInt(t[1],10))||w(0==r[2].length,0==t[2].length)||w(r[2],t[2])}while(0==b)}b=ga[a]=0<=b}return b},ia=ha?ca()||("CSS1Compat"==ha.compatMode?parseInt(fa,10):5):v,C=(B("9"),new function(){},p),D=p,F=p,G=9<=ia,ja=function(a){if(!C)for(C={},D={},F={},a=0;65>a;a++)C[a]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(a),D[C[a]]=a,F[a]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_.".charAt(a)},ka=function(a,b,c,d,e){for(a=a.replace(/\\r\\n/g,"\\n"),b=[],d=c=0;d<a.length;d++)e=a.charCodeAt(d),128>e?b[c++]=e:(2048>e?b[c++]=e>>6|192:(b[c++]=e>>12|224,b[c++]=e>>6&63|128),b[c++]=e&63|128);return b},la=!B("9"),H=(B("8"),B("9"),function(a,b){this.type=a,this.currentTarget=this.target=b,this.defaultPrevented=q}),I=(H.prototype.preventDefault=function(){this.defaultPrevented=m},function(a,b,c,d){H.call(this,a?a.type:""),this.relatedTarget=this.currentTarget=this.target=p,this.charCode=this.keyCode=this.button=this.screenY=this.screenX=this.clientY=this.clientX=this.offsetY=this.offsetX=0,this.metaKey=this.shiftKey=this.altKey=this.ctrlKey=q,this.Z=this.state=p,a&&(c=this.type=a.type,this.currentTarget=b,d=a.relatedTarget,this.target=a.target||a.srcElement,d||("mouseover"==c?d=a.fromElement:"mouseout"==c&&(d=a.toElement)),this.relatedTarget=d,this.Z=a,this.button=a.button,this.ctrlKey=a.ctrlKey,this.altKey=a.altKey,this.shiftKey=a.shiftKey,this.metaKey=a.metaKey,this.state=a.state,this.screenX=a.screenX||0,this.screenY=a.screenY||0,this.keyCode=a.keyCode||0,this.offsetX=a.offsetX!==v?a.offsetX:a.layerX,this.offsetY=a.offsetY!==v?a.offsetY:a.layerY,this.clientX=a.clientX!==v?a.clientX:a.pageX,this.clientY=a.clientY!==v?a.clientY:a.pageY,this.charCode=a.charCode||("keypress"==c?a.keyCode:0),a.defaultPrevented&&this.preventDefault())}),ma=(function(){function a(){}a.prototype=H.prototype,I.qa=H.prototype,I.prototype=new a,I.ua=function(a,c,d){return H.prototype[c].apply(a,Array.prototype.slice.call(arguments,2))}}(),I.prototype.preventDefault=function(a){if(I.qa.preventDefault.call(this),a=this.Z,a.preventDefault)a.preventDefault();else if(a.returnValue=q,la)try{if(a.ctrlKey||112<=a.keyCode&&123>=a.keyCode)a.keyCode=-1}catch(b){}},"closure_listenable_"+(1E6*Math.random()|0)),na=0,J=function(a){this.src=a,this.l={},this.N=0},oa=function(a){a.t=m,a.k=p,a.u=p,a.src=p,a.L=p},pa=function(a,b,c,d,e){this.k=a,this.u=p,this.src=b,this.type=c,this.L=e,this.X=!!d,this.key=++na,this.t=this.M=q},K=(J.prototype.add=function(a,b,c,d,e,g,h,l){g=a.toString(),a=this.l[g],a||(a=this.l[g]=[],this.N++);t:{for(h=0;h<a.length;++h)if(l=a[h],!l.t&&l.k==b&&l.X==!!d&&l.L==e)break t;h=-1}return-1<h?(b=a[h],c||(b.M=q)):(b=new pa(b,this.src,g,!!d,e),b.M=c,a.push(b)),b},"closure_lm_"+(1E6*Math.random()|0)),L={},qa=0,ra=function(a){return a=a[K],a instanceof J?a:p},sa=function(a){return a in L?L[a]:L[a]="on"+a},va=function(a,b){return a=ta,b=G?function(c){return a.call(b.src,b.k,c)}:function(c){if(c=a.call(b.src,b.k,c),!c)return c}},ta=function(a,b,c,d,e){if(a.t)return m;if(!G){if(!(c=b))t:{for(d=u,c=["window","event"];e=c.shift();)if(d[e]!=p)d=d[e];else{c=p;break t}c=d}return c=new I(c,this),d=m,d=wa(a,c)}return wa(a,new I(b,this))},M=function(a,b,c,d,e,g,h){if("array"==y(b))for(g=0;g<b.length;g++)M(a,b[g],c,d,e);else if(c=xa(c),a&&a[ma])a.ta(b,c,d,e);else{if(!b)throw Error("Invalid event type");if(g=!!d,!g||G)(h=ra(a))||(a[K]=h=new J(a)),c=h.add(b,c,q,d,e),c.u||(d=va(),c.u=d,d.src=a,d.k=c,a.addEventListener?a.addEventListener(b.toString(),d,g):a.attachEvent(sa(b.toString()),d),qa++)}},wa=function(a,b,c,d,e,g,h,l,n,s){if(c=a.k,d=a.L||a.src,a.M&&"number"!=typeof a&&a&&!a.t)if((e=a.src)&&e[ma])e.sa(a);else if(g=a.type,h=a.u,e.removeEventListener?e.removeEventListener(g,h,a.X):e.detachEvent&&e.detachEvent(sa(g),h),qa--,g=ra(e)){if(h=a.type,l=h in g.l){l=g.l[h];i:if("string"==typeof l)n="string"==typeof a&&1==a.length?l.indexOf(a,0):-1;else{for(n=0;n<l.length;n++)if(n in l&&l[n]===a)break i;n=-1}(s=0<=n)&&aa.splice.call(l,n,1),l=s}l&&(oa(a),0==g.l[h].length&&(delete g.l[h],g.N--)),0==g.N&&(g.src=p,e[K]=p)}else oa(a);return c.call(d,b)},N="__closure_events_fn_"+(1E9*Math.random()>>>0),O=function(a,b){a.p=("E:"+b.message+":"+b.stack).slice(0,2048)},ya=function(a,b){for(b=Array(a);a--;)b[a]=255*Math.random()|0;return b},P=function(a,b){return a[b]<<24|a[b+1]<<16|a[b+2]<<8|a[b+3]},za=function(a,b){a.T.push(a.c.slice()),a.c[a.b]=v,Q(a,a.b,b)},xa=function(a){if("function"==y(a))return a;return a[N]||(a[N]=function(b){return a.handleEvent(b)}),a[N]},Aa=function(a,b,c){return c=function(){return a},b=function(){return c()},b.da=function(b){a=b},b},Ca=function(a,b,c,d){return function(){if(!d||a.B)return Q(a,a.W,arguments),Q(a,a.m,c),Ba(a,b)}},R=function(a,b,c,d){for(c=[],d=b-1;0<=d;d--)c[b-1-d]=a>>8*d&255;return c},Ba=function(a,b,c,d){return c=a.a(a.b),a.f&&c<a.f.length?(Q(a,a.b,a.f.length),za(a,b)):Q(a,a.b,b),d=a.C(),Q(a,a.b,c),d},T=function(a,b,c,d){for(b={},b.J=a.a(S(a)),b.K=S(a),c=S(a)-1,d=S(a),b.self=a.a(d),b.s=[];c--;)d=S(a),b.s.push(a.a(d));return b},Da=function(a,b,c,d){try{for(d=0;84941944608!=d;)a+=(b<<4^b>>>5)+b^d+c[d&3],d+=2654435769,b+=(a<<4^a>>>5)+a^d+c[d>>>11&3];return[a>>>24,a>>16&255,a>>8&255,a&255,b>>>24,b>>16&255,b>>8&255,b&255]}catch(e){throw e;}},Q=function(a,b,c){if(b==a.b||b==a.o)a.c[b]?a.c[b].da(c):a.c[b]=Aa(c);else if(b!=a.d&&b!=a.g&&b!=a.h||!a.c[b])a.c[b]=Ea(c,a.a);b==a.A&&(a.D=v,Q(a,a.b,a.a(a.b)+4))},U=function(a,b){return b<=a.ja?b==a.h||b==a.d||b==a.g||b==a.w?a.q:b==a.W||b==a.Q||b==a.R||b==a.m?a.F:b==a.H?a.i:b==a.j||b==a.v?2:b==a.n?1:4:[1,2,4,a.q,a.F,a.i][b%a.ka]},S=function(a,b,c){if(b=a.a(a.b),!(b in a.f))throw a.e(a.ga),a.G;return a.D==v&&(a.D=P(a.f,b-4),a.I=v),a.I!=b>>3&&(a.I=b>>3,c=[0,0,0,a.a(a.A)],a.ha=Da(a.D,a.I,c)),Q(a,a.b,b+1),a.f[b]^a.ha[b%8]},Ea=function(a,b,c,d,e,g,h,l,n){return l=Z,e=Z.prototype,g=e.C,h=e.Y,n=e.e,d=function(){return c()},c=function(a,r,t){for(t=0,a=d[e.O],r=a===b,a=a&&a[e.O];a&&a!=g&&a!=h&&a!=l&&a!=n&&20>t;)t++,a=a[e.O];return c[e.pa+r+!(!a+(t>>2))]},d[e.S]=e,c[e.oa]=a,a=v,d},$=function(a,b,c,d,e,g){for(e=a.a(b),b=b==a.g?function(b,c,d,g){if(c=e.length,d=c-4>>3,e.ma!=d){e.ma=d,d=(d<<3)-4,g=[0,0,0,a.a(a.P)];try{e.la=Da(P(e,d),P(e,d+4),g)}catch(r){throw r;}}e.push(e.la[c&7]^b)}:function(a){e.push(a)},d&&b(d&255),g=0,d=c.length;g<d;g++)b(c[g])},Z=function(a,b,c,d,e,g,h,l){try{if(this.c=[],Q(this,this.b,0),Q(this,this.o,0),Q(this,this.A,0),Q(this,this.h,[]),Q(this,this.d,[]),Q(this,this.Q,"object"==typeof window?window:u),Q(this,this.R,this),Q(this,this.n,0),Q(this,this.v,0),Q(this,this.P,0),Q(this,this.g,ya(4)),Q(this,this.w,[]),Q(this,this.m,{}),Q(this,this.j,2048),this.B=m,a&&"!"==a[0])this.p=a;else{for(ja(),b=D,c=[],d=0;d<a.length;){if(e=b[a.charAt(d++)],g=d<a.length?b[a.charAt(d)]:0,++d,h=d<a.length?b[a.charAt(d)]:64,++d,l=d<a.length?b[a.charAt(d)]:64,++d,e==p||g==p||h==p||l==p)throw Error();c.push(e<<2|g>>4),64!=h&&(c.push(g<<4&240|h>>2),64!=l&&c.push(h<<6&192|l))}(this.f=c)&&this.f.length?(this.T=[],this.C()):this.e(this.ca)}}catch(n){O(this,n)}};f=Z.prototype,f.b=0,f.A=1,f.h=2,f.o=3,f.d=4,f.H=5,f.W=6,f.j=7,f.U=8,f.Q=9,f.R=10,f.n=11,f.v=12,f.P=13,f.g=14,f.w=15,f.m=16,f.ja=17,f.$=15,f.ia=12,f.aa=10,f.ba=42,f.ka=6,f.i=-1,f.q=-2,f.F=-3,f.ca=17,f.ea=21,f.r=22,f.na=30,f.ga=31,f.fa=33,f.G={},f.O="caller",f.S="toString",f.pa=34,f.oa=36,Z.prototype.a=function(a,b){if(b=this.c[a],b===v)throw this.e(this.na,0,a),this.G;return b()},Z.prototype.xa=function(a,b,c,d){d=a[(b+2)%3],a[b]=a[b]-a[(b+1)%3]-d^(1==b?d<<c:d>>>c)},Z.prototype.wa=function(a,b,c,d){if(3==a.length){for(c=0;3>c;c++)b[c]+=a[c];for(c=0,d=[13,8,13,12,16,5,3,10,15];9>c;c++)b[3](b,c%3,d[c])}},Z.prototype.ya=function(a,b){b.push(a[0]<<24|a[1]<<16|a[2]<<8|a[3]),b.push(a[4]<<24|a[5]<<16|a[6]<<8|a[7]),b.push(a[8]<<24|a[9]<<16|a[10]<<8|a[11])},Z.prototype.e=function(a,b,c,d){d=this.a(this.o),a=[a,d>>8&255,d&255],c!=v&&a.push(c),0==this.a(this.h).length&&(this.c[this.h]=v,Q(this,this.h,a)),c="",b&&(b.message&&(c+=b.message),b.stack&&(c+=":"+b.stack)),b=this.a(this.j),3<b&&(c=c.slice(0,b-3),b-=c.length+3,c=ka(c),$(this,this.g,R(c.length,2).concat(c),this.ia)),Q(this,this.j,b)},f.V=[function(){},function(a,b,c,d,e){b=S(a),c=S(a),d=a.a(b),b=U(a,b),e=U(a,c),e==a.i||e==a.q?d=""+d:0<b&&(1==b?d&=255:2==b?d&=65535:4==b&&(d&=4294967295)),Q(a,c,d)},function(a,b,c,d,e,g,h,l,n){if(b=S(a),c=U(a,b),0<c){for(d=0;c--;)d=d<<8|S(a);Q(a,b,d)}else if(c!=a.F){if(d=S(a)<<8|S(a),c==a.i)if(c="",a.c[a.H]!=v)for(e=a.a(a.H);d--;)g=e[S(a)<<8|S(a)],c+=g;else{for(c=Array(d),e=0;e<d;e++)c[e]=S(a);for(d=c,c=[],g=e=0;e<d.length;)h=d[e++],128>h?c[g++]=String.fromCharCode(h):191<h&&224>h?(l=d[e++],c[g++]=String.fromCharCode((h&31)<<6|l&63)):(l=d[e++],n=d[e++],c[g++]=String.fromCharCode((h&15)<<12|(l&63)<<6|n&63));c=c.join("")}else for(c=Array(d),e=0;e<d;e++)c[e]=S(a);Q(a,b,c)}},function(a){S(a)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),c=a.a(c),b=a.a(b),Q(a,d,b[c])},function(a,b,c){b=S(a),c=S(a),b=a.a(b),Q(a,c,y(b))},function(a,b,c,d,e){b=S(a),c=S(a),d=U(a,b),e=U(a,c),c!=a.h&&(d==a.i&&e==a.i?(a.c[c]==v&&Q(a,c,""),Q(a,c,a.a(c)+a.a(b))):e==a.q&&(0>d?(b=a.a(b),d==a.i&&(b=ka(""+b)),c!=a.d&&c!=a.g&&c!=a.w||$(a,c,R(b.length,2)),$(a,c,b)):0<d&&$(a,c,R(a.a(b),d))))},function(a,b,c){b=S(a),c=S(a),Q(a,c,function(a){return eval(a)}(a.a(b)))},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)-a.a(b))},function(a,b){b=T(a),Q(a,b.K,b.J.apply(b.self,b.s))},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)%a.a(b))},function(a,b,c,d,e){b=S(a),c=a.a(S(a)),d=a.a(S(a)),e=a.a(S(a)),b=a.a(b),M(b,c,Ca(a,d,e,m))},function(a,b,c,d){b=S(a),c=S(a),d=S(a),a.a(b)[a.a(c)]=a.a(d)},function(a,b,c,d,e){b=T(a),c=b.s,d=b.self,e=b.J;switch(c.length){case 0:c=d[e]();break;case 1:c=d[e](c[0]);break;case 2:c=d[e](c[0],c[1]);break;case 3:c=d[e](c[0],c[1],c[2]);break;default:a.e(a.r);return}Q(a,b.K,c)},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)+a.a(b))},function(a,b,c){b=S(a),c=S(a),0!=a.a(b)&&Q(a,a.b,a.a(c))},function(a,b,c,d){b=S(a),c=S(a),d=S(a),a.a(b)==a.a(c)&&Q(a,d,a.a(d)+1)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),a.a(b)>a.a(c)&&Q(a,d,a.a(d)+1)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)<<c)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)|a.a(c))},function(a,b){b=a.a(S(a)),za(a,b)},function(a,b,c,d){if(b=a.T.pop()){for(c=S(a);0<c;c--)d=S(a),b[d]=a.c[d];a.c=b}else Q(a,a.b,a.f.length)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,(a.a(b)in a.a(c))+0)},function(a,b,c,d){b=S(a),c=a.a(S(a)),d=a.a(S(a)),Q(a,b,Ca(a,c,d))},function(a,b,c){b=S(a),c=S(a),Q(a,c,a.a(c)*a.a(b))},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)>>c)},function(a,b,c,d){b=S(a),c=S(a),d=S(a),Q(a,d,a.a(b)||a.a(c))},function(a,b,c,d,e){b=T(a),c=b.s,d=b.self,e=b.J;switch(c.length){case 0:c=new d[e];break;case 1:c=new d[e](c[0]);break;case 2:c=new d[e](c[0],c[1]);break;case 3:c=new d[e](c[0],c[1],c[2]);break;case 4:c=new d[e](c[0],c[1],c[2],c[3]);break;default:a.e(a.r);return}Q(a,b.K,c)},function(a,b,c,d,e,g){if(b=S(a),c=S(a),d=S(a),e=S(a),b=a.a(b),c=a.a(c),d=a.a(d),a=a.a(e),"object"==y(b)){for(g in e=[],b)e.push(g);b=e}for(e=0,g=b.length;e<g;e+=d)c(b.slice(e,e+d),a)}],Z.prototype.va=function(a){return(a=window.performance)&&a.now?function(){return a.now()|0}:function(){return+new Date}}(),Z.prototype.ra=function(a,b){return b=this.Y(),a&&a(b),b},Z.prototype.C=function(a,b,c,d,e,g){try{for(b=5001,c=v,d=0,a=this.f.length;--b&&(d=this.a(this.b))<a;)try{Q(this,this.o,d),e=S(this)%this.V.length,(c=this.V[e])?c(this):this.e(this.ea,0,e)}catch(h){h!=this.G&&((g=this.a(this.n))?(Q(this,g,h),Q(this,this.n,0)):this.e(this.r,h))}b||this.e(this.fa)}catch(l){try{this.e(this.r,l)}catch(n){O(this,n)}}return this.a(this.m)},Z.prototype.Y=function(a,b,c,d,e,g,h,l,n,s,r,t,V,ua,W,X,Y,E){if(this.p)return this.p;try{for(this.B=q,b=this.a(this.d).length,c=this.a(this.g).length,d=this.a(this.j),this.c[this.U]&&Ba(this,this.a(this.U)),e=this.a(this.h),0<e.length&&$(this,this.d,R(e.length,2).concat(e),this.$),g=this.a(this.v)&255,g-=this.a(this.d).length+4,h=this.a(this.g),4<h.length&&(g-=h.length+3),0<g&&$(this,this.d,R(g,2).concat(ya(g)),this.aa),4<h.length&&$(this,this.d,R(h.length,2).concat(h),this.ba),l=[3].concat(this.a(this.d)),ja(),s=[],e=0;e<l.length;e+=3)r=l[e],V=(t=e+1<l.length)?l[e+1]:0,W=(ua=e+2<l.length)?l[e+2]:0,g=r>>2,Y=W&63,h=(r&3)<<4|V>>4,X=(V&15)<<2|W>>6,ua||(Y=64,t||(X=64)),s.push(F[g],F[h],F[X],F[Y]);if(n=s=s.join("").replace(/\\./g,""))n="!"+n;else for(n="",s=0;s<l.length;s++)E=l[s][this.S](16),1==E.length&&(E="0"+E),n+=E;this.a(this.d).length=b,this.a(this.g).length=c,Q(this,this.j,d),a=n,this.B=m}catch(Fa){O(this,Fa),a=this.p}return a};try{M(window,"unload",function(){})}catch(Ga){}x("botguard.bg",Z),x("botguard.bg.prototype.invoke",Z.prototype.ra);')})()</script>
-  <script type="text/javascript">
-  document.bg = new botguard.bg('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');
-  </script>
-<script>
-  function gaia_parseFragment() {
-  var hash = location.hash;
-  var params = {};
-  if (!hash) {
-  return params;
-  }
-  var paramStrs = decodeURIComponent(hash.substring(1)).split('&');
-  for (var i = 0; i < paramStrs.length; i++) {
-      var param = paramStrs[i].split('=');
-      params[param[0]] = param[1];
-    }
-    return params;
-  }
-
-  function gaia_prefillEmail() {
-    var form = null;
-    if (document.getElementById) {
-      form = document.getElementById('gaia_loginform');
-    }
-
-    if (form && form.Email &&
-        (form.Email.value == null || form.Email.value == '')
-        && (form.Email.type != 'hidden')) {
-      hashParams = gaia_parseFragment();
-      if (hashParams['Email'] && hashParams['Email'] != '') {
-        form.Email.value = hashParams['Email'];
-      }
-    }
-  }
-
-  
-  try {
-    gaia_prefillEmail();
-  } catch (e) {
-  }
-  
-</script>
-<script>
-  function gaia_setFocus() {
-  var form = null;
-  var isFocusableField = function(inputElement) {
-  if (!inputElement) {
-  return false;
-  }
-  if (inputElement.type != 'hidden' && inputElement.focus &&
-  inputElement.style.display != 'none') {
-  return true;
-  }
-  return false;
-  };
-  var isFocusableErrorField = function(inputElement) {
-  if (!inputElement) {
-  return false;
-  }
-  var hasError = inputElement.className.indexOf('form-error') > -1;
-  if (hasError && isFocusableField(inputElement)) {
-  return true;
-  }
-  return false;
-  };
-  var isFocusableEmptyField = function(inputElement) {
-  if (!inputElement) {
-  return false;
-  }
-  var isEmpty = inputElement.value == null || inputElement.value == '';
-  if (isEmpty && isFocusableField(inputElement)) {
-  return true;
-  }
-  return false;
-  };
-  if (document.getElementById) {
-  form = document.getElementById('gaia_loginform');
-  }
-  if (form) {
-  var userAgent = navigator.userAgent.toLowerCase();
-  var formFields = form.getElementsByTagName('input');
-  for (var i = 0; i < formFields.length; i++) {
-        var currentField = formFields[i];
-        if (isFocusableErrorField(currentField)) {
-          currentField.focus();
-          
-          var currentValue = currentField.value;
-          currentField.value = '';
-          currentField.value = currentValue;
-          return;
-        }
-      }
-      
-      
-      
-        for (var j = 0; j < formFields.length; j++) {
-          var currentField = formFields[j];
-          if (isFocusableEmptyField(currentField)) {
-            currentField.focus();
-            return;
-          }
-        }
-      
-    }
-  }
-
-  
-  
-  
-</script>
-<script>
-  var gaia_scrollToElement = function(element) {
-  var calculateOffsetHeight = function(element) {
-  var curtop = 0;
-  if (element.offsetParent) {
-  while (element) {
-  curtop += element.offsetTop;
-  element = element.offsetParent;
-  }
-  }
-  return curtop;
-  }
-  var siginOffsetHeight = calculateOffsetHeight(element);
-  var scrollHeight = siginOffsetHeight - window.innerHeight +
-  element.clientHeight + 0.02 * window.innerHeight;
-  window.scroll(0, scrollHeight);
-  }
-</script>
-<script>
-  (function(){
-  var signinInput = document.getElementById('signIn');
-  gaia_onLoginSubmit = function() {
-  try {
-  document.bg.invoke(function(response) {
-  document.getElementById('bgresponse').value = response;
-  });
-  } catch (err) {
-  document.getElementById('bgresponse').value = '';
-  }
-  return true;
-  }
-  document.getElementById('gaia_loginform').onsubmit = gaia_onLoginSubmit;
-  var signinButton = document.getElementById('signIn');
-  gaia_attachEvent(window, 'load', function(){
-  gaia_scrollToElement(signinButton);
-  });
-  })();
-</script>
-  <script>var e=this,g=function(c,b){var a=c.split("."),d=e;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var f;a.length&&(f=a.shift());)a.length||void 0===b?d[f]?d=d[f]:d=d[f]={}:d[f]=b};var h=function(){try{return new XMLHttpRequest}catch(c){for(var b=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"],a=0;a<b.length;a++)try{return new ActiveXObject(b[a])}catch(d){}}return null};g("gaia.ajax.newXmlHttpRequest",h);var k=function(){this.b=h();this.parameters={}};g("gaia.ajax.XmlHttpFormRequest",k);k.prototype.a=function(){};k.prototype.oncomplete=k.prototype.a;
-k.prototype.send=function(c){var b=[],a;for(a in this.parameters)b.push(a+"="+encodeURIComponent(this.parameters[a]));var b=b.join("&"),d=this.b,f=this.a;d.open("POST",c,!0);d.setRequestHeader("Content-type","application/x-www-form-urlencoded");d.onreadystatechange=function(){4==d.readyState&&f({status:d.status,text:d.responseText})};d.send(b)};k.prototype.send=k.prototype.send;
-k.prototype.d=function(c,b){var a=this.b,d=this.a;a.open("POST",c,!0);a.setRequestHeader("Content-type","application/json");a.onreadystatechange=function(){4==a.readyState&&d({status:a.status,text:a.responseText})};a.send(b)};k.prototype.sendJson=k.prototype.d;k.prototype.c=function(c){var b=this.a,a=this.b;a.open("GET",c,!0);a.onreadystatechange=function(){4==a.readyState&&b({status:a.status,text:a.responseText})};a.send()};k.prototype.get=k.prototype.c;var l=/\s*;\s*/,m=function(){if(!document.cookie)return"";for(var c=document.cookie.split(l),b=0;b<c.length;b++){var a=c[b],a=a.replace(/^\s+/,""),a=a.replace(/\s+$/,"");if(0==a.indexOf("APISID="))return a.substr(7)}return""};var n=null,p=function(c,b){this.d=c;this.c=b;this.b=m()},q=function(){var c=n,b=m();b!=c.b&&(c.b=b,b=new k,b.a=function(a){var b=n;a&&a.status&&200==a.status&&"OK"==a.text&&(b.a&&clearInterval(b.a),window.location=b.d)},b.c(c.c))},r=function(c){var b=n;if(b.a)return!1;b.a=setInterval(function(){q()},c);return!0};g("gaia.loginAutoRedirect.start",function(c,b,a){if(n||!a||!b||0>=c)return!1;n=new p(b,a);return r(c)});
-</script>
-  <script type="text/javascript">
-  gaia.loginAutoRedirect.start(5000,
-  'https:\x2F\x2Faccounts.google.com\x2FServiceLogin?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D1992341045%26format%3Dcsv\x26followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D1992341045%26format%3Dcsv\x26service=wise\x26ltmpl=sheets\x26passive=1209600\x26noautologin=true',
-  'https:\x2F\x2Faccounts.google.com\x2FPassiveLoginProber?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D1992341045%26format%3Dcsv\x26followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1dRTL0fuXYxHDx6R7uW6l6ys1_Hw3s4yYFZD_3TjP2Fk%2Fexport%3Fgid%3D1992341045%26format%3Dcsv\x26service=wise\x26ltmpl=sheets\x26passive=1209600');
-  </script>
-  </body>
-</html>
+Quelle,Stadt,URL PARENT,Dateibezeichnung,URL Datei,Format,Beschreibung,Zeitlicher Bezug,Lizenz,Kosten,Veröffentlichende Stelle,Arbeitsmarkt,Bevölkerung,Bildung und Wissenschaft,Haushalt und Steuern,Stadtentwicklung und Bebauung,Wohnen und Immobilien,Sozialleistungen,Öffentl. Sicherheit,Gesundheit,Kunst und Kultur,Land- und Forstwirtschaft,Sport und Freizeit,Umwelt,Transport und Verkehr,"Energie, Ver- und Entsorgung",Politik und Wahlen,Gesetze und Justiz,Wirtschaft und Wirtschaftsförderung,Tourismus,Verbraucher,Sonstiges,Noch nicht kategorisiert,Klassifikation GDI BW,GOV-Data Kategorien,"GEMET - INSPIRE themes, version 1.0",INSPIRE Service taxonomy,datadate,datadatetype,datacatalogdate,form,geo,accessconstraints,useconstraints,uselimitations,frequpdated,maintenanceInfo,topiccategory,maintainername,maintainerposition,maintainerorganisation,maintaineraddress,maintaineremail,maintainerphone,maintainerfax,maintainerrole,contactname,contactposition,contactorganisation,contactaddress,contactemail,contactphone,contactfax,contactrole,distributorname,distributorposition,distributororganisation,distributoraddress,distributoremail,distributorphone,distributorfax,distributorrole
+d,ulm.de,http://daten.ulm.de/daten/single/wohnbevölkerung-nach-altersjahren-staatsangehörigkeit-und-geschlecht-der-stadt-ulm ,"Wohnbevölkerung nach Altersjahren, Staatsangehörigkeit und Geschlecht der Stadt Ulm",,"XLS, XLSX","Die Wohnbevölkerung der Stadt Ulm nach Altersjahren, Staatsangehörigkeit und Geschlecht enthält die Zahlen für die Gesamtstadt Ulm. Personen ab 90 Jahre und älter werden in einer Zahl zusammen gefasst.",2011,CC BY 3.0 DE,,,,x,,,,,,,,,,,,,,,,,,,,,"""Statistik""","""Bevölkerung""","""Verteilung der Bevölkerung - Demografie""",,2011-12-31T00:00:00,publication,10/12/2013,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/wohnbevölkerung-nach-geschlecht-konfession-und-familienstand-stadtteilen-der-stadt-ulm ,"Wohnbevölkerung nach Geschlecht, Konfession und Familienstand in Stadtteilen der Stadt Ulm",,"XLS, XLSX","Die Wohnbevölkerung der Stadt Ulm nach Geschlecht, Konfession und Familienstand auf Stadtteilebene. Die Konfession ist unterschieden in evangelisch, katholisch und Sonstige. Die Bevölkerungszahlen zum Familienstand enthalten verheiratete, verwitwete und geschiedene Personen. ",2011,CC BY 3.0 DE,,,,x,,,,,,,,,,,,,,,,,,,,,"""Statistik""","""Bevölkerung""","""Verteilung der Bevölkerung - Demografie""",,2011-12-31T00:00:00,publication,10/12/2013,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/stadtteile-generalisiert ,"Stadtteile der Stadt Ulm, generalisiert",,Shape,Dieser Datensatz enthält generalisierte Stadtteilgrenzen der Stadt Ulm. Diese sind insbesondere für die Erstellung thematischer Karten im DINA4 (Darstellungsmaßstab ca. 1:90.000) bzw. DINA3-Format geeignet.  Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.,2011,CC BY 3.0 DE,,,,,,,x,,,,,,,,,,,,,,,,,,"""Geobasisdaten""","""Geographie, Geologie und Geobasisdaten""","""Statistische Einheiten"",""Verwaltungseinheiten""",,2011-08-8T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,asNeeded,asNeeded,boundaries,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Steffen Layer,SUB II: Strategische Planung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",s.layer@ulm.de,7311616112,731161806112,Point of Contact,Steffen Layer,SUB II: Strategische Planung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",s.layer@ulm.de,7311616112,731161806112,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/stadtviertel-generalisiert ,"Stadtviertel der Stadt Ulm, generalisiert",,Shape,Dieser Datensatz enthält generalisierte Stadtviertelgrenzen der Stadt Ulm. Diese sind insbesondere für die Erstellung thematischer Karten im DINA4 (Darstellungsmaßstab ca. 1:90.000) bzw. DINA3-Format geeignet. Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.,2011,CC BY 3.0 DE,,,,,,,x,,,,,,,,,,,,,,,,,,"""Geobasisdaten""","""Geographie, Geologie und Geobasisdaten""","""Statistische Einheiten"",""Verwaltungseinheiten""",,2011-08-11T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,asNeeded,asNeeded,boundaries,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Steffen Layer,SUB II: Strategische Planung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",s.layer@ulm.de,7311616112,731161806112,Point of Contact,Steffen Layer,SUB II: Strategische Planung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",s.layer@ulm.de,7311616112,731161806112,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/grillplaetze,Grillplätze Stadt Ulm,,Shape,Im Stadtgebiet Ulm gibt es 18 öffentliche Grillplätze. Der Grillplatz Salenhau (Eggingen) darf nur mit schriftlicher Genehmigung der Ortsverwaltung Eggingen benutzt werden.  Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.,2012,CC BY 3.0 DE,,,,,,,,,,,,,,x,,,,,,,,,,,"""Tourismus und Freizeit""","""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2012-11-8T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,irregular,irregular,environment,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Karl-Heinz Lieb,VGV/GF: Grünflächen,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",k.lieb@ulm.de,7311616726,731161806552,Point of Contact,Karl-Heinz Lieb,VGV/GF: Grünflächen,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",k.lieb@ulm.de,7311616726,731161806552,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/amtliche-stadtkarte-stadt-ulm-neu-ulm,Amtliche Stadtkarte Stadt Ulm / Neu-Ulm,,AI,"Das „Amtliche Stadtkartenset“ besteht aus einer großformatigen Stadtkarte, einem Cityplan im Maßstab 1:6000 und einem handlichen Begleitheft zum Einstecken. Die eigentliche Stadtkarte ist zweiseitig aufgebaut: Auf der Vorderseite befindet sich der Stadtplan im großen, leicht lesbaren Maßstab 1:10000. Auf der Rückseite zeigt eine Übersichtskarte im Maßstab 1:20000 komplett die Stadtkreise Ulm und Neu-Ulm zusammen mit den Nachbargemeinden. Das Begleitheft enthält einen ÖPNV-Netzplan für das Stadtgebiet Ulm/Neu-Ulm, eine Kurzchronik der Stadtgeschichte Ulms, Listen zu Sehenswertem, eine Auflistung wichtiger öffentlicher Einrichtungen und Verwaltungen, einen Cityplan und vieles mehr. Der Stadtplan wird im Frühjahr 2014 neu aufgelegt. Die Stadtkarte 1:20.000 erscheint dann in neuer Kartographie.",2011,CC BY 3.0 DE,"5,00",,,,,,x,,,,,,,,,,,,,,,,,,"""Geobasisdaten"",""Kartographie""","""Geographie, Geologie und Geobasisdaten""","""Flurstücke/Grundstücke (Katasterparzellen)""",,2011-03-1T00:00:00,publication,11/12/2013,mapDigital,,keine,license,,cyclic,cyclic,planningCadastre,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Michael Draesner,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",m.draesner@ulm.de,7311616258,731161806258,Point of Contact,Michael Draesner,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",m.draesner@ulm.de,7311616258,731161806258,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/openstreetmap-wms-stil-ows-terrestris,OpenStreetMap-WMS - Stil OWS terrestris,,WMS,"Dieser WMS Dienst der Firma terrestris mit dem Originalnamen ""OWS-Terrestris"" stellt die vom OpenStreetMap-Projekt erhobenen Daten in einer aufgeräumten und übersichtlichen Weise dar. Der Dienst wird mit Hilfe von MapProxy beschleunigt, wöchentlich aktualisiert und deckt räumlich nicht nur für Deutschland sondern die ganze Welt ab. Die Stadt Ulm stellt den OWS-Terrestris-Dienst auf einem eigenen Server bereit. Es gibt den WMS-Dienst auch in Graustufen unter der URL: http://ows.terrestris.de/osm-gray/service?",2014,ODC Open Database License (ODbL),,,,,,,x,,,,,,,,,,,,,,,,,,"""Kartographie""","""Geographie, Geologie und Geobasisdaten""","""Bodennutzung""","""infoMapAccessService""",2014-06-10T00:00:00,publication,10/06/2014,mapDigital,x,keine,license,,weekly,weekly,,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/map-it-mein-lieblingsplatz-kartenviewer-stadt-ulm ,"map-it ""Mein Lieblingsplatz"" - Kartenviewer Stadt Ulm",,Shape,"In Ulm und Neu-Ulm gibt es viele schöne Orte, die man in der Freizeit noch entdecken kann. Eine map-it-Mitmachaktion im Ende Juni 2013 hat Bürger/innen mit Ihrer Ortskenntnis zum Mitmachen aufgerufen eine Internetkarte zu Lieblingsplätzen in und um Ulm zu erstellen. Abgefragt wurden Orte zum Relaxen, Orte mit besonders schöner Aussicht, Sehenswürdigkeiten und Ausgehtipps. ",2013,keine Nutzungseinschränkung,,,,,,,x,,,,,,,x,,,,,,,x,,,,"""Tourismus und Freizeit""","""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2013-06-22T00:00:00 - 2013-07-5T00:00:00,publication,25/09/2013,mapDigital,x,keine,license,,notPlanned,notPlanned,,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/amtliche-stadtkarte-für-menschen-mit-behinderung-stadt-ulm,Amtliche Stadtkarte für Menschen mit Behinderung Stadt Ulm,,AI,"Die neue Stadtkarte für Menschen mit Behinderungen ist handlich, kompakt, anschaulich gestaltet. Sie gibt Menschen mit Behinderung für ausgewählte Ausschnitte im Stadtgebiet wichtige Informationen an die Hand: Wo finde ich einen Parkplatz, welche Haltestelle ist barrierefrei, welche Behörden, Dienstleistungszentren und Sozialeinrichtungen kann ich problemlos besuchen und welche Einrichtungen aus den Bereichen Bildung, Unterhaltung und Sport kann ich mobil nutzen? All diese Informationen wurden gemeinsam mit dem Club ""Körperbehinderte und ihre Freunde"" der Caritas Ulm redaktionell abgestimmt.",2013,"© Stadt Ulm, Abteilung Vermessung",1 Euro,,,,,,x,,,,,,,x,,,,,,,x,,,,"""Geobasisdaten"",""Kartographie"",""Tourismus und Freizeit""","""Geographie, Geologie und Geobasisdaten"",""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2013-03-1T00:00:00,publication,11/10/2013,mapDigital,,keine,license,,cyclic,cyclic,planningCadastre,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Michael Draesner,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",m.draesner@ulm.de,7311616258,731161806258,Point of Contact,Michael Draesner,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",m.draesner@ulm.de,7311616258,731161806258,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/spielplaetze-oeffentliche,Spielplätze Stadt Ulm,,Shape,"Im Stadtgebiet Ulm gibt es 189 öffentliche Spielplätze. Die 10 Stadtteile mit den meisten Spielplätzen sind: Eselsberg (29), Wiblingen (29), Böfingen (22), Weststadt (22), Mitte (20), Söflingen (11), Oststadt (10), Gögglingen (8), Jungingen (6) und Lehr (6). Nur der überwiegend von Industrie geprägte Stadtteil Donautal weist überhaupt keinen Spielplatz auf. Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.",2012,CC BY 3.0 DE,,,,,,,,,,,,,,x,,,,,,,,,,,"""Tourismus und Freizeit""","""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2012-11-8T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,irregular,irregular,environment,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Karl-Heinz Lieb,VGV/GF: Grünflächen,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",k.lieb@ulm.de,7311616726,731161806552,Point of Contact,Karl-Heinz Lieb,VGV/GF: Grünflächen,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",k.lieb@ulm.de,7311616726,731161806552,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/ulmer-hoehenweg,Ulmer Höhenweg,,Shape,"Der Ulmer Höhenweg bietet zahlreiche Ausblicke auf die Stadt und bei Fernsicht auf die Alpen. Er führt vom Eselsberg über den Michelsberg und den Safranberg bis nach Böfingen. Am Übergang zwischen der Schwäbischen Alb und den Tälern der Blau und der Donau wandern Sie durch einen abwechslungsreichen Landschaftsraum zwischen bebauter Stadt und Kulturlandschaft. Der Ulmer Höhenweg ist auch in der Kartenanwendung http://maps.ulm.de eingebunden. Die ""Hauptroute Süd"" ist insgesamt 12 km lang. Einschliesslich der Nebenroute ""Nord"" wurden 20 km Weg mit blau-grauen Stelen beschildert. Die Gehzeit beträgt gut 3 Stunden. Startpunkte an ÖPNV-Haltestellen: „Ostpreußenweg“ (Linie 1) oder Haltestelle „Hochschule Eselsberg“ (Linie 3 oder 5).",2013,CC BY 3.0 DE,,,,,,,,,,,,,,x,,,,,,,x,,,,"""Tourismus und Freizeit""","""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2013-04-30T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,asNeeded,asNeeded,imageryBaseMapsEarthCover,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Steffen Layer,SUB II: Strategische Planung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",s.layer@ulm.de,7311616112,731161806112,Point of Contact,Steffen Layer,SUB II: Strategische Planung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",s.layer@ulm.de,7311616112,731161806112,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/map-it-lieblingsplatz,"Aktionsdaten ""Mein Lieblingsplatz"" Bürger digitalisieren für die Stadt Ulm",,Shape,"In der Zeit vom 25.06.13 - 05.07.2013 haben Bürgerinnen und Bürger über 400 Lieblingsplätze in 5 Kategorien in eine digitale Karte eingetragen. Die Punkte stellen Lieblingsorte zum Relaxen, Sehenswürdigkeiten, Orte mit besonders schöner Aussicht, Orte für sportliche Aktivitäten und Lieblingsorte zum Essen/Trinken/Nachtleben dar. Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de. Die Daten enthalten auch einen kurzen Textkommentar des Erfassers/Erfasserin zu dem jeweiligen Lieblingsort.",2013,CC BY 3.0 DE,,,,,,,,,,,,,,x,,,,,,,x,,,,"""Tourismus und Freizeit""","""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2013-07-5T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,notPlanned,notPlanned,imageryBaseMapsEarthCover,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/karte-der-stadtviertel-und-ortsteile-der-stadt-ulm,Stadtviertel und Ortsteile der Stadt Ulm (Karte),,PDF,Die Karte zeigt alle Stadtteile und Stadtviertel der Stadt Ulm in einer DINA4-pdf-karte auf. Die Nummerierung in der Karte ist die Nummer des Stadtviertel/Ortsteiles,2007,CC BY-NC-ND 3.0 DE,,,,,,,x,,,,,,,,,,,,,,,,,,"""Geobasisdaten"",""Kartographie""","""Geographie, Geologie und Geobasisdaten""","""Verwaltungseinheiten""",,2007-12-31T00:00:00,publication,27/09/2013,mapDigital,,keine,license,,asNeeded,asNeeded,planningCadastre,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Michael Draesner,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",m.draesner@ulm.de,7311616258,731161806258,Point of Contact,Michael Draesner,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",m.draesner@ulm.de,7311616258,731161806258,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/wohnbevölkerung-nach-migrationshintergrund-stadtvierteln-der-stadt-ulm,Wohnbevölkerung nach Migrationshintergrund in Stadtvierteln der Stadt Ulm,,"XLS, XLSX","Tabellarische Auflistung des Migrationshintergrundes der Bevölkerung der Stadt Ulm auf Ebene der Stadtviertel. Angaben zum Migrationshintergrund sind gegliedert in: Deutsche mit Migrationshintergrund, Deutsche ohne Migrationshintergrund sowie Ausländer. ",2011,CC BY 3.0 DE,,,,x,,,,,,,,,,,,,,,,,,,,,"""Statistik""","""Bevölkerung""","""Verteilung der Bevölkerung - Demografie""",,2011-12-31T00:00:00,publication,10/12/2013,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/bundestagswahlergebnisse-zweitstimmen,Bundestagswahlergebnisse Zweitstimmen in Ulm,,"XLS, XLSX","Deutschland ist derzeit in 299 Wahlkreise eingeteilt. Auf Baden-Württemberg verteilen sich 38 Wahlkreise mit den Nummern 258 bis 295. Die Stadt Ulm gehört zusammen mit dem gesamten Alb-Donau-Kreis dem Wahlkreis 291 an. Die Tabelle  listet bis ins Jahr 1949 zurück die Wahlbeteiligung sowie die Verteilung der Zweitstimmmen auf CDS, SPD, Grüne, FDP, die Linke, Republikaner und andere Parteien prozentual und absolut auf.",2011,CC BY 3.0 DE,,,,,,,,,,,,,,,,,,x,,,,,,,"""Statistik""","""Politik und Wahlen""","""Verteilung der Bevölkerung - Demografie""",,2011-09-27T00:00:00,publication,11/10/2013,mapDigital,,keine,license,,cyclic,cyclic,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/sozialindikatoren-sozialraum-mitteost-der-stadt-ulm,Sozialindikatoren Sozialraum Mitte/Ost der Stadt Ulm,,"XLS, XLSX","Die Sozialindikatoren zeigen für den Sozialraum Mitte/Ost sowohl Bevölkerungsbezogene Indikatoren  als auch fallbezogene Indiatoren auf. Eine beigefügte Anlage fasst diese Statistik textlich zusammen und weist auf Änderungen, z.B. bei gesetzlichen Rahmenbedingungen, bei Interpretation der Zahlen hin. Die Excel-Tabelle enthält im Register ""Stadtmitte"" bzw. ""Oststadt"" beispielsweise den Anteil alleinerziehender Haushalte, minderjähriger Leistungsempfänger nach Sozialgesetzbuch (SGB), den prozentualen Anteil von Trennung/Scheidung betroffener Minderjähriger, junge Arbeitslose, Quoten zu Jugendgerichtshilfe und Kinderdelinquenz (=Gesetzesverstöße Strafunmündiger Kinder) u.v.m. Die aktuellen Zahlen werden Vorjahresquoten gegenüber gestellt.  Das Register ""Legende"" erläutert Bezugsquellen der jeweiligen Daten für die Quoten- und Eckwertberechnungen. ",2003-2011,CC BY 3.0 DE,,,,x,,,,,x,,,,,,,,,,,,,,,,"""Statistik""","""Soziales""","""Verteilung der Bevölkerung - Demografie""",,2003-12-31T00:00:00 - 2011-12-31T00:00:00,publication,24/09/2013,mapDigital,,keine,license,,irregular,irregular,environment,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Gabriele Joanni,"FAM: Familie, Kinder und Jugendliche",Stadt Ulm,"Olgastraße 152
+Ulm
+89073
+Germany",g.joanni@ulm.de,7311615115,731161805115,Point of Contact,Gabriele Joanni,"FAM: Familie, Kinder und Jugendliche",Stadt Ulm,"Olgastraße 152
+Ulm
+89073
+Germany",g.joanni@ulm.de,7311615115,731161805115,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/landes-und-bundessteuern-steueraufkommen-beim-finanzamt-ulm,Landes- und Bundessteuern: Steueraufkommen beim Finanzamt Ulm,,"XLS, XLSX","Die Tabelle zeigt rückwirkend bis 1995 das Steueraufkommen beim Finanzamt Ulm auf. Die Werte für die Einkommenssteuer, Lohnsteuer, Körperschaftssteuer, Umsatzsteuer, Vermögenssteuer und Kfz-Steuer sind extra gelistet. Die tabellarischen Angaben zu Steuern erfolgen je 1.000 Euro.",2011,CC BY 3.0 DE,,,,,,x,,,,,,,,,,,,,,,,,,,"""Statistik"",""Verwaltung""","""Öff. Verwaltung, Haushalt und Steuer""","""Statistische Einheiten""",,2011-12-31T00:00:00,publication,10/12/2013,mapDigital,,keine,license,,annually,annually,economy,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/klassen-schülerzahlen-unterrichtsräume-und-lehrkräfte-öffentlichen-allgemeinbildenden,"Klassen, Schülerzahlen, Unterrichtsräume und Lehrkräfte an öffentlichen allgemeinbildenden Schulen der Stadt Ulm",,"XLS, XLSX","Die Tabelle zeigt für Grund- und Hauptschulen, Sonderschulen, Realschulen und Gymnasien die Klassennzahl, die absoluten Zahlen der hauptberufliche Lehrkräfte, Schülerzahlen und Schüler je Klasse auf. Für die 90er, 80, 70, 60er-Jahre sowie 1951 liegt jeweils eine Vergleichszahl vor. Die letzten 5 Jahre werden einzeln mit gelistet.  ",2011,CC BY 3.0 DE,,,,,x,,,,,,,,,,,,,,,,,,,,"""Statistik""","""Bildung und Wissenschaft""","""Verteilung der Bevölkerung - Demografie""",,2011-12-31T00:00:00,publication,10/12/2013,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/straftaten-ulm-nach-deliktgruppen,Straftaten in Ulm nach Deliktgruppen,,CSV,"Die Tabelle listet die absolute Anzahl an Tötungsdelikten, Sexualdelikten, Fälle von Raub/Körperverletzung, Diebstahl, Betrugsfällen/Fälschungen und die Anzahl sonstiger Straftaten auf. Die letzten fünf Jahre werden einzeln als Vergleichszahlen gelistet, die Zahlen der 90er und 80er-Jahre sind jeweils mit zwei Zahlen repräsentiert. Die Aufklärungsquote der Straftaten wird prozentual zu allen Straftaten angegeben. Nachträglich aufgeklärte Fälle werden nach Erstellung der Statistik nicht nachgeführt. Jeder ermittelte Tatverdächtige wird zu jeder Deliktsart nur einmal erfasst.",2011,CC BY 3.0 DE,,,,,,,,,,x,,,,,,,,,x,,,,,,"""Statistik""","""Gesetze und Justiz""","""Gesundheit und Sicherheit""",,2011-12-31T00:00:00,publication,10/12/2013,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/flächenstatistik-der-landnutzung-stadt-ulm,Flächenstatistik der Landnutzung Stadt Ulm,,CSV,"Die Tabelle listet für die letzten 4 Jahre absolut (in Hektar) und prozentual zur Gesamtfläche der Stadt Ulm die folgenden Flächennutzungen auf: Gebäude und Freifläche, Betriebsfläche, Erholungsfläche, Verkehrsfläche, Landwirtschaftsfläche, Waldflächen, Wasserflächen und Flächen anderer Nutzung",2011,CC BY 3.0 DE,,,,,,,x,,,,,,x,,,,,,,,,,,,"""Statistik""","""Geographie, Geologie und Geobasisdaten""","""Bodennutzung""",,2011-12-31T00:00:00,publication,10/12/2013,mapDigital,,keine,license,,annually,annually,imageryBaseMapsEarthCover,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/beanstandungen-bei-der-schlachttier-und-fleischuntersuchung-bis-1980,Beanstandungen bei der Schlachttier- und Fleischuntersuchung bis 1980,,CSV,"Die Tabelle zeigt zurück bis ins Jahr 1980 jährlich die Anzahl der geschlachteten Tiere und die absolute und prozentuale Anzahl der Beanstandungen bei der Schlachttier- und Fleischuntersuchung auf. Die amtliche Schlachttier- und Fleischuntersuchung soll sicher stellen, dass das Fleisch bestimmter Tierarten als Lebensmittel nur in den Verkehr gelangt, wenn es als tauglich zum Genuss für Menschen beurteilt worden ist. Amtliche Tierärzte oder Fleischkontrolleure (Amtliche Fachassistenten) führen die Schlachttier- und Fleischuntersuchugn durch. Bei der Schlachttieruntersuchung soll festgestellt werden, ob das Schlachttier gesund und somit zur Schlachtung geeignet ist. Die Fleischuntersuchung findet nach der Schlachtung statt. Hierbei soll sicher gestellt werden, dass alle nicht zum menschlichen Verzehr zugelassenen Körperteile und Organe als Konfiskate ordnungsgemäß beseitigt werden.  Als untauglich befundenes Fleisch darf nicht in den Verkehr gebracht werden.",1980,CC BY 3.0 DE,,,,,,,,,,,x,,,,,,,,,,,x,,,"""Landwirtschaft"",""Statistik"",""Tierkrankheit""","""Verbraucherschutz""","""Gesundheit und Sicherheit""",,2011-12-31T00:00:00,publication,10/12/2013,mapDigital,,keine,license,,annually,annually,health,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/spiel-und-bolzplatzflächen-den-stadtteilen-der-stadt-ulm,Spiel- und Bolzplatzflächen in den Stadtteilen der Stadt Ulm,,CSV,"Die Tabelle zeigt für alle Stadtteile die Flächen (m2) der Geräteplätze für 3 bis 12-jährige sowie die Flächen der Bolzplätze und Spielwiesen für 13 bis 17-jährige auf. Außerdem werden die Spiel- und Bolzplatzflächen je Einwohner berechnet. Der ''Goldene Plan'' der Deutschen Olympischen Gesellschaft sieht eine Fläche von 1,5 m² /Einwohner vor.",2011,CC BY 3.0 DE,,,,,,,,,,,,,,x,,,,,,,,,,,"""Statistik"",""Tourismus und Freizeit""","""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2011-12-31T00:00:00,publication,10/12/2013,mapDigital,,keine,license,,annually,annually,imageryBaseMapsEarthCover,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/strassenverzeichnis-und-gewannnamen,Amtliches Straßenverzeichnis und Gewannnamen der Stadt Ulm,,"XLS, XLSX","Das amtliche Straßenverzeichnis von 2012 umfasst die amtliche Schreibweise der Ulmer Straßen und Gewanne. Die Tabelle führt zudem den amtlichen Straßenschlüssel (Spalte STR_SCHL) sowie den 8-stelligen amtlichen Gemeindeschlüssel mit. Die Spalte Kennung unterscheidet Straßennamen (KENNUNG=STR) von Gewann-Namen (KENNUNG=Gewann). Die Straßendaten für 2013 enthalten keine Gewanne, dafür eine Zuordnung zu Stadtteilnamen.",2013,CC BY 3.0 DE,,,,,,,x,,,,,,,,,,,,,,,,,,"""Geobasisdaten"",""Statistik"",""Verkehr""","""Transport und Verkehr""","""Adressen"",""Verkehrsnetze""",,2013-11-30T00:00:00,publication,17/07/2014,mapDigital,,keine,license,,irregular,irregular,transportation,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Glaser,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",w.glaser@ulm.de,7311616256,731161806256,Point of Contact,Winfried Glaser,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",w.glaser@ulm.de,7311616256,731161806256,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/sozialindikatoren-sozialraum-west-der-stadt-ulm,Sozialindikatoren Sozialraum West der Stadt Ulm,,"XLS, XLSX","Die Sozialraumindikatoren zeigen für den Sozialraum West, der aus den Stadtteilen Weststadt, Söflingen und den Ortsteilen Grimmelfingen, Eggingen, Ermingen und Einsingen besteht,  sowohl Bevölkerungsbezogene Indikatoren  als auch fallbezogene Indiatoren auf. Eine beigefügte Anlage fasst diese Statistik textlich zusammen und weist auf Änderungen, z.B. bei gesetzlichen Rahmenbedingungen, bei Interpretation der Zahlen hin. Die Excel-Tabelle enthält in mehreren Registern beispielsweise den Anteil alleinerziehender Haushalte, minderjähriger Leistungsempfänger nach Sozialgesetzbuch (SGB), den prozentualen Anteil von Trennung/Scheidung betroffener Minderjähriger, junge Arbeitslose, Quoten zu Jugendgerichtshilfe und Kinderdelinquenz (=Gesetzesverstöße Strafunmündiger Kinder) u.v.m. Die aktuellen Zahlen werden Vorjahresquoten gegenüber gestellt.  Das Register ""Legende"" erläutert Bezugsquellen der jeweiligen Daten für die Quoten- und Eckwertberechnungen. ",2003-2011,CC BY 3.0 DE,,,,x,,,,,x,,,,,,,,,,,,,,,,"""Statistik""","""Soziales""","""Verteilung der Bevölkerung - Demografie""",,2003-12-31T00:00:00 - 2011-12-31T00:00:00,publication,06/09/2013,mapDigital,,keine,license,,irregular,irregular,environment,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Gabriele Joanni,"FAM: Familie, Kinder und Jugendliche",Stadt Ulm,"Olgastraße 152
+Ulm
+89073
+Germany",g.joanni@ulm.de,7311615115,731161805115,Point of Contact,Gabriele Joanni,"FAM: Familie, Kinder und Jugendliche",Stadt Ulm,"Olgastraße 152
+Ulm
+89073
+Germany",g.joanni@ulm.de,7311615115,731161805115,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/sozialindikatoren-sozialraum-eselsberg-der-stadt-ulm,Sozialindikatoren Sozialraum Eselsberg der Stadt Ulm,,"XLS, XLSX","Die Sozialraumindikatoren zeigen für den Sozialraum Eselsberg, der räumlich dem Stadtteil  Eselsberg entspricht, sowohl Bevölkerungsbezogene Indikatoren  als auch fallbezogene Indiatoren auf. Eine beigefügte Anlage fasst diese Statistik textlich zusammen und weist auf Änderungen, z.B. bei gesetzlichen Rahmenbedingungen, bei Interpretation der Zahlen hin. Die Excel-Tabelle enthält in mehreren Registern beispielsweise den Anteil alleinerziehender Haushalte, minderjähriger Leistungsempfänger nach Sozialgesetzbuch (SGB), den prozentualen Anteil von Trennung/Scheidung betroffener Minderjähriger, junge Arbeitslose, Quoten zu Jugendgerichtshilfe und Kinderdelinquenz (=Gesetzesverstöße Strafunmündiger Kinder) u.v.m. Die aktuellen Zahlen werden Vorjahresquoten gegenüber gestellt.  Das Register ""Legende"" erläutert Bezugsquellen der jeweiligen Daten für die Quoten- und Eckwertberechnungen. ",2003-2011,CC BY 3.0 DE,,,,x,,,,,x,,,,,,,,,,,,,,,,"""Statistik""","""Soziales""","""Verteilung der Bevölkerung - Demografie""",,2003-12-31T00:00:00 - 2011-12-31T00:00:00,publication,06/09/2013,mapDigital,,keine,license,,irregular,irregular,environment,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Gabriele Joanni,"FAM: Familie, Kinder und Jugendliche",Stadt Ulm,"Olgastraße 152
+Ulm
+89073
+Germany",g.joanni@ulm.de,7311615115,731161805115,Point of Contact,Gabriele Joanni,"FAM: Familie, Kinder und Jugendliche",Stadt Ulm,"Olgastraße 152
+Ulm
+89073
+Germany",g.joanni@ulm.de,7311615115,731161805115,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/SOZR_sozialraumindikatoren_wiblingen,Sozialindikatoren Sozialraum Wiblingen der Stadt Ulm,,"XLS, XLSX","Die Sozialraumindikatoren zeigen für den Sozialraum Wiblingen, der aus den Stadtteilen Wiblingen und den Ortsteilen Unterweiler soiwe Donaustetten/Gögglingen besteht,  sowohl Bevölkerungsbezogene Indikatoren  als auch fallbezogene Indiatoren auf. Eine beigefügte Anlage fasst diese Statistik textlich zusammen und weist auf Änderungen, z.B. bei gesetzlichen Rahmenbedingungen, bei Interpretation der Zahlen hin. Die Excel-Tabelle enthält in mehreren Registern beispielsweise den Anteil alleinerziehender Haushalte, minderjähriger Leistungsempfänger nach Sozialgesetzbuch (SGB), den prozentualen Anteil von Trennung/Scheidung betroffener Minderjähriger, junge Arbeitslose, Quoten zu Jugendgerichtshilfe und Kinderdelinquenz (=Gesetzesverstöße Strafunmündiger Kinder) u.v.m. Die aktuellen Zahlen werden Vorjahresquoten gegenüber gestellt.  Das Register ""Legende"" erläutert Bezugsquellen der jeweiligen Daten für die Quoten- und Eckwertberechnungen. ",2003-2011,CC BY 3.0 DE,,,,x,,,,,x,,,,,,,,,,,,,,,,"""Statistik""","""Soziales""","""Verteilung der Bevölkerung - Demografie""",,2003-12-31T00:00:00 - 2010-12-31T00:00:00,publication,06/09/2013,mapDigital,,keine,license,,irregular,irregular,environment,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Gabriele Joanni,"FAM: Familie, Kinder und Jugendliche",Stadt Ulm,"Olgastraße 152
+Ulm
+89073
+Germany",g.joanni@ulm.de,7311615115,731161805115,Point of Contact,Gabriele Joanni,"FAM: Familie, Kinder und Jugendliche",Stadt Ulm,"Olgastraße 152
+Ulm
+89073
+Germany",g.joanni@ulm.de,7311615115,731161805115,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/orthobilder-2013-der-stadt-ulm ,Orthobilder 2013 der Stadt Ulm,,TIFF,In einem mindestens dreijährigen Turnus werden beim Landesamt für Geoinformation und Landentwicklung flächendeckend Luftbilder und Orthophotos von Baden-Württemberg hergestellt. Diese farbigen Orthofotos stammen von Juni 2013 und decken das Ulmer Stadtgebiet ab.,2013,"© Landesamt für Geoinformation und Landentwicklung, Daten derzeit nur stadtintern zugänglich",Preise auf Anfrage.,,,,,,x,,,,,,,,,,,,,,,,,,"""Geobasisdaten""","""Geographie, Geologie und Geobasisdaten""","""Orthofotografie""",,2013-07-1T00:00:00,publication,24/10/2013,mapDigital,x,Daten derzeit nur stadtintern zugänglich,license,,asNeeded,asNeeded,imageryBaseMapsEarthCover,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Michael Draesner,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",m.draesner@ulm.de,7311616258,731161806258,Point of Contact,Michael Draesner,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",m.draesner@ulm.de,7311616258,731161806258,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/orthobilder-2010 ,Orthobilder 2010 der Stadt Ulm,,TIFF,Im Feburar 2010 entstanden diese farbigen Luftbilder von der Stadt Ulm. Bäume sind noch in unbelaubtem Zustand unerlauben eine sehr gute Sicht auch in baumbestandene Flächen mit Laubbäumen oder Büschen. Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.,2010,"(C) Stadt Ulm, Abt. Vermessung",Preise auf Anfrage.,,,,,,x,,,,,,,,,,,,,,,,,,"""Geobasisdaten""","""Geographie, Geologie und Geobasisdaten""","""Orthofotografie""",,2010-02-1T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,asNeeded,asNeeded,imageryBaseMapsEarthCover,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Michael Draesner,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",m.draesner@ulm.de,7311616258,731161806258,Point of Contact,Michael Draesner,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",m.draesner@ulm.de,7311616258,731161806258,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/amtliche-radkarte-stadt-ulm ,Amtliche Radkarte Stadt Ulm,,AI,"Handlich im Taschenformat gefaltet, zeigt der Plan alle Radwege in den Städten Ulm und Neu-Ulm mit vielen Informationen wie Steigungen, Unterführungen, signalisierte Überwege und anderes mehr. Daneben ermöglicht, das detaillierte Kartenbild im Maßstab 1:20 000 eine eigene Routenwahl bis in die Nachbargemeinden hinein. Wichtige Infrastrukturen für Radfahrer sind mit Signaturen lagetreu in der Karte verzeichnet, wie zum Beispiel Abstellanlagen, Schließfächer, Radwerkstätten oder der Infoladen des ADFC. Auch an den Freizeitbereich wurde gedacht: So sind Badeseen, Biergärten, Grillplätze und Aussichtspunkte ebenfalls eingezeichnet.  Online auf maps.ulm.de wurde die Karte im September 2013 um eine neue Rad-Hauptverkehrsroute erweitert.",2011,"© Stadt Ulm, Abteilung Vermessung","3,80",,,,,,,,,,,,,x,x,,,,,,,,,,"""Kartographie"",""Straße"",""Tourismus und Freizeit"",""Verkehr""","""Kultur, Freizeit, Sport und Tourismus"",""Transport und Verkehr""","""Bodennutzung""",,2011-03-1T00:00:00,publication,11/10/2013,mapDigital,,keine,license,,irregular,irregular,planningCadastre,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Michael Draesner,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",m.draesner@ulm.de,7311616258,731161806258,Point of Contact,Michael Draesner,VGV/ME: Vermessung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",m.draesner@ulm.de,7311616258,731161806258,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/betriebe-und-beschäftigte-im-vearbeitenden-gewerbe-der-stadt-ulm,Betriebe und Beschäftigte im vearbeitenden Gewerbe der Stadt Ulm,,"XLS, XLSX","Die Tabelle zeigt über mehrere Jahre die Anzahl der Betriebe gestaffelt nach 4 Gruppen (1-49 Beschäftigte, 50-99 Beschäftigte, 100-249 Beschäftigte, 250-499 Beschäftigte, >= 500 Beschäftigte) sowie die genaue Anzahl der Beschäftigten auf.",2011,CC BY 3.0 DE,,,x,,,,,,,,,,,,,,,,,,,,,,"""Statistik""","""Wirtschaft und Arbeit""","""Produktions- und Industrieanlagen""",,2011-12-31T00:00:00,publication,10/12/2013,mapDigital,,keine,license,,annually,annually,economy,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/stadtgrenze-generalisiert,"Stadtgrenze Stadt Ulm, generalisiert",,Shape,Dieser Datensatz enthält die generalisierte Stadtgrenze der Stadt Ulm. Diese sind insbesondere für die Erstellung thematischer Karten im DINA4 (Darstellungsmaßstab ca. 1:90.000) bzw. DINA3-Format geeignet.  Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.,2011,CC BY 3.0 DE,,,,,,,x,,,,,,,,,,,,,,,,,,"""Geobasisdaten""","""Geographie, Geologie und Geobasisdaten""","""Statistische Einheiten"",""Verwaltungseinheiten""",,2011-08-8T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,asNeeded,asNeeded,boundaries,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Steffen Layer,SUB II: Strategische Planung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",s.layer@ulm.de,7311616112,731161806112,Point of Contact,Steffen Layer,SUB II: Strategische Planung,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",s.layer@ulm.de,7311616112,731161806112,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/baeder-seen,Schwimmbäder und Badeseen Stadt Ulm,,Shape,Enthält eine kleine Auswahl an Badeseen und Hallenbäder in und um Ulm. Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.,2012,CC BY 3.0 DE,,,,,,,,,,,,,,x,,,,,,,,,,,"""Tourismus und Freizeit""","""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2012-11-8T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,irregular,irregular,environment,Michael Wegerer,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",m.wegerer@ulm.de,7311611010,731161801010,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19 
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/spielplaetze-kleinkinder,Spielplätze für Kleinkinder Stadt Ulm,,Shape,"Im Stadtgebiet Ulm gibt es Spielplätze, die besonders für Kleinkinder geeignet sind.  Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.",2012,CC BY 3.0 DE,,,,,,,,,,,,,,x,,,,,,,,,,,"""Tourismus und Freizeit""","""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2012-11-8T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,irregular,irregular,environment,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Karl-Heinz Lieb,VGV/GF: Grünflächen,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",k.lieb@ulm.de,7311616726,731161806552,Point of Contact,Karl-Heinz Lieb,VGV/GF: Grünflächen,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",k.lieb@ulm.de,7311616726,731161806552,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/spielplaetze-seniorentrainingsgeraete,Spielplätze mit Trainingsgeräten für Senioren,,Shape,Im Stadtgebiet Ulm gibt es Spielplätze mit Trainingsgeräten speziell für Senioren. Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.,2012,CC BY 3.0 DE,,,,,,,,,,,,,,x,,,,,,,,,,,"""Tourismus und Freizeit""","""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2012-11-8T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,irregular,irregular,environment,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Karl-Heinz Lieb,VGV/GF: Grünflächen,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",k.lieb@ulm.de,7311616726,731161806552,Point of Contact,Karl-Heinz Lieb,VGV/GF: Grünflächen,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",k.lieb@ulm.de,7311616726,731161806552,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/bolzplaetze,Bolzplätze Stadt Ulm,,Shape,Im Stadtgebiet Ulm gibt es eine Vielzahl an öffentliche Bolzplätzen zum Fußballspielen. Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.,2012,CC BY 3.0 DE,,,,,,,,,,,,,,x,,,,,,,,,,,"""Tourismus und Freizeit""","""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2012-11-8T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,irregular,irregular,environment,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Karl-Heinz Lieb,VGV/GF: Grünflächen,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",k.lieb@ulm.de,7311616726,731161806552,Point of Contact,Karl-Heinz Lieb,VGV/GF: Grünflächen,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",k.lieb@ulm.de,7311616726,731161806552,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/stadtbibliothek,"Stadtbibliothek, Fahrbibliotheken Stadt Ulm",,Shape,"Enthält die Standorte der Zentralbibliothek, Stadtteilbibliotheken sowie der 10 Fahrbibliotheken der Stadtbibliothek Ulm. Die zwei öffentlichen Bibliotheken der Stadt Neu-Ulm sind ebenfalls in dem Datensatz enthalten.",2012,CC BY 3.0 DE,,,,,x,,,,,,,x,,,,,,,,,,,,,"""Tourismus und Freizeit""","""Bildung und Wissenschaft""","""Bodennutzung""",,2012-11-8T00:00:00,publication,24/09/2013,mapDigital,x,keine,license,,irregular,irregular,environment,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/musikschulstandorte,Musikschulstandorte Stadt Ulm,,Shape,Enthält die Unterrichtsstandorte der Musikschule Ulm (www.musikschule.ulm.de). Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.,2012,CC BY 3.0 DE,,,,,x,,,,,,,x,,,,,,,,,,,,,"""Tourismus und Freizeit""","""Bildung und Wissenschaft""","""Bodennutzung""",,2012-02-29T00:00:00,publication,22/10/2013,mapDigital,x,keine,license,,irregular,irregular,environment,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Monika Stiehl,MS: Musikschule der Stadt Ulm,Stadt Ulm,"Marktplatz 19
+Ulm
+89073
+Germany",m.stiehl@ulm.de,7311614735,731161804735,Point of Contact,Monika Stiehl,MS: Musikschule der Stadt Ulm,Stadt Ulm,"Marktplatz 19
+Ulm
+89073
+Germany",m.stiehl@ulm.de,7311614735,731161804735,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/musikschulstandorte-karte,Musikschulstandorte Stadt Ulm (Karte),,Shape,Karte der 47 Unterrichtsstandorte der Musikschule Ulm.,2012,CC BY-NC-ND 3.0 DE,,,,,x,,,,,,,x,,,,,,,,,,,,,"""Tourismus und Freizeit""","""Bildung und Wissenschaft""","""Bodennutzung""",,2012-02-29T00:00:00,publication,25/09/2013,mapDigital,x,keine,license,,unknown,unknown,environment,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Michael Wegerer,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",m.wegerer@ulm.de,7311611010,731161801010,Point of Contact,Michael Wegerer,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",m.wegerer@ulm.de,7311611010,731161801010,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/wahllokale,Wahllokale der Stadt Ulm,,Shape,Enthält die 99 Wahllokale  zur Bundestagswahl 2013 der Stadt Ulm. Die Daten enthalten neben der Adresse den Wahllokalnamen und die Wahllokal-Nummer als auch eine Aussage zur Barrierefreiheit (ja/nein). Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de. Für die Europa- und Kommunalwahl 2014 werden die Wahllokale auf Basis der neuberechneten Wahlbezirke bestimmt.,2013,CC BY 3.0 DE,,,,,,,,,,,,,,,,,,x,,,,,,,"""Verwaltung""","""Politik und Wahlen""","""Bodennutzung""",,2013-07-29T00:00:00,publication,18/03/2014,mapDigital,x,keine,license,,asNeeded,asNeeded,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/schulstandorte,Schulstandorte Stadt Ulm,,Shape,"Enthält die Schulen im Gemeindegebiet der Stadt Ulm. Die Daten enthalten: Schulname, Adresse, Telefon, Email, Homepage, Schulart, Information zur Betreuung (Ganztägig, halbtägig), ob Mittagessen angeboten wird oder nicht, Angabe derTrägerschaft, eine Kurzinformation zum Schulprofil sowie welcher Schulabschluss an der Schule erreicht werden kann. Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.",2013,CC BY 3.0 DE,,,,,x,,,,,,,,,,,,,,,,,,,,"""Tourismus und Freizeit""","""Bildung und Wissenschaft""","""Bodennutzung""",,2013-01-28T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,annually,annually,environment,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Heidi Hörsch,BS: Bildung und Sport,Stadt Ulm,"Zeitblomstraße 7
+Ulm
+89073
+Germany",h.hoersch@ulm.de,7311613411,731161803411,Point of Contact,Heidi Hörsch,BS: Bildung und Sport,Stadt Ulm,"Zeitblomstraße 7
+Ulm
+89073
+Germany",h.hoersch@ulm.de,7311613411,731161803411,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/parkhaeuser,Parkhäuser und P+R Stadt Ulm,,Shape,Öffentliche Parkhäuser  sowie die Park + Ride-Plätze in Ulm und Neu-Ulm. Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.,2013,CC BY 3.0 DE,,,,,,,x,,,,,,,,,x,,,,,,,,,"""Verkehr""","""Transport und Verkehr""","""Bodennutzung""",,2013-07-15T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,asNeeded,asNeeded,transportation,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Klaus Lindner,,Ulmer Parkbetriebs-GmbH,"Wichernstraße 10
+Ulm
+89073
+Germany",info@pbg-ulm.de,731176630,7311766310,Point of Contact,Klaus Lindner,,Ulmer Parkbetriebs-GmbH,"Wichernstraße 10
+Ulm
+89073
+Germany",info@pbg-ulm.de,731176630,7311766310,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/openstreetmap-mapnik,OpenStreetMap - mapnik,,POSTGRESQL,"Mapnik ist ein Kartenrenderer für OpenStreetMap-Daten. Das Mapnik-Kartenbild ist vielen von OpenStreetMapkarten bekannt. Die Karteninhalte basieren auf OpenStreetMapdaten. Die Stadt Ulm hat einen eigenen Mapnik-Kartenrenderer aufgesetzt, der nächtlich die Kartenkacheln auf Basis eines räumlich begrenzten Dumps der OpenStreetMap-Daten neu rechnet. Wie man OSM-mapnik-Tiles in OpenLayers einbindet ist erklärt auf der Internetseite http://dev.openlayers.org/docs/files/OpenLayers/Layer/OSM-js.html",2013,ODC Open Database License (ODbL),,,,,,,x,,,,,,,,,,,,,,,,,,"""Kartographie""","""Geographie, Geologie und Geobasisdaten""","""Bodennutzung""",,2013-09-22T00:00:00,publication,23/10/2013,mapDigital,,keine,license,,daily,daily,,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/wertstoffhof,Recyclinghöfe Stadt Ulm,,Shape,Im Stadtgebiet Ulm gibt es 8 Wertstoffhöfe. Dieser Datensatz enthält nur den Namen und die Lage des jeweiligen Recycling-Hofes. Die Recyclinghöfe sind auch in maps.ulm.de in einer Karte dargestellt.,2013,CC BY 3.0 DE,,,,,,,,,,,,,,,,,x,,,,,,,,"""Umweltschutz""","""Infrastruktur, Bauen und Wohnen""","""Versorgungswirtschaft und staatliche Dienste""",,2013-07-25T00:00:00,publication,18/10/2013,mapDigital,x,keine,license,,asNeeded,asNeeded,utilitiesCommunication,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Horst Krämer,,Entsorgungs-betriebe der Stadt Ulm (EBU),"Wichernstraße 10
+Ulm
+89073
+Germany",horst.kraemer@ebu-ulm.de,7311616676,,Point of Contact,Horst Krämer,,Entsorgungs-betriebe der Stadt Ulm (EBU),"Wichernstraße 10
+Ulm
+89073
+Germany",horst.kraemer@ebu-ulm.de,7311616676,,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/gartenabfallplatz,Gartenabfallplätze Stadt Ulm,,Shape,Im Stadtgebiet Ulm gibt es 7 Gartenabfallplätze. Dieser Datensatz enthält nur den Namen und die Lage des jeweiligen Gartenabfallplatzes. Diese sind auch in maps.ulm.de in einer Karte dargestellt.,2013,CC BY 3.0 DE,,,,,,,,,,,,,,,,,x,,,,,,,,"""Umweltschutz""","""Infrastruktur, Bauen und Wohnen""","""Versorgungswirtschaft und staatliche Dienste""",,2013-07-25T00:00:00,publication,18/10/2013,mapDigital,x,keine,license,,asNeeded,asNeeded,utilitiesCommunication,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Horst Krämer,,Entsorgungs-betriebe der Stadt Ulm (EBU),"Wichernstraße 10
+Ulm
+89073
+Germany",horst.kraemer@ebu-ulm.de,7311616676,,Point of Contact,Horst Krämer,,Entsorgungs-betriebe der Stadt Ulm (EBU),"Wichernstraße 10
+Ulm
+89073
+Germany",horst.kraemer@ebu-ulm.de,7311616676,,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/container,Containerstandorte Stadt Ulm,,Shape,"Im Stadtgebiet Ulm gibt es über 120 Containerstandorte. Dieser Datensatz enthält nur eine Lagebeschreibung des Containerstandortes. Ob es sich um Altglascontainer, Kleidercontainer, Papiercontainer handelt ist in den Daten nicht enthalten. Die Containerstandorte sind auch in maps.ulm.de in einer Karte dargestellt. Es gibt eine App ""mymüll.de"" im Apple Store und unter google-play, die neben Abfuhrterminen auch Detailinformationen zu den Containerarten enthält. ",2013,CC BY 3.0 DE,,,,,,,,,,,,,,,,,x,,,,,,,,"""Umweltschutz""","""Infrastruktur, Bauen und Wohnen""","""Versorgungswirtschaft und staatliche Dienste""",,2013-07-25T00:00:00,publication,18/10/2013,mapDigital,x,keine,license,,asNeeded,asNeeded,utilitiesCommunication,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Horst Krämer,,Entsorgungs-betriebe der Stadt Ulm (EBU),"Wichernstraße 10
+Ulm
+89073
+Germany",horst.kraemer@ebu-ulm.de,7311616676,,Point of Contact,Horst Krämer,,Entsorgungs-betriebe der Stadt Ulm (EBU),"Wichernstraße 10
+Ulm
+89073
+Germany",horst.kraemer@ebu-ulm.de,7311616676,,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/haeckselplatz,Häckselplätze Stadt Ulm,,Shape,Im Stadtgebiet Ulm gibt es 23 Häckselplätze. Dieser Datensatz enthält nur die Lagebezeichnung und den Lagepunkt des jeweiligen Häckselplatzes. Diese sind auch in maps.ulm.de in einer Karte dargestellt.,2013,CC BY 3.0 DE,,,,,,,,,,,,,,,,,x,,,,,,,,"""Umweltschutz""","""Infrastruktur, Bauen und Wohnen""","""Versorgungswirtschaft und staatliche Dienste""",,2013-07-25T00:00:00,publication,18/10/2013,mapDigital,x,keine,license,,asNeeded,asNeeded,utilitiesCommunication,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Horst Krämer,,Entsorgungs-betriebe der Stadt Ulm (EBU),"Wichernstraße 10
+Ulm
+89073
+Germany",horst.kraemer@ebu-ulm.de,7311616676,,Point of Contact,Horst Krämer,,Entsorgungs-betriebe der Stadt Ulm (EBU),"Wichernstraße 10
+Ulm
+89073
+Germany",horst.kraemer@ebu-ulm.de,7311616676,,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/bauschuttdeponie,Bauschuttdeponie Stadt Ulm,,Shape,Im Stadtgebiet Ulm gibt es eine Bauschuttdeponie bei Donaustetten. Dieser Datensatz enthält nur die Lagebezeichnung und den Lagepunkt der Bauschuttdeponie. Diese sind auch in maps.ulm.de in einer Karte dargestellt.,2013,CC BY 3.0 DE,,,,,,,,,,,,,,,,,x,,,,,,,,"""Umweltschutz""","""Infrastruktur, Bauen und Wohnen""","""Versorgungswirtschaft und staatliche Dienste""",,2013-07-25T00:00:00,publication,18/10/2013,mapDigital,x,keine,license,,asNeeded,asNeeded,utilitiesCommunication,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Horst Krämer,,Entsorgungs-betriebe der Stadt Ulm (EBU),"Wichernstraße 10
+Ulm
+89073
+Germany",horst.kraemer@ebu-ulm.de,7311616676,,Point of Contact,Horst Krämer,,Entsorgungs-betriebe der Stadt Ulm (EBU),"Wichernstraße 10
+Ulm
+89073
+Germany",horst.kraemer@ebu-ulm.de,7311616676,,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/bplanbereiche,Bebauungsplanbereiche,,Shape,Einzelne Stadtteile sind in mehrere Bebauungsplanbereiche (Bplanbereiche) aufgeteilt. Zu diesen gehören aus bauplanrechtlicher Sicht qualifizierte Bebauungspläne.Die Nummern der Bplanbereiche finden sich in den Nummerierungen der Bebauungspläne wieder.  Es gibt 87 Bplanbereiche im Stadtgebiet Ulm. Dieser Datensatz enthält die linienförmigen Abgrenzungen der Bplanbereiche. Zu diesem Thema gibt es ebenfalls einen zugehörigen Punktdatensatz mit den Nummern der Bplanbereiche.,2013,CC BY 3.0 DE,,,,,,,x,,,,,,,,,,,,,,,,,,"""Raumordnung Landesplanung, Regionalplanung""","""Infrastruktur, Bauen und Wohnen""","""Bodennutzung""",,2013-09-24T00:00:00,publication,25/09/2013,mapDigital,x,Daten derzeit nur stadtintern zugänglich,license,,notPlanned,notPlanned,planningCadastre,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Heinrich Kastler,"SUB I: Verwaltung, Haushalt, Wohnen",Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",h.kastler@ulm.de,7311616150,731161806993,Point of Contact,Heinrich Kastler,"SUB I: Verwaltung, Haushalt, Wohnen",Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",h.kastler@ulm.de,7311616150,731161806993,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/fahrplandaten-stadtwerke-ulm-swu,Fahrplandaten Stadtwerke Ulm (SWU),,GTFS,"Für technisch Interessierte und ambitionierte Entwickler stellt die SWU Verkehr Zugriff auf Fahrplandaten (GTFS) bereit. GTFS (Generalized Transit Feed Specification) ist ein von vielen EntwicklerInnen verwendetes Datenaustauschformat, um komplette Fahrpläne abzubilden. Im Gegensatz zu den vielen nationalen Standards wie beispielsweise VDV-452 für Deutschland, die hauptsächlich zum internen Datenaustausch von Verkehrsbetrieben und -verbünden dienen, wird GTFS bei der Entwicklung vieler innovativer und nützlicher Anwendungen verwendet - und zwar weltweit. So kann z.B. eine praktische App aus San Francisco leicht angepasst und mit Daten aus Deutschland verwendet werden und umgekehrt.",2013,ODC Open Database License (ODbL),,,,,,,,,,,,,,,,x,,,,,,,,,"""Verkehr""","""Transport und Verkehr""","""Verkehrsnetze""",,2013-12-15T00:00:00,publication,16/12/2013,mapDigital,,keine,license,,cyclic,cyclic,transportation,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Christian Burst,,SWU Verkehr GmbH,"Bauhoferstraße 9
+Ulm
+89077
+Germany",christian.burst@swu.de,7311662103,7311662109,Point of Contact,Christian Burst,,SWU Verkehr GmbH,"Bauhoferstraße 9
+Ulm
+89077
+Germany",christian.burst@swu.de,7311662103,7311662109,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/karte-der-wahlkreis291,Wahlkreis 291 Ulm - Karte der Gemeinden,,PDF,"Die Karte zeigt alle Gemeinden des Wahlkreis ""291 Ulm"" auf. Dieser Wahlkreis besteht aus den Gemeinden des Alb-Donau-Kreis und der Stadt Ulm",2013,CC BY 3.0 DE,,,,,,,,,,,,,,,,,,x,,,,,,,"""Kartographie""","""Politik und Wahlen""","""Verwaltungseinheiten""",,2013-09-22T00:00:00,publication,10/12/2013,mapDigital,,keine,license,,cyclic,cyclic,planningCadastre,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/wahllokale-uebersichtskarte,Wahllokale der Stadt Ulm (Karte),,PDF,Die Karte zeigt alle Wahllokale der Stadt Ulm zur Bundestagswahl 2013 auf.,2013,CC BY 3.0 DE,,,,,,,,,,,,,,,,,,x,,,,,,,"""Kartographie""","""Politik und Wahlen""","""Verwaltungseinheiten""",,2013-09-22T00:00:00,publication,10/12/2013,mapDigital,,keine,license,,cyclic,cyclic,planningCadastre,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/bundestagswahl2013-karten,Bundestagwahl 2013 Stadt Ulm (Ergebniskarten),,PDF,"Das Kartenpaket enthält Karten der Erststimmen bzw. der Zweitstimmen von CDU, die Linke, FDP, Grüne und SPD) sowie eine Karte der Wahlbeteiligung und der Anteil der Briefwähler im Wahlkreis 291 Ulm. Dieser besteht aus den Gemeinden des Alb-Donau-Kreises und der Stadt Ulm.",2013,CC BY 3.0 DE,,,,,,,,,,,,,,,,,,x,,,,,,,"""Kartographie""","""Politik und Wahlen""","""Verwaltungseinheiten""",,2013-09-22T00:00:00,publication,10/12/2013,mapDigital,,keine,license,,cyclic,cyclic,planningCadastre,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/vornamensstatistik,Vornamensstatistik der Stadt Ulm,,CSV,"Die bereitgestellte Vornamensstatistik der Geburten eines Jahres umfasst die Anzahl der Kinder mit einem, zwei, drei oder mehr Vornamen. Eine Tabelle zeigt getrennt nach Mädchen und Jungen absteigend geordnet die Vornamensstatistik auf.",1972-2013,CC BY 3.0 DE,,,,x,,,,,,,,,,,,,,,,,,,,,"""Statistik""","""Bevölkerung""","""Verteilung der Bevölkerung - Demografie""",,1972-12-31T00:00:00 - 2013-12-31T00:00:00,publication,17/03/2014,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Janette Simmendinger,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Marktplatz 1
+Ulm
+89073
+Germany",j.simmendinger@ulm.de,7311613359,731161802895,Point of Contact,Janette Simmendinger,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Marktplatz 1
+Ulm
+89073
+Germany",j.simmendinger@ulm.de,7311613359,731161802895,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/bevoelkerungsdaten-jahrbuch2012,Bevölkerungsdaten Statistisches Jahrbuch 2012,,"XLS, XLSX","Die Bevölkerungsdaten des Statistischen Jahrbuches 2012 umfassen Daten zum Bevölkerungsstand und der Bevölkerungsbewegung der Stadt Ulm. Unter anderem sind Haushalte nach Stadtteilen, Bevölkerung nach Altersgruppen, Ausländische Wohnbevölkerung nach Staatsangehörigkeiten sowie eine Übersicht der eingebürgerten Personen nach ihrer Herkunft enthalten. Auch Daten zu Eheschließungen und Scheidungen sowie Gestorbene nach Altersgruppen werden aufgelistet.",2012,CC BY 3.0 DE,,,,x,,,,,,,,,,,,,,,,,,,,,"""Statistik""","""Bevölkerung""","""Verteilung der Bevölkerung - Demografie""",,2012-12-31T00:00:00,publication,12/02/2014,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/bau-wohnungswesen-statistisches-jahrbuch-2012,Bau- und Wohnungswesen Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Bau- und Wohnungswesen"" im statistischen Jahrbuch 2012 umfasst Daten zur Entwicklung des Wohnungsbestandes im jew. Stadtgebiet, Informationen zur Anzahl von Baugenehmigungen, der Anzahl der Baufertigstellungen von Gebäuden und Wohnungen nach Stadtteilen. Auch die Anzahl an fertig gestellten Wohnungen in den Stadtteilen nach Zahl der Räume sowie Daten zum Bauüberhang sind enthalten.",2012,CC BY 3.0 DE,,,,,,,x,x,,,,,,,,,,,,,,,,,"""Raumordnung Landesplanung, Regionalplanung"",""Statistik""","""Infrastruktur, Bauen und Wohnen""","""Bodennutzung"",""Gebäude""",,2012-12-31T00:00:00,publication,12/02/2014,mapDigital,,keine,license,,annually,annually,economy,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/preise-preisindizes-jahrbuch2012,Preise und Preisindizes Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Preise und Preisindizes"" im statistischen Jahrbuch 2012 umfasst Daten zu Verbraucherpreisindex, Ulmer Einzelhandelspreisen für ausgewählte Waren sowie Daten zur Entwicklung des Preisindex für Wohngebäude nach versch. Basisjahren in Baden-Württemberg.",2012,CC BY 3.0 DE,,,,,,,,,,,,,,,,,,,,x,,x,,,"""Raumordnung Landesplanung, Regionalplanung"",""Statistik""","""Wirtschaft und Arbeit""","""Statistische Einheiten""",,2012-12-31T00:00:00,publication,12/02/2014,mapDigital,,keine,license,,annually,annually,economy,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/versorung-entsorgung-statistisches-jahrbuch-2012,Versorgung und Entsorgung Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Versorgung und Entsorgung, Umwelt"" im statistischen Jahrbuch 2012 umfasst Daten zu der Energieverteilung der Stadtwerke Ulm/Neu-Ulm GmbH, Informationen zu Energieverteilungsanlagen, Fernwärmeversorgung der Fernwärme Ulm GmbH. Auch Informationen zur Abwasserwirtschaft, der Abfallwirtschaft (Überblick sowie Abfallarten) und der Stadtreinigung sind enthalten.",2012,CC BY 3.0 DE,,,,,,,,,,,,,,,,,x,,,,,,,,"""Statistik"",""Umweltschutz""","""Infrastruktur, Bauen und Wohnen""","""Energiequellen"",""Versorgungswirtschaft und staatliche Dienste""",,2012-12-31T00:00:00,publication,12/02/2014,mapDigital,,keine,license,,annually,annually,utilitiesCommunication,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/landwirtschaft-jahrbuch2012,Landwirtschaftsdaten Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Landwirtschaft"" im statistischen Jahrbuch 2012 umfasst Daten zu landwirtschaftlichen Betrieben (nach Größenklasse der landw. genutzen Fläche), Viehbestände und Viehalter, Schlachtungen. Eine Tabelle der Beanstandungen bei der Schlachttier- und Fleischuntersuchung ist ebenfalls enthalten.",2012,CC BY 3.0 DE,,,,,,,,,,,,,x,,,,,,,,,,,,"""Landwirtschaft"",""Statistik"",""Tierkrankheit""","""Umwelt und Klima"",""Verbraucherschutz"",""Wirtschaft und Arbeit""","""Bodennutzung"",""Landwirtschaftliche Anlagen und  Aquakulturanlagen"",""Umweltüberwachung""",,2012-12-31T00:00:00,publication,12/02/2014,mapDigital,,keine,license,,annually,annually,utilitiesCommunication,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/arbeitsmarktzahlen-jahrbuch2012,Arbeitsmarktzahlen Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Arbeitsmarkt"" im statistischen Jahrbuch 2012 umfasst eine Auswahl an Daten der IHK, Handwerkskammern sowie der Arbeitsagentur Ulm. Aufgeführt werden die sozialversicherungspflichtig Beschäftigten, Arbeitslose und Kurzarbeiter, Offene Stellen sowie die Anzahl der Ausbildungsbetriebe, -verträge und neubegonnen Ausbildungsverhältnisse.",2012,CC BY 3.0 DE,,,x,,,,,,,,,,,,,,,,,,,,,,"""Raumordnung Landesplanung, Regionalplanung"",""Statistik""","""Wirtschaft und Arbeit""","""Produktions- und Industrieanlagen""",,2012-12-31T00:00:00,publication,13/02/2014,mapDigital,,keine,license,,annually,annually,utilitiesCommunication,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/verkehrszahlen-jahrbuch-2012,Verkehrsinformationen Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Verkehr"" im statistischen Jahrbuch 2012 umfasst: eine Tabelle der Straßen- und Radwegekilometer vor 2000 bis 2012. Öffentliche Stellplätze sowie die Anzahl von Anwohnerparkplätzen sind neben Stellplätze in Parkhäusern und Tiefgaragen, Fahrzeugbestand und Einwohner je Kfz, der Bestand an schadstoffreduzierten PKWs sowie PKW je Stadtteil bzw. Stadtviertel.  Eine Übersicht der Straßenverkehrsunfällte mit Sach- oder Personenschaden zurück bis ins Jahr 1995 zeigt interessante Entwicklungen auf.",2012,CC BY 3.0 DE,,,,,,,,,,,,,,,,x,,,,,,,,,"""Straße"",""Verkehr""","""Transport und Verkehr""","""Verkehrsnetze""",,2012-12-31T00:00:00,publication,13/02/2014,mapDigital,,keine,license,,annually,annually,utilitiesCommunication,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/soziales-statistisches-jahrbuch-2012,Sozialdaten Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Soziales"" im statistischen Jahrbuch 2012 umfasst ausgewählte Fallzahlen und statistische Kennzahlen aus dem Sozialbereich: Verteilung der Sozial- und Jugendhilfe nach Fallzahlen, Einnahmen und Ausgaben der Sozial- und Jugendhilfe, Hilfearten nach Fallzahlen, Jugendgerichtshilfe, Kinder und Kindergärten in den Stadtteilen, verfügbare Plätze in den Altenpflegeheimen der Stadt Ulm sowie die Anzahl von Empfänger/innen von Wohngeld. Die Tabelle der Vormundschaften, Pflegschaften und Beistandschaften für Minderjährige geht zurück bis in das Jahr 1975. Bei Interpretation der angeführten Vorjahreszahlen sind die Erläuterungen zu beachten, die auf Änderungen an (gesetzl.) Rahmenbedingungen hinweisen..",2012,CC BY 3.0 DE,,,,x,,,,,x,,,,,,,,,,,,,,,,"""Raumordnung Landesplanung, Regionalplanung"",""Statistik""","""Bevölkerung"",""Soziales""","""Verteilung der Bevölkerung - Demografie""",,2012-12-31T00:00:00,publication,13/02/2014,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/sportkennzahlen-statistisches-jahrbuch-2012,Sportkennzahlen Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Sport"" im statistischen Jahrbuch 2012 umfasst eine Liste der Mitgliederzahlen der Ulmer Sportvereine nach Geschlecht und Alter sowie eine Tabelle der Anzahl von Sportveranstaltungen und Besucherzahlen des Ulmer Stadions zurück bis 1970. Eine Übersicht der Spielplätze für Kinder und Jugendlichen zeigt stadtteilbezogen die öffentlichen Spielplatzflächen und die Spielplatzfläche je Einwohner des Stadtteils auf.",2012,CC BY 3.0 DE,,,,,,,,,,,,,,x,,,,,,,,,,,"""Statistik"",""Tourismus und Freizeit""","""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2012-12-31T00:00:00,publication,13/02/2014,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/gesundheit-statistisches-jahrbuch-2012,Gesundheitskennzahlen Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Gesundheitswesen"" im statistischen Jahrbuch 2012 umfasst eine Liste der Fachärzte nach Fachgebiet, sowie eine Übersicht der Entwicklung an Ärzten, Zahnärzten und Apotheken zurück bis ins Jahr 1970. Bei den Ärztezahlen wird explizit auch der Frauenanteil betrachtet.  Für das Klinikum der Universität Ulm und das Reha-krankenhaus werden Planbetten, stationär behandelte Personen, Bettenausnutzung und die durchschnitt. Verweildauer (in Tagen) zurück bis 1975 tabellarisch aufgezeigt. Wie groß das Einzugsgebiet der jew. Kliniken des  Universitätsklinikum Ulms ist, zeigen die Patientenzahlen absolut und prozentual auf.  Auch enthalten sind Tabellen zu der Durchimpfungsquote bei Einschulungskindern sowie eine Übersicht der Anzahl meldepflichtiger Erkrankungen bei Hepatitis, TBC, Ruhr und Salmonellose (zurück bis in das Jahr 1990). ",2012,CC BY 3.0 DE,,,,,,,,,,,x,,,,,,,,,,,,,,"""Statistik"",""Umweltschutz""","""Bevölkerung"",""Gesundheit""","""Versorgungswirtschaft und staatliche Dienste"",""Verteilung der Bevölkerung - Demografie""",,2012-12-31T00:00:00,publication,13/02/2014,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/schulwesen-statistisches-jahrbuch-2012,"Schulwesen, Schüler, Studierende Statistisches Jahrbuch 2012",,"XLS, XLSX","Das Kapitel ""Schulwesen"" im statistischen Jahrbuch 2012 umfasst eine Gesamtübersicht öffentl. und privater Schulen und deren Schülerzahlen (männlich/weiblich). Weitere enthaltene Übersichten sind: auswärtige Schüler, Schülerzahlen  an allgemeinbildenden Schulen seit 1939, Klassen und Anzahl Lehrkräfte bei Grund- und Haupt-/Werkrealschule, Sonderschulen, Realschulen, Gymnasien zurück bis 1951 sowie die Anzahl der Schüler nach Klassenstufen zurück bis 1974. Eine Übersicht aller Schultypen Ulms mit Schüler- und Lehrerzahl. Tabellen zu Schulabschlüssen und -abgängern runden die Schulbezogenen Daten ab. Zu beachten bei der Interpretation der Zahlen sind die einführenden Erläuterungen im Kapitel ""Schulwesen"". Daten aus dem Universitären Bereich bzw. (Fach)Hochschule sind: Anzahl Studierender und deren Herkunft sowie Studierende nach Hauptfächern.",2012,CC BY 3.0 DE,,,,,x,,,,,,,,,,,,,,,,,,,,"""Statistik""","""Bildung und Wissenschaft""","""Verteilung der Bevölkerung - Demografie""",,2012-12-31T00:00:00,publication,13/02/2014,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/kulturelle-einrichtungen-statistisches-jahrbuch-2012,Kulturelle Einrichtungen Kennzahlen Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Kulturelle Einrichtungen"" im statistischen Jahrbuch 2012 umfasst: Teilnehmende Personen an Kursen der Volkshochschule Ulm und der Familienbildungsstätte Ulm (fbs), Besucher des Ulmer Theaters, des Museums der Brotkultur, des naturkundlichen Bildungsmuseums sowie des Tiergartens und des Ulmer Münsters. Für die Stadtbibliothek Ulm werden Bestände (Medien, Bücher, Zeitschriften), Ausleihe und Besucher sowie die Aufgliederung der Ortsausleihe dargelegt.",2012,CC BY 3.0 DE,,,,,,,,,,,,x,,,,,,,,,,,,,"""Statistik"",""Tourismus und Freizeit""","""Bildung und Wissenschaft"",""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2012-12-31T00:00:00,publication,13/02/2014,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/sicherheit-oeffentliche-statistisches-jahrbuch-2012,Öffentliche Sicherheit Kennzahlen Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Öffentliche Sicherheit"" im statistischen Jahrbuch 2012 umfasst Informationen zu Straftaten nach Deliktgruppen, Übersicht der Anzahl von Tatverdächtigen nach Staatsangehörigkeit, Alter  und Geschlecht sowie eine Tabelle der Polizeibeamten im Stadtkreis Ulm und Alb-Donaukreis (2012 bis 1975). Die Einsatzzahlen der Ulmer Feuerwehr gehen zurück bis ins Jahr 2002 und unterscheiden Großbrände, Mittelbrände und Kleinbrände. Zahlen zur Rettung von Menschen oder Tieren sowie Einsätze bei Öl- und Chemikalienunfällen sind wie die Zahlen zu Fehlalarmen ebenfalls enthalten.",2012,CC BY 3.0 DE,,,,,,,,,,x,,,,,,,,,,,,,,,"""Katastrophenschutz"",""Statistik""","""Gesetze und Justiz""","""Gesundheit und Sicherheit""",,2012-12-31T00:00:00,publication,13/02/2014,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/wahlen-gemeinderat-statistisches-jahrbuch-2012,"Wahlergebnisse, Gemeinderat und Personalstand Stadtverwaltung Statistisches Jahrbuch 2012",,"XLS, XLSX","Das Kapitel ""Wahlen, Gemeinderat und Verwaltung"" im statistischen Jahrbuch 2012 umfasst: Wahlergebnisse der letzten Europawahlen, Bundestagswahlen, Landtagswahlen, Oberbürgermeisterwahlen. Zum Gemeinderat sind mehrere Tabellen (Sitzverteilung, Sitzungen) enthalten. Eine Tabelle zeigt den Personalstand der Stadtverwaltung zurück bis in das Jahr 2003 auf.",2012,CC BY 3.0 DE,,,,,,,,,,,,,,,,,,x,,,,,,,"""Statistik"",""Verwaltung""","""Öff. Verwaltung, Haushalt und Steuer"",""Politik und Wahlen""","""Bodennutzung""",,2012-12-31T00:00:00,publication,13/02/2014,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/stadtgebiet-jahrbuch2012,"Allgemeine Informationen Stadtgebiet, Naturverhältnisse Statistisches Jahrbuch 2012",,"XLS, XLSX","Das Kapitel ""Stadtgebiet, Naturverhältnisse"" im statistischen Jahrbuch 2012 umfasst statistische Angaben zur Lage und Größe der Stadt, beispielsweise den höchsten Geländepunkt, die Nord-Süd- und Ost-West-Ausdehnung sowie die Gewässerlängen im Stadtgebiet,  die amtliche Einwohnerzahl. Eine Tabelle zeigt in Hektar die Nutzugsarten im Stadtgebiet auf. Die Wasserführung der Donau (Pegel) zurück bis in das Jahr 2000 listen Höchst- und Tiefststände am Pegel Neu-Ulm auf.",2012,CC BY 3.0 DE,,,,,,,,,,,,,,,x,,,,,,,,,,"""Höhe Höhen-/Geländemodell"",""Oberflächengewässer Oberirdische Gewässer"",""Statistik""","""Umwelt und Klima""","""Bodennutzung""",,2012-12-31T00:00:00,publication,17/02/2014,mapDigital,,keine,license,,annually,annually,imageryBaseMapsEarthCover,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/steuern-finanzen-statistisches-jahrbuch-2012,Steuern und Finanzen Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Steuern und Finanzen"" im statistischen Jahrbuch 2012 umfasst eine Tabelle des Steueraufkommens beim Finanzamt Ulm. Eine Übersicht der Anzahl der einkommenssteuerpflichtigen Personen neben der Summe aller Einkünfte und zu versteuernden Einkommen und die festgesetzte Einkommenssteuer vergleichen sechs Jahres miteinander. Die Gemeindesteuer ist aufgelistet zurück bis in das Jahr 1995. Hebesätze für Realsteuern werden ebenfalls für mehrere Jahre dargelegt. Haushaltplan und Haushaltsrechnung des Verwaltungshaushaltes werden zurück bis in das Jahr 1995 aufgezeigt. Die Gemeindefinanzstatistik zeigt die Ergebnis- und Finanzrechnung nach Produktbereichen auf.",2012,CC BY 3.0 DE,,,,,,x,,,,,,,,,,,,,,,,,,,"""Statistik""","""Öff. Verwaltung, Haushalt und Steuer""","""Versorgungswirtschaft und staatliche Dienste""",,2012-12-31T00:00:00,publication,17/02/2014,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/ulm-und-umland-statistisches-jahrbuch-2012,Ulm und Umland - Kennzahlen Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Ulm und Umland"" im statistischen Jahrbuch 2012 umfasst statistische Daten der Stadt Neu-Ulm (Einwohner nach Stadtbezirken, Staatsangehörigkeit und Altersgruppen) sowie eine Tabelle der Wohnbevölkerung des Alb-Donau-Kreises und des Landkreis Neu-Ulm.",2012,CC BY 3.0 DE,,,,x,,,,,,,,,,,,,,,,,,,,,"""Statistik""","""Bevölkerung""","""Verteilung der Bevölkerung - Demografie""",,2012-12-31T00:00:00,publication,17/02/2014,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/staedtevergleich-statistisches-jahrbuch-2012,Städtevergleich BW - Kennzahlen Statistisches Jahrbuch 2012,,"XLS, XLSX","Das Kapitel ""Städtevergleich"" im statistischen Jahrbuch 2012 vergleicht statistische Kennzahlen von Ulm mit Städten in Baden-Württemberg. Folgende Themen werden aufgelistet: Wohnbevölkerung, Bevölkerungsbewegung, Wanderungsbewegungen,  Entwicklung des Wohnungsbestandes, Baulandpreise, Bruttowertschöpfung, Sozialversicherungspflichtige Beschäftigte, Verarbeitendes Gewerbe, Tourismus, Lohn- und Einkommenssteuerpflichtige (2007), Berufstätigte Ärzte,  Schüler an öffentl. allgemeinbildenden Schulen, Steuereinnahmen, Natur- und Landschaftsschutzgebiete.",2012,CC BY 3.0 DE,,,,x,,,,,,,,,,,,,,,,,,,,,"""Statistik""","""Bevölkerung""","""Verteilung der Bevölkerung - Demografie""",,2012-12-31T00:00:00,publication,17/02/2014,mapDigital,,keine,license,,annually,annually,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/wahlbezirke-tabelle,Wahlbezirke (tabellarisch) der Stadt Ulm,,"XLS, XLSX",Die tabellarischen Daten enthalten eine Zuordnung von Straßen- und Hausnummernbereichen zu Wahlbezirken.  Wahlbezirke und damit auch Wahllokale werden bei jeder Wahl neu berechnet. Die aktuellen Bevölkerungszahlen gehen in die  Berechnung von Wahlbezirken ein.,2014,CC BY 3.0 DE,,,,,,,,,,,,,,,,,,x,,,,,,,"""Statistik""","""Politik und Wahlen""","""Verteilung der Bevölkerung - Demografie""",,2014-03-17T00:00:00,publication,17/03/2014,mapDigital,,keine,license,,cyclic,cyclic,society,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baumeister,"BD IV: Standesamt, Statistik und Wahlen, Rentenstelle, Controlling",Stadt Ulm,"Kornhausplatz 4
+Ulm
+89073
+Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/openstreetmap-haltestellen-terrestris,OpenStreetMap-ÖPNV-Bushaltestellen,,WMS,"Dieser WMS Dienst der Firma terrestris mit dem Originalnamen ""OWS-Terrestris"" stellt die vom OpenStreetMap-Projekt erhobenen Daten der öffentlichen Bushaltestellen für ganz Deutschland bereit. ",2013,ODC Open Database License (ODbL),,,,,,,,,,,,,,,,x,,,,,,,,,"""Verkehr""","""Transport und Verkehr""","""Verkehrsnetze""","""infoMapAccessService""",2013-12-17T00:00:00,publication,26/03/2014,mapDigital,x,keine,license,,weekly,weekly,,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/openstreetmap-tramhaltestellen ,OpenStreetMap-ÖPNV-Straßenbahnhaltestellen,,WMS,"Dieser WMS Dienst der Firma terrestris mit dem Originalnamen ""OWS-Terrestris Haltestellen"" stellt die vom OpenStreetMap-Projekt erhobenen Daten der öffentlichen Straßenbahnhaltestellen für ganz Deutschland bereit. Der Download umfasst das Gebiet Region Donau-Iller.",2013,ODC Open Database License (ODbL),,,,,,,,,,,,,,,,x,,,,,,,,,"""Verkehr""","""Transport und Verkehr""","""Verkehrsnetze""","""infoMapAccessService""",2013-12-17T00:00:00,publication,26/03/2014,mapDigital,x,keine,license,,weekly,weekly,,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact
+d,ulm.de,http://daten.ulm.de/datenkatalog/metadaten/openstreetmap-wms-stil-mapnik ,OpenStreetMap-WMS - Stil mapnik,,WMS,"Mapnik ist ein Kartenrenderer für OpenStreetMap-Daten. Das Mapnik-Kartenbild ist vielen von OpenStreetMapkarten bekannt. Die Karteninhalte basieren auf OpenStreetMapdaten. Die Stadt Ulm hat einen eigenen Mapnik-WMS aufgesetzt, der nächtlich die Kartenkacheln auf Basis eines räumlich begrenzten Dumps der OpenStreetMap-Daten neu rechnet.  http://maps.ulm.de/mapproxy/service?",2014,ODC Open Database License (ODbL),,,,,,,x,,,,,,,,,,,,,,,,,,"""Kartographie""","""Geographie, Geologie und Geobasisdaten""","""Bodennutzung""","""infoMapAccessService""",2014-04-9T00:00:00,publication,09/04/2014,mapDigital,x,keine,license,,daily,daily,,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact
+d,ulm.de,http://daten.ulm.de/daten/single/schmetterlingsweg ,Schmetterlingsweg,,Shape,"Der Schmetterlingsweg und Schmetterlingsquiz an der Wilhelmsburg vermitteln Spannendes rund um heimische Schmetterlingsarten. Der 1,9 km lange, reich bebilderte Schmetterlingsweg westlich der Wilhelmsburg informiert auf sieben Tafeln über Lebensweise und Lebensräume. Das 850 Meter lange Quiz östlich der Wilhelmsburg ist mit seinen 16 Tafeln besonders für Familien und Schulklassen interessant.  Beide Runden sind durchgehend ausgeschildert und mit geländegängigem Kinderwagen befahrbar. Start- und Endpunkt: Vor der Wilhelmsburg am Ende der Prittwitzstraße. ÖPNV-Haltestellen: „Kliniken Michelsberg“ (Linie 7, ca. 650 m Fußweg) oder „Wilhelmsburgkaserne“ (wird nur aus Richtung Jungingen angedient; Linien 7 und 46, ca. 850 m Fußweg).",2014,CC BY 3.0 DE,,,,,,,,,,,,,,x,,,,,,,x,,,,"""Tourismus und Freizeit""","""Kultur, Freizeit, Sport und Tourismus""","""Bodennutzung""",,2014-06-15T00:00:00,publication,14/07/2014,mapDigital,x,keine,license,,asNeeded,asNeeded,imageryBaseMapsEarthCover,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
+Ulm
+89073
+Germany",l.erdt@ulm.de,7311611037,731161808777,Point of Contact,Eugen Hungele,VGV/GF: Grünflächen,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",e.hungele@ulm.de,7311616729,731161806729,Point of Contact,Eugen Hungele,VGV/GF: Grünflächen,Stadt Ulm,"Münchner Straße 2
+Ulm
+89073
+Germany",e.hungele@ulm.de,7311616729,731161806729,Point of Contact
+g,ulm.de,,Flächenstatistik 2011 (xls),http://daten.ulm.de/sites/default/files/JB2011_0103V.xls,XLS,Nutzung des Stadtgebiets,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,JB2011_0202V-1.xls,http://daten.ulm.de/sites/default/files/JB2011_0202V-1.xls,XLS,"Wohnbevölkerung nach Altersjahren, Staatsangehörigkeit und Geschlecht",,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,"Wohnbevölkerung (2011, thematisch, xls)",http://daten.ulm.de/sites/default/files/JB2011_0205V-3_0.xls,XLS,"Wohnbevölkerung nach Stadtteilen, Geschlecht, Konfession und Familienstand",,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,"Bevölkerung Migrationshintergrund (2011, xls)",http://daten.ulm.de/sites/default/files/JB2011_0208V.xls,XLS,Wohnbevölkerung nach Migrationshintergrund,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Beanstandungen Schlachttier-/Fleischuntersuchung (xls),http://daten.ulm.de/sites/default/files/JB2011_0708V.xls ,XLS,Beanstandungen bei der Schlachttier- und Fleischuntersuchung,,,,,,,,,,,,,x,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,"bis 2011, xls",http://daten.ulm.de/sites/default/files/JB2011_0804V.xls,XLS,Betriebe und Beschäftigte im verarbeitenden Gewerbe nach Beschäftigten - Grössenklassen,,,,,x,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,"Spiel- und Bolzplatzflächenbilanz in m2 (2011, xls)",http://daten.ulm.de/sites/default/files/JB2011_1209V.xls,XLS,Öffentliche Spielplätze für Kinder und Jugendliche ,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,"Schülerzahlen, Klassen, Lehrpersonal 2011 (xls)",http://daten.ulm.de/sites/default/files/JB2011_1405V.xls,XLS,"Klassen, Unterrichtsräume und Lehrkräfte an öffentlichen allgemeinbildenden Schulen seit 1951",,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,"Straftaten nach Deliktgruppen und Aufklärung (2011, xls)",http://daten.ulm.de/sites/default/files/JB2011_1601V.xls,XLS,Straftaten in Ulm nach Deliktgruppen,,,,,,,,,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Steueraufkommen (tabellarisch 2011 bis 1995),http://daten.ulm.de/sites/default/files/JB2011_1701V.xls,XLS,Landes- und Bundessteuern: Steueraufkommen beim Finanzamt Ulm (in 1 000 €),,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,(Zweitstimmen) Bundestagswahl ab 1949 (xls),http://daten.ulm.de/sites/default/files/JB2011_1802V.xls,XLS,"Bundestagswahl, Zweitstimmenergebnisse seit 1949 - 2009 in Ulm",,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Zusammensetzung der Sozialräume aus Stadtteilen und,http://daten.ulm.de/sites/default/files/sozialraeume_ulm_zusammensetzung.xls,XLS,"Übersicht der Zusammensetzung von Sozialräumen aus Stadtteilen, Vorausrechnungsgebieten und Stadtvierteln",,CC-BY 3.0 DE,,"Stadt Ulm, Statistik und Wahlen",,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Sozialindikatoren Sozialraum Eselsberg (xls),http://daten.ulm.de/sites/default/files/Sozialraumindikatoren_Eselsberg_Ulm.xls,XLS,Tabellarische Übersicht der Sozialindikatoren für Eselsberg (Aktualität 31.12.2011),,,,,,x,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Sozialindikatoren Sozialraum West (xlsx),http://daten.ulm.de/sites/default/files/Sozialraumindikatoren_West_Ulm.xlsx,XLSX,Tabellarische Übersicht der Sozialindikatoren für die Weststadt (Aktualität: 31.12.2011),,,,,,x,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Sozialindikatoren Sozialraum Wiblingen (xls),http://daten.ulm.de/sites/default/files/Sozialraumindikatoren_Wiblingen_Ulm.xls,XLS,Tabellarische Übersicht der Sozialindikatoren für Wiblingen (Stand: 31.12.2010),,,,,,x,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Strassenliste Hausnummernbereiche v. Wahlbezirken (xls),http://daten.ulm.de/sites/default/files/wahlbezirke_strassenliste_2014.xls,XLS,Wahlbezirke nach Straßen,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Elternbefragung,http://www.fgs.schule.ulm.de/files/auswertung_elternbefragung_-_ausgefullt_09-10.xls,XLS,Elternbefragung zur Zufriedenheit mit Schule,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Wie sehe ich meine Klasse,http://www.fgs.schule.ulm.de/files/auswertung_klassenklima_-_wie_ich_meine_klasse_seh.xls,XLS,Umfrage zum Klassenklima,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Wie sehe ich meinen Lehrer,http://www.fgs.schule.ulm.de/files/auswertung_klassenklima_-_wie_sehe_ich_meinen_lehr.xls,XLS,Umfrage zur Zufriedenheit mit Lehrern,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Wie sehe ich mein Schulgebäude,http://www.fgs.schule.ulm.de/files/wie_sehe_ich_mein_schulgebaude-_ausgefullt_09-10.xls,XLS,Umfrage zum Schulgebäude,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Böfingen,http://www.ulm.de/sixcms/media.php/29/B%F6fingen.xls,XLS,Liste von Bolz- und Geräteplätzen in Böfingen ,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,GM,http://www.ulm.de/sixcms/media.php/29/Eckwerte%202006%20.xls,XLS,Budgetberechnung Entwurf Haushaltsplan 2006,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Eselsberg,http://www.ulm.de/sixcms/media.php/29/Eselsberg.xls,XLS,Liste von Bolz- und Geräteplätzen in Eselsberg,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Gefahrenbäume 2010,http://www.ulm.de/sixcms/media.php/29/F%E4llliste%202010.xls,XLS,Gefahrenbäume 2010 Fällungen,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Grimmelfingen,http://www.ulm.de/sixcms/media.php/29/Grimmelfingen.xls,XLS,Liste von Bolz- und Geräteplätzen in Grimmelfingen,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Tabelle1,http://www.ulm.de/sixcms/media.php/29/Marktaussteller.xls,XLS,Liste von veschiedenen Lebensmittelläden,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Osten,http://www.ulm.de/sixcms/media.php/29/Osten.xls,XLS,Liste von Bolz- und Geräteplätzen in Osten,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Söflingen,http://www.ulm.de/sixcms/media.php/29/S%F6flingen.xls,XLS,Liste von Bolz- und Geräteplätzen in Söflingen,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Stadtmitte,http://www.ulm.de/sixcms/media.php/29/Stadtmitte.xls,XLS,Liste von Bolz- und Geräteplätzen in Stadtmitte,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Westen,http://www.ulm.de/sixcms/media.php/29/Westen.xls,XLS,Liste von Bolz- und Geräteplätzen in Westen,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Wiblingen,http://www.ulm.de/sixcms/media.php/29/Wiblingen.xls,XLS,Liste von Bolz- und Geräteplätzen in Wiblingen,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Erststimme_Endergebnis.xls,http://www.wahl.ulm.de/bt2013/Erst/Erststimme_Endergebnis.xls,XLS,Erststimmen Endergebnisse ,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,vorläufiges Erststimmenergebnis Wahlabend (xls),http://www.wahl.ulm.de/bt2013/Presse/Erststimme_Wahlabend.xls,XLS,vorläufige Erststimmen am Wahlabend,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,vorläufiges Zweitstimmenergebnis Wahlabend (xls),http://www.wahl.ulm.de/bt2013/Presse/Zweitstimme_Wahlabend.xls,XLS,vorläufige Zweitstimmen am Wahlabend,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Zweitstimme_Endergebnis.xls,http://www.wahl.ulm.de/bt2013/Zweit/Zweitstimme_Endergebnis.xls,XLS,Endergebniss Zweitstimmen,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Ergebnis Wahlabend (xlsx),http://www.wahl.ulm.de/eu2014/html/EU_vorl_Ergebnis.xlsx,XLSX,Ergebnisse vom Wahlabend,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Ergebnis Wahlabend (xlsx),http://www.wahl.ulm.de/gr2014/html/GR_vorl_Ergebnis.xlsx,XLSX,Vorl. Sitzzuteilung Gemeinderatswahl 2014,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,schluessel_stadtteile_STT,http://daten.ulm.de/sites/default/files/Schluessel_stadtteile_STT.xls ,XLS,Liste der Stadtteile mit Schlüsseln,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Amtl. Verzeichnis der Straßen- und Gewannnamen (xls),http://daten.ulm.de/sites/default/files/Lagebezeichnungen_Strassen.xls ,XLS,Lagebezeichnung von Straßen,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+g,ulm.de,,Übersicht der Bplanbereiche und Nummern (xls),http://daten.ulm.de/sites/default/files/Uebersicht_Bplanbereiche.xls ,XLS,Verzeichnis der Stadtteile und deren Planbereiche,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.ulm.de/sixcms/media.php/29/ulmer-hoehenwegkml.kml ,KML,Ulmer Höhenweg,,,,,,,,,,,,,,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://daten.ulm.de/sites/default/files/JB2011_1601V.xls,XLS,1601  Straftaten in Ulm nach Deliktgruppen,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://daten.ulm.de/sites/default/files/Lagebezeichnungen_Strassen.xls,XLS,Lagebezeichnungen von Straßen,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://daten.ulm.de/sites/default/files/Vornamenstatistik_2013.csv,CSV,Vornamenstatistik 2013,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.ulm.de/sixcms/media.php/29/Marktaussteller.xls,XLS,Übersicht über die Marktaufsteller,,,,,,,,,,,,,,,,,,,,,,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.ulm.de/sixcms/media.php/29/Ortschaften.xls,XLS,Ortschaften,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.ulm.de/sixcms/media.php/29/Osten.xls,XLS,Verzeichnis der Spielplätze in Osten,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.ulm.de/sixcms/media.php/29/Wiblingen.xls,XLS,Verzeichnis der Spielplätze in Wiblingen,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.wahl.ulm.de/bt2013/Erst/Erststimme_Wahlabend.xls,XLS,Erststimme am Wahlbabend,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.wahl.ulm.de/bt2013/Presse/Zweitstimme_Wahlabend.xls,XLS,Zweitstimme am Wahlbabend,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.wahl.ulm.de/eu2014/html/EU_vorl_Ergebnis.xlsx,XLSX,EU - Ergebnisse,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.wahl.ulm.de/gr2014/html/GR_vorl_Ergebnis.xlsx,XLSX,Vorl. Sitzzuteilung Gemeinderatswahl 2014,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.wahl.ulm.de/or2014/Eggingen/OR_vorl_Ergebnis.xlsx,XLSX,Vorl. Sitzzuteilung Gemeinderatswahl 2014,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.wahl.ulm.de/or2014/Einsingen/OR_vorl_Ergebnis.xlsx,XLSX,Vorl. Sitzzuteilung Gemeinderatswahl 2014,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.wahl.ulm.de/or2014/Ermingen/OR_vorl_Ergebnis.xlsx,XLSX,Vorl. Sitzzuteilung Ortschaftsratswahl Eggingen 2014,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.wahl.ulm.de/or2014/Goe-Do/OR_vorl_Ergebnis.xlsx,XLSX,Vorl. Sitzzuteilung Ortschaftsratswahl Gö/Do 2014,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.wahl.ulm.de/or2014/Lehr/OR_vorl_Ergebnis.xlsx,XLSX,Vorl. Sitzzuteilung Ortschaftsratswahl Lehr 2014,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.wahl.ulm.de/or2014/Maehringen/OR_vorl_Ergebnis.xlsx,XLSX,Vorl. Sitzzuteilung Ortschaftsratswahl Mähringen 2014,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://www.wahl.ulm.de/or2014/Unterweiler/OR_vorl_Ergebnis.xlsx,XLSX,Vorl. Sitzzuteilung Ortschaftsratswahl Unterweiler 2014,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b,ulm.de,,,http://daten.ulm.de/sites/default/files/JB2011_1601V.csv ,CSV,Straftaten nach Deliktgruppen,,,,,,,,,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
