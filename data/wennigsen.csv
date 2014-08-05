@@ -1,7 +1,7 @@
 Quelle,Stadt,URL PARENT,Dateibezeichnung,URL Datei,Format,Beschreibung,Zeitlicher Bezug,Lizenz,Kosten,Veröffentlichende Stelle,Arbeitsmarkt,Bevölkerung,Bildung und Wissenschaft,Haushalt und Steuern,Stadtentwicklung und Bebauung,Wohnen und Immobilien,Sozialleistungen,Öffentl. Sicherheit,Gesundheit,Kunst und Kultur,Land- und Forstwirtschaft,Sport und Freizeit,Umwelt,Transport und Verkehr,"Energie, Ver- und Entsorgung",Politik und Wahlen,Gesetze und Justiz,Wirtschaft und Wirtschaftsförderung,Tourismus,Verbraucher,Sonstiges,Noch nicht kategorisiert,keyword
-g,wennigsen.net,,Gruener_Faden.gpx,http://data.wennigsen.net/Gruener_Faden.gpx,GPX,,,,,,,,,,x,,,,,,,,x,,,,,,,,,,
-g,wennigsen.net,,Gruene_Kette.gpx,http://data.wennigsen.net/Gruene_Kette.gpx,GPX,,,,,,,,,,x,,,,,,,,x,,,,,,,,,,
-b,wennigsen.net,,Test_data.xls,http://data.wennigsen.net/Test_data.xls ,XLS,"Übersicht offener Datensätze, Metadaten",,,,,,,,,,,,,,,,,,,,,,,,,x,,
+b,wennigsen.net,,Gruener_Faden.gpx,http://data.wennigsen.net/Gruener_Faden.gpx,GPX,,,,,,,,,,x,,,,,,,,x,,,,,,,,,,
+b,wennigsen.net,,Gruene_Kette.gpx,http://data.wennigsen.net/Gruene_Kette.gpx,GPX,,,,,,,,,,x,,,,,,,,x,,,,,,,,,,
+g,wennigsen.net,,Test_data.xls,http://data.wennigsen.net/Test_data.xls ,XLS,"Übersicht offener Datensätze, Metadaten",,,,,,,,,,,,,,,,,,,,,,,,,x,,
 d,wennigsen.net,,Oeffnungszeiten_Buergebuero.csv,http://data.wennigsen.net/Oeffnungszeiten_Buergebuero.csv,CSV,Öffnungszeiten des Bürgerbüros,2013,CC BY,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,x,,Verwaltung
 d,wennigsen.net,,Oeffnungszeiten_Standesamt.csv,http://data.wennigsen.net/Oeffnungszeiten_Standesamt.csv,CSV,Öffnungszeiten des Standesamt,2013,CC BY,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,x,,Verwaltung
 d,wennigsen.net,,Oeffnungszeiten_Zulassungsstelle.csv,http://data.wennigsen.net/Oeffnungszeiten_Zulassungsstelle.csv,CSV,Öffnungszeiten der Zulassungsstelle,2013,CC BY,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,x,,Verwaltung
