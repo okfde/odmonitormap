@@ -145,7 +145,15 @@ var showCity = function(city, data, count) {
     html.push('<li><a class="open-list" href="#">' + x[0] + ': ' + x[1] + '</a><ul style="display:none">');
     _.each(data, function(d){
       if (d[x[0]] && d.Format) {
-        html.push('<li><a href="' + d['URL Datei'] + '">' + d['Dateibezeichnung'] + ' (' + d.Format + ')</a></li>');
+        var link = $.trim(d['URL Datei']);
+        var parent = $.trim(d['URL PARENT']);
+        if (link.length == 0) {
+          if (parent.length != 0) {
+            link = parent;
+          }
+          else return; //=continue
+        }
+        html.push('<li><a href="' + link + '">' + d['Dateibezeichnung'] + ' (' + d.Format + ')</a></li>');
       }
     });
     html.push('</ul></li>');
@@ -193,7 +201,17 @@ var showSearchResults = function(filter) {
     _.each(finalData, function(citydataset, key) {
       rstr += '<h3>' + key + '</h3>'
       _.each(citydataset, function(dataset) {
-        rstr += '<a href="' + dataset['URL Datei'] + '">' + dataset['Dateibezeichnung'] + '</a><br>';
+        //This code is a copy of that above, but it will all
+        //be removed soon as the data will be preprocessed
+        var link = $.trim(dataset['URL Datei']);
+        var parent = $.trim(dataset['URL PARENT']);
+        if (link.length == 0) {
+          if (parent.length != 0) {
+            link = parent;
+          }
+          else return; //=continue
+        }
+        rstr += '<a href="' + link + '">' + dataset['Dateibezeichnung'] + '</a><br>';
       });
     });
   }
@@ -201,6 +219,16 @@ var showSearchResults = function(filter) {
     finalData = _.sortBy(finalData, 'Dateibezeichnung');
     finalData = _.sortBy(finalData, 'Stadtname');
     _.each(finalData, function(dataset) {
+        //This code is a copy of that above, but it will all
+        //be removed soon as the data will be preprocessed
+        var link = $.trim(dataset['URL Datei']);
+        var parent = $.trim(dataset['URL PARENT']);
+        if (link.length == 0) {
+          if (parent.length != 0) {
+            link = parent;
+          }
+          else return; //=continue
+      }
       rstr += '<a href="' + dataset['URL Datei'] + '">' + dataset['Dateibezeichnung'] + '</a><br>';
     });
   }
