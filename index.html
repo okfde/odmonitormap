@@ -38,7 +38,7 @@
             <li class="active"><a href="#start" data-toggle="tab">Start</a></li>
             <li><a href="#projekt" data-toggle="tab">Projekt</a></li>
             <li><a href="#karte" data-toggle="tab" id="kartetablink">Karte</a></li>
-            <li><a href="#statistik" data-toggle="tab">Statistik</a></li>
+            <li><a href="#berichte" data-toggle="tab">Berichte</a></li>
             <li><a href="#suche" data-toggle="tab">Suche</a></li>
           </ul>
         </div><!--/.nav-collapse -->
@@ -108,15 +108,29 @@
             </div>
           </div>
         </div>
-        <div class="tab-pane" id="statistik">
+        <div class="tab-pane" id="berichte">
           <div class="row">
             <div class="overlay col-md-12">
               <div class="page-header">
-                <h1>Statistik</h1>
+                <h1>Berichte</h1>
               </div>
-              <p class="lead totals">
+              <h2>Aktueller Datenbestand</h2>
+              <p class="totals">
               </p>
-              Weitere Angaben in Vorbereitung.
+              <h2>Veröffentlichungen, Präsentation und Blog Posts</h2>
+              <p>Kubicek, Herbert; Lippa, Barbara; Dietrich, Daniel; Fullerton, Matthew: <a href="http://www.ifib.de/publikationsdateien/ifib-okf_DACHLI_2014_final.pdf">Hinter den Leuchttürmen - Auf dem Weg zu einer möglichst vollständigen Erfassung von kommunalen OGD-Angeboten - Werkstattbericht aus dem ifib/OKF-Projekt "Open Data Monitor"</a>. OGD - D-A-CH-LI-Konferenz, 6./7. August 2014 in Friedrichshafen (2014)</p>
+              <p>Kubicek, Herbert: <a href="http://www.ifib.de/blog/index.php/site/comments/damit_offene_daten_besser_gefunden_werden/">Damit offene Daten besser gefunden werden</a>. Ifib-Blog 8.8.2014
+              </p>
+              <h2>Quellcode</h2>
+              <p>Das Quellcode für die Suche mittels Bing, Crawling (siehe Unten) und Auslesen vielen Datenkatalogen liegt auf <a href="http://www.github.com/okfde/odm-datenerfassung">GitHub</a>. Alle sind herzlich eingeladen, an Verbesserungen mitzuarbeiten!</p> 
+              <h3>Crawling</h3>
+              Wenn Sie selbst Web-Seiten nach OGD-Formaten durchsuchen wollen oder als  Betreiber eines OGD Portals sehen wollen, ob es auf anderen Web-Seiten Ihrer Organisation noch OGD-Angebote gibt, die nicht in Ihrem Katalog registriert sind, kann man ein Web-<em>Crawler</em> einsetzen. Ein Crawler startet in der Regel auf der Hauptseite und folgt alle gefunden Links weiter. Wir untersuchen herunterzuladene Dateien als auch alle Links auf alle HTML-Seiten. Wir testen gerade drei verschiedene Arten von Crawls:
+              <ol>
+              <li>Eigenes Crawler anhand des <a href="http://www.scrapy.org">Scrapy</a>-Frameworks: liefert Ergebnisse kontinuerlich sobald gefunden</li>
+              <li>Kompletten Crawls mittels Heritrix Engine (das gleiche Software, das hinter <a href="http://www.archive.org">archive.org</a> steht), die anschließend oder währenddessen nach OGD Inhalt gesucht werden</li>
+              <li>Kompletten Crawls von <a href="http://commoncrawl.org/">dem Common Crawl Corpus</a>, die heruntergeladen wird und anschließend nach OGD Inhalt gesucht wird</li>
+              </ol>
+              An den dabei gemachten Erfahrungen sind wir sehr interessiert. Bei Optionen 1 & 2 gilt: man muss bei größeren Web-Angeboten viel Zeit im Kauf nehmen (in den Rahmen 1-2 Wochen). Wir werden uns in den nächsten Wochen fester an einem Verfahren legen und genauere Hinweise und Tips dafür geben. Tiefer technische Details werden auch auf <a href="http://www.github.com/okfde/odm-datenerfassung">GitHub</a> veröffentlicht.
             </div>
           </div>
         </div>
