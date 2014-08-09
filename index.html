@@ -124,11 +124,11 @@
               <h2>Quellcode</h2>
               <p>Der Quellcode für die Suche mittels Bing, Crawling (siehe Unten) und Auslesen von Datenkatalogen liegt auf <a href="http://www.github.com/okfde/odm-datenerfassung">GitHub</a>. Alle sind herzlich eingeladen, an Verbesserungen mitzuarbeiten!</p> 
               <h3>Crawling</h3>
-              Wenn Sie selbst Web-Seiten nach OGD-Formaten durchsuchen wollen oder als  Betreiber eines OGD Portals sehen wollen, ob es auf anderen Web-Seiten Ihrer Organisation noch OGD-Angebote gibt, die nicht in Ihrem Katalog registriert sind, kann man ein Web-<em>Crawler</em> einsetzen. Ein Crawler startet in der Regel auf der Hauptseite und folgt allen gefunden Links. Wir untersuchen herunterzuladene Dateien als auch alle Links auf HTML-Seiten. Im Moment testen wir drei verschiedene Arten von Crawls:
+              Wenn Sie selbst Web-Seiten nach OGD-Formaten durchsuchen wollen oder als  Betreiber eines OGD Portals sehen wollen, ob es auf anderen Web-Seiten Ihrer Organisation noch OGD-Angebote gibt, die nicht in Ihrem Katalog registriert sind, kann man einen Web-<em>Crawler</em> einsetzen. Ein Crawler startet in der Regel auf der Hauptseite und folgt allen gefunden Links. Wir untersuchen herunterzuladene Dateien als auch alle Links auf HTML-Seiten. Im Moment testen wir drei verschiedene Arten von Crawls:
               <ol>
-              <li>Eigene Crawler anhand des <a href="http://www.scrapy.org">Scrapy</a>-Frameworks: liefert Ergebnisse kontinuerlich sobald gefunden</li>
-              <li>Komplette Crawls mittels Heritrix Engine (die gleiche Software, die hinter <a href="http://www.archive.org">archive.org</a> steht), dessen Ergebnis dann nach OGD Inhalten durchsucht wird</li>
-              <li>Kompletten Crawls von <a href="http://commoncrawl.org/">dem Common Crawl Corpus</a>, die heruntergeladen wird und anschließend nach OGD Inhalt gesucht wird</li>
+              <li>Einen eigenen Crawler anhand des <a href="http://www.scrapy.org">Scrapy</a>-Frameworks: liefert Ergebnisse kontinuerlich sobald gefunden</li>
+              <li>Komplette Crawls mittels Heritrix Engine (die gleiche Software, die hinter <a href="http://www.archive.org">archive.org</a> steht), deren Ergebnisse dann nach OGD Inhalten durchsucht wird</li>
+              <li>Komplette Crawls von <a href="http://commoncrawl.org/">dem Common Crawl Corpus</a>, deren Ergebnisse heruntergeladen wird und anschließend nach OGD Inhalt durchsucht wird</li>
               </ol>
               An den dabei gemachten Erfahrungen sind wir sehr interessiert. Bei Optionen 1 & 2 gilt: man muss bei größeren Web-Angeboten viel Zeit in Kauf nehmen (ca. 1-2 Wochen). Wir werden uns in den nächsten Wochen auf ein Verfahren fokusieren und dann genauere Hinweise und Tips bereitstellen. Tiefere technische Details werden auch auf <a href="http://www.github.com/okfde/odm-datenerfassung">GitHub</a> veröffentlicht.
             </div>
