@@ -270,7 +270,9 @@ var getCityContent = function(city, marker, map) {
         
         var emailContent = "";
         if (city['Kontakt Mail'] !== undefined) emailContent = "<li>Kontakt: <a href=\"mailto:"+city['Kontakt Mail']+"\">"+city['Kontakt Mail']+"</a></li>";
-        marker.bindPopup('<h2>' + city.Stadtname + '</h2><ul><li><a href=\"' + city.DOMAIN + '\">' + city.DOMAIN + '</a></li><li>' + count + ' Datensätze' + emailContent + '</ul>', {
+        var opendataportal = "";
+        if (city['Open Data Portal'] !== undefined) opendataportal = "<br>Open Data: <a href=\""+city['Open Data Portal']+"\">"+city['Open Data Portal']+"</a>";
+        marker.bindPopup('<h2>' + city.Stadtname + '</h2><ul><li>' + count + ' Datensätze' + emailContent + '</ul>Portal: <a href=\"' + city.DOMAIN + '\">' + city.DOMAIN + '</a>' + opendataportal, {
           maxHeight: windowHeight
         }).on('popupopen', function() {
           $('#infobox').html(showCity(city, data, count));
