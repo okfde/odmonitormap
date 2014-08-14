@@ -81,7 +81,8 @@ function submitSearch(e) {
     Stadtname: $('#searchCity').val(), 
     Kategorien: $('#searchCategory').val(), 
     Lizenzen: $('#searchLicence').val(), 
-    Formate: $('#searchFormat').val()
+    Formate: $('#searchFormat').val(),
+    Quellen: $('#searchSource').val() 
   };
   
   $('#searchResults').html(showSearchResults(filter));
@@ -185,13 +186,19 @@ var showSearchResults = function(filter) {
       && _.find(filter['Formate'], function (val) {
         return (entry['Format'].toLowerCase().indexOf(val) > -1);
       })
+      && _.find(filter['Quellen'], function (val) {
+        console.log(entry);
+        return (entry['Quelle'].toLowerCase().indexOf(val) > -1);
+      })
     );
   });
   var rstr = "<ul>";
   if (finalData.length == 0) {
     if (trimmedCity == "") rstr += "<li>Bitte eine Gemeinde angeben</li>";
     if (filter['Kategorien'].length == 0) rstr += "<li>Bitte mindestens eine Kategorie angeben</li>";
-    if (filter['Formate'].length == 0) rstr += "<li>Bitte mindestens eine Dateiformat angeben</li>";
+    if (filter['Formate'].length == 0) rstr += "<li>Bitte mindestens einen Dateiformat angeben</li>";
+    if (filter['Quellen'].length == 0) rstr += "<li>Bitte mindestens eine Quelle angeben</li>";
+    if (filter['Lizenzen'].length == 0) rstr += "<li>Bitte mindestens einen Lizenz angeben</li>";
   }
   rstr += "</ul>";
   rstr += "<br />Suche ergab " + finalData.length + " Treffer<br><br>";
