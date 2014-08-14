@@ -9,9 +9,7 @@ d,wennigsen.net,,Fahrradstellplaetze.csv,http://data.wennigsen.net/2013_02_09_Fa
 d,wennigsen.net,,Finanzhaushalt.csv,http://data.wennigsen.net/2013_02_09_Finanzhaushalt.csv,CSV,Finanzhaushalt,2011-2012,CC BY,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung
 d,wennigsen.net,,geburten_sterbefaelle_ehe.csv,http://data.wennigsen.net/2013_02_09_geburten_sterbefaelle_ehe.csv,CSV,Geburten-und Sterbefälle,1940-2012,CC BY,,Gemeinde Wennigsen (Deister),,x,,,,,,,,,,,,,,,,,,,,,Verwaltung
 d,wennigsen.net,,groesse_gemeindegebiet.csv,http://data.wennigsen.net/2013_02_09_groesse_gemeindegebiet.csv,CSV,Größe des Gemeindegebiets,2002-2012,CC BY,,Gemeinde Wennigsen (Deister),,,,,x,,,,,,,,,,,,,,,,,,Verwaltung
-b,wennigsen.net,,Gruene_Kette.gpx,http://data.wennigsen.net/Gruene_Kette.gpx,GPX,,,CC BY,,,,,,,x,,,,,,,,x,,,,,,,,,,
 d,wennigsen.net,,Gruene_Kette.gpx,http://data.wennigsen.net/Gruene_Kette.gpx,GPX,,2013,CC BY,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,,,Verwaltung
-b,wennigsen.net,,Gruener_Faden.gpx,http://data.wennigsen.net/Gruener_Faden.gpx,GPX,,,CC BY,,,,,,,x,,,,,,,,x,,,,,,,,,,
 d,wennigsen.net,,Gruener_Faden.gpx,http://data.wennigsen.net/Gruener_Faden.gpx,GPX,,2013,CC BY,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,,,Verwaltung
 d,wennigsen.net,,Hundesteuer.csv,http://data.wennigsen.net/2013_02_09_Hundesteuer.csv,CSV,Hundesteuer (jährlich),2002-2012,CC BY,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung
 d,wennigsen.net,,Kanalbaubeitraege.csv,http://data.wennigsen.net/2013_02_09_Kanalbaubeitraege.csv,CSV,Kanalbaubeiträge,2002-2012,CC BY,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,x,,,,,,,,Verwaltung
@@ -29,7 +27,9 @@ d,wennigsen.net,,Schuldenstand.csv,http://data.wennigsen.net/2013_02_09_Schulden
 d,wennigsen.net,,sitzungen_gremien.csv,http://data.wennigsen.net/2013_02_09_sitzungen_gremien.csv,CSV,Gremien Sitzungen,2002-2012,CC BY,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,x,,,,,,,Verwaltung
 d,wennigsen.net,,Steuersaetze.csv,http://data.wennigsen.net/2013_02_09_Steuersaetze.csv,CSV,Steuersätze,2002-2012,CC BY,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung
 d,wennigsen.net,,Test_data.xls,http://data.wennigsen.net/Test_data.xls,XLS,Metadatenkatalog - Beschreibung der Datensätze,2013,CC BY,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,x,,
-g,wennigsen.net,,Test_data.xls,http://data.wennigsen.net/Test_data.xls,XLS,"Übersicht offener Datensätze, Metadaten",,CC BY,,,,,,,,,,,,,,,,,,,,,,,x,,
 d,wennigsen.net,,Vergnuegungssteuer.csv,http://data.wennigsen.net/2013_02_09_Vergnuegungssteuer.csv,CSV,Vermögenssteuer,2002-2012,CC BY,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung
 d,wennigsen.net,,Vermoegenshaushalt.csv,http://data.wennigsen.net/2013_02_09_Vermoegenshaushalt.csv,CSV,Vermögenshaushalt,2002-2010,CC BY,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung
 d,wennigsen.net,,Verwaltungshaushalt.csv,http://data.wennigsen.net/2013_02_09_Verwaltungshaushalt.csv,CSV,Verwaltungshaushalt,2002-2010,CC BY,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung
+g,wennigsen.net,,Test_data.xls,http://data.wennigsen.net/Test_data.xls,XLS,"Übersicht offener Datensätze, Metadaten",,CC BY,,,,,,,,,,,,,,,,,,,,,,,x,,
+b,wennigsen.net,,Gruene_Kette.gpx,http://data.wennigsen.net/Gruene_Kette.gpx,GPX,,,CC BY,,,,,,,x,,,,,,,,x,,,,,,,,,,
+b,wennigsen.net,,Gruener_Faden.gpx,http://data.wennigsen.net/Gruener_Faden.gpx,GPX,,,CC BY,,,,,,,x,,,,,,,,x,,,,,,,,,,
