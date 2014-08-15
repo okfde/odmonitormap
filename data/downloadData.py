@@ -2,6 +2,8 @@
 import urllib
 import unicodecsv as csv
 import os
+import subprocess
+import time
 
 validsources = ('m', 'd', 'c', 'g', 'b')
 
@@ -20,41 +22,73 @@ def reformatdata(file):
                 exit()
             else:
                 if source not in dictsdata:
-                    dictsdata[source] = [] #Array of dicts
+                    dictsdata[source] = []
                     totals[source]= 0
                 dictsdata[source].append(row)
             
-    alldata = []
+    takenrows = dict()
+    filenameswhereparents = [] #Exclude google/bing results based on url from crawler (where we do have parents)
     
     #We go through in a prioritized order - manual, catalog, etc.
     for source in validsources:
         if source in dictsdata:
+            print 'Processing source: ' + source
             for row in dictsdata[source]:
+                rowtoadd = None
+                basedon = None
+                theurl = ''
+                           
                 parent = row['URL PARENT'].strip()
                 url = row['URL Datei'].strip()
+                
+                print 'Processing entry with parent [' + parent +'] and url [' + url + ']'
+                
                 if url != '':
                     filename = url.split('/')[-1]
                 else: filename = ''
             
                 #Parents are always favoured and should be unique
-                rowtoadd = []
                 if parent != '':
-                    if parent not in alldata:
+                    if parent not in takenrows:
+                        print 'Adding based on parent [' + parent +'] (filename is [' + filename + '])'
+                        basedon = parent
+                        theurl = parent
+                        if filename != '':
+                            filenameswhereparents.append(filename)
                         rowtoadd = row
-                elif url != '':
-                    if url not in alldata:
+                    else: print 'Not adding: parent already there'
+                elif filename != '':
+                    #URLs are messy. Sometimes they are relative (should have been repaired earlier
+                    #in the chain, but wasn't) and multiple URLs lead to the same file... throw away based on filename
+                    if filename not in takenrows and filename not in filenameswhereparents:
+                        print 'Adding based on filename [' + filename +'] (parent is [' + parent + '])'
+                        basedon = filename
+                        theurl = url
                         rowtoadd = row
+                    else: print 'Not adding: filename already there'
                 else:
-                    print 'Parent and URL are blank in a row in ' + file + '!'
+                    print 'Parent and filename are blank in a row in ' + file + '!'
                     exit()
             
-                totals[source] += 1
-                alldata.append(row)
+                if (rowtoadd != None):
+                    print 'Adding.'
+                    totals[source] += 1
+                    try:
+                        del rowtoadd['URL Datei']
+                        del rowtoadd['URL PARENT']
+                    except:
+                        print rowtoadd
+                        exit()
+                    rowtoadd['URL'] = theurl
+                    takenrows[basedon] = rowtoadd
     
     with open(file, 'wb') as csvfile:
+        del fields[fields.index('URL Datei')]
+        del fields[fields.index('URL PARENT')]
+        fields.append('URL')
         datawriter = csv.DictWriter(csvfile, fields, delimiter=',')
         datawriter.writeheader()
-        for row in alldata:
+        for row in takenrows.values():
             datawriter.writerow(row)
     
     return totals
@@ -91,6 +125,16 @@ with open('index.csv', 'rb') as csvfile:
               print "Downloading data for " + row[kurznamecolumn] + " using url " + durl + "..."
               urllib.urlretrieve (durl, row[kurznamecolumn] + ".csv");
               totals = reformatdata(row[kurznamecolumn] + ".csv")
+              
+              #Did the file actually change? Requires everything to be inside a git repo,
+              #and assumes the files were not in the modified state before
+              p = subprocess.Popen(['git', 'status', row[kurznamecolumn] + ".csv"], stdout=subprocess.PIPE)
+              out = p.communicate()
+
+              #This is only a partial solution... other rows will have blank entries
+              if 'modified:' in str(out):
+                  row['modified'] = time.strftime("%d.%m.%Y")
+              
               for source in validsources:
                   if source in totals:
                       row['sourced-from-'+source] = totals[source]

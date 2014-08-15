@@ -139,7 +139,7 @@ var showCity = function(city, data, count) {
   sortedCategories = sortedCategories.reverse();
   var html = [];
   html.push('<h2>' + city.Stadtname + '</h2>');
-  html.push('<p>Datensätze gesamt: ' + count + '</p>');
+  html.push('<p>Datensätze gesamt: ' + count + ' (Stand: ' + city.modified + ')</p>');
   html.push('<p><strong>Quellen</strong><br>Datenkatalog: ' + city['sourced-from-d'] + '<br>Crawl: ' + city['sourced-from-c'] + '<br>Google: ' + city['sourced-from-g'] + '<br>Bing: ' + city['sourced-from-b'] + '<br>Manuell: ' + city['sourced-from-m']);
   html.push('<h3>Themen</h3>');
   html.push('<ul>');
@@ -147,15 +147,7 @@ var showCity = function(city, data, count) {
     html.push('<li><a class="open-list" href="#">' + x[0] + ': ' + x[1] + '</a><ul style="display:none">');
     _.each(data, function(d){
       if (d[x[0]] && d.Format) {
-        var link = $.trim(d['URL Datei']);
-        var parent = $.trim(d['URL PARENT']);
-        if (link.length == 0) {
-          if (parent.length != 0) {
-            link = parent;
-          }
-          else return; //=continue
-        }
-        html.push('<li><a href="' + link + '">' + d['Dateibezeichnung'] + ' (' + d.Format + ')</a></li>');
+        html.push('<li><a href="' + $.trim(d['URL']) + '">' + d['Dateibezeichnung'] + ' (' + d.Format + ')</a></li>');
       }
     });
     html.push('</ul></li>');
@@ -209,17 +201,7 @@ var showSearchResults = function(filter) {
     _.each(finalData, function(citydataset, key) {
       rstr += '<h3>' + key + '</h3>'
       _.each(citydataset, function(dataset) {
-        //This code is a copy of that above, but it will all
-        //be removed soon as the data will be preprocessed
-        var link = $.trim(dataset['URL Datei']);
-        var parent = $.trim(dataset['URL PARENT']);
-        if (link.length == 0) {
-          if (parent.length != 0) {
-            link = parent;
-          }
-          else return; //=continue
-        }
-        rstr += '<a href="' + link + '">' + dataset['Dateibezeichnung'] + '</a><br>';
+        rstr += '<a href="' + $.trim(dataset['URL']) + '">' + dataset['Dateibezeichnung'] + '</a><br>';
       });
     });
   }
@@ -227,17 +209,7 @@ var showSearchResults = function(filter) {
     finalData = _.sortBy(finalData, 'Dateibezeichnung');
     finalData = _.sortBy(finalData, 'Stadtname');
     _.each(finalData, function(dataset) {
-        //This code is a copy of that above, but it will all
-        //be removed soon as the data will be preprocessed
-        var link = $.trim(dataset['URL Datei']);
-        var parent = $.trim(dataset['URL PARENT']);
-        if (link.length == 0) {
-          if (parent.length != 0) {
-            link = parent;
-          }
-          else return; //=continue
-      }
-      rstr += '<a href="' + dataset['URL Datei'] + '">' + dataset['Dateibezeichnung'] + '</a><br>';
+      rstr += '<a href="' + $.trim(dataset['URL']) + '">' + dataset['Dateibezeichnung'] + '</a><br>';
     });
   }
   
