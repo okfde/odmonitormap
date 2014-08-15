@@ -19,7 +19,12 @@
     <!--[if lte IE 8]>
     <link rel="stylesheet" href="vendor/leaflet.markercluster/MarkerCluster.Default.ie.css" />
     <![endif]-->
-  </head>
+    <style>
+      .labelClass {
+        background-color: rgba(255,255,255,0.8);;
+      }
+    </style>
+    </head>
 
   <body>
     <div class="navbar navbar-default navbar-static-top" role="navigation">
@@ -57,41 +62,65 @@
               <p class="lead">
                 Ein Projekt des Instituts für Informationsmanagement Bremen (ifib) und der Open Knowledge Foundation Deutschland, mit finanzieller Unterstützung der Bundeszentrale für politische Bildung.
               </p>
-              Von Mai bis Dezember 2014 werden verschiedene Wege zur Gewinnung eines  möglichst vollständigen Überblicks über die Angebote offener Daten aller deutschen Gebietskörperschaften erprobt und hinsichtlich des Erhebungsaufwands und der Qualität der Ergebnisse verglichen.  Auf den Erfahrungen aus diesem ersten Schritt aufbauend soll ein Konzept für ein permanentes Angebot entwickelt werden. In einem zweiten Schritt soll dann die Nutzungsorientierung kontinuierlich verbessert werden.<br /><br />
-              Diese Seiten stellen den stets aktuellen Entwicklungsstand der Präsentation der schrittweise gesammelten Daten über eine Deutschland-Karte und eine Suchfunktion mit verschiedenen Filtern dar.
+              <p>Auf diesen Seiten erhalten Sie einen stets aktuellen Einblick in die laufende Arbeit eines Projekts, das versucht, einen Überblick über die Angebote offener Verwaltungsdaten (englisch Open Government Data oder kurz OGD) in Deutschland unter besonderer Berücksichtigung der kommunalen Ebene zu erstellen.
+</p><p>
+Der Prototyp des gemeinsamen Datenportals für Deutschland <a href="http://www.govdata.de/">govdata.de</a> erfasst zwar die Bundes- und Landesebene relativ gut. Bisher haben dort aber nicht einmal 30 Städte ihre OGD-Angebote registriert. Und es ist nicht möglich, für ein bestimmtes Themengebiet festzustellen, welche Kommunen dazu offene Daten anbieten. Genau dies aber möchten Journalisten, Wissenschaftler, Studierende und auch App Entwickler gerne wissen, um die Angebote verschiedener Städte zu einem Thema nutzen und insbesondere vergleichen zu können.
+</p><p>
+Die Erfahrung zeigt, dass eine weitgehende Vollständigkeit eines Portals nicht zustande kommt, wenn man reaktiv wartet, bis sich potenzielle Datenlieferanten melden und registrieren. Wenn man einen guten Überblick schaffen will, muss man auch in diesem Fall pro-aktiv nach OGD-Angeboten suchen und diese selbst aufbereiten und u.a. Themengebieten zuordnen. Dies ist mit erheblichem Aufwand verbunden, den bisher niemand zu leisten bereit war.
+</p><p>
+Dieser Aufwand ist vor allem deswegen so groß, weil nur ein Teil der kommunalen Datenportale strukturierte Datenkataloge hat und diese mangels Standardisierung auch nicht unmittelbar vergleichbar sind. Mit einer finanziellen Unterstützung der Bundeszentrale für politische Bildung kann nun erprobt werden, wie ein möglichst vollständiger Überblick über kommunale OGD-Angebote mit einer thematischen Aufschlüsselung erstellt werden kann. Dazu müssen angesichts der Vielfältigkeit der kommunalen Angebote unterschiedliche Werkzeuge eingesetzt und schrittweise verfeinert werden. 
+</p><p>
+Wir geben hier einen Einblick in eine Werkstatt, in der noch heftig geschraubt wird.
+</p><p>
+Mehr zum Hintergrund, Ansatz und den Perspektiven des Projekts finden Sie <a href="#projekt" data-toggle="tab">hier</a>.
+</p><p>
+Bitte beachten Sie die Erläuterungen zu den Zahlenangaben bei der <a href="#karte" data-toggle="tab" id="kartetablink">Karte</a>.
+</p><p>
+Die eingesetzten Methoden und die damit gemachten Erfahrungen werden in <a href="#berichte" data-toggle="tab">Berichten</a> dokumentiert.
+</p><p>
+Wir prüfen die automatisch generierten Angaben manuell, können aber weder Vollständigkeit noch Korrektheit garantieren und sind auf Feedback angewiesen. Wenn Sie Fehler feststellen oder Ergänzungen vorschlagen wollen, können Sie dies zu jedem erfaßten Angebot direkt machen.
+</p><p>
+Wenn Sie Fragen oder Kommentare zum Projekt insgesamt haben, teilen Sie uns diese bitte über <a href='mailto:matt.fullerton@okfn.de'>Email</a> mit.</p>
             </div>
           </div>
         </div>
         <div class="tab-pane" id="projekt">
           <div class="row">
             <div class="overlay col-md-12">
-              <div class="page-header">
-                <h1>Ziel des Vorhabens</h1>
-              </div>
-              Ziel ist es, einen möglichst vollständigen Überblick über alle Angebote offener Daten von möglichst allen Stellen im öffentlichen Sektor in Deutschland (11.191 Gemeinden, mehrere Dutzend Landesbehörden pro Bundesland, Bundesbehörden und öffentliche Unternehmen auf allen drei Ebenen) zu erhalten und mit einer noch näher zu bestimmenden thematischen Zuordnung und Beschreibungstiefe auf einer Online-Landkarte darzustellen.<br /><br />
-              Adressaten sind in erster Linie Studierende, Wissenschaftler und Journalisten sowie App-Entwickler.<br /><br /> 
-              Da sich das Gebiet noch in der Entwicklung befindet und u.a. mit einer Zunahme von Datenjournalisten zu rechnen ist, soll die Entwicklung der Angebote in einem jährlichen Statusbericht (Monitoringbericht) dokumentiert werden.
-              <div class="page-header">
-                <h1>Ansatz</h1>
-              </div>
-              Wenn Wissenschaftler, Studierende oder Journalisten zu einem Thema mit kommunalem Bezug auf offene Daten zugreifen wollen, gibt es heute keinen ein-fachen und zuverlässigen Weg um festzustellen, welche Kommunen offene Daten zu dem jeweiligen Themengebiet anbieten. Dies liegt daran, dass es keine einfache und erst recht keine automatisierte Methode gibt, um Angebote der über 11.000 Kommunen zu finden und thematisch zuzuordnen.<br /><br />
-              Der Ansatz des Projektes besteht darin, insgesamt vier Methoden parallel einzusetzen und hinsichtlich des Aufwands sowie der Qualität der Ergebnisse zu vergleichen. Diese Qualität wird in den für das Information Retrieval üblichen Kriterien Precision und Recall betrachtet, d.h. einerseits wie treffgenau sind die gelieferten Ergebnisse (wie viele Fundstellen sind echte Treffer und wie viele nicht), und andererseits wie viele zutreffenden Objekte wurden von einer Methode nicht gefunden, die eine andere entdeckt hat.
-              Verglichen werden die Ergebnisse<br /><br />
+                <h2>Ziel des Vorhabens</h2>
+              <p>Ziel dieses Projektes ist es, herauszuzfinden, wie man mit vertrebarem Aufwand einen möglichst vollständigen Überblick über die Angebote offener Daten von möglichst vielen Stellen im öffentlichen Sektor in Deutschland (11.191 Gemeinden, mehrere Dutzend Landesbehörden pro Bundesland, Bundesbehörden und öffentliche Unternehmen auf allen drei Ebenen) zu verschiedenen Themengebieten gewinnen und nutzergerecht durchsuchbar machen kann.
+</p><p>
+Adressaten sind in erster Linie Studierende, Wissenschaftler und Journalisten sowie App-Entwickler, die wissen wollen, welche Gebietskörperschaften Offene Daten zu einem bestimmten Themengebiet anbieten.</p>
+                <h2>Anlass: Kein Überblick über kommunale Angebote</h2>
+              <p>Wenn Wissenschaftler, Studierende oder Journalisten zu einem Thema mit kommunalem Bezug auf offene Daten zugreifen wollen, gibt es heute keinen einfachen und zuverlässigen Weg um festzustellen, welche Kommunen offene Daten zu dem jeweiligen Themengebiet anbieten. Auch viele App Entwickler wollen Apps mit Daten aus mehreren Städten erstellen und müssen diese einzeln abfragen.
+</p><p>
+Der Prototyp des gemeinsamen Datenportals für Deutschland <a href="http://www.govdata.de/">govdata.de</a> erfasst zwar die Bundes- und Landesebene relativ gut. Bisher haben dort aber nicht einmal 30 Städte ihre OGD-Angebote registriert. Und es ist nicht möglich, für ein bestimmtes Themengebiet festzustellen, welche Kommunen dazu offene Daten anbieten.
+</p><p>
+Dies liegt daran, dass es keine einfache und erst recht keine automatisierte Methode gibt, um Angebote der über 11.000 Kommunen zu finden und thematisch zuzuordnen.
+</p><p>
+Nach der reinen OGD-Lehre sollte es einfach sein: Ein kommunales OGD Angebot einer Stadt sollte über einen strukturierten Datenkatalog mit vollständig ausgefüllten Metadaten verfügen, die über eine API auslesbar sind. Ein zentrales Meta-Portal könnte dann diese Kataloge auslesen und die Ergebnisse integrieren.
+</p><p>
+Doch die reale OGD-Welt sieht anders aus. Nur wenige Datenportale haben Datenkataloge und diese sind sehr verschieden aufgebaut und die Metadaten von sehr unterschiedlicher Qualität.</p>
+                <h2>Ansatz: Pro-aktive Suche mit einer Kombination verschiedener Tools</h2>
+              Angesichts der großen Heterogenität der OGD-Angebote auf kommunaler Eben müssen zuerst geeignete Methoden zum Finden und Auswerten der OGD-Angebote entwickelt werden. Dies haben wir in den ersten drei Monaten für eine Auswahl von 12 Städten getan. Wir haben<br />
               <ul>
-                <li>einer Suche nach bestimmten Datenformaten gegen die Indices der Suchmaschinen Google und Bing über die Domänen der Städte und Gemeinden</li>
-                <li>eines selbst entwickelten Crawlers, der direkt auf den Web-Seiten der Städte und Gemeinden nach bestimmten Datenformaten sucht</li>
+                <li>vorhanden Datenkataloge ausgewertet</li>
+                <li>in den Indices der Suchmaschinen Google und Bing gesucht und</li>
+                <li>verschiedene Crawler entwickelt und direkt auf den Webseiten der Städte und Gemeinden nach bestimmten Datenformaten gesucht.</li>
               </ul>
-              mit anschließender manueller Prüfung, Bereinigung und thematischer Zuordnung mit<br /><br />
-              <ul>
-                </li>ggfs. vorhandenen Datenkatalogen,</li>
-                <li>den Ergebnissen einer Online-Erhebung bei allen Städten, Gemeinden und Landkreisen mit Unterstützung der kommunalen Spitzenverbände sowie</li>
-                <li>einer manuellen Suche auf den Webseiten für eine größere Kontrollgruppe von Städten und Gemeinden</li>
-              </ul>
-              <br /><br />
-              Auf der Basis dieser Erfahrungen soll bis Ende des Jahres ein Methodenmix bestimmt werden, der ein gutes Verhältnis von Aufwand und Qualität der Ergebnisse erwarten läßt.<br /><br />
-              Am Ende dieser ersten Aufbauphase sollen die Ergebnisse statistisch in einem Monitoringbericht zusammengefasst werden, der später jährlich oder halbjährlich fortgeschrieben werden könnte, um die Entwicklungen auf diesem Gebiet zu dokumentieren.
-              Erst in einer zweiten Projektphase soll die Benutzung durch die verschiedenen Zielgruppen systematisch optimiert und ein Betreibermodell entwickelt werden.<br /><br />
-              <a href="/img/bpbantrag.pdf">Projektantrag bei der Bundeszentrale für politische Bildung</a><br /><br />
+              Oft werden bei neu untersuchten Städte neue Anpassungen und Verfeinerungen erfordert. Und alle Treffer (außerhalb des Katalogs) müssen manuell geprüft werden, ob es sich um Offene Daten handelt und welchem Themengebiet sie zuzuordnen sind. Ein wesentliches Ziel dieses Projektes ist es, diese Tools schrittweise so zu verbessern, dass die manuelle Nachbearbeitung minimiert wird.
+
+                <h2>Erste Erkenntnisse</h2>
+
+<p>Die Erkennnisse aus der Sammlung und Auswertung der ersten 12 OGD-Angebote sind überblicksartig in einer <a href="http://www.ifib.de/publikationsdateien/ifib-okf_DACHLI_2014_final.pdf">Präsentation vom 6.8.2014</a> und ausführlich in einem technischen Bericht dokumentiert. Wir haben mit großem Aufwand und viel manueller Nachbearbeitung die Trefferlisten der verschiedenen Verfahren verglichen und festgestellt, dass sich diese nur teilweise decken. Google und Bing finden lange nicht alle Datensätze, die in einem Katalog enthalten sind. Und unsere Crawler finden auf anderen Seiten einer kommunalen Domain Datensätze, die nicht im Katalog derselben Stadt registriert sind. </p>
+<p>
+Daraus folgt die dringende Empfehlung, dass möglichst alle Portalbetreiber einen Datenkatalog einsetzen, der einen automatisierten Zugriff sowohl auf die Daten als auch die Metadaten mittels standartisierter Schnittstellen (JSON API, RSS sowie ein täglich aktualisier JSON Dump). Auch die Metadaten sollten vereinheitlicht und deren Qualität insgesamt verbessert werden. Darüber hinaus können Betreiber selbst mit einem Crawler die "wilden" Daten-Angebote auf anderen Seiten ihrer Stadt identifizieren und in das offizielle OGD-Angebot integrieren. Dabei sollten auch die Nutzungsbedingungen dieser außerhalb der Datenportale veröffentlichten Datensätze geklärt und explizit genannt werden.</p>
+
+<h2>Warum Förderung durch die Bundeszentrale für politische Bildung</h2>
+Diesen Aufwand für eine pro-aktive Suche und redaktionelle Prüfung kommunaler OGD Angebote war bisher niemand bereit zu leisten. Auf der Suche nach einer möglichen Förderung sind wir auf die Bundeszehtrale für politische Bildung gestoßen. Sie hat vor einigen Jahren schon einmal die Entwicklung einer Landkarte der Bürgerhaushalte in Deutschland finanziert (<a href="http://www.buergerhaushalt.org/de/map">http://www.buergerhaushalt.org/de/map</a>) und einen ähnlichen Bedarf nach einem Überblick über Offene Daten anerkannt. Wir bedanken uns für eine 50-prozentige Förderung des Aufwands für die Entwicklung unseres Prototypen. Projektantrag bei der Bundeszentrale für politische Bildung.
+<br><br><a href="/img/bpbantrag.pdf">Projektantrag bei der Bundeszentrale für politische Bildung</a>
+<h2>Keine Konkurrenz zu <a href="http://www.govdata.de/">govdata.de</a> und den Landesportalen</h2>
+Da die bpb zum Bereich des Bundesinnenministeriums gehört, das auch den Prototypen von <a href="http://www.govdata.de/">govdata.de</a> betreibt, ist die klare Vorgabe, dass kein neues Portal in Konkurrenz aufgebaut wird. Die Entwicklung unseres Prototypen ist ein Experiment, in dem ermittelt werden soll, wie die noch vorhandene Lücke auf der kommunalen Ebene mit möglichst geringem Aufwand geschlossen werden kann. Alle hier erfassten Datenangebote sollen später in <a href="http://www.govdata.de/">govdata.de</a> überführt werden oder in die jeweiligen Landesportale und von dort an <a href="http://www.govdata.de/">govdata.de</a> weitergereicht werden. Die Gelegenheit dazu bietet sich an, da <a href="http://www.govdata.de/">govdata.de</a> demnächst in den Regelbetrieb überführt werden soll, dazu neu ausgeschrieben wird und in Zukunft von einer neuen Geschäftsstelle geführt werden soll.
             </div>
           </div>
         </div>
@@ -99,9 +128,9 @@
           <div class="row">
             <div class="col-md-6" id="map"></div>
             <div class="overlay col-md-6">
-              <div class="page-header">
+              <!-- <div class="page-header">
                 <h1>Landkarte offener Daten</h1>
-              </div>
+              </div> -->
               <p class="lead totals">
               </p>
               <div id="infobox"></div>
@@ -329,9 +358,35 @@
         </p>
       </div>
     </div>
+    
+<!-- Modal -->
+<div class="modal fade" id="myModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Zu</span></button>
+        <h4 class="modal-title" id="myModalLabel">Quellen</h4>
+      </div>
+      <div class="modal-body">
+<p>Diese Angaben zu den Daten sind Näherungswerte, die aus verschiedenen Gründen nicht zwischen den Städten vergleichbar sind. Bei der Überprüfung der Zahlenangaben ist Folgendes zu beachten.</p>
+<p>
+Die genannte Anzahl der Datensätze pro Stadt oder Thema ist nur ein grober Näherungswert. Dieser taugt nicht für ein Benchmarking, zwischen den Kommunen, weil er von vielen Faktoren im Einzelfall abhängt, die nicht identisch sind.</p>
+<ol>
+<li>Wenn Städte einen OGD-Datenkatalog haben, weichen unsere Zahlen in der Regel von den dort automatisch generierten Zahlen ab. In den meisten Fällen zählt die Katalog-Software einen Datensatz, der mit dem selben Inhalt in drei verschiedenen Formaten angeboten wird, als drei verschiedene Datensätze. Wir bemühen uns, dies manuell zu korrigieren und nur inhaltlich unterschiedliche Datensätze zu zählen.</li>
+<li>In manchen Fällen werden Daten zu einem Thema sehr fein aufgeschlüsselt, z.B. Wahlergebnisse einer Wahl insgesamt und pro Wahlbezirk. Dies ist fachlich sinnvoll, bläht aber die Anzahl der Datensätze im Vergleich zu anderen Themen um ein Vielfaches auf, insbesondere wenn die Ergebnisse aller Wahlen in den letzten Jahren so differenziert angeboten werden. In solchen Fällen weisen wir nur die Parent URL (also die Seiten von denen die Datensätze verlinkt sind) aus.</li>
+<li>In anderen Fällen werden Daten zu verschiedenen Themen, wie in einem Statstischen Jahrbuch in einer einzigen grossen Datei zusammengefasst. Diese ordnen wir dann jedem betroffenen Themengebiet einmal zu, unabhängig davon, wie detailliert die Angaben zu den verschiedenen Themengebieten sind.</li>
+<li>Auch wenn es einen Datenkatalog gibt, durchsuchen wir die Webseiten einer Kommune mit einem eigenen Crawler und finden meistens Datensäte, die von Dientstellen selbst veröffentlicht werden, aber nicht in dem Katalog registriert worden sind.</li>
+<p>
+Technische Einzelheiten zu den Such- und Analyseverfahren finden Sie auf <a href="http://www.github.com/okfde/odm-datenerfassung/">Github</a>.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
 
     <!-- vendor -->
     <script type="text/javascript" src="vendor/leaflet/0.7.3/leaflet.js"></script>
+    <script type="text/javascript" src="vendor/leaflet.label/leaflet.label.js"></script>
     <script type="text/javascript" src="vendor/jquery/1.7.1/jquery.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="vendor/underscore/1.4.4/underscore.js"></script>

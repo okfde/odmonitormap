@@ -141,6 +141,7 @@ var showCity = function(city, data, count) {
   html.push('<h2>' + city.Stadtname + '</h2>');
   html.push('<p>Datensätze gesamt: ' + count + ' (Stand: ' + city.modified + ')</p>');
   html.push('<p><strong>Quellen</strong><br>Datenkatalog: ' + city['sourced-from-d'] + '<br>Crawl: ' + city['sourced-from-c'] + '<br>Google: ' + city['sourced-from-g'] + '<br>Bing: ' + city['sourced-from-b'] + '<br>Manuell: ' + city['sourced-from-m']);
+  html.push('<br><br><a href="#" data-toggle="modal" data-target="#myModal">Mehr über die Zahlen</a>');
   html.push('<h3>Themen</h3>');
   html.push('<ul>');
   _.each(sortedCategories, function(x){
@@ -252,10 +253,13 @@ var getCityContent = function(city, marker, map) {
         if (city['Kontakt Mail'] !== undefined) emailContent = "<li>Kontakt: <a href=\"mailto:"+city['Kontakt Mail']+"\">"+city['Kontakt Mail']+"</a></li>";
         var opendataportal = "";
         if (city['Open Data Portal'] !== '') opendataportal = "<br>Datenkatalog: <a href=\""+city['Open Data Portal']+"\">"+city['Open Data Portal']+"</a>";
-        marker.bindPopup('<h2>' + city.Stadtname + '</h2><ul><li>' + count + ' Datensätze' + emailContent + '</ul>Portal: <a href=\"' + city.DOMAIN + '\">' + city.DOMAIN + '</a>' + opendataportal, {
+        marker.bindPopup('<h2>' + city.Stadtname + '</h2><ul><li>' + count + ' Datensätze (Stand: ' + city.modified + ')' + emailContent + '</ul>Portal: <a href=\"' + city.DOMAIN + '\">' + city.DOMAIN + '</a>' + opendataportal, {
           maxHeight: windowHeight
         }).on('popupopen', function() {
           $('#infobox').html(showCity(city, data, count));
+        });
+        marker.bindLabel(city.Stadtname, {
+          className: 'labelClass'
         });
         console.log("Finished " + city.Stadtname);
         marker.addTo(map);
