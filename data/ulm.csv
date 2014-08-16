@@ -10,6 +10,7 @@ Ulm
 89073
 Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,http://daten.ulm.de/datenkatalog/metadaten/sportkennzahlen-statistisches-jahrbuch-2012
 c,ulm.de,"gpx und kml-Dateien (ZIP, 3 KB)",ZIP,Geodaten der Ulmer-Grillplätze,2012,nicht bekannt,,Stadt Ulm online,,,,,x,,,,,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"http://www.ulm.de/leben_in_ulm/ulmer_grillplaetze_fuer_gps_geraete_und_handys_zum_download.115290.3076,3665.htm"
+g,ulm.de,Zweitstimme_Endergebnis.xls,XLS,Endergebniss Zweitstimmen,,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.wahl.ulm.de/bt2013/Zweit/Zweitstimme_Endergebnis.xls
 c,ulm.de,"Ulmer Höhenweg: gpx-Datei (ZIP, 37 KB)",ZIP,Geodaten des Ulmer Höhenwegs,2013,nicht bekannt,,Stadt Ulm online,,,,,x,,,,,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"http://www.ulm.de/der_ulmer_hoehenweg.116407.3076,.htm"
 g,ulm.de,"Straftaten nach Deliktgruppen und Aufklärung (2011, xls)",XLS,Straftaten in Ulm nach Deliktgruppen,,nicht bekannt,,,,,,,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://daten.ulm.de/sites/default/files/JB2011_1601V.xls
 d,ulm.de,Gartenabfallplätze Stadt Ulm,Shape,Im Stadtgebiet Ulm gibt es 7 Gartenabfallplätze. Dieser Datensatz enthält nur den Namen und die Lage des jeweiligen Gartenabfallplatzes. Diese sind auch in maps.ulm.de in einer Karte dargestellt.,2013,CC-BY 3.0,,,,,,,,,,,,,,,,,x,,,,,,,,,"""Umweltschutz""","""Infrastruktur, Bauen und Wohnen""","""Versorgungswirtschaft und staatliche Dienste""",,2013-07-25T00:00:00,publication,18/10/2013,mapDigital,x,keine,license,,asNeeded,asNeeded,utilitiesCommunication,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
@@ -474,6 +475,7 @@ Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,Winfried Baum
 Ulm
 89073
 Germany",statistik@ulm.de,7311618882,731161808882,Point of Contact,http://daten.ulm.de/daten/single/bundestagswahl2013-karten
+g,ulm.de,Erststimme_Endergebnis.xls,XLS,Erststimmen Endergebnisse ,,nicht bekannt,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.wahl.ulm.de/bt2013/Erst/Erststimme_Endergebnis.xls
 g,ulm.de,Grimmelfingen,XLS,Liste von Bolz- und Geräteplätzen in Grimmelfingen,,nicht bekannt,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.ulm.de/sixcms/media.php/29/Grimmelfingen.xls
 d,ulm.de,"Stadtteile der Stadt Ulm, generalisiert",Shape,Dieser Datensatz enthält generalisierte Stadtteilgrenzen der Stadt Ulm. Diese sind insbesondere für die Erstellung thematischer Karten im DINA4 (Darstellungsmaßstab ca. 1:90.000) bzw. DINA3-Format geeignet.  Dieses Thema ist auch Bestandteil der Kartenanwendung maps.ulm.de.,2011,CC-BY 3.0,,,,,,,x,,,,,,,,,,,,,,,,,,,"""Geobasisdaten""","""Geographie, Geologie und Geobasisdaten""","""Statistische Einheiten"",""Verwaltungseinheiten""",,2011-08-8T00:00:00,publication,20/10/2013,mapDigital,x,keine,license,,asNeeded,asNeeded,boundaries,Lucia Erdt,ZS/T: Team IT,Stadt Ulm,"Frauenstraße 19
 Ulm

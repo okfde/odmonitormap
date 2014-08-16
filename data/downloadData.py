@@ -40,6 +40,8 @@ def reformatdata(file):
                            
                 parent = row['URL PARENT'].strip()
                 url = row['URL Datei'].strip()
+                if not (url[0:2] == 'htt' or url[0:2] == 'ftp'):
+                    url = parent[0:parent.rfind("/")] + url
                 
                 print 'Processing entry with parent [' + parent +'] and url [' + url + ']'
                 
