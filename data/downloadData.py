@@ -7,7 +7,7 @@ import time
 
 validsources = ('m', 'd', 'c', 'g', 'b')
 
-def reformatdata(file):
+def reformatdata(file, excludes):
     dictsdata = dict()
     totals = dict()
     fields = []
@@ -73,16 +73,20 @@ def reformatdata(file):
                     exit()
             
                 if (rowtoadd != None):
-                    print 'Adding.'
-                    totals[source] += 1
-                    try:
-                        del rowtoadd['URL Datei']
-                        del rowtoadd['URL PARENT']
-                    except:
-                        print rowtoadd
-                        exit()
-                    rowtoadd['URL'] = theurl
-                    takenrows[basedon] = rowtoadd
+                    #If a catalog entry, or if not and it doesn't look like it came from the catalog, but only if we actually have read the catalog (otherwise we do indeed want the results!)
+                    if ('d' not in dictsdata) or (source == 'd') or not any(exclude in theurl for exclude in excludes):
+                        print 'Adding.'
+                        totals[source] += 1
+                        try:
+                            del rowtoadd['URL Datei']
+                            del rowtoadd['URL PARENT']
+                        except:
+                            print rowtoadd
+                            exit()
+                        rowtoadd['URL'] = theurl
+                        takenrows[basedon] = rowtoadd
+                    else:
+                        print 'NOT adding ' + theurl + ' because it is a catalog entry'
     
     with open(file, 'wb') as csvfile:
         del fields[fields.index('URL Datei')]
@@ -97,6 +101,8 @@ def reformatdata(file):
            
 kurznamecolumn = 'kurzname'
 gidcolumn = 'GID in Datenerfassung'
+dataportalcolumn = 'Open Data Portal'
+portalaliascolumn = 'ODP Alias'
 
 print "Deleting data..."
 for f in os.listdir("."):
@@ -126,7 +132,15 @@ with open('index.csv', 'rb') as csvfile:
               durl = "https://docs.google.com/spreadsheets/d/" + erfassungkey + "/export?gid=" + row[gidcolumn] + "&format=csv"
               print "Downloading data for " + row[kurznamecolumn] + " using url " + durl + "..."
               urllib.urlretrieve (durl, row[kurznamecolumn] + ".csv");
-              totals = reformatdata(row[kurznamecolumn] + ".csv")
+              portallink = row[dataportalcolumn][row[dataportalcolumn].find('://')+3:len(row[dataportalcolumn])].strip()
+              portalalias = row[portalaliascolumn].strip()
+              excludes = []
+              if portallink != '':
+                  excludes.append(portallink)
+              if portalalias != '':
+                  excludes.append(portalalias)
+              print 'Excluding ' + str(excludes)
+              totals = reformatdata(row[kurznamecolumn] + ".csv", excludes)
               
               #Did the file actually change? Requires everything to be inside a git repo,
               #and assumes the files were not in the modified state before
