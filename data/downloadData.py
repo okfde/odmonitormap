@@ -57,9 +57,13 @@ def reformatdata(file, excludes):
                         theurl = parent
                         if filename != '':
                             filenameswhereparents.append(filename)
+                        else:
+                            filenameswhereparents.append(url)
                         rowtoadd = row
                     else: print 'Not adding: parent already there'
-                elif filename != '':
+                else:
+                    if filename == '':
+                        filename = url
                     #URLs are messy. Sometimes they are relative (should have been repaired earlier
                     #in the chain, but wasn't) and multiple URLs lead to the same file... throw away based on filename
                     if filename not in takenrows and filename not in filenameswhereparents:
@@ -68,9 +72,6 @@ def reformatdata(file, excludes):
                         theurl = url
                         rowtoadd = row
                     else: print 'Not adding: filename already there'
-                else:
-                    print 'Parent and filename are blank in a row in ' + file + '!'
-                    exit()
             
                 if (rowtoadd != None):
                     #If a catalog entry, or if not and it doesn't look like it came from the catalog, but only if we actually have read the catalog (otherwise we do indeed want the results!)
