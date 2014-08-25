@@ -139,6 +139,7 @@ var showCity = function(city, data, count) {
   sortedCategories = sortedCategories.reverse();
   var html = [];
   html.push('<h2>' + city.Stadtname + '</h2>');
+  if (city.Stadtname === 'Hamburg') html.push('<p>Das Portal befindet sich im Beta-Zustand. Die Inhalte des Portals werden bis Oktober ausgebaut.</p>');
   html.push('<p>Datensätze gesamt: ' + count + ' (Stand: ' + city.modified + ')</p>');
   html.push('<p><strong>Quellen</strong><br>Datenkatalog: ' + city['sourced-from-d'] + '<br>Crawl: ' + city['sourced-from-c'] + '<br>Google: ' + city['sourced-from-g'] + '<br>Bing: ' + city['sourced-from-b'] + '<br>Manuell: ' + city['sourced-from-m']);
   html.push('<br><br><a href="#" data-toggle="modal" data-target="#myModal">Mehr über die Zahlen</a>');
