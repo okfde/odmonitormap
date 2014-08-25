@@ -4,6 +4,7 @@ import unicodecsv as csv
 import os
 import subprocess
 import time
+import random
 
 validsources = ('m', 'd', 'c', 'g', 'b')
 
@@ -50,10 +51,15 @@ def reformatdata(file, excludes):
                 else: filename = ''
             
                 #Parents are always favoured and should be unique
+                #We assume that all catalog entries are unique
                 if parent != '':
-                    if parent not in takenrows:
-                        print 'Adding based on parent [' + parent +'] (filename is [' + filename + '])'
-                        basedon = parent
+                    if (parent not in takenrows) or source == 'd':
+                        if source == 'd':
+                            print 'Adding catalog entry, parent [' + parent +'] (filename is [' + filename + '])'
+                            basedon = parent + '-dup-' + "%x" % random.getrandbits(32)
+                        else:
+                            print 'Adding based on parent [' + parent +'] (filename is [' + filename + '])'
+                            basedon = parent
                         theurl = parent
                         if filename != '':
                             filenameswhereparents.append(filename)
@@ -66,15 +72,22 @@ def reformatdata(file, excludes):
                         filename = url
                     #URLs are messy. Sometimes they are relative (should have been repaired earlier
                     #in the chain, but wasn't) and multiple URLs lead to the same file... throw away based on filename
-                    if filename not in takenrows and filename not in filenameswhereparents:
-                        print 'Adding based on filename [' + filename +'] (parent is [' + parent + '])'
-                        basedon = filename
+                    #We assume that all catalog entries are unique
+                    if (filename not in takenrows and filename not in filenameswhereparents) or source == 'd':
+                        if source == 'd':
+                            print 'Adding catalog entry, filename [' + filename +'] (parent is [' + parent + '])'
+                            basedon = filename + '-dup-' + "%x" % random.getrandbits(32)
+                        else:
+                            print 'Adding based on filename [' + filename +'] (parent is [' + parent + '])'
+                            basedon = filename
                         theurl = url
                         rowtoadd = row
                     else: print 'Not adding: filename already there'
             
                 if (rowtoadd != None):
-                    #If a catalog entry, or if not and it doesn't look like it came from the catalog, but only if we actually have read the catalog (otherwise we do indeed want the results!)
+                    #If we don't have a catalog, add it
+                    #If this is a catalog entry, add it
+                    #If this isn't, check that it isn't coming from (e.g.) a crawl of the catalog
                     if ('d' not in dictsdata) or (source == 'd') or not any(exclude in theurl for exclude in excludes):
                         print 'Adding.'
                         totals[source] += 1
@@ -87,7 +100,7 @@ def reformatdata(file, excludes):
                         rowtoadd['URL'] = theurl
                         takenrows[basedon] = rowtoadd
                     else:
-                        print 'NOT adding ' + theurl + ' because it is a catalog entry'
+                        print 'NOT adding ' + theurl + ' because it is a catalog entry from another source, and we have the catalog already'
     
     with open(file, 'wb') as csvfile:
         del fields[fields.index('URL Datei')]
