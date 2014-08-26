@@ -28,7 +28,7 @@ def reformatdata(file, excludes):
                 dictsdata[source].append(row)
             
     takenrows = dict()
-    filenameswhereparents = [] #Exclude google/bing results based on url from crawler (where we do have parents)
+    filenameswhereparents = dict() #Exclude google/bing results based on url from crawler (where we do have parents)
     
     #We go through in a prioritized order - manual, catalog, etc.
     for source in validsources:
@@ -48,7 +48,9 @@ def reformatdata(file, excludes):
                 
                 if url != '':
                     filename = url.split('/')[-1]
-                else: filename = ''
+                    if filename == '':
+                        filename = url
+                else: filename = parent
             
                 #Parents are always favoured and should be unique
                 #We assume that all catalog entries are unique
@@ -61,17 +63,15 @@ def reformatdata(file, excludes):
                             print 'Adding based on parent [' + parent +'] (filename is [' + filename + '])'
                             basedon = parent
                         theurl = parent
-                        if filename != '':
-                            filenameswhereparents.append(filename)
-                        else:
-                            filenameswhereparents.append(url)
+                        filenameswhereparents[filename] =  parent
                         rowtoadd = row
-                    else: print 'Not adding: parent already there'
+                    else:
+                        print 'Not adding: parent already there, transferring categories and geo'
+                        for key in row:
+                            if row[key].strip().lower() == 'x':
+                                takenrows[parent][key] = 'x'
+                            
                 else:
-                    if filename == '':
-                        filename = url
-                    #URLs are messy. Sometimes they are relative (should have been repaired earlier
-                    #in the chain, but wasn't) and multiple URLs lead to the same file... throw away based on filename
                     #We assume that all catalog entries are unique
                     if (filename not in takenrows and filename not in filenameswhereparents) or source == 'd':
                         if source == 'd':
@@ -82,12 +82,23 @@ def reformatdata(file, excludes):
                             basedon = filename
                         theurl = url
                         rowtoadd = row
-                    else: print 'Not adding: filename already there'
+                    else:
+                        keytouse = filename
+                        if filename in filenameswhereparents:
+                            keytouse = filenameswhereparents[filename] #i.e., a parent
+                        print 'Not adding: filename already there, transferring categories and geo'
+                        for key in row:
+                            if row[key].strip().lower() == 'x':
+                                try:
+                                    takenrows[keytouse][key] = 'x'
+                                except:
+                                    print 'WARNING: Key error: ' + keytouse + ' - this is OK if the entry is a duplicate of a catalog entry'
             
                 if (rowtoadd != None):
                     #If we don't have a catalog, add it
                     #If this is a catalog entry, add it
                     #If this isn't, check that it isn't coming from (e.g.) a crawl of the catalog
+                    #We assume that catalog entries are fully categorized
                     if ('d' not in dictsdata) or (source == 'd') or not any(exclude in theurl for exclude in excludes):
                         print 'Adding.'
                         totals[source] += 1
