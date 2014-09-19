@@ -155,7 +155,7 @@ var showCity = function(city, data, count) {
     _.each(data, function(d){
       if (d[x[0]] && d.Format) {
         var trimmedUrl = $.trim(d['URL']);
-        var hrefText = d['Dateibezeichnung'] + '(' + d.Format + ')';
+        var hrefText = d['Dateibezeichnung'] + ' (' + d.Format + ')';
         if (trimmedUrl !== '') {
           hrefText = '<a href="' + $.trim(d['URL']) + '">' + hrefText + '</a>'; 
         } 
