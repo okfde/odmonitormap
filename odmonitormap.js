@@ -154,7 +154,12 @@ var showCity = function(city, data, count) {
     html.push('<li><a class="open-list" href="#">' + x[0] + ': ' + x[1] + '</a><ul style="display:none">');
     _.each(data, function(d){
       if (d[x[0]] && d.Format) {
-        html.push('<li><a href="' + $.trim(d['URL']) + '">' + d['Dateibezeichnung'] + ' (' + d.Format + ')</a></li>');
+        var trimmedUrl = $.trim(d['URL']);
+        var hrefText = d['Dateibezeichnung'] + '(' + d.Format + ')';
+        if (trimmedUrl !== '') {
+          hrefText = '<a href="' + $.trim(d['URL']) + '">' + hrefText + '</a>'; 
+        } 
+        html.push('<li>' + hrefText + '</li>');
       }
     });
     html.push('</ul></li>');
