@@ -1,12 +1,12 @@
 Dateibezeichnung,URL,Lizenz,Format,Quelle,Arbeitsmarkt,Bevölkerung,Bildung und Wissenschaft,Haushalt und Steuern,Stadtentwicklung und Bebauung,Wohnen und Immobilien,Sozialleistungen,Öffentl. Sicherheit,Gesundheit,Kunst und Kultur,Land- und Forstwirtschaft,Sport und Freizeit,Umwelt,Transport und Verkehr,"Energie, Ver- und Entsorgung",Politik und Wahlen,Verwaltung,Gesetze und Justiz,Wirtschaft und Wirtschaftsförderung,Tourismus,Verbraucher,Sonstiges,Noch nicht kategorisiert
 theater.xlsx,https://geo.sv.rostock.de/download/opendata/theater/theater.xlsx,nicht bekannt,XLSX,g,,,,,,,,,,x,,,,,,,,,,,,,
-Tagespflege%20Vermittlung%201213.xls,http://rathaus.rostock.de/sixcms/media.php/1246/Tagespflege%20Vermittlung%201213.xls,nicht bekannt,XLS,g,,,,,,,x,,,,,,,,,,,,,,,,
 faehranleger.xlsx,https://geo.sv.rostock.de/download/opendata/faehranleger/faehranleger.xlsx,nicht bekannt,XLSX,g,,,,,,,,,,,,,,x,,,,,,,,,
 Sturmflut Ostsee,http://www.opendata-hro.de/dataset/79fc3386-6677-4af2-a9ef-5346225bc794,Andere offene Lizenzen,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",d,,,,,,,,,,,,,x,,,,,,,,,,
 Reisebusparkplätze,http://www.opendata-hro.de/dataset/3cf4bc27-0769-48a2-aa46-95cccc4c80b5,Andere offene Lizenzen,"CSV,XLSX,GEOJSON,KML,GML,WMS",d,,,,,,,,,,,,,,x,,,,,,,,,
 Bevölkerungsstruktur 2007,http://www.opendata-hro.de/dataset/ca6846a1-5bf5-46a9-9b2f-5f7cb25fef6b,Andere offene Lizenzen,"XLSX,CSV,JSON",d,,x,,,,,,,,,,,,,,,,,,,,,
 Poststellen,http://www.opendata-hro.de/dataset/cdf7d719-9049-43cf-8536-1fc6596601c0,Andere offene Lizenzen,"CSV,XLSX,GEOJSON,KML,GML,WMS",d,,,,,,,,,,,,,,,,,,,,,x,x,
 Musikclubs,http://www.opendata-hro.de/dataset/c3d9bc4f-4828-4d19-ae36-f7d8c44702be,Andere offene Lizenzen,"CSV,XLSX,GEOJSON,KML,GML,WMS",d,,,,,,,,,,x,,,,,,,,,,,,,
+Tagespflege%20Vermittlung%201213.xls,http://rathaus.rostock.de/sixcms/media.php/1246/Tagespflege%20Vermittlung%201213.xls,nicht bekannt,XLS,g,,,,,,,x,,,,,,,,,,,,,,,,
 Behörden (kommunal),http://www.opendata-hro.de/dataset/658f0d83-31e1-4f34-bdff-4498972a9163,Andere offene Lizenzen,"CSV,XLSX,GEOJSON,KML,GML,WMS",d,,,,,,,,,,,,,,,,,,,,,,x,
 Kinos,http://www.opendata-hro.de/dataset/d7f5a5e3-64c8-4f13-9613-a01b440f2610,Andere offene Lizenzen,"CSV,XLSX,GEOJSON,KML,GML,WMS",d,,,,,,,,,,x,,,,,,,,,,,,,
 Radwege,http://www.opendata-hro.de/dataset/e21bad4a-713a-447a-8474-51c677d9aa1b,Andere offene Lizenzen,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",d,,,,,,,,,,,,,x,x,,,,,,,,,

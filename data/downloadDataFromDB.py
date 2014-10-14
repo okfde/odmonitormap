@@ -6,6 +6,8 @@ import unicodecsv as csv
 import metautils
 from collections import OrderedDict
 
+from dbsettings import settings
+
 psycopg2.extensions.register_type(psycopg2.extensions.UNICODE)
 psycopg2.extensions.register_type(psycopg2.extensions.UNICODEARRAY)
 
@@ -15,7 +17,7 @@ for f in os.listdir("."):
         os.remove(f)
  
 try:
-    cur = metautils.getDBCursor(dictCursor = True)
+    cur = metautils.getDBCursor(settings, dictCursor = True)
 
     cur.execute('SELECT DISTINCT city_fullname, contact_email, open_data_portal, last_updated, city_shortname, cities.url AS url, latitude, longitude FROM cities INNER JOIN data ON data.city = cities.city_shortname WHERE data.accepted=%s', (True,))
     results = cur.fetchall()
