@@ -1,32 +1,32 @@
-Quelle,Stadt,Dateibezeichnung,Format,Beschreibung,Zeitlicher Bezug,Lizenz,Kosten,Veröffentlichende Stelle,Arbeitsmarkt,Bevölkerung,Bildung und Wissenschaft,Haushalt und Steuern,Stadtentwicklung und Bebauung,Wohnen und Immobilien,Sozialleistungen,Öffentl. Sicherheit,Gesundheit,Kunst und Kultur,Land- und Forstwirtschaft,Sport und Freizeit,Umwelt,Transport und Verkehr,"Energie, Ver- und Entsorgung",Politik und Wahlen,Gesetze und Justiz,Wirtschaft und Wirtschaftsförderung,Tourismus,Verbraucher,Sonstiges,Noch nicht kategorisiert,keyword,URL
-d,wennigsen.net,Muellabfuhrgebuehren.csv,CSV,Müllabfuhrgebühr,2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,x,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_Muellabfuhrgebuehren.csv
-d,wennigsen.net,oeffentl_geb.csv,CSV,öffentliche Gebäude,2013,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,x,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_oeffentl_geb.csv
-d,wennigsen.net,Vergnuegungssteuer.csv,CSV,Vermögenssteuer,2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_Vergnuegungssteuer.csv
-d,wennigsen.net,sitzungen_gremien.csv,CSV,Gremien Sitzungen,2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,x,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_sitzungen_gremien.csv
-d,wennigsen.net,Fahrradstellplaetze.csv,CSV,Fahrradstellplätze,2013,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,x,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_Fahrradstellplaetze.csv
-d,wennigsen.net,Gruene_Kette.gpx,GPX,,2013,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/Gruene_Kette.gpx
-d,wennigsen.net,Verwaltungshaushalt.csv,CSV,Verwaltungshaushalt,2002-2010,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_Verwaltungshaushalt.csv
-d,wennigsen.net,einwohner.csv,CSV,Einwohnerdaten,1940-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,x,,,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_einwohner.csv
-d,wennigsen.net,Hundesteuer.csv,CSV,Hundesteuer (jährlich),2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_Hundesteuer.csv
-d,wennigsen.net,Vermoegenshaushalt.csv,CSV,Vermögenshaushalt,2002-2010,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_Vermoegenshaushalt.csv
-d,wennigsen.net,Ampeln.csv,CSV,Ampeln im Gemeindegebiet,2013,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,x,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_02_Ampeln.csv
-d,wennigsen.net,Personal.csv,CSV,Personal der Gemeinde Wennigsen,2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,x,,Verwaltung,http://data.wennigsen.net/2013_02_02_Personal.csv
-d,wennigsen.net,Ergebnishaushalt.csv,CSV,Ergebnishaushalt,2011-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_Ergebnishaushalt.csv
-d,wennigsen.net,kindergartengebueren.csv,CSV,Kindergartengebühren,2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,x,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_kindergartengebueren.csv
-d,wennigsen.net,Finanzhaushalt.csv,CSV,Finanzhaushalt,2011-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_Finanzhaushalt.csv
-d,wennigsen.net,schuelerzahlen.csv,CSV,Schülerzahlen,1995-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,x,,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_schuelerzahlen.csv
-d,wennigsen.net,ausweise.csv,CSV,Personalausweise,2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,x,,Verwaltung,http://data.wennigsen.net/2013_02_09_ausweise.csv
-d,wennigsen.net,Abwasserbeseitigung.csv,CSV,Abwasserbeseitigung,2002-2013,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,x,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_Abwasserbeseitigung.csv
-d,wennigsen.net,geburten_sterbefaelle_ehe.csv,CSV,Geburten-und Sterbefälle,1940-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,x,,,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_geburten_sterbefaelle_ehe.csv
-d,wennigsen.net,Oeffnungszeiten_Standesamt.csv,CSV,Öffnungszeiten des Standesamt,2013,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,x,,Verwaltung,http://data.wennigsen.net/2013_01_14_Oeffnungszeiten_Standesamt.csv
-d,wennigsen.net,Oeffnungszeiten_Buergebuero.csv,CSV,Öffnungszeiten des Bürgerbüros,2013,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,x,,Verwaltung,http://data.wennigsen.net/2013_01_14_Oeffnungszeiten_Buergebuero.csv
-d,wennigsen.net,Kanalbaubeitraege.csv,CSV,Kanalbaubeiträge,2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,x,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_Kanalbaubeitraege.csv
-d,wennigsen.net,bauantraege.csv,CSV,Bauanträge,2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,x,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_bauantraege.csv
-d,wennigsen.net,Gruener_Faden.gpx,GPX,,2013,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/Gruener_Faden.gpx
-d,wennigsen.net,Kreditaufnahmen_Verpflichtungser.csv,CSV,Kreditaufnahmen und Verpflichtungser Haushalte,2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_Kreditaufnahmen_Verpflichtungser.csv
-d,wennigsen.net,Test_data.xls,XLS,Metadatenkatalog - Beschreibung der Datensätze,2013,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,x,,,http://data.wennigsen.net/Test_data.xls
-d,wennigsen.net,Steuersaetze.csv,CSV,Steuersätze,2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_Steuersaetze.csv
-d,wennigsen.net,Schuldenstand.csv,CSV,Schuldenstand,2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,x,,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_Schuldenstand.csv
-d,wennigsen.net,ordnugswidrigkeiten.csv,CSV,Ordnungswidrigkeiten,2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,x,,,,,,,,,x,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_ordnugswidrigkeiten.csv
-d,wennigsen.net,groesse_gemeindegebiet.csv,CSV,Größe des Gemeindegebiets,2002-2012,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,x,,,,,,,,,,,,,,,,,,Verwaltung,http://data.wennigsen.net/2013_02_09_groesse_gemeindegebiet.csv
-d,wennigsen.net,Oeffnungszeiten_Zulassungsstelle.csv,CSV,Öffnungszeiten der Zulassungsstelle,2013,CC-BY 3.0,,Gemeinde Wennigsen (Deister),,,,,,,,,,,,,,,,,,,,,x,,Verwaltung,http://data.wennigsen.net/2013_01_14_Oeffnungszeiten_Zulassungsstelle.csv
+Dateibezeichnung,URL,Lizenz,Format,Quelle,Arbeitsmarkt,Bevölkerung,Bildung und Wissenschaft,Haushalt und Steuern,Stadtentwicklung und Bebauung,Wohnen und Immobilien,Sozialleistungen,Öffentl. Sicherheit,Gesundheit,Kunst und Kultur,Land- und Forstwirtschaft,Sport und Freizeit,Umwelt,Transport und Verkehr,"Energie, Ver- und Entsorgung",Politik und Wahlen,Verwaltung,Gesetze und Justiz,Wirtschaft und Wirtschaftsförderung,Tourismus,Verbraucher,Sonstiges,Noch nicht kategorisiert
+Finanzhaushalt.csv,http://data.wennigsen.net/2013_02_09_Finanzhaushalt.csv,CC-BY 3.0,CSV,d,,,,x,,,,,,,,,,,,,,,,,,,
+Oeffnungszeiten_Buergebuero.csv,http://data.wennigsen.net/2013_01_14_Oeffnungszeiten_Buergebuero.csv,CC-BY 3.0,CSV,d,,,,,,,,,,,,,,,,,,,,,,x,
+Abwasserbeseitigung.csv,http://data.wennigsen.net/2013_02_09_Abwasserbeseitigung.csv,CC-BY 3.0,CSV,d,,,,,,,,,,,,,,,x,,,,,,,,
+Oeffnungszeiten_Zulassungsstelle.csv,http://data.wennigsen.net/2013_01_14_Oeffnungszeiten_Zulassungsstelle.csv,CC-BY 3.0,CSV,d,,,,,,,,,,,,,,,,,,,,,,x,
+sitzungen_gremien.csv,http://data.wennigsen.net/2013_02_09_sitzungen_gremien.csv,CC-BY 3.0,CSV,d,,,,,,,,,,,,,,,,x,,,,,,,
+groesse_gemeindegebiet.csv,http://data.wennigsen.net/2013_02_09_groesse_gemeindegebiet.csv,CC-BY 3.0,CSV,d,,,,,x,,,,,,,,,,,,,,,,,,
+Oeffnungszeiten_Standesamt.csv,http://data.wennigsen.net/2013_01_14_Oeffnungszeiten_Standesamt.csv,CC-BY 3.0,CSV,d,,,,,,,,,,,,,,,,,,,,,,x,
+oeffentl_geb.csv,http://data.wennigsen.net/2013_02_09_oeffentl_geb.csv,CC-BY 3.0,CSV,d,,,,,x,,,,,,,,,,,,,,,,,,
+Hundesteuer.csv,http://data.wennigsen.net/2013_02_09_Hundesteuer.csv,CC-BY 3.0,CSV,d,,,,x,,,,,,,,,,,,,,,,,,,
+Fahrradstellplaetze.csv,http://data.wennigsen.net/2013_02_09_Fahrradstellplaetze.csv,CC-BY 3.0,CSV,d,,,,,,,,,,,,,,x,,,,,,,,,
+geburten_sterbefaelle_ehe.csv,http://data.wennigsen.net/2013_02_09_geburten_sterbefaelle_ehe.csv,CC-BY 3.0,CSV,d,,x,,,,,,,,,,,,,,,,,,,,,
+schuelerzahlen.csv,http://data.wennigsen.net/2013_02_09_schuelerzahlen.csv,CC-BY 3.0,CSV,d,,,x,,,,,,,,,,,,,,,,,,,,
+ausweise.csv,http://data.wennigsen.net/2013_02_09_ausweise.csv,CC-BY 3.0,CSV,d,,,,,,,,,,,,,,,,,,,,,,x,
+Gruener_Faden.gpx,http://data.wennigsen.net/Gruener_Faden.gpx,CC-BY 3.0,GPX,d,,,,,x,,,,,,,,x,,,,,,,,,,
+bauantraege.csv,http://data.wennigsen.net/2013_02_09_bauantraege.csv,CC-BY 3.0,CSV,d,,,,,x,,,,,,,,,,,,,,,,,,
+einwohner.csv,http://data.wennigsen.net/2013_02_09_einwohner.csv,CC-BY 3.0,CSV,d,,x,,,,,,,,,,,,,,,,,,,,,
+Ergebnishaushalt.csv,http://data.wennigsen.net/2013_02_09_Ergebnishaushalt.csv,CC-BY 3.0,CSV,d,,,,x,,,,,,,,,,,,,,,,,,,
+Personal.csv,http://data.wennigsen.net/2013_02_02_Personal.csv,CC-BY 3.0,CSV,d,,,,,,,,,,,,,,,,,,,,,,x,
+kindergartengebueren.csv,http://data.wennigsen.net/2013_02_09_kindergartengebueren.csv,CC-BY 3.0,CSV,d,,,,,,,x,,,,,,,,,,,,,,,,
+Vergnuegungssteuer.csv,http://data.wennigsen.net/2013_02_09_Vergnuegungssteuer.csv,CC-BY 3.0,CSV,d,,,,x,,,,,,,,,,,,,,,,,,,
+Schuldenstand.csv,http://data.wennigsen.net/2013_02_09_Schuldenstand.csv,CC-BY 3.0,CSV,d,,,,x,,,,,,,,,,,,,,,,,,,
+Kanalbaubeitraege.csv,http://data.wennigsen.net/2013_02_09_Kanalbaubeitraege.csv,CC-BY 3.0,CSV,d,,,,,,,,,,,,,,,x,,,,,,,,
+Ampeln.csv,http://data.wennigsen.net/2013_02_02_Ampeln.csv,CC-BY 3.0,CSV,d,,,,,,,,,,,,,,x,,,,,,,,,
+ordnugswidrigkeiten.csv,http://data.wennigsen.net/2013_02_09_ordnugswidrigkeiten.csv,CC-BY 3.0,CSV,d,,,,,,,,x,,,,,,,,,,x,,,,,
+Test_data.xls,http://data.wennigsen.net/Test_data.xls,CC-BY 3.0,XLS,d,,,,,,,,,,,,,,,,,,,,,,x,
+Vermoegenshaushalt.csv,http://data.wennigsen.net/2013_02_09_Vermoegenshaushalt.csv,CC-BY 3.0,CSV,d,,,,x,,,,,,,,,,,,,,,,,,,
+Gruene_Kette.gpx,http://data.wennigsen.net/Gruene_Kette.gpx,CC-BY 3.0,GPX,d,,,,,x,,,,,,,,x,,,,,,,,,,
+Verwaltungshaushalt.csv,http://data.wennigsen.net/2013_02_09_Verwaltungshaushalt.csv,CC-BY 3.0,CSV,d,,,,x,,,,,,,,,,,,,,,,,,,
+Kreditaufnahmen_Verpflichtungser.csv,http://data.wennigsen.net/2013_02_09_Kreditaufnahmen_Verpflichtungser.csv,CC-BY 3.0,CSV,d,,,,x,,,,,,,,,,,,,,,,,,,
+Muellabfuhrgebuehren.csv,http://data.wennigsen.net/2013_02_09_Muellabfuhrgebuehren.csv,CC-BY 3.0,CSV,d,,,,,,,,,,,,,,,x,,,,,,,,
+Steuersaetze.csv,http://data.wennigsen.net/2013_02_09_Steuersaetze.csv,CC-BY 3.0,CSV,d,,,,x,,,,,,,,,,,,,,,,,,,

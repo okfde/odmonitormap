@@ -153,9 +153,13 @@ var showCity = function(city, data, count) {
   _.each(sortedCategories, function(x){
     html.push('<li><a class="open-list" href="#">' + x[0] + ': ' + x[1] + '</a><ul style="display:none">');
     _.each(data, function(d){
-      if (d[x[0]] && d.Format) {
+      if (d[x[0]]) {
         var trimmedUrl = $.trim(d['URL']);
-        var hrefText = d['Dateibezeichnung'] + ' (' + d.Format + ')';
+        var formatText = ""
+        if (d.Format) {
+          formatText = ' (' + d.Format + ')';
+        }
+        var hrefText = d['Dateibezeichnung'] + formatText;
         if (trimmedUrl !== '') {
           hrefText = '<a href="' + $.trim(d['URL']) + '">' + hrefText + '</a>'; 
         } 
@@ -199,7 +203,7 @@ var showSearchResults = function(filter) {
   });
   var rstr = "<ul>";
   if (finalData.length == 0) {
-    if (trimmedCity == "") rstr += "<li>Bitte eine Gemeinde angeben</li>";
+    if ((trimmedCity == "") && ($('#cityoptionall').attr('checked') != 'checked')) rstr += "<li>Bitte eine Gemeinde angeben</li>";
     if (filter['Kategorien'].length == 0) rstr += "<li>Bitte mindestens eine Kategorie angeben</li>";
     if (filter['Formate'].length == 0) rstr += "<li>Bitte mindestens einen Dateiformat angeben</li>";
     if (filter['Quellen'].length == 0) rstr += "<li>Bitte mindestens eine Quelle angeben</li>";
@@ -254,17 +258,19 @@ var getCityContent = function(city, marker, map) {
         $('#searchCity').append("<option value='" + city['Stadtname'] + "'>" + city['Stadtname'] + "</option>");
         var count = 0;
         _.each(data, function(d){
-          if (d.Format) {
+          if (d.URL) {
             count += 1;
           }
         });
         completeCount += count;
         
         var emailContent = "";
-        if (city['Kontakt Mail'] !== undefined) emailContent = "<li>Kontakt: <a href=\"mailto:"+city['Kontakt Mail']+"\">"+city['Kontakt Mail']+"</a></li>";
+        if ($.trim(city['Kontakt Mail']).length > 0) emailContent = "<li>Kontakt: <a href=\"mailto:"+city['Kontakt Mail']+"\">"+city['Kontakt Mail']+"</a></li>";
         var opendataportal = "";
-        if (city['Open Data Portal'] !== '') opendataportal = "<br>Datenkatalog: <a href=\""+city['Open Data Portal']+"\">"+city['Open Data Portal']+"</a>";
-        marker.bindPopup('<h2>' + city.Stadtname + '</h2><ul><li>' + count + ' Datensätze (Stand: ' + city.modified + ')' + emailContent + '</ul>Portal: <a href=\"' + city.DOMAIN + '\">' + city.DOMAIN + '</a>' + opendataportal, {
+        if ($.trim(city['Open Data Portal']).length > 0) opendataportal = "<br>Datenkatalog: <a href=\""+city['Open Data Portal']+"\">"+city['Open Data Portal']+"</a>";
+        var portal = "";
+        if ($.trim(city['DOMAIN']).length > 0) portal = 'Portal: <a href=\"' + city.DOMAIN + '\">' + city.DOMAIN + '</a>'
+        marker.bindPopup('<h2>' + city.Stadtname + '</h2><ul><li>' + count + ' Datensätze (Stand: ' + city.modified + ')' + emailContent + '</ul>' + portal + opendataportal, {
           maxHeight: windowHeight
         }).on('popupopen', function() {
           $('#infobox').html(showCity(city, data, count));
