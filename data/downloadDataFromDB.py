@@ -42,6 +42,13 @@ try:
             cur.execute('SELECT COUNT(source) AS counted FROM data WHERE city = %s AND source = %s AND accepted=%s', (row['kurzname'], source, True))
             row['sourced-from-'+source] = cur.fetchone()['counted']
             
+        #Find out what/which data portals contributed catalog results
+        cur.execute('SELECT DISTINCT originating_portal FROM data WHERE city LIKE %s AND originating_portal IS NOT NULL AND length(originating_portal)>0', (row['kurzname'],))
+        csources = []
+        for res in cur.fetchall():
+            csources.append(res['originating_portal'])
+        row['catalog-sources'] = metautils.arraytocsv(csources)
+            
         rows.append(row)
         
         print 'Writing city ' + result['city_fullname'] + ' as ' + row['kurzname'] + '.csv...'
