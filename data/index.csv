@@ -5,13 +5,13 @@ Juist,juist,,,,53.6784483,6.9956079,2014-10-15,0,1,0,0,0
 Berlin,berlin,http://berlin.de,http://daten.berlin.de,Info@Berlin.de,52.5170365,13.3888599,2014-08-26,0,275,0,124,258
 Buch,buch,,,,50.08079315,7.3877444142684,2014-10-15,0,1,0,0,0
 Schlierschied,schlierschied,,,,49.8752505,7.4418319,2014-10-15,0,1,0,0,0
-Moers,moers,http://moers.de,http://www.offenedaten.moers.de,offenedaten@moers.de,51.4512826,6.6284302,2014-08-18,0,0,86,11,1
+Moers,moers,http://moers.de,http://www.offenedaten.moers.de,offenedaten@moers.de,51.4512826,6.6284302,2014-08-18,0,0,86,6,1
 Chemnitz,chemnitz,http://chemnitz.de,,katja.uhlemann@stadt-chemnitz.de,50.8322608,12.9252977,2014-08-15,0,0,4,0,0
 Mainz,mainz,http://mainz.de,,oberbuergermeister@stadt.mainz.de,49.9999952,8.2710237,2014-10-15,0,52,0,0,0
 Urbar,urbar,,,,50.1316205,7.7202693,2014-10-15,0,4,0,0,0
 Kirchberg (Hunsrück),kirchberghunsrueck,,,,49.9330554,7.35476790609633,2014-10-15,0,1,0,0,0
 Woppenroth,woppenroth,,,,49.874648,7.4132712,2014-10-15,0,4,0,0,0
-Münster,muenster,http://muenster.de,http://www.muenster.de/stadt/katasteramt/geodatenmanagement.html,redaktion@muenster.de,51.9625101,7.6251879,2014-08-26,0,0,1,0,4
+Münster,muenster,http://muenster.de,http://www.muenster.de/stadt/katasteramt/geodatenmanagement.html,redaktion@muenster.de,51.9625101,7.6251879,2014-08-26,0,0,1,0,3
 Norderney,norderney,,,,53.7122885,7.23577947730025,2014-10-15,0,1,0,0,0
 Rosendahl,rosendahl,,,,52.01819675,7.2195946689637,2014-10-15,0,4,0,0,0
 Lindenschied,lindenschied,,,,49.9019989,7.3929334,2014-10-15,0,2,0,0,0
@@ -33,7 +33,7 @@ Simmern,simmern,,,,50.389471,7.6734439,2014-10-15,0,70,0,0,0
 Niederweiler,niederweiler,,,,49.9095071,7.2833609,2014-10-15,0,3,0,0,0
 Hecken,hecken,,,,49.9159912,7.3995056,2014-10-15,0,2,0,0,0
 Raversbeuren,raversbeuren,,,,49.9568676,7.2264652,2014-10-15,0,3,0,0,0
-Hamburg,hamburg,http://hamburg.de,http://transparenz.hamburg.de,info-office@hamburg.de,53.5437641,10.0099133,2014-09-26,0,0,0,33,137
+Hamburg,hamburg,http://hamburg.de,http://transparenz.hamburg.de,info-office@hamburg.de,53.5437641,10.0099133,2014-09-26,0,0,0,33,136
 Erlangen,erlangen,,,,49.5981208,11.0036532,2014-10-15,0,4,0,0,0
 Hannover,hannover,http://hannover.de,,Internetredaktion@Hannover-Stadt.de,52.3744779,9.7385532,2014-10-15,0,4,0,0,0
 Hirschfeld (Hunsrück),hirschfeldhunsrueck,,,,49.898458,7.2426488,2014-10-15,0,1,0,0,0
@@ -61,12 +61,12 @@ Niederburg,niederburg,,,,50.1177367,7.6951697,2014-10-15,0,2,0,0,0
 Cuxhaven,cuxhaven,,,,53.8687798,8.6982859,2014-10-15,0,5,0,0,0
 Metzenhausen,metzenhausen,,,,49.9708864,7.3614793,2014-10-15,0,1,0,0,0
 Schwarzen,schwarzen,,,,49.960972,7.3309408,2014-10-15,0,2,0,0,0
-Rostock,rostock,http://rostock.de ,http://opendata-hro.de ,ulrich.kunze@rostock.de,54.0924445,12.1286127,2014-08-26,0,120,1,0,31
-Bonn,bonn,http://bonn.de,http://opendata.bonn.de,opendata@bonn.de,50.7358511,7.1006599,2014-10-15,0,72,0,0,12
+Rostock,rostock,http://rostock.de ,http://opendata-hro.de ,ulrich.kunze@rostock.de,54.0924445,12.1286127,2014-08-26,0,120,1,0,30
+Bonn,bonn,http://bonn.de,http://opendata.bonn.de,opendata@bonn.de,50.7358511,7.1006599,2014-10-15,0,72,0,0,0
 Wangerooge,wangerooge,,,,53.7834917,7.93518076593744,2014-10-15,0,1,0,0,0
 Sonnenberg,sonnenberg,,,,53.0178654,13.0887385,2014-10-15,0,1,0,0,0
 Baltrum,baltrum,,,,53.72703795,7.39548387505676,2014-10-15,0,1,0,0,0
-Bremen,bremen,http://bremen.de,http://daten.bremen.de,info@bremen.de,53.0758099,8.80717,2014-08-26,0,142,97,17,48
+Bremen,bremen,http://bremen.de,http://daten.bremen.de,info@bremen.de,53.0758099,8.80717,2014-08-26,0,142,53,11,34
 Borkum,borkum,,,,53.5859383,6.69158131203533,2014-10-15,0,1,0,0,0
 Gehlweiler,gehlweiler,,,,49.8833,7.46667,2014-10-15,0,1,0,0,0
 Troisdorf,troisdorf,,,,50.8153071,7.1593271,2014-10-15,0,2,0,0,0
@@ -75,7 +75,7 @@ Norden,norden,,,,53.5942039,7.2067435,2014-10-15,0,1,0,0,0
 Stuttgart,stuttgart,http://stuttgart.de ,,post@stuttgart.de ,48.7763511,9.1829049,2014-10-15,17,1,141,9,116
 Bärenbach,baerenbach,,,,49.7479994,7.4413927,2014-10-15,0,1,0,0,0
 Heinzenbach,heinzenbach,,,,49.9728445,7.4185567,2014-10-15,0,2,0,0,0
-Ulm,ulm,http://ulm.de,http://daten.ulm.de,-,48.398312,9.9910464,2014-08-26,0,76,9,12,40
+Ulm,ulm,http://ulm.de,http://daten.ulm.de,-,48.398312,9.9910464,2014-08-26,0,76,9,10,18
 Gemünden,gemuenden,,,,49.89646945,7.47408812143667,2014-10-15,0,5,0,0,0
 Koblenz,koblenz,,,,50.34624975,7.58400984250468,2014-10-15,0,8,0,0,0
 Todenroth,todenroth,,,,49.9761819,7.3557762,2014-10-15,0,1,0,0,0
