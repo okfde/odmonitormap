@@ -139,7 +139,6 @@ var showCity = function(city, data, count) {
   sortedCategories = sortedCategories.reverse();
   var html = [];
   html.push('<h2>' + city.Stadtname + '</h2>');
-  if (city.Stadtname === 'Hamburg') html.push('<p>Das Portal befindet sich im Beta-Zustand. Die Inhalte des Portals werden bis Oktober ausgebaut.</p>');
   html.push('<p>Datensätze gesamt: ' + count + ' (Stand: ' + city.modified + ')</p>');
   html.push('<p><strong>Quellen</strong>');
   if (+city['sourced-from-d'] > 0) html.push('<br>Datenkatalog: ' + city['sourced-from-d']);
