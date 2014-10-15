@@ -143,6 +143,7 @@ var showCity = function(city, data, count) {
   html.push('<p>Datensätze gesamt: ' + count + ' (Stand: ' + city.modified + ')</p>');
   html.push('<p><strong>Quellen</strong>');
   if (+city['sourced-from-d'] > 0) html.push('<br>Datenkatalog: ' + city['sourced-from-d']);
+  if (city['catalog-sources'] !== "") html.push(' (' + city['catalog-sources'] + ')');
   if (+city['sourced-from-c'] > 0) html.push('<br>Crawl: ' + city['sourced-from-c']);
   if (+city['sourced-from-g'] > 0) html.push('<br>Google: ' + city['sourced-from-g']);
   if (+city['sourced-from-b'] > 0) html.push('<br>Bing: ' + city['sourced-from-b']);
