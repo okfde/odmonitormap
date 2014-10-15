@@ -39,7 +39,7 @@ try:
         sources = ('m','d','c','b','g')
         
         for source in sources:
-            cur.execute('SELECT COUNT(source) AS counted FROM data WHERE city = %s AND source = %s', (row['kurzname'], source))
+            cur.execute('SELECT COUNT(source) AS counted FROM data WHERE city = %s AND source = %s AND accepted=%s', (row['kurzname'], source, True))
             row['sourced-from-'+source] = cur.fetchone()['counted']
             
         rows.append(row)
@@ -53,7 +53,7 @@ try:
             datawriter = csv.DictWriter(csvfile, datafields, delimiter=',')
             datawriter.writeheader()
 
-            cur.execute('SELECT title, url, licenseshort, formats, source, categories FROM data WHERE city = %s', (row['kurzname'],))
+            cur.execute('SELECT title, url, licenseshort, formats, source, categories FROM data WHERE city = %s AND accepted = %s', (row['kurzname'], True))
             citydata = cur.fetchall()
             
             entries = []
