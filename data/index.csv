@@ -1,95 +1,92 @@
 Stadtname,kurzname,DOMAIN,Open Data Portal,Kontakt Mail,Lat,Lon,modified,sourced-from-m,sourced-from-d,sourced-from-c,sourced-from-b,sourced-from-g
-Oberwesel,oberwesel,,,,50.1060039,7.726558,2014-10-01,0,8,0,0,0
 Wennigsen (Deister),wennigsen,http://wennigsen.net,http://data.wennigsen.net ,jens@spiwi.de,52.2762744,9.5671846,2014-08-26,0,31,0,0,0
-Rheinböllen,rheinboellen,,,,50.0066163,7.6703839,2014-10-01,0,48,0,0,0
+Unzenberg,unzenberg,,,,49.9695387,7.4399933,2014-10-15,0,2,0,0,0
+Juist,juist,,,,53.6784483,6.9956079,2014-10-15,0,1,0,0,0
 Berlin,berlin,http://berlin.de,http://daten.berlin.de,Info@Berlin.de,52.5170365,13.3888599,2014-08-26,0,275,0,124,258
-Womrath,womrath,,,,49.9180587,7.4500788,2014-10-01,0,2,0,0,0
-Juist,juist,,,,53.6784483,6.9956079,2014-10-13,0,1,0,0,0
+Buch,buch,,,,50.08079315,7.3877444142684,2014-10-15,0,1,0,0,0
+Schlierschied,schlierschied,,,,49.8752505,7.4418319,2014-10-15,0,1,0,0,0
 Moers,moers,http://moers.de,http://www.offenedaten.moers.de,offenedaten@moers.de,51.4512826,6.6284302,2014-08-18,0,0,86,11,1
-Niederburg,niederburg,,,,50.1177367,7.6951697,2014-10-01,0,2,0,0,0
-Metzenhausen,metzenhausen,,,,49.9708864,7.3614793,2014-10-01,0,1,0,0,0
 Chemnitz,chemnitz,http://chemnitz.de,,katja.uhlemann@stadt-chemnitz.de,50.8322608,12.9252977,2014-08-15,0,0,4,0,0
-Appenheim,appenheim,,,,49.9277602,8.02683710710375,2014-10-01,0,10,0,0,0
-Schwarzen,schwarzen,,,,49.960972,7.3309408,2014-10-01,0,2,0,0,0
-Norderney,norderney,,,,53.7122885,7.23577947730025,2014-10-13,0,1,0,0,0
-Rosendahl,rosendahl,,,,52.01819675,7.2195946689637,2014-10-13,0,4,0,0,0
-Rohrbach,rohrbach,,,,49.5310174,12.0365198,2014-10-01,0,4,0,0,0
+Mainz,mainz,http://mainz.de,,oberbuergermeister@stadt.mainz.de,49.9999952,8.2710237,2014-10-15,0,52,0,0,0
+Urbar,urbar,,,,50.1316205,7.7202693,2014-10-15,0,4,0,0,0
+Kirchberg (Hunsrück),kirchberghunsrueck,,,,49.9330554,7.35476790609633,2014-10-15,0,1,0,0,0
+Woppenroth,woppenroth,,,,49.874648,7.4132712,2014-10-15,0,4,0,0,0
 Münster,muenster,http://muenster.de,http://www.muenster.de/stadt/katasteramt/geodatenmanagement.html,redaktion@muenster.de,51.9625101,7.6251879,2014-08-26,0,0,1,0,4
-Kastellaun,kastellaun,,,,50.0715547,7.4429326,2014-10-01,0,50,0,0,0
-Gehlweiler,gehlweiler,,,,49.8833,7.46667,2014-10-01,0,1,0,0,0
-Bodensee,bodensee,,,,47.57449,9.4963035,2014-10-13,0,1,0,0,0
-Ilmenau,ilmenau,,,,50.6867695,10.9142385,2014-10-13,0,1,0,0,0
+Norderney,norderney,,,,53.7122885,7.23577947730025,2014-10-15,0,1,0,0,0
+Rosendahl,rosendahl,,,,52.01819675,7.2195946689637,2014-10-15,0,4,0,0,0
+Lindenschied,lindenschied,,,,49.9019989,7.3929334,2014-10-15,0,2,0,0,0
+Zweibrücken,zweibruecken,,,,49.2534991,7.37060801928933,2014-10-15,0,22,0,0,0
+Wahlenau,wahlenau,,,,49.9042767,7.249527,2014-10-15,0,1,0,0,0
+Nieder Kostenz,niederkostenz,,,,49.9432775,7.3662085,2014-10-15,0,2,0,0,0
+Reckershausen,reckershausen,,,,49.9832986,7.3999914,2014-10-15,0,1,0,0,0
+Ilmenau,ilmenau,,,,50.6867695,10.9142385,2014-10-15,0,1,0,0,0
+Vallendar,vallendar,,,,50.4001381,7.6142479,2014-10-15,0,39,0,0,0
+Bodensee,bodensee,,,,47.57449,9.4963035,2014-10-15,0,1,0,0,0
+Dill,dill,,,,49.9163018,7.3460492,2014-10-15,0,5,0,0,0
+Kappel,kappel,,,,54.6641769,9.9317595,2014-10-15,0,3,0,0,0
 Bonn,bonn,http://bonn.de,http://opendata.bonn.de,opendata@bonn.de,50.7358511,7.1006599,2014-08-26,0,43,0,0,12
-Bärenbach,baerenbach,,,,49.7479994,7.4413927,2014-10-01,0,1,0,0,0
-Heinzenbach,heinzenbach,,,,49.9728445,7.4185567,2014-10-01,0,2,0,0,0
-Grolsheim,grolsheim,,,,49.9089029,7.9156244,2014-10-01,0,1,0,0,0
-Koblenz,koblenz,,,,50.34624975,7.58400984250468,2014-10-01,0,8,0,0,0
-Regensburg,regensburg,,,,49.0195333,12.0974869,2014-10-13,0,1,0,0,0
-Gemünden,gemuenden,,,,49.89646945,7.47408812143667,2014-10-01,0,6,0,0,0
-Erlangen,erlangen,,,,49.5981208,11.0036532,2014-10-13,0,4,0,0,0
-Hambuch,hambuch,,,,50.225705,7.1846615,2014-10-01,0,1,0,0,0
-Hannover,hannover,http://hannover.de,,Internetredaktion@Hannover-Stadt.de,52.3744779,9.7385532,2014-10-13,0,4,0,0,0
-Stuttgart,stuttgart,http://stuttgart.de ,,post@stuttgart.de ,48.7763511,9.1829049,2014-08-26,17,1,141,9,116
-Niedersohren,niedersohren,,,,49.9291067,7.3321326,2014-10-01,0,5,0,0,0
-Spiekeroog,spiekeroog,,,,53.7666185,7.72555904783462,2014-10-13,0,1,0,0,0
-Kludenbach,kludenbach,,,,49.988149,7.3701959,2014-10-01,0,2,0,0,0
-Laufersweiler,laufersweiler,,,,49.8966442,7.3031877,2014-10-01,0,4,0,0,0
-Bingen am Rhein,bingenamrhein,,,,49.9667,7.9,2014-10-01,0,40,0,0,0
-Dickenschied,dickenschied,,,,49.9003841,7.4180863,2014-10-01,0,3,0,0,0
-Laudert,laudert,,,,50.0775557,7.6032905,2014-10-01,0,4,0,0,0
-Schnackenburg,schnackenburg,,,,53.0369826,11.5657431,2014-10-13,0,1,0,0,0
-Todenroth,todenroth,,,,49.9761819,7.3557762,2014-10-01,0,1,0,0,0
-Lautzenhausen,lautzenhausen,,,,49.9373167,7.2730307,2014-10-01,0,5,0,0,0
-Braunschweig,braunschweig,,,,52.27165645,10.5203138303942,2014-10-13,0,8,0,0,0
-Boppard,boppard,,,,50.228893,7.6000539,2014-10-01,0,32,0,0,0
+Hamm,hamm,,,,51.6615566,7.81666112944453,2014-10-15,0,1,0,0,0
+Regensburg,regensburg,,,,49.0195333,12.0974869,2014-10-15,0,1,0,0,0
+Sohren,sohren,,,,49.930383,7.3100942,2014-10-15,0,5,0,0,0
+Trier,trier,,,,49.7557423,6.6402597,2014-10-15,0,12,0,0,0
+Damscheid,damscheid,,,,50.1027812,7.6817002,2014-10-15,0,3,0,0,0
+Simmern,simmern,,,,50.389471,7.6734439,2014-10-15,0,70,0,0,0
+Niederweiler,niederweiler,,,,49.9095071,7.2833609,2014-10-15,0,3,0,0,0
+Hecken,hecken,,,,49.9159912,7.3995056,2014-10-15,0,2,0,0,0
+Raversbeuren,raversbeuren,,,,49.9568676,7.2264652,2014-10-15,0,3,0,0,0
+Erlangen,erlangen,,,,49.5981208,11.0036532,2014-10-15,0,4,0,0,0
+Hannover,hannover,http://hannover.de,,Internetredaktion@Hannover-Stadt.de,52.3744779,9.7385532,2014-10-15,0,4,0,0,0
+Hirschfeld (Hunsrück),hirschfeldhunsrueck,,,,49.898458,7.2426488,2014-10-15,0,1,0,0,0
+Gerolstein,gerolstein,,,,50.2234404,6.6618586,2014-10-15,0,85,0,0,0
+Wiebelsheim,wiebelsheim,,,,50.07835965,7.6417279573954,2014-10-15,0,1,0,0,0
+Spiekeroog,spiekeroog,,,,53.7666185,7.72555904783462,2014-10-15,0,1,0,0,0
+Cochem,cochem,,,,50.1484113,7.166281,2014-10-15,0,63,0,0,0
+Perscheid,perscheid,,,,50.0711362,7.6970687,2014-10-15,0,4,0,0,0
 Hamburg,hamburg,http://hamburg.de,http://daten.hamburg.de,info-office@hamburg.de,53.5437641,10.0099133,2014-09-26,0,66,0,33,137
+Maitzborn,maitzborn,,,,49.9335487,7.4347001,2014-10-15,0,1,0,0,0
 Köln,koeln,http://stadt-koeln.de ,http://offenedaten-koeln.de,e-government@stadt-koeln.de,50.9374863,6.9580232,2014-08-26,0,102,1,5,19
-Emmelshausen,emmelshausen,,,,50.1564357,7.5545807,2014-10-01,0,97,0,0,0
-Kirchberg (Hunsrück),kirchberghunsrueck,,,,49.9330554,7.35476790609633,2014-10-01,0,1,0,0,0
-Hildesheim,hildesheim,http://hildesheim.de,,info@hildesheim-marketing.de,52.1532179,9.9523941,2014-10-13,0,18,0,0,0
-Woppenroth,woppenroth,,,,49.874648,7.4132712,2014-10-01,0,4,0,0,0
-Lindenschied,lindenschied,,,,49.9019989,7.3929334,2014-10-01,0,2,0,0,0
+Büchenbeuren,buechenbeuren,,,,49.9205571,7.2737714,2014-10-15,0,12,0,0,0
+Braunschweig,braunschweig,,,,52.27165645,10.5203138303942,2014-10-15,0,8,0,0,0
+Sankt Goar,sanktgoar,,,,50.15,7.71667,2014-10-15,0,13,0,0,0
+Schnackenburg,schnackenburg,,,,53.0369826,11.5657431,2014-10-15,0,1,0,0,0
+Rohrbach,rohrbach,,,,49.5310174,12.0365198,2014-10-15,0,4,0,0,0
+Hildesheim,hildesheim,http://hildesheim.de,,info@hildesheim-marketing.de,52.1532179,9.9523941,2014-10-15,0,18,0,0,0
+Kastellaun,kastellaun,,,,50.0715547,7.4429326,2014-10-15,0,59,0,0,0
 Wuppertal,wuppertal,http://wuppertal.de,https://www.wuppertal.de/rathaus-buergerservice/offene_daten/index.php,stadtverwaltung@stadt.wuppertal.de,51.264018,7.1780374,2014-10-14,0,2,0,0,0
-Unzenberg,unzenberg,,,,49.9695387,7.4399933,2014-10-01,0,2,0,0,0
-Buch,buch,,,,50.08079315,7.3877444142684,2014-10-01,0,1,0,0,0
-Cuxhaven,cuxhaven,,,,53.8687798,8.6982859,2014-10-13,0,5,0,0,0
-Schlierschied,schlierschied,,,,49.8752505,7.4418319,2014-10-01,0,1,0,0,0
-Karlsruhe,karlsruhe,http://karlsruhe.de,,online-team@pia.karlsruhe.de,49.0105758,8.4041208,2014-10-13,0,1,0,0,0
-Butjadingen,butjadingen,,,,53.545725,8.35288707942149,2014-10-13,0,1,0,0,0
-Urbar,urbar,,,,50.1316205,7.7202693,2014-10-01,0,4,0,0,0
-Mainz,mainz,http://mainz.de,,oberbuergermeister@stadt.mainz.de,49.9999952,8.2710237,2014-10-01,0,1,0,0,0
-Baltrum,baltrum,,,,53.72703795,7.39548387505676,2014-10-13,0,1,0,0,0
+Karlsruhe,karlsruhe,http://karlsruhe.de,,online-team@pia.karlsruhe.de,49.0105758,8.4041208,2014-10-15,0,1,0,0,0
+Oberwesel,oberwesel,,,,50.1060039,7.726558,2014-10-15,0,8,0,0,0
+Butjadingen,butjadingen,,,,53.545725,8.35288707942149,2014-10-15,0,1,0,0,0
+Rheinböllen,rheinboellen,,,,50.0066163,7.6703839,2014-10-15,0,47,0,0,0
+Womrath,womrath,,,,49.9180587,7.4500788,2014-10-15,0,2,0,0,0
+Niederburg,niederburg,,,,50.1177367,7.6951697,2014-10-15,0,2,0,0,0
+Cuxhaven,cuxhaven,,,,53.8687798,8.6982859,2014-10-15,0,5,0,0,0
+Metzenhausen,metzenhausen,,,,49.9708864,7.3614793,2014-10-15,0,1,0,0,0
+Schwarzen,schwarzen,,,,49.960972,7.3309408,2014-10-15,0,2,0,0,0
 Rostock,rostock,http://rostock.de ,http://opendata-hro.de ,ulrich.kunze@rostock.de,54.0924445,12.1286127,2014-08-26,0,120,1,0,31
-Sonnenberg,sonnenberg,,,,53.0178654,13.0887385,2014-10-13,0,1,0,0,0
-Vallendar,vallendar,,,,50.4001381,7.6142479,2014-10-01,0,40,0,0,0
-Wangerooge,wangerooge,,,,53.7834917,7.93518076593744,2014-10-13,0,1,0,0,0
-Dill,dill,,,,49.9163018,7.3460492,2014-10-01,0,5,0,0,0
+Wangerooge,wangerooge,,,,53.7834917,7.93518076593744,2014-10-15,0,1,0,0,0
+Sonnenberg,sonnenberg,,,,53.0178654,13.0887385,2014-10-15,0,1,0,0,0
+Baltrum,baltrum,,,,53.72703795,7.39548387505676,2014-10-15,0,1,0,0,0
 Bremen,bremen,http://bremen.de,http://daten.bremen.de,info@bremen.de,53.0758099,8.80717,2014-08-26,0,142,97,17,48
-Kappel,kappel,,,,54.6641769,9.9317595,2014-10-01,0,3,0,0,0
-Troisdorf,troisdorf,,,,50.8153071,7.1593271,2014-10-13,0,2,0,0,0
-Zweibrücken,zweibruecken,,,,49.2534991,7.37060801928933,2014-10-01,0,22,0,0,0
-Borkum,borkum,,,,53.5859383,6.69158131203533,2014-10-13,0,1,0,0,0
-Wahlenau,wahlenau,,,,49.9042767,7.249527,2014-10-01,0,1,0,0,0
-Nieder Kostenz,niederkostenz,,,,49.9432775,7.3662085,2014-10-01,0,2,0,0,0
-Reckershausen,reckershausen,,,,49.9832986,7.3999914,2014-10-01,0,1,0,0,0
-Raversbeuren,raversbeuren,,,,49.9568676,7.2264652,2014-10-01,0,3,0,0,0
-Hecken,hecken,,,,49.9159912,7.3995056,2014-10-01,0,2,0,0,0
-Norden,norden,,,,53.5942039,7.2067435,2014-10-13,0,1,0,0,0
-Hamm,hamm,,,,51.6615566,7.81666112944453,2014-10-01,0,1,0,0,0
-Trier,trier,,,,49.7557423,6.6402597,2014-10-01,0,12,0,0,0
-Sohren,sohren,,,,49.930383,7.3100942,2014-10-01,0,5,0,0,0
-Simmern,simmern,,,,50.389471,7.6734439,2014-10-01,0,70,0,0,0
+Borkum,borkum,,,,53.5859383,6.69158131203533,2014-10-15,0,1,0,0,0
+Gehlweiler,gehlweiler,,,,49.8833,7.46667,2014-10-15,0,1,0,0,0
+Troisdorf,troisdorf,,,,50.8153071,7.1593271,2014-10-15,0,2,0,0,0
+Hambuch,hambuch,,,,50.225705,7.1846615,2014-10-15,0,1,0,0,0
+Norden,norden,,,,53.5942039,7.2067435,2014-10-15,0,1,0,0,0
+Stuttgart,stuttgart,http://stuttgart.de ,,post@stuttgart.de ,48.7763511,9.1829049,2014-10-15,17,1,141,9,116
+Bärenbach,baerenbach,,,,49.7479994,7.4413927,2014-10-15,0,1,0,0,0
+Heinzenbach,heinzenbach,,,,49.9728445,7.4185567,2014-10-15,0,2,0,0,0
 Ulm,ulm,http://ulm.de,http://daten.ulm.de,-,48.398312,9.9910464,2014-08-26,0,76,9,12,40
-Damscheid,damscheid,,,,50.1027812,7.6817002,2014-10-01,0,3,0,0,0
-Niederweiler,niederweiler,,,,49.9095071,7.2833609,2014-10-01,0,3,0,0,0
-Cochem,cochem,,,,50.1484113,7.166281,2014-10-01,0,64,0,0,0
+Gemünden,gemuenden,,,,49.89646945,7.47408812143667,2014-10-15,0,5,0,0,0
+Koblenz,koblenz,,,,50.34624975,7.58400984250468,2014-10-15,0,8,0,0,0
+Todenroth,todenroth,,,,49.9761819,7.3557762,2014-10-15,0,1,0,0,0
 Frankfurt am Main,frankfurt,http://frankfurt.de,,onlinebuero@stadt-frankfurt.de,50.12134215,8.661951186,2014-08-26,1,0,0,0,1
-Perscheid,perscheid,,,,50.0711362,7.6970687,2014-10-01,0,4,0,0,0
+Boppard,boppard,,,,50.228893,7.6000539,2014-10-15,0,33,0,0,0
 München,muenchen,http://muenchen.de,http://www.muenchen.de/opendata,info@portalmuenchen.de,48.1372719,11.5754815,2014-08-15,0,0,0,6,10
-Maitzborn,maitzborn,,,,49.9335487,7.4347001,2014-10-01,0,1,0,0,0
-Büchenbeuren,buechenbeuren,,,,49.9205571,7.2737714,2014-10-01,0,13,0,0,0
-Sankt Goar,sanktgoar,,,,50.15,7.71667,2014-10-01,0,13,0,0,0
-Tübingen,tuebingen,,,,48.5236164,9.0535531,2014-10-13,0,1,0,0,0
-Hirschfeld (Hunsrück),hirschfeldhunsrueck,,,,49.898458,7.2426488,2014-10-01,0,1,0,0,0
-Gerolstein,gerolstein,,,,50.2234404,6.6618586,2014-10-01,0,86,0,0,0
-Wiebelsheim,wiebelsheim,,,,50.07835965,7.6417279573954,2014-10-01,0,1,0,0,0
+Lautzenhausen,lautzenhausen,,,,49.9373167,7.2730307,2014-10-15,0,5,0,0,0
+Emmelshausen,emmelshausen,,,,50.1564357,7.5545807,2014-10-15,0,97,0,0,0
+Niedersohren,niedersohren,,,,49.9291067,7.3321326,2014-10-15,0,5,0,0,0
+Laufersweiler,laufersweiler,,,,49.8966442,7.3031877,2014-10-15,0,4,0,0,0
+Kludenbach,kludenbach,,,,49.988149,7.3701959,2014-10-15,0,2,0,0,0
+Dickenschied,dickenschied,,,,49.9003841,7.4180863,2014-10-15,0,3,0,0,0
+Laudert,laudert,,,,50.0775557,7.6032905,2014-10-15,0,4,0,0,0
+Tübingen,tuebingen,,,,48.5236164,9.0535531,2014-10-15,0,1,0,0,0
