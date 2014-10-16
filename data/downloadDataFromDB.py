@@ -51,7 +51,7 @@ try:
             
         rows.append(row)
         
-        print 'Writing city ' + result['city_fullname'] + ' as ' + row['kurzname'] + '.csv...'
+        print 'Writing ' + row['kurzname'] + '.csv...'
         with open(row['kurzname'] + '.csv', 'wb') as csvfile:
             categories = ('Arbeitsmarkt', u'Bevölkerung', 'Bildung und Wissenschaft', 'Haushalt und Steuern', 'Stadtentwicklung und Bebauung', 'Wohnen und Immobilien', 'Sozialleistungen', u'Öffentl. Sicherheit', 'Gesundheit', 'Kunst und Kultur', 'Land- und Forstwirtschaft', 'Sport und Freizeit', 'Umwelt', 'Transport und Verkehr', 'Energie, Ver- und Entsorgung', 'Politik und Wahlen', 'Verwaltung', 'Gesetze und Justiz', u'Wirtschaft und Wirtschaftsförderung', 'Tourismus', 'Verbraucher', 'Sonstiges', 'Noch nicht kategorisiert')
             datafields = ['Dateibezeichnung', 'URL', 'Lizenz', 'Format', 'Quelle']
