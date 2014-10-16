@@ -43,11 +43,11 @@ Spiekeroog,spiekeroog,,,,53.7666185,7.72555904783462,2014-10-15,0,1,0,0,0,govdat
 Cochem,cochem,,,,50.1484113,7.166281,2014-10-15,0,63,0,0,0,daten.rlp.de
 Perscheid,perscheid,,,,50.0711362,7.6970687,2014-10-15,0,4,0,0,0,daten.rlp.de
 Maitzborn,maitzborn,,,,49.9335487,7.4347001,2014-10-15,0,1,0,0,0,daten.rlp.de
-Köln,koeln,http://stadt-koeln.de ,http://offenedaten-koeln.de,e-government@stadt-koeln.de,50.9374863,6.9580232,2014-08-26,0,102,1,5,19,offenedaten-koeln.de
 Büchenbeuren,buechenbeuren,,,,49.9205571,7.2737714,2014-10-15,0,12,0,0,0,daten.rlp.de
 Braunschweig,braunschweig,,,,52.27165645,10.5203138303942,2014-10-15,0,8,0,0,0,govdata.de
 Sankt Goar,sanktgoar,,,,50.15,7.71667,2014-10-15,0,13,0,0,0,daten.rlp.de
 Schnackenburg,schnackenburg,,,,53.0369826,11.5657431,2014-10-15,0,1,0,0,0,govdata.de
+Frankfurt am Main,frankfurt,http://frankfurt.de,http://offenedaten.frankfurt.de,onlinebuero@stadt-frankfurt.de,50.12134215,8.661951186,2014-10-16,1,26,0,0,1,offenedaten.frankfurt.de
 Hildesheim,hildesheim,http://hildesheim.de,,info@hildesheim-marketing.de,52.1532179,9.9523941,2014-10-15,0,18,0,0,0,govdata.de
 Kastellaun,kastellaun,,,,50.0715547,7.4429326,2014-10-15,0,59,0,0,0,daten.rlp.de
 Karlsruhe,karlsruhe,http://karlsruhe.de,,online-team@pia.karlsruhe.de,49.0105758,8.4041208,2014-10-15,0,1,0,0,0,govdata.de
@@ -66,7 +66,7 @@ Wangerooge,wangerooge,,,,53.7834917,7.93518076593744,2014-10-15,0,1,0,0,0,govdat
 Sonnenberg,sonnenberg,,,,53.0178654,13.0887385,2014-10-15,0,1,0,0,0,govdata.de
 Baltrum,baltrum,,,,53.72703795,7.39548387505676,2014-10-15,0,1,0,0,0,govdata.de
 Bremen,bremen,http://bremen.de,http://daten.bremen.de,info@bremen.de,53.0758099,8.80717,2014-08-26,0,142,53,11,34,daten.bremen.de
-Bonn,bonn,http://bonn.de,http://opendata.bonn.de,opendata@bonn.de,50.7358511,7.1006599,2014-10-16,0,72,0,0,0,opendata.bonn.de
+Bonn,bonn,http://bonn.de,http://opendata.bonn.de,opendata@bonn.de,50.7358511,7.1006599,2014-10-16,0,73,0,0,0,opendata.bonn.de
 Borkum,borkum,,,,53.5859383,6.69158131203533,2014-10-15,0,1,0,0,0,govdata.de
 Gehlweiler,gehlweiler,,,,49.8833,7.46667,2014-10-15,0,1,0,0,0,daten.rlp.de
 Troisdorf,troisdorf,,,,50.8153071,7.1593271,2014-10-15,0,2,0,0,0,govdata.de
@@ -79,12 +79,12 @@ Ulm,ulm,http://ulm.de,http://daten.ulm.de,-,48.398312,9.9910464,2014-08-26,0,76,
 Gemünden,gemuenden,,,,49.89646945,7.47408812143667,2014-10-15,0,5,0,0,0,daten.rlp.de
 Koblenz,koblenz,,,,50.34624975,7.58400984250468,2014-10-15,0,8,0,0,0,daten.rlp.de
 Todenroth,todenroth,,,,49.9761819,7.3557762,2014-10-15,0,1,0,0,0,daten.rlp.de
-Frankfurt am Main,frankfurt,http://frankfurt.de,,onlinebuero@stadt-frankfurt.de,50.12134215,8.661951186,2014-08-26,1,0,0,0,1,
 Boppard,boppard,,,,50.228893,7.6000539,2014-10-15,0,33,0,0,0,daten.rlp.de
 München,muenchen,http://muenchen.de,http://www.muenchen.de/opendata,info@portalmuenchen.de,48.1372719,11.5754815,2014-08-15,0,0,0,6,10,
 Lautzenhausen,lautzenhausen,,,,49.9373167,7.2730307,2014-10-15,0,5,0,0,0,daten.rlp.de
 Emmelshausen,emmelshausen,,,,50.1564357,7.5545807,2014-10-15,0,97,0,0,0,daten.rlp.de
 Niedersohren,niedersohren,,,,49.9291067,7.3321326,2014-10-15,0,5,0,0,0,daten.rlp.de
+Köln,koeln,http://stadt-koeln.de ,http://offenedaten-koeln.de,e-government@stadt-koeln.de,50.9374863,6.9580232,2014-10-16,0,128,1,5,19,offenedaten-koeln.de
 Laufersweiler,laufersweiler,,,,49.8966442,7.3031877,2014-10-15,0,4,0,0,0,daten.rlp.de
 Kludenbach,kludenbach,,,,49.988149,7.3701959,2014-10-15,0,2,0,0,0,daten.rlp.de
 Dickenschied,dickenschied,,,,49.9003841,7.4180863,2014-10-15,0,3,0,0,0,daten.rlp.de
