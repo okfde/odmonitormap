@@ -25,7 +25,7 @@ try:
     rows = []
     
     for result in results:
-        print 'Processing city ' + result['city_fullname'] + '...'
+        print 'Processing city ' + result['city_shortname'] + '...'
         row = OrderedDict()
         row['Stadtname'] = result['city_fullname']
         row['kurzname'] = result['city_shortname']
