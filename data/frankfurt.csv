@@ -1,4 +1,6 @@
 Dateibezeichnung,URL,Lizenz,Format,Quelle,Arbeitsmarkt,Bevölkerung,Bildung und Wissenschaft,Haushalt und Steuern,Stadtentwicklung und Bebauung,Wohnen und Immobilien,Sozialleistungen,Öffentl. Sicherheit,Gesundheit,Kunst und Kultur,Land- und Forstwirtschaft,Sport und Freizeit,Umwelt,Transport und Verkehr,"Energie, Ver- und Entsorgung",Politik und Wahlen,Verwaltung,Gesetze und Justiz,Wirtschaft und Wirtschaftsförderung,Tourismus,Verbraucher,Sonstiges,Noch nicht kategorisiert
+Daten Stadtteilprofile,http://www.frankfurt.de/sixcms/detail.php?id=11800621&_ffmpar%5B_id_eltern%5D=2811,nicht bekannt,XLS,m,x,x,x,,x,x,,,x,,,,,,,x,,,x,,,,
+Standortliste HSU Frankfurt 2012,https://www.frankfurt.de/sixcms/media.php/738/Standortliste%20HSU%20Frankfurt%202012.xlsx,nicht bekannt,XLSX,g,,,x,,,,,,,,,,,,,,,,,,,,
 Ärztedichte und Sozialleistungen,http://www.offenedaten.frankfurt.de/dataset/gesundheit-soziales,dl-de-by-1.0,"PDF,JSON,XLS",d,x,,,,,,x,,x,,,,,,,,,,x,,,,
 Stadtgebiet Fläche,http://www.offenedaten.frankfurt.de/dataset/stadtgebietflaeche,dl-de-by-1.0,"PDF,JSON,TXT,XLS,CSV",d,,,,,x,x,,,,,,,,x,,,,,,,,,
 Beschäftigte,http://www.offenedaten.frankfurt.de/dataset/wirtschaft,dl-de-by-1.0,"PDF,JSON,XLS",d,x,,,,,,,,,,,,,,,,,,x,,,,
@@ -17,8 +19,6 @@ Wohnfläche,http://www.offenedaten.frankfurt.de/dataset/wohnen,dl-de-by-1.0,"PDF
 Niedergelassene Kassenärzte,http://www.offenedaten.frankfurt.de/dataset/gesundheit,dl-de-by-1.0,"PDF,JSON,XLS",d,x,,,,,,x,,x,,,,,,,,,,x,,,,
 Bevölkerung Region Rhein Main,http://www.offenedaten.frankfurt.de/dataset/rheinmain-bevolkerung,dl-de-by-1.0,"PDF,JSON,XLS",d,,x,,,,,,,,,,,,,,,,,,,,,
 Bevölkerungsstruktur,http://www.offenedaten.frankfurt.de/dataset/bevoelkerung,dl-de-by-1.0,"PDF,JSON,TXT,XLS,CSV",d,,x,,,,,,,,,,,,,,,,,,,,,
-Daten Stadtteilprofile,http://www.frankfurt.de/sixcms/detail.php?id=11800621&_ffmpar%5B_id_eltern%5D=2811,nicht bekannt,XLS,m,x,x,x,,x,x,,,x,,,,,,,x,,,x,,,,
-Standortliste HSU Frankfurt 2012,https://www.frankfurt.de/sixcms/media.php/738/Standortliste%20HSU%20Frankfurt%202012.xlsx,nicht bekannt,XLSX,g,,,x,,,,,,,,,,,,,,,,,,,,
 Vornamensstatistik von 2000 bis 2014,http://www.offenedaten.frankfurt.de/dataset/vornamensstatistik-von-2000-bis-2014,dl-de-by-1.0,"PDF,XLS",d,,x,,,,,,,,,,,,,,,,,,,,,
 Sozialleistungen und Grundsicherung,http://www.offenedaten.frankfurt.de/dataset/soziales,dl-de-by-1.0,"PDF,JSON,XLS",d,,,,,,,,,,,,,,,,,,,,,,,x
 Kindertageseinrichtungen Besuchsquote,http://www.offenedaten.frankfurt.de/dataset/stadtteilprofile-bildung,dl-de-by-1.0,"PDF,JSON,XLS",d,,,,,,,x,,,,,,,,,,,,,,,,

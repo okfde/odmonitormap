@@ -5,7 +5,6 @@ Oberwesel,oberwesel,,,,50.1060039,7.726558,2014-10-22,0,8,0,0,0,daten.rlp.de
 Butjadingen,butjadingen,,,,53.545725,8.35288707942149,2014-10-22,0,1,0,0,0,govdata.de
 Berlin,berlin,http://berlin.de,http://daten.berlin.de,Info@Berlin.de,52.5170365,13.3888599,2014-08-26,0,275,0,124,258,daten.berlin.de
 Niederburg,niederburg,,,,50.1177367,7.6951697,2014-10-22,0,2,0,0,0,daten.rlp.de
-Moers,moers,http://moers.de,http://www.offenedaten.moers.de,offenedaten@moers.de,51.4512826,6.6284302,2014-08-18,0,0,86,6,1,
 Cuxhaven,cuxhaven,,,,53.8687798,8.6982859,2014-10-22,0,5,0,0,0,govdata.de
 Chemnitz,chemnitz,http://chemnitz.de,,katja.uhlemann@stadt-chemnitz.de,50.8322608,12.9252977,2014-08-15,0,0,4,0,0,
 Frankfurt am Main,frankfurt,http://frankfurt.de,http://offenedaten.frankfurt.de,onlinebuero@stadt-frankfurt.de,50.12134215,8.661951186,2014-10-22,1,26,0,0,1,offenedaten.frankfurt.de
@@ -28,6 +27,7 @@ Hamburg,hamburg,http://hamburg.de,http://transparenz.hamburg.de,info-office@hamb
 Verbandsgemeinde Loreley,verbandsgemeindeloreley,,,,50.1393012,7.728378,2014-10-22,0,2,0,0,0,daten.rlp.de
 Stuttgart,stuttgart,http://stuttgart.de ,,post@stuttgart.de ,48.7763511,9.1829049,2014-10-22,17,1,141,9,116,govdata.de
 Wissen,wissen,,,,50.7827594,7.7355905,2014-10-22,0,1,0,0,0,govdata.de
+Moers,moers,http://moers.de,http://offenedaten.moers.de,offenedaten@moers.de,51.4512826,6.6284302,2014-10-22,0,124,1,6,1,offenedaten.moers.de
 Laudert,laudert,,,,50.0775557,7.6032905,2014-10-22,0,4,0,0,0,daten.rlp.de
 Tübingen,tuebingen,,,,48.5236164,9.0535531,2014-10-22,0,1,0,0,0,govdata.de
 Köln,koeln,http://stadt-koeln.de ,http://offenedaten-koeln.de,e-government@stadt-koeln.de,50.9374863,6.9580232,2014-10-22,0,129,1,5,19,offenedaten-koeln.de
