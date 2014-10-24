@@ -108,6 +108,7 @@ Landtagswahlkreis,http://offenedaten-koeln.de/dataset/landtagswahlkreis,cc-by,"X
 Einwohner- und Haushalteentwicklung,http://offenedaten-koeln.de/dataset/einwohner-und-haushalteentwicklung,cc-by,CSV,d,,x,,,,,,,,,,,,,,,,,,,,,
 Baulückenkataster Köln,http://offenedaten-koeln.de/dataset/baulückenkataster-köln,cc-by,JSON,d,,,,,,,,,,x,,x,,,,,,,,x,,,
 Bundestagswahlkreis,http://offenedaten-koeln.de/dataset/bundestagswahlkreis,cc-by,"XML,KMZ,ZIP",d,,,,,x,,,,,,,,,,,x,,,,,,,
+Monitoring Offene Daten Koeln,http://offenedaten-koeln.de/dataset/monitoring-offene-daten-koeln,cc-by,CSV,d,,,,x,,,,,,,,,,,,,,,,,,x,
 Politische Verhältnisse,http://offenedaten-koeln.de/dataset/politische-verhältnisse,cc-by,CSV,d,,,,,,,,,,,,,,,,x,,,,,,,
 Bibliotheken in Köln,http://offenedaten-koeln.de/dataset/bibliotheken-köln,cc-by,"JSON,KMZ",d,,,x,,x,,,,,,,,,,,,,,,,,,
 Stadtteile Koeln,http://offenedaten-koeln.de/dataset/stadtteile-koeln,cc-by,CSV,d,,,,,x,x,,,,,,,,,,,,,,,,,
