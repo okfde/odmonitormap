@@ -53,10 +53,9 @@ try:
         
         print 'Writing ' + row['kurzname'] + '.csv...'
         with open(row['kurzname'] + '.csv', 'wb') as csvfile:
-            categories = ('Arbeitsmarkt', u'Bevölkerung', 'Bildung und Wissenschaft', 'Haushalt und Steuern', 'Stadtentwicklung und Bebauung', 'Wohnen und Immobilien', 'Sozialleistungen', u'Öffentl. Sicherheit', 'Gesundheit', 'Kunst und Kultur', 'Land- und Forstwirtschaft', 'Sport und Freizeit', 'Umwelt', 'Transport und Verkehr', 'Energie, Ver- und Entsorgung', 'Politik und Wahlen', 'Verwaltung', 'Gesetze und Justiz', u'Wirtschaft und Wirtschaftsförderung', 'Tourismus', 'Verbraucher', 'Sonstiges', 'Noch nicht kategorisiert')
-            datafields = ['Dateibezeichnung', 'URL', 'Lizenz', 'Format', 'Quelle']
-            datafields.extend(categories)
-            
+            datafields = metautils.getCategories()
+            datafields.extend(['Dateibezeichnung', 'URL', 'Lizenz', 'Format', 'Quelle'])
+
             datawriter = csv.DictWriter(csvfile, datafields, delimiter=',')
             datawriter.writeheader()
 

@@ -16,10 +16,8 @@ var licences = [];
 //Complete data set in one array
 var allData = [];
 
-/* At the moment the categories are hard coded because there is no single list of
-categories, even though the same categories should be used in every file.
-To save messy "unique list building", the definitive list is defined, here :) */
-var categories = ['Arbeitsmarkt', 'Bevölkerung', 'Bildung und Wissenschaft', 'Haushalt und Steuern', 'Stadtentwicklung und Bebauung', 'Wohnen und Immobilien', 'Sozialleistungen', 'Öffentl. Sicherheit', 'Gesundheit', 'Kunst und Kultur', 'Land- und Forstwirtschaft', 'Sport und Freizeit', 'Umwelt', 'Transport und Verkehr', 'Energie, Ver- und Entsorgung', 'Politik und Wahlen', 'Verwaltung', 'Gesetze und Justiz', 'Wirtschaft und Wirtschaftsförderung', 'Tourismus', 'Verbraucher', 'Sonstiges', 'Noch nicht kategorisiert'];
+/* The definitive list if categories is defined, here. It should match the set defined in metautils.py. */
+var categories = ['Bevölkerung', 'Bildung und Wissenschaft', 'Geographie, Geologie und Geobasisdaten', 'Gesetze und Justiz', 'Gesundheit', 'Infrastruktur, Bauen und Wohnen', 'Kultur, Freizeit, Sport, Tourismus', 'Politik und Wahlen', 'Soziales', 'Transport und Verkehr', 'Umwelt und Klima', 'Verbraucherschutz', 'Öffentliche Verwaltung, Haushalt und Steuern', 'Wirtschaft und Arbeit', 'Sonstiges', 'Noch nicht kategorisiert'];
 
 var $el = $('#map');
 var windowHeight = $(window).height();
