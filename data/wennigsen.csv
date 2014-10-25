@@ -1,18 +1,18 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
 ,,x,,,x,,,,,,,,,,,groesse_gemeindegebiet.csv,http://data.wennigsen.net/2013_02_09_groesse_gemeindegebiet.csv,CC-BY 3.0,CSV,d
+,,x,,,x,,,,,x,,,,,,Gruener_Faden.gpx,http://data.wennigsen.net/Gruener_Faden.gpx,CC-BY 3.0,GPX,d
+,,,,,x,,,,,,,,,,,Kanalbaubeitraege.csv,http://data.wennigsen.net/2013_02_09_Kanalbaubeitraege.csv,CC-BY 3.0,CSV,d
+,,x,,,x,,,,,,,,,,,bauantraege.csv,http://data.wennigsen.net/2013_02_09_bauantraege.csv,CC-BY 3.0,CSV,d
 ,,,,,,,,,,,,,,x,,ausweise.csv,http://data.wennigsen.net/2013_02_09_ausweise.csv,CC-BY 3.0,CSV,d
 ,,,,,,,,,,,,,,x,,Personal.csv,http://data.wennigsen.net/2013_02_02_Personal.csv,CC-BY 3.0,CSV,d
 ,,,,,,,,,x,,,,,,,Ampeln.csv,http://data.wennigsen.net/2013_02_02_Ampeln.csv,CC-BY 3.0,CSV,d
-,,x,,,x,,,,,x,,,,,,Gruener_Faden.gpx,http://data.wennigsen.net/Gruener_Faden.gpx,CC-BY 3.0,GPX,d
-,,,,,x,,,,,,,,,,,Kanalbaubeitraege.csv,http://data.wennigsen.net/2013_02_09_Kanalbaubeitraege.csv,CC-BY 3.0,CSV,d
 ,,,,,x,,,,,,,,,,,Muellabfuhrgebuehren.csv,http://data.wennigsen.net/2013_02_09_Muellabfuhrgebuehren.csv,CC-BY 3.0,CSV,d
-,,x,,,x,,,,,,,,,,,bauantraege.csv,http://data.wennigsen.net/2013_02_09_bauantraege.csv,CC-BY 3.0,CSV,d
-x,,,,,,,,,,,,,,,,geburten_sterbefaelle_ehe.csv,http://data.wennigsen.net/2013_02_09_geburten_sterbefaelle_ehe.csv,CC-BY 3.0,CSV,d
 ,,,,,,,,,,,,x,,,,Steuersaetze.csv,http://data.wennigsen.net/2013_02_09_Steuersaetze.csv,CC-BY 3.0,CSV,d
 ,,,,,,,,,,,,x,,,,Kreditaufnahmen_Verpflichtungser.csv,http://data.wennigsen.net/2013_02_09_Kreditaufnahmen_Verpflichtungser.csv,CC-BY 3.0,CSV,d
 ,,,,,,,,,,,,x,,,,Schuldenstand.csv,http://data.wennigsen.net/2013_02_09_Schuldenstand.csv,CC-BY 3.0,CSV,d
 ,,,x,,,,,,,,,x,,,,ordnugswidrigkeiten.csv,http://data.wennigsen.net/2013_02_09_ordnugswidrigkeiten.csv,CC-BY 3.0,CSV,d
 ,,,,,,,,,,,,x,,,,Vermoegenshaushalt.csv,http://data.wennigsen.net/2013_02_09_Vermoegenshaushalt.csv,CC-BY 3.0,CSV,d
+x,,,,,,,,,,,,,,,,geburten_sterbefaelle_ehe.csv,http://data.wennigsen.net/2013_02_09_geburten_sterbefaelle_ehe.csv,CC-BY 3.0,CSV,d
 ,,,,,x,,,,,,,,,,,Abwasserbeseitigung.csv,http://data.wennigsen.net/2013_02_09_Abwasserbeseitigung.csv,CC-BY 3.0,CSV,d
 ,,,,,,,,,,,,,,x,,Oeffnungszeiten_Buergebuero.csv,http://data.wennigsen.net/2013_01_14_Oeffnungszeiten_Buergebuero.csv,CC-BY 3.0,CSV,d
 ,,,,,,,,,,,,,,x,,Oeffnungszeiten_Zulassungsstelle.csv,http://data.wennigsen.net/2013_01_14_Oeffnungszeiten_Zulassungsstelle.csv,CC-BY 3.0,CSV,d
