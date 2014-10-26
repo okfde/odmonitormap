@@ -1,13 +1,7 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
 ,,x,,,,,,,,,,,,,,Beilstein - Ebene: Umringe der Bebauungspläne von Beilstein,http://www.daten.rlp.de/dataset/d63d70d5-857f-4608-aa41-c07ad48d268a,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Wirfus - Ebene: Umringe der Bebauungspläne von Wirfus,http://www.daten.rlp.de/dataset/6df1385a-99ab-4025-87ab-b45b8f4c41df,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Klotten - Ebene: Wild- und Freizeitpark,http://www.daten.rlp.de/dataset/7c66a347-61e3-40ea-b4c1-542763b96c54,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Mesenich - Ebene: Umringe der Bebauungspläne von Mesenich,http://www.daten.rlp.de/dataset/96c29847-9d73-40c4-9d72-a7c6a7578893,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,"Bruttig-Fankel - Ebene: Zwischen den Ortsteilen Bruttig und Fankel, Ortsteil Bruttig",http://www.daten.rlp.de/dataset/a229f44b-b35f-458e-a887-3e45dcb69ff9,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Wirfus - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/10619ac6-d56f-4359-bacf-c612ee103048,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Faid - Ebene: Vor den Birken,http://www.daten.rlp.de/dataset/771de1d2-ace6-4907-868b-cfa49656b50b,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Mesenich - Ebene: 1.Aenderung Pfahlsbac,http://www.daten.rlp.de/dataset/229d81e2-a96c-4bb2-b09a-12da6ae3f52e,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Ellenz-Poltersdorf - Ebene: Umringe der Bebauungspläne von Ellenz-Poltersdorf,http://www.daten.rlp.de/dataset/88e67a91-264b-4001-9fde-7ce22ba57559,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Ediger-Eller - Ebene: Nordwestliche Ortserweiterung bis zum Ellerbach,http://www.daten.rlp.de/dataset/0a447422-9a52-43e4-8158-527cf99f914c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Ediger-Eller - Ebene: Umringe der Bebauungspläne von Ediger-Eller,http://www.daten.rlp.de/dataset/71a9eecf-e8dc-4cbc-bff5-1320c0364c62,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Mesenich - Ebene: Katerhell,http://www.daten.rlp.de/dataset/8f2e93ec-2fce-441d-9e43-0c1eae68391a,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Klotten - Ebene: Nordwestliche Ortserweiterung,http://www.daten.rlp.de/dataset/49e1abc0-ab21-45a4-9a8b-37654a1ae75b,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Greimersburg - Ebene: Auf dem Huschten 2. Aenderung,http://www.daten.rlp.de/dataset/1072e60b-79fd-4f44-850e-dc14a0d9b1e8,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -46,16 +40,22 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Bremm - Ebene: Am Friedhof,http://www.daten.rlp.de/dataset/bee666ba-3566-4e32-8490-488227927a67,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Nehren - Ebene: Nördliche Ortserweiterung,http://www.daten.rlp.de/dataset/a93016b3-6260-45ea-ab7e-c90ada137147,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Ediger-Eller - Ebene: Auf dem Wert,http://www.daten.rlp.de/dataset/5f9c06ca-1b29-4431-8473-7a1fc0f07bf7,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Wirfus - Ebene: Umringe der Bebauungspläne von Wirfus,http://www.daten.rlp.de/dataset/6df1385a-99ab-4025-87ab-b45b8f4c41df,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,"Faid - Ebene: 2. Anderung des Bebbauungsplanes ""Erweiterung des westlich der B 259 gelegenen Ortsteils Teil II"" der Ortsgemeinde Faid 2. Aenderung des Bebbauungsplanes Erweiterung des westlich der B259 gelegenen Ort",http://www.daten.rlp.de/dataset/fbc776ed-813d-4944-a7d1-de7fa7f034cf,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Ediger-Eller - Ebene: Nordwestliche Ortserweiterung bis zum Ellerbach,http://www.daten.rlp.de/dataset/0a447422-9a52-43e4-8158-527cf99f914c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Mesenich - Ebene: Pfahlsbach Erweiterung,http://www.daten.rlp.de/dataset/c9085839-c63f-4f41-9938-3d8fad22f744,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Ediger-Eller - Ebene: Gemeindezentrum Gemeindezentrum,http://www.daten.rlp.de/dataset/a4518e3e-f38c-4b2c-952e-3df1cc4de32d,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Ernst - Ebene: Umringe der Bebauungspläne von Ernst,http://www.daten.rlp.de/dataset/2bb11e76-2092-4e64-9376-303c7726b664,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Ediger-Eller - Ebene: Umringe der Bebauungspläne von Ediger-Eller,http://www.daten.rlp.de/dataset/71a9eecf-e8dc-4cbc-bff5-1320c0364c62,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Briedern - Ebene: Gewerbegebiet Wacholder,http://www.daten.rlp.de/dataset/30d9c827-7e71-4258-bfcd-c3df538cbee0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Klotten - Ebene: Wild- und Freizeitpark,http://www.daten.rlp.de/dataset/7c66a347-61e3-40ea-b4c1-542763b96c54,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Mesenich - Ebene: Umringe der Bebauungspläne von Mesenich,http://www.daten.rlp.de/dataset/96c29847-9d73-40c4-9d72-a7c6a7578893,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,"Bruttig-Fankel - Ebene: Zwischen den Ortsteilen Bruttig und Fankel, Ortsteil Bruttig",http://www.daten.rlp.de/dataset/a229f44b-b35f-458e-a887-3e45dcb69ff9,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Wirfus - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/10619ac6-d56f-4359-bacf-c612ee103048,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Faid - Ebene: Vor den Birken,http://www.daten.rlp.de/dataset/771de1d2-ace6-4907-868b-cfa49656b50b,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Mesenich - Ebene: 1.Aenderung Pfahlsbac,http://www.daten.rlp.de/dataset/229d81e2-a96c-4bb2-b09a-12da6ae3f52e,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Klotten - Ebene: Nordwestliche Ortserweiterung Kernstrasse-Bruehlstrasse-Kirchstrasse,http://www.daten.rlp.de/dataset/d6edf62d-00b3-4e98-a75c-c5337f58e1c7,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Ernst - Ebene: Zwischen Ober- und Niederernst,http://www.daten.rlp.de/dataset/7634ae58-3c2a-46f1-bf78-62f55534be33,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Bruttig-Fankel - Ebene: Zwischen den Orsteilen Bruttig und Fankel, Ortsteil Fankel",http://www.daten.rlp.de/dataset/f72b2539-4806-4c64-9a31-9e2b53836106,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Ellenz-Poltersdorf - Ebene: Umringe der Bebauungspläne von Ellenz-Poltersdorf,http://www.daten.rlp.de/dataset/88e67a91-264b-4001-9fde-7ce22ba57559,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Nehren - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/a06c3e4f-231e-41bb-89df-f04b087510ef,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Ernst - Ebene: Zwischen Ober- und Niederernst I. Vereinfachte Änderung,http://www.daten.rlp.de/dataset/9c2f1ac9-6b2c-43f8-839d-cf3cf95574f2,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Mesenich - Ebene: Frohnwies,http://www.daten.rlp.de/dataset/be5ad6dd-6c30-4bee-820d-d78809ac22fb,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
