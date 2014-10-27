@@ -1,7 +1,8 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
 ,,x,,,,,,,,,,,,,,Beilstein - Ebene: Umringe der Bebauungspläne von Beilstein,http://www.daten.rlp.de/dataset/d63d70d5-857f-4608-aa41-c07ad48d268a,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Briedern - Ebene: Umringe der Bebauungspläne von Briedern,http://www.daten.rlp.de/dataset/dd1f786a-3b3c-49f6-a7fe-098b78cb357f,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Ediger-Eller - Ebene: Nordwestliche Ortserweiterung bis zum Ellerbach,http://www.daten.rlp.de/dataset/0a447422-9a52-43e4-8158-527cf99f914c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Ediger-Eller - Ebene: Umringe der Bebauungspläne von Ediger-Eller,http://www.daten.rlp.de/dataset/71a9eecf-e8dc-4cbc-bff5-1320c0364c62,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Ernst - Ebene: Umringe der Bebauungspläne von Ernst,http://www.daten.rlp.de/dataset/2bb11e76-2092-4e64-9376-303c7726b664,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Mesenich - Ebene: Katerhell,http://www.daten.rlp.de/dataset/8f2e93ec-2fce-441d-9e43-0c1eae68391a,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Klotten - Ebene: Nordwestliche Ortserweiterung,http://www.daten.rlp.de/dataset/49e1abc0-ab21-45a4-9a8b-37654a1ae75b,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Greimersburg - Ebene: Auf dem Huschten 2. Aenderung,http://www.daten.rlp.de/dataset/1072e60b-79fd-4f44-850e-dc14a0d9b1e8,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -29,7 +30,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Ellenz-Poltersdorf - Ebene: An der Kirche - Beim Bauernweg,http://www.daten.rlp.de/dataset/29902907-8bcc-4fda-ae84-1ca67c362896,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Faid - Ebene: Gewerbegebiet  Auf der Strasse,http://www.daten.rlp.de/dataset/feced7fb-58c5-4688-b58c-457195bdaee6,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Greimersburg - Ebene: Sondergebiet Nipprich,http://www.daten.rlp.de/dataset/25be548b-2e15-4a3e-8365-1f1c6139bc13,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Briedern - Ebene: Umringe der Bebauungspläne von Briedern,http://www.daten.rlp.de/dataset/dd1f786a-3b3c-49f6-a7fe-098b78cb357f,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Greimersburg - Ebene: Auf dem Heckenstueck 1. Aenderung,http://www.daten.rlp.de/dataset/d7f94937-1fda-47c1-a282-c07c13944c9c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Ernst - Ebene: Suedlicher Ortsrand Teil I,http://www.daten.rlp.de/dataset/6aadf719-6d9f-4bb9-aa57-dfdb6c3a359d,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Ernst - Ebene: Sondergebiet Im Steinbruch 1. Aenderung,http://www.daten.rlp.de/dataset/5b502163-3660-431a-8841-d46ae7b1613c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -44,7 +44,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,"Faid - Ebene: 2. Anderung des Bebbauungsplanes ""Erweiterung des westlich der B 259 gelegenen Ortsteils Teil II"" der Ortsgemeinde Faid 2. Aenderung des Bebbauungsplanes Erweiterung des westlich der B259 gelegenen Ort",http://www.daten.rlp.de/dataset/fbc776ed-813d-4944-a7d1-de7fa7f034cf,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Mesenich - Ebene: Pfahlsbach Erweiterung,http://www.daten.rlp.de/dataset/c9085839-c63f-4f41-9938-3d8fad22f744,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Ediger-Eller - Ebene: Gemeindezentrum Gemeindezentrum,http://www.daten.rlp.de/dataset/a4518e3e-f38c-4b2c-952e-3df1cc4de32d,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Ernst - Ebene: Umringe der Bebauungspläne von Ernst,http://www.daten.rlp.de/dataset/2bb11e76-2092-4e64-9376-303c7726b664,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Ediger-Eller - Ebene: Umringe der Bebauungspläne von Ediger-Eller,http://www.daten.rlp.de/dataset/71a9eecf-e8dc-4cbc-bff5-1320c0364c62,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Briedern - Ebene: Gewerbegebiet Wacholder,http://www.daten.rlp.de/dataset/30d9c827-7e71-4258-bfcd-c3df538cbee0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Klotten - Ebene: Wild- und Freizeitpark,http://www.daten.rlp.de/dataset/7c66a347-61e3-40ea-b4c1-542763b96c54,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Mesenich - Ebene: Umringe der Bebauungspläne von Mesenich,http://www.daten.rlp.de/dataset/96c29847-9d73-40c4-9d72-a7c6a7578893,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d

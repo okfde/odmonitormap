@@ -1,9 +1,6 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
 ,,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/d4b36879-77da-4eaa-9b29-d36d3f20091e,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Rohrbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/43191524-8b9e-48aa-b2f1-06975212a55c,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Lindenschied - Ebene: Am Auerweg 1. Änderung,http://www.daten.rlp.de/dataset/4fedd40f-ea17-4017-bdc6-f7f0cc7877f9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Büchenbeuren-Ost,http://www.daten.rlp.de/dataset/c3d2aea3-456a-48a4-8b33-de9811968aee,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Brunkenstein,http://www.daten.rlp.de/dataset/c190ca17-7ec5-4b8a-ad72-7946f300a36e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Schlierschied - Ebene: Umringe der Bebauungspläne von Schlierschied,http://www.daten.rlp.de/dataset/5010975d-8db2-4b34-9df4-0f14a705c6e8,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gehlweiler - Ebene: Schäferstück,http://www.daten.rlp.de/dataset/94748348-eddc-45be-8794-725f236cfee7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Hecken - Ebene: Im obersten Kappesgarten 1. Änderung,http://www.daten.rlp.de/dataset/f0cb9b76-bc36-4b16-a34f-933278d13daf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Belg - Ebene: An der Buch,http://www.daten.rlp.de/dataset/a20a294a-bba2-405a-8a55-266288163a78,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -61,6 +58,8 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Woppenroth - Ebene: Baugebiet in Flur 3 und 4 (Im Steitz) 1. Änderung,http://www.daten.rlp.de/dataset/bf98b484-94ff-4a79-994d-daeeadc9fbbc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Dill - Ebene: Umringe der Bebauungspläne von Dill,http://www.daten.rlp.de/dataset/3e0a0c60-a1ba-4991-a0dd-8e2bee834087,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Womrath - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/b06d130c-ae14-4922-903f-36f15d50e723,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Rohrbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/43191524-8b9e-48aa-b2f1-06975212a55c,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Lindenschied - Ebene: Am Auerweg 1. Änderung,http://www.daten.rlp.de/dataset/4fedd40f-ea17-4017-bdc6-f7f0cc7877f9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Laufersweiler - Ebene: Dellenbaum,http://www.daten.rlp.de/dataset/430cd1d8-6e9a-4fc7-a9c1-526333e09541,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Heinzenbach - Ebene: Gewerbegebiet in Flur 3 u. 5,http://www.daten.rlp.de/dataset/5a300e18-72c3-4843-b716-aa19e89e5b0b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Lindenschied - Ebene: Umringe der Bebauungspläne von Lindenschied,http://www.daten.rlp.de/dataset/05dbfa65-3637-443d-94d4-7dc0adfe6e37,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -81,10 +80,11 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Niederweiler - Ebene: Auf`m Katzenplatz I,http://www.daten.rlp.de/dataset/c74312ab-9955-45c0-9c35-763ce23c51ca,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Dill - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/0eea7203-b61f-44ba-9844-33a6456bbf54,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Kappel - Ebene: Umringe der Bebauungspläne von Kappel,http://www.daten.rlp.de/dataset/52cdb254-6dc0-4ea6-aa5a-f45f3db40ce7,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Büchenbeuren-Ost,http://www.daten.rlp.de/dataset/c3d2aea3-456a-48a4-8b33-de9811968aee,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Woppenroth - Ebene: Baugebiet in Flur 3 und 4 (Im Steitz),http://www.daten.rlp.de/dataset/c00ee572-1eb7-416c-bf50-5d5420b22b53,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gemünden - Ebene: Auf Ehren,http://www.daten.rlp.de/dataset/8c790930-acc4-482a-a818-8db3dcee0ffd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gemünden - Ebene: In den Birken 1. Änderung,http://www.daten.rlp.de/dataset/ee782045-4f3d-4270-83e4-79981c82486b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Laufersweiler - Ebene: Auf Dellenbaum II,http://www.daten.rlp.de/dataset/4edc0426-9996-4f8e-8469-7a192c31c9b3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Schlierschied - Ebene: Umringe der Bebauungspläne von Schlierschied,http://www.daten.rlp.de/dataset/5010975d-8db2-4b34-9df4-0f14a705c6e8,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Heinzenbach - Ebene: Flur 3 u. 5 1. Änderung,http://www.daten.rlp.de/dataset/bfe17628-760d-4073-9817-579339818019,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Raversbeuren - Ebene: Umringe der Bebauungspläne von Raversbeuren,http://www.daten.rlp.de/dataset/6f6baff0-4201-49ec-bb78-e890b3891b9d,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Brunkenstein,http://www.daten.rlp.de/dataset/c190ca17-7ec5-4b8a-ad72-7946f300a36e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d

@@ -3,18 +3,18 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,,,,,x,,,,,,,,,,Bonn am Rhein,http://opendata.bonn.de/dataset/bonn-am-rhein,dl-de-by-1.0,,d
 x,,,,,,,,x,,,,,,,,Bonn in Zahlen,http://opendata.bonn.de/dataset/bonn-zahlen,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,"Kommunalwahl 2009 (Bürgermeister, Bezirksvertretung, Rat)",http://opendata.bonn.de/dataset/kommunalwahl-2009-b%C3%BCrgermeister-bezirksvertretung-rat,dl-de-by-1.0,CSV,d
-,,x,,,,,,,,,,,,,,Stadtgebiet Bonn (Eckzahlen),http://opendata.bonn.de/dataset/stadtgebiet-bonn-eckzahlen,dl-de-by-1.0,CSV,d
-x,x,,x,x,x,x,x,x,x,x,x,x,x,,,Bürgeranträge gem. § 24 GO NRW,http://opendata.bonn.de/dataset/b%C3%BCrgerantr%C3%A4ge-gem-%C2%A7-24-go-nrw,dl-de-by-1.0,,d
-,,,,,,,,,,,,,x,,,Bonn in den Städterankings 2012,http://opendata.bonn.de/dataset/bonn-den-st%C3%A4dterankings-2012,dl-de-by-1.0,,d
-,,,x,,x,,,,,,,,,,,Berlin Bonn Gesetz - Die Umsetzung,http://opendata.bonn.de/dataset/berlin-bonn-gesetz-die-umsetzung,dl-de-by-1.0,,d
+,,,,,,,,,,,,x,,,,Leitlinien Open Government Data Bonn,http://opendata.bonn.de/dataset/leitlinien-open-government-data-bonn,dl-de-by-1.0,"XML,DOC,PDF",d
+,,,,,,,,,,,,x,,,,Controllingberichte Haushalt 2013,http://opendata.bonn.de/dataset/controllingberichte-haushalt-2013,dl-de-by-1.0,,d
+x,x,,,,,x,,x,,,,,,,,Stadtbibliothek,http://opendata.bonn.de/dataset/stadtbibliothek,dl-de-by-1.0,,d
+,,,,,,,,,,,,x,,,,Haushaltsplan 2013 2014,http://opendata.bonn.de/dataset/haushaltsplan-2013-2014,dl-de-by-1.0,XLSX,d
+,,,,,,,,,,,,x,,,,Vorschlagslisten Konsolidierung Haushalt 2015/2016,http://opendata.bonn.de/dataset/vorschlagslisten-konsolidierung-haushalt-20152016,dl-de-by-1.0,PDF,d
+x,x,,,,,x,,,,,,,,,,Bonner Bilder,http://opendata.bonn.de/dataset/bonner-bilder,dl-de-by-nc-1.0,,d
+,,,,,,,x,,,,,,,,,Kommunalwahl 2004,http://opendata.bonn.de/dataset/kommunalwahl-2004,dl-de-by-1.0,XLS,d
 ,,,,,,,x,,,,,,,,,Kommunalwahl 1999,http://opendata.bonn.de/dataset/kommunalwahl-1999,dl-de-by-1.0,,d
 ,,,,,,,,,,,,,x,,,Wirtschaftsstandort Bonn,http://opendata.bonn.de/dataset/wirtschaftsstandort-bonn,dl-de-by-1.0,,d
-,,,,,,,,,x,,,,,,,Parkhäuser,http://opendata.bonn.de/dataset/parkh%C3%A4user,dl-de-by-nc-1.0,,d
-x,,,,,,,,,,,,,,,,Vornamen von Neugeborenen,http://opendata.bonn.de/dataset/vornamen-von-neugeborenen,dl-de-by-1.0,CSV,d
-,,,,,,,,,,,,x,,,,Dezernatsverteilungsplan,http://opendata.bonn.de/dataset/dezernatsverteilungsplan,dl-de-by-1.0,"RTF,ODT",d
+,,,,,,,,,,,,x,,,,Beteiligungsbericht 2013,http://opendata.bonn.de/dataset/beteiligungsbericht-2013,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,Europawahl 2009,http://opendata.bonn.de/dataset/europawahl-2009,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Pressemitteilungen Stadt Bonn,http://opendata.bonn.de/dataset/pressemitteilungen-stadt-bonn,dl-de-by-1.0,,d
-,,,,,,,,,,,,x,,,,Über- und außerplanmäßige Aufwendungen und Auszahlungen gemäß § 83 (2) GO NRW,http://opendata.bonn.de/dataset/%C3%BCber-und-au%C3%9Ferplanm%C3%A4%C3%9Fige-aufwendungen-und-auszahlungen-gem%C3%A4%C3%9F-%C2%A7-83-2-go-nrw,dl-de-by-1.0,PDF,d
 ,,,,,x,,,,,,,,,,,Projektstatusberichte Konferenzzentrum,http://opendata.bonn.de/dataset/projektstatusberichte-konferenzzentrum,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Eckdaten des Haushaltes,http://opendata.bonn.de/dataset/eckdaten-des-haushaltes,dl-de-by-1.0,PDF,d
 x,,,,,,,,,,,,,,,,Eintragungen in das Goldene Buch der Stadt Bonn,http://opendata.bonn.de/dataset/eintragungen-das-goldene-buch-der-stadt-bonn,dl-de-by-1.0,DOC,d
@@ -31,6 +31,7 @@ x,,,,,,,,,,,,,,,,Eintragungen in das Goldene Buch der Stadt Bonn,http://opendata
 ,,,,,,,x,,,,,,,,,Integrationsratswahl 2010,http://opendata.bonn.de/dataset/integrationsratswahl-2010,dl-de-by-1.0,,d
 ,,,,,,,,,,x,,x,,,,Sitzungen des Verwaltungsrates bonnorange AöR,http://opendata.bonn.de/dataset/sitzungen-des-verwaltungsrates-bonnorange-a%C3%B6r,dl-de-by-1.0,,d
 x,,,,,x,,,,x,,,x,,,,Bürgerbriefe,http://opendata.bonn.de/dataset/b%C3%BCrgerbriefe,dl-de-by-1.0,,d
+,,x,,,,,,,,,,,,,,Stadtgebiet Bonn (Eckzahlen),http://opendata.bonn.de/dataset/stadtgebiet-bonn-eckzahlen,dl-de-by-1.0,CSV,d
 ,,,,,,,,,,,,x,,,,Servicetelefone der Stadtverwaltung,http://opendata.bonn.de/dataset/servicetelefone-der-stadtverwaltung,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,Landtagswahl 2012,http://opendata.bonn.de/dataset/landtagswahl-2012,dl-de-by-1.0,CSV,d
 ,,,,,,,x,,,,,,,,,Landtagswahl 2010,http://opendata.bonn.de/dataset/landtagswahl-2010,dl-de-by-1.0,CSV,d
@@ -39,35 +40,33 @@ x,,,,,x,,,,x,,,x,,,,Bürgerbriefe,http://opendata.bonn.de/dataset/b%C3%BCrgerbri
 ,,,,,,,,,,,,x,,,,Finanzberichte Seniorenzentren,http://opendata.bonn.de/dataset/finanzberichte-seniorenzentren,dl-de-by-1.0,,d
 ,,,,,,,,,x,x,,,x,,,Ausschreibungen,http://opendata.bonn.de/dataset/ausschreibungen,dl-de-by-1.0,,d
 x,,,,,,,,,,,,,,,,Bevölkerungsentwicklung,http://opendata.bonn.de/dataset/bev%C3%B6lkerungsentwicklung,dl-de-by-1.0,CSV,d
-,,,,,,,,,,,,x,,,,Leitlinien Open Government Data Bonn,http://opendata.bonn.de/dataset/leitlinien-open-government-data-bonn,dl-de-by-1.0,"XML,DOC,PDF",d
-,,,,,,,,,,,,x,,,,Controllingberichte Haushalt 2013,http://opendata.bonn.de/dataset/controllingberichte-haushalt-2013,dl-de-by-1.0,,d
-x,x,,,,,x,,x,,,,,,,,Stadtbibliothek,http://opendata.bonn.de/dataset/stadtbibliothek,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2013,http://opendata.bonn.de/dataset/bundestagswahl-2013,dl-de-by-1.0,CSV,d
-,,,,,,,,,,,,x,,,,Haushaltsplan 2013 2014,http://opendata.bonn.de/dataset/haushaltsplan-2013-2014,dl-de-by-1.0,XLSX,d
 ,,,,,,,,,,,,x,,,,Controllingberichte Haushalt 2012,http://opendata.bonn.de/dataset/controllingberichte-haushalt-2012,dl-de-by-1.0,,d
 ,,,,,x,,,,,,,,,,,Bonn - Das neue Profil,http://opendata.bonn.de/dataset/bonn-das-neue-profil,dl-de-by-1.0,,d
+x,x,,x,x,x,x,x,x,x,x,x,x,x,,,Bürgeranträge gem. § 24 GO NRW,http://opendata.bonn.de/dataset/b%C3%BCrgerantr%C3%A4ge-gem-%C2%A7-24-go-nrw,dl-de-by-1.0,,d
+,,,,,,,,,,,,,x,,,Bonn in den Städterankings 2012,http://opendata.bonn.de/dataset/bonn-den-st%C3%A4dterankings-2012,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Ämterübersicht,http://opendata.bonn.de/dataset/%C3%A4mter%C3%BCbersicht,dl-de-by-1.0,CSV,d
 ,,,,,,,,,,,,x,,,,Controllingberichte Haushalt 2014,http://opendata.bonn.de/dataset/controllingberichte-haushalt-2014,dl-de-by-1.0,,d
 ,,,,,x,,,,x,,,,,,,Verkäufe,http://opendata.bonn.de/dataset/verk%C3%A4ufe,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2009,http://opendata.bonn.de/dataset/bundestagswahl-2009,dl-de-by-1.0,CSV,d
 ,,,,,,,x,,,,,,,,,Wahllkokale Stimmbezirke,http://opendata.bonn.de/dataset/wahllkokale-stimmbezirke,dl-de-by-1.0,,d
-,,,,,,,,,,,,x,,,,Vorschlagslisten Konsolidierung Haushalt 2015/2016,http://opendata.bonn.de/dataset/vorschlagslisten-konsolidierung-haushalt-20152016,dl-de-by-1.0,PDF,d
-x,x,,,,,x,,,,,,,,,,Bonner Bilder,http://opendata.bonn.de/dataset/bonner-bilder,dl-de-by-nc-1.0,,d
-,,,,,,,x,,,,,,,,,Kommunalwahl 2004,http://opendata.bonn.de/dataset/kommunalwahl-2004,dl-de-by-1.0,XLS,d
 x,x,,,x,x,x,x,x,x,,x,x,x,,,Veranstaltungskalender (Komplettübersicht),http://opendata.bonn.de/dataset/veranstaltungskalender-komplett%C3%BCbersicht,dl-de-by-1.0,,d
 ,,,,,,,,,x,x,,,x,,,Kennzahlen der Stadtwerke Bonn,http://opendata.bonn.de/dataset/kennzahlen-der-stadtwerke-bonn,dl-de-by-1.0,PDF,d
 ,,,,,,,x,,,,,,,,,Europawahl 2004,http://opendata.bonn.de/dataset/europawahl-2004,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,Europawahl 2014,http://opendata.bonn.de/dataset/europawahl-2014,dl-de-by-1.0,CSV,d
 ,,,,,,x,,,,,,,,,,Beethoven in Bonn,http://opendata.bonn.de/dataset/beethoven-bonn,dl-de-by-1.0,,d
+,,,x,,x,,,,,,,,,,,Berlin Bonn Gesetz - Die Umsetzung,http://opendata.bonn.de/dataset/berlin-bonn-gesetz-die-umsetzung,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Beteiligungsbericht 2009,http://opendata.bonn.de/dataset/beteiligungsbericht-2009,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Beteiligungsbericht 2006,http://opendata.bonn.de/dataset/beteiligungsbericht-2006,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Beteiligungsbericht 2007,http://opendata.bonn.de/dataset/beteiligungsbericht-2007,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Beteiligungsbericht 2005,http://opendata.bonn.de/dataset/beteiligungsbericht-2005,dl-de-by-1.0,,d
 ,,,,,x,,,,x,,,,,,,Kennzahlen Stadtentwässerung,http://opendata.bonn.de/dataset/kennzahlen-stadtentw%C3%A4sserung,dl-de-by-1.0,CSV,d
 ,,,,,x,,,x,x,x,,x,,,,Bürgeranliegen online/ Mängelmelder,http://opendata.bonn.de/dataset/b%C3%BCrgeranliegen-online-m%C3%A4ngelmelder,dl-de-by-1.0,,d
+,,,,,,,,,x,,,,,,,Parkhäuser,http://opendata.bonn.de/dataset/parkh%C3%A4user,dl-de-by-nc-1.0,,d
 ,x,,,,,,,,,,,,,,,Kultur in Bonn,http://opendata.bonn.de/dataset/kultur-bonn,dl-de-by-1.0,,d
+x,,,,,,,,,,,,,,,,Vornamen von Neugeborenen,http://opendata.bonn.de/dataset/vornamen-von-neugeborenen,dl-de-by-1.0,CSV,d
+,,,,,,,,,,,,x,,,,Dezernatsverteilungsplan,http://opendata.bonn.de/dataset/dezernatsverteilungsplan,dl-de-by-1.0,"RTF,ODT",d
 x,,,,,,,,,,,,x,,,,Einwohnermeldeämter,http://opendata.bonn.de/dataset/einwohnermelde%C3%A4mter,CC0-1.0,"XLSX,CSV",d
-,,,,,,,,,,,,x,,,,Beteiligungsbericht 2013,http://opendata.bonn.de/dataset/beteiligungsbericht-2013,dl-de-by-1.0,,d
 ,,,,,,,,,x,x,,,x,,,Stellenangebote,http://opendata.bonn.de/dataset/stellenangebote,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,Landtagswahl 2005,http://opendata.bonn.de/dataset/landtagswahl-2005,dl-de-by-1.0,XLS,d
 x,,,,,,,,,,,,,,,,Bevölkerungsstatistik,http://opendata.bonn.de/dataset/bev%C3%B6lkerungsstatistik,dl-de-by-1.0,CSV,d
@@ -76,3 +75,4 @@ x,,,,,,,,,,,,,,,,Bevölkerungsstatistik,http://opendata.bonn.de/dataset/bev%C3%B
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2005,http://opendata.bonn.de/dataset/bundestagswahl-2005,dl-de-by-1.0,,d
 ,,,,,x,,,,x,,,,,,,Geschäftsbericht Tiefbauamt,http://opendata.bonn.de/dataset/gesch%C3%A4ftsbericht-tiefbauamt,dl-de-by-1.0,PDF,d
 ,,,,,x,,,,,,,,,,,Immobilienangebote,http://opendata.bonn.de/dataset/immobilienangebote,dl-de-by-1.0,,d
+,,,,,,,,,,,,x,,,,Über- und außerplanmäßige Aufwendungen und Auszahlungen gemäß § 83 (2) GO NRW,http://opendata.bonn.de/dataset/%C3%BCber-und-au%C3%9Ferplanm%C3%A4%C3%9Fige-aufwendungen-und-auszahlungen-gem%C3%A4%C3%9F-%C2%A7-83-2-go-nrw,dl-de-by-1.0,PDF,d
