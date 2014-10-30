@@ -17,7 +17,6 @@ Braunschweig,braunschweig,,,,52.27165645,10.5203138303942,2014-10-30,0,8,0,0,0,g
 Schnackenburg,schnackenburg,,,,53.0369826,11.5657431,2014-10-30,0,1,0,0,0,govdata.de
 Sankt Goar,sanktgoar,,,,50.15,7.71667,2014-10-30,0,11,0,0,0,daten.rlp.de
 Perscheid,perscheid,,,,50.0711362,7.6970687,2014-10-30,0,4,0,0,0,daten.rlp.de
-Hamburg,hamburg,http://hamburg.de,http://transparenz.hamburg.de,info-office@hamburg.de,53.5437641,10.0099133,2014-10-24,0,19783,0,29,124,transparenz.hamburg.de
 Verbandsgemeinde Hamm (Sieg),verbandsgemeindehammsieg,,,,50.7666871,7.6783886319334,2014-10-30,0,1,0,0,0,daten.rlp.de
 Uetze,uetze,http://uetze.de,,-,52.4644432,10.2025806,2014-10-22,0,0,4,0,0,
 Mainz,mainz,http://mainz.de,,oberbuergermeister@stadt.mainz.de,49.9999952,8.2710237,2014-10-30,0,52,0,0,0,daten.rlp.de
@@ -25,10 +24,11 @@ Urbar,urbar,,,,50.1316205,7.7202693,2014-10-30,0,4,0,0,0,daten.rlp.de
 Bochum,bochum,http://bochum.de,http://www.bochum.de/opendata,info@bochum.de,51.482321,7.2187465,2014-10-29,0,25,0,0,0,http://www.bochum.de/opendata
 Juist,juist,,,,53.6784483,6.9956079,2014-10-30,0,1,0,0,0,govdata.de
 Norderney,norderney,,,,53.7122885,7.23577947730025,2014-10-30,0,1,0,0,0,govdata.de
+Hamburg,hamburg,http://hamburg.de,http://transparenz.hamburg.de,info-office@hamburg.de,53.5437641,10.0099133,2014-10-30,0,20115,0,29,124,transparenz.hamburg.de
 Verbandsgemeinde Emmelshausen,verbandsgemeindeemmelshausen,,,,50.1564357,7.5545807,2014-10-30,0,97,0,0,0,daten.rlp.de
 Zweibrücken,zweibruecken,,,,49.2534991,7.37060801928933,2014-10-30,0,22,0,0,0,daten.rlp.de
-Cottbus,cottbus,http://cottbus.de,,info@cottbus.de,51.7567447,14.3357307,2014-10-22,0,0,1,0,0,
 Bodensee,bodensee,,,,47.57449,9.4963035,2014-10-30,0,1,0,0,0,govdata.de
+Cottbus,cottbus,http://cottbus.de,,info@cottbus.de,51.7567447,14.3357307,2014-10-22,0,0,1,0,0,
 Rostock,rostock,http://rostock.de ,http://opendata-hro.de ,ulrich.kunze@rostock.de,54.0924445,12.1286127,2014-10-30,0,122,1,0,28,opendata-hro.de
 Ilmenau,ilmenau,,,,50.6867695,10.9142385,2014-10-30,0,1,0,0,0,govdata.de
 Bremen,bremen,http://bremen.de,http://daten.bremen.de,info@bremen.de,53.0758099,8.80717,2014-10-30,0,144,53,11,34,daten.bremen.de
@@ -39,7 +39,6 @@ Norden,norden,,,,53.5942039,7.2067435,2014-10-30,0,1,0,0,0,govdata.de
 Verbandsgemeinde Rheinböllen,verbandsgemeinderheinboellen,,,,50.0066163,7.6703839,2014-10-30,0,47,0,0,0,daten.rlp.de
 Verbandsgemeinde Kastellaun,verbandsgemeindekastellaun,,,,50.0715547,7.4429326,2014-10-30,0,59,0,0,0,daten.rlp.de
 Wuppertal,wuppertal,http://wuppertal.de,https://www.wuppertal.de/rathaus-buergerservice/offene_daten/index.php,stadtverwaltung@stadt.wuppertal.de,51.264018,7.1780374,2014-10-14,0,2,0,0,0,wuppertal.de
-Rosendahl,rosendahl,,,,52.01819675,7.2195946689637,2014-10-29,0,4,0,0,0,govdata.de
 Verbandsgemeinde Cochem,verbandsgemeindecochem,,,,50.1484113,7.166281,2014-10-30,0,63,0,0,0,daten.rlp.de
 Koblenz,koblenz,,,,50.34624975,7.58400984250468,2014-10-30,0,8,0,0,0,daten.rlp.de
 Köln,koeln,http://stadt-koeln.de ,http://offenedaten-koeln.de,e-government@stadt-koeln.de,50.9374863,6.9580232,2014-10-30,0,130,1,5,19,offenedaten-koeln.de
@@ -54,13 +53,13 @@ Cuxhaven,cuxhaven,,,,53.8687798,8.6982859,2014-10-30,0,5,0,0,0,govdata.de
 Niederburg,niederburg,,,,50.1177367,7.6951697,2014-10-30,0,2,0,0,0,daten.rlp.de
 Berlin,berlin,http://berlin.de,http://daten.berlin.de,Info@Berlin.de,52.5170365,13.3888599,2014-10-30,0,568,0,118,256,datenregister.berlin.de
 Frankfurt am Main,frankfurt,http://frankfurt.de,http://offenedaten.frankfurt.de,onlinebuero@stadt-frankfurt.de,50.12134215,8.661951186,2014-10-30,1,26,0,0,1,offenedaten.frankfurt.de
-Witten,witten,http://witten.de,,poststelle@stadt-witten.de  ,51.4370171,7.335124,2014-10-22,0,0,2,0,0,
 Butjadingen,butjadingen,,,,53.545725,8.35288707942149,2014-10-30,0,1,0,0,0,govdata.de
+Witten,witten,http://witten.de,,poststelle@stadt-witten.de  ,51.4370171,7.335124,2014-10-22,0,0,2,0,0,
 Oberwesel,oberwesel,,,,50.1060039,7.726558,2014-10-30,0,8,0,0,0,daten.rlp.de
 Karlsruhe,karlsruhe,http://karlsruhe.de,,online-team@pia.karlsruhe.de,49.0105758,8.4041208,2014-10-30,0,1,0,0,0,govdata.de
 Sonnenberg,sonnenberg,,,,53.0178654,13.0887385,2014-10-30,0,1,0,0,0,govdata.de
-München,muenchen,http://muenchen.de,http://www.muenchen.de/opendata,info@portalmuenchen.de,48.1372719,11.5754815,2014-08-15,0,0,0,6,10,
 Baltrum,baltrum,,,,53.72703795,7.39548387505676,2014-10-30,0,1,0,0,0,govdata.de
+München,muenchen,http://muenchen.de,http://www.muenchen.de/opendata,info@portalmuenchen.de,48.1372719,11.5754815,2014-08-15,0,0,0,6,10,
 Wangerooge,wangerooge,,,,53.7834917,7.93518076593744,2014-10-30,0,1,0,0,0,govdata.de
 Bonn,bonn,http://bonn.de,http://opendata.bonn.de,opendata@bonn.de,50.7358511,7.1006599,2014-10-30,0,78,0,0,0,opendata.bonn.de
 Troisdorf,troisdorf,,,,50.8153071,7.1593271,2014-10-30,0,2,0,0,0,govdata.de
