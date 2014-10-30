@@ -21,7 +21,6 @@ Verbandsgemeinde Hamm (Sieg),verbandsgemeindehammsieg,,,,50.7666871,7.6783886319
 Uetze,uetze,http://uetze.de,,-,52.4644432,10.2025806,2014-10-22,0,0,4,0,0,
 Mainz,mainz,http://mainz.de,,oberbuergermeister@stadt.mainz.de,49.9999952,8.2710237,2014-10-30,0,52,0,0,0,daten.rlp.de
 Urbar,urbar,,,,50.1316205,7.7202693,2014-10-30,0,4,0,0,0,daten.rlp.de
-Bochum,bochum,http://bochum.de,http://www.bochum.de/opendata,info@bochum.de,51.482321,7.2187465,2014-10-29,0,25,0,0,0,http://www.bochum.de/opendata
 Juist,juist,,,,53.6784483,6.9956079,2014-10-30,0,1,0,0,0,govdata.de
 Norderney,norderney,,,,53.7122885,7.23577947730025,2014-10-30,0,1,0,0,0,govdata.de
 Hamburg,hamburg,http://hamburg.de,http://transparenz.hamburg.de,info-office@hamburg.de,53.5437641,10.0099133,2014-10-30,0,20115,0,29,124,transparenz.hamburg.de
@@ -33,6 +32,7 @@ Rostock,rostock,http://rostock.de ,http://opendata-hro.de ,ulrich.kunze@rostock.
 Ilmenau,ilmenau,,,,50.6867695,10.9142385,2014-10-30,0,1,0,0,0,govdata.de
 Bremen,bremen,http://bremen.de,http://daten.bremen.de,info@bremen.de,53.0758099,8.80717,2014-10-30,0,144,53,11,34,daten.bremen.de
 Verbandsgemeinde Loreley,verbandsgemeindeloreley,,,,50.1393012,7.728378,2014-10-30,0,2,0,0,0,daten.rlp.de
+Bochum,bochum,http://bochum.de,http://www.bochum.de/opendata,info@bochum.de,51.482321,7.2187465,2014-10-30,0,25,0,0,0,http://www.bochum.de/opendata
 Wissen,wissen,,,,50.7827594,7.7355905,2014-10-30,0,1,0,0,0,govdata.de
 Stuttgart,stuttgart,http://stuttgart.de ,,post@stuttgart.de ,48.7763511,9.1829049,2014-10-30,17,1,141,9,116,govdata.de
 Norden,norden,,,,53.5942039,7.2067435,2014-10-30,0,1,0,0,0,govdata.de
