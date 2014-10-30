@@ -4,6 +4,18 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 x,,,,,,,x,,,,,,,,,"(gültig ab 01.11.2012) - Excel (xls, 60 KB)",https://ssl2.bremen.de/osci/sixcms/media.php/13/Aufenthaltsstatus.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,x,,,,,,"1995 (xls, 59 KB)",http://www.umwelt.bremen.de/sixcms/media.php/13/h95.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,x,,,,,,"2000 (xls, 90.5 KB)",http://www.umwelt.bremen.de/sixcms/media.php/13/h00.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,x,,,,,,,Tabelle1,http://www.umwelt.bremen.de/sixcms/media.php/13/Stra%DFenzust%E4ndigkeit%20%20im%20Winterdienst%20Stand%2028-11-11%20hp.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,,,,,,,,http://www.bremen.de/bremen-kompakt/bk-visualisierung/stdtevergleich-der-wohnungsnettokaltmieten-35802715,nicht bekannt,CSV,c
+,,,,,,x,,,,,,,,,,Musical-Theater-Bremen-2011-2014,http://www.bremen.de/bremen-kompakt/bk-visualisierung/auslastung-des-musical-theaters-bremen-39401422,CC-BY-ND 3.0,CSV,c
+,,,x,,,,,,,,,,,,,,http://www.justiz.bremen.de/sixcms/detail.php?gsid=bremen51.c.2196.de,nicht bekannt,XLS,c
+,x,,,,,,,,,,,,,,,Laendervergleich-Wanderungssaldo-Studienanfaenger-2011,http://www.bremen.de/bremen-kompakt/bk-visualisierung/wanderungssaldo-der-studienanfngerinnen-35802702,CC-BY-ND 3.0,CSV,c
+,x,,,,,,,,,,,,,,,ErstabsolventInnenquote-2004-2011,http://www.bremen.de/bremen-kompakt/bk-visualisierung/erstabsolventinnenquote-im-bundesland-bremen-40247358,CC-BY-ND 3.0,CSV,c
+,,,x,,,,,,,,,,,x,,IFG-Antrag Ansprechpersonen,http://www.kogis.bremen.de/sixcms/detail.php?gsid=bremen64.c.22989.de,nicht bekannt,XLS,c
+,,,,,,x,,,,,,,,x,,Emotionale-Bindung-Bremen-2013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/identitt-und-image-der-stadt-bremen-38464270,CC-BY-ND 3.0,CSV,c
+,x,,,,,,,,,,,,,,,Laendervergleich-DFG-Drittmittel-2010,http://www.bremen.de/bremen-kompakt/bk-visualisierung/eingeworbene-dfg-mittel-35802726,CC-BY-ND 3.0,CSV,c
+,,,,,,,,,x,,,,,,,Staedtevergleich-Europa-Radverkehrsanteile-2013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/bremen-die-fahrradstadt-35802725,CC-BY-ND 3.0,CSV,c
+,x,,,,,,,,,,,,,,,Schuldatei,http://www.statistik.bremen.de/sixcms/detail.php?gsid=bremen65.c.1865.de,nicht bekannt,XLS,c
+,,,,,,,,,x,,,,,,,www.bauumwelt.bremen.de,http://www.bauumwelt.bremen.de/sixcms/media.php/13/130325_E04_Ergebnistabelle%20Stra%DFenraumvertr%E4glichkeit.xlsx,nicht bekannt,XLSX,b
 ,,,,x,,,,x,,,,,,,,Pflegeeinrichtungen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8196.de,cc-by,XML,d
 ,,,,,,,x,,,,,,,,,Bundestagswahl (Zweitstimmen),http://daten.bremen.de/de/datensatz/bremen236.c.4430.de,cc-by,CSV,d
 x,,,,,,,,,,,,,,,,"Bevölkerung nach Geschlecht, Staatsangehörigkeit und Altersgruppen",http://daten.bremen.de/de/datensatz/bremen236.c.4415.de,cc-by,CSV,d
@@ -102,7 +114,6 @@ x,,,,,,,,,,,,,,,,Wanderungen von Ausländern über Gemeindegrenzen der Stadt Bre
 ,,,,x,,,,,,,,,,,,Rettungsdienste in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8223.de,cc-by,XML,d
 ,,,,,,,,,,,,x,,,,Zollämter in Bremen,http://daten.bremen.de/de/datensatz/bremen248.c.11696.de,cc-by,XML,d
 ,,,,,,,x,,,,,,,,,Bürgerschaftswahl (Landtag),http://daten.bremen.de/de/datensatz/bremen236.c.4431.de,cc-by,CSV,d
-,,x,,,x,,,,x,,,,,,,Tabelle1,http://www.umwelt.bremen.de/sixcms/media.php/13/Stra%DFenzust%E4ndigkeit%20%20im%20Winterdienst%20Stand%2028-11-11%20hp.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,x,,,,,,Badeseedaten in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.4406.de,cc-by,XML,d
 ,,,,,,x,,,,,,,,,,Schwimmbäder in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8211.de,cc-by,XML,d
 x,,,,,,,,,,,,,,,,Vornamen (TOP 100 ) in Bremen 2010,http://daten.bremen.de/de/datensatz/bremen248.c.9580.de,cc-by,CSV,d
@@ -149,17 +160,6 @@ x,,,,,,,,,,,,,,,,"Bevölkerung nach Geschlecht, Familienstand und Altersgruppen"
 x,,,,,,,,,,,,,,,,Vornamen (TOP 100 ) in Bremen 2012,http://daten.bremen.de/de/datensatz/bremen248.c.9594.de,cc-by,CSV,d
 ,,,,,,,,,,,,x,,,,Überwachungskamerastandorte in öffentlichen Einrichtungen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8202.de,cc-by,"XML,HTML",d
 x,,,,,,,,,,,,,,,,Vornamen (TOP 100 ) in Bremen 2007,http://daten.bremen.de/de/datensatz/bremen248.c.9559.de,cc-by,CSV,d
-,,,,,x,,,,,,,,,,,,http://www.bremen.de/bremen-kompakt/bk-visualisierung/stdtevergleich-der-wohnungsnettokaltmieten-35802715,nicht bekannt,CSV,c
-,,,,,,x,,,,,,,,,,Musical-Theater-Bremen-2011-2014,http://www.bremen.de/bremen-kompakt/bk-visualisierung/auslastung-des-musical-theaters-bremen-39401422,CC-BY-ND 3.0,CSV,c
-,,,x,,,,,,,,,,,,,,http://www.justiz.bremen.de/sixcms/detail.php?gsid=bremen51.c.2196.de,nicht bekannt,XLS,c
-,x,,,,,,,,,,,,,,,Laendervergleich-Wanderungssaldo-Studienanfaenger-2011,http://www.bremen.de/bremen-kompakt/bk-visualisierung/wanderungssaldo-der-studienanfngerinnen-35802702,CC-BY-ND 3.0,CSV,c
-,x,,,,,,,,,,,,,,,ErstabsolventInnenquote-2004-2011,http://www.bremen.de/bremen-kompakt/bk-visualisierung/erstabsolventinnenquote-im-bundesland-bremen-40247358,CC-BY-ND 3.0,CSV,c
-,,,x,,,,,,,,,,,x,,IFG-Antrag Ansprechpersonen,http://www.kogis.bremen.de/sixcms/detail.php?gsid=bremen64.c.22989.de,nicht bekannt,XLS,c
-,,,,,,x,,,,,,,,x,,Emotionale-Bindung-Bremen-2013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/identitt-und-image-der-stadt-bremen-38464270,CC-BY-ND 3.0,CSV,c
-,x,,,,,,,,,,,,,,,Laendervergleich-DFG-Drittmittel-2010,http://www.bremen.de/bremen-kompakt/bk-visualisierung/eingeworbene-dfg-mittel-35802726,CC-BY-ND 3.0,CSV,c
-,,,,,,,,,x,,,,,,,Staedtevergleich-Europa-Radverkehrsanteile-2013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/bremen-die-fahrradstadt-35802725,CC-BY-ND 3.0,CSV,c
-,x,,,,,,,,,,,,,,,Schuldatei,http://www.statistik.bremen.de/sixcms/detail.php?gsid=bremen65.c.1865.de,nicht bekannt,XLS,c
-,,,,,,,,,x,,,,,,,www.bauumwelt.bremen.de,http://www.bauumwelt.bremen.de/sixcms/media.php/13/130325_E04_Ergebnistabelle%20Stra%DFenraumvertr%E4glichkeit.xlsx,nicht bekannt,XLSX,b
 ,,,,,,,,,,,,x,x,,,Preisindizes Hoch- Tiefbau,http://www.finanzen.bremen.de/sixcms/detail.php?gsid=bremen53.c.7671.de,nicht bekannt,XLS,c
 ,,,,,,,,,,x,,,,,,"1998 (xls, 62 KB)",http://www.umwelt.bremen.de/sixcms/media.php/13/h98.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,,,open_data_sfbwg,http://www.bildung.bremen.de/sixcms/detail.php?gsid=bremen117.c.5194.de,CC-BY 3.0,ZIP,c
