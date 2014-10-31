@@ -314,10 +314,12 @@ var getCityContent = function(city, marker, map) {
   }
 };
 
+var icon = L.MakiMarkers.icon({icon: "polling-place", color: "#0c0", size: "s"});
+
 var createMarker = function(d) {
   var lat = parseFloat(d.Lat, 10);
   var lon = parseFloat(d.Lon, 10);
-  var marker = L.marker([lat, lon]);
+  var marker = L.marker([lat, lon], {icon: icon});
   getCityContent(d, marker, map);
 };
 
