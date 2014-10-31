@@ -1,16 +1,6 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+,,x,,,,,,,,,,,,,,Raversbeuren - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/da0b15d0-90c7-4a1b-b068-ce0d326b9565,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gehlweiler - Ebene: Schäferstück,http://www.daten.rlp.de/dataset/94748348-eddc-45be-8794-725f236cfee7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Unzenberg - Ebene: Auf der Huhl,http://www.daten.rlp.de/dataset/5b51d0ad-4bc0-4620-a7a6-6cacbde4104c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Gemünden - Ebene: Auf´m Zeilbaum,http://www.daten.rlp.de/dataset/0784df8e-be90-4cf2-84fe-ed37629c3fcf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Dickenschied - Ebene: Auf dem Kappesacker  II,http://www.daten.rlp.de/dataset/d637f70c-aca3-4ced-bc40-f8928abf3d8f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Auf der Taubenacht,http://www.daten.rlp.de/dataset/f360a1c2-0dac-42b5-9e72-d42560c5e2f7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Dill - Ebene: Auf Beckersacker,http://www.daten.rlp.de/dataset/95cb4bb8-1357-47ff-80d0-4b5d11d61ecc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Dill - Ebene: Auf Beckersacker 1. Änderung,http://www.daten.rlp.de/dataset/1e1dbc88-18d0-4e30-b87e-3d584e9f8d54,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Reckershausen - Ebene: Umringe der Bebauungspläne von Reckershausen,http://www.daten.rlp.de/dataset/202adb3d-c2b9-4887-846c-429146dc361e,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Sohren - Ebene: Im Grund,http://www.daten.rlp.de/dataset/1a3e66f2-fc8f-4a27-a07b-252e213261e3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Schlierschied - Ebene: Umringe der Bebauungspläne von Schlierschied,http://www.daten.rlp.de/dataset/5010975d-8db2-4b34-9df4-0f14a705c6e8,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Heinzenbach - Ebene: Flur 3 u. 5 1. Änderung,http://www.daten.rlp.de/dataset/bfe17628-760d-4073-9817-579339818019,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Raversbeuren - Ebene: Umringe der Bebauungspläne von Raversbeuren,http://www.daten.rlp.de/dataset/6f6baff0-4201-49ec-bb78-e890b3891b9d,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Hecken - Ebene: Im obersten Kappesgarten 1. Änderung,http://www.daten.rlp.de/dataset/f0cb9b76-bc36-4b16-a34f-933278d13daf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Belg - Ebene: An der Buch,http://www.daten.rlp.de/dataset/a20a294a-bba2-405a-8a55-266288163a78,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Heinzenbach - Ebene: Hambuch II,http://www.daten.rlp.de/dataset/40c5e160-7f58-4677-a842-f5f73c360cdf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -30,10 +20,12 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Lautzenhausen - Ebene: In den Kappesstückern I,http://www.daten.rlp.de/dataset/d15cf9aa-3cb1-4b4e-8fd3-499f9712131e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Laufersweiler - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/6cdf0eaf-19b2-4b8b-8d88-be3174d530f5,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Brunkenstein 1. Änderung,http://www.daten.rlp.de/dataset/574ced69-d1a9-4f87-9897-7bb2e68ff5e5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Unzenberg - Ebene: Auf der Huhl,http://www.daten.rlp.de/dataset/5b51d0ad-4bc0-4620-a7a6-6cacbde4104c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Dill - Ebene: Ferienhof Birkenhof,http://www.daten.rlp.de/dataset/fe91b294-58f9-46ba-8fbe-edec41c3e445,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Kirchberg (Hunsrück) - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/69fb01de-0088-4c72-b3d2-18e6527aab04,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Kappel - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/08e6ca8b-0fa5-42ee-a6b8-dba983ca414e,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Kludenbach - Ebene: Im Wäldchen,http://www.daten.rlp.de/dataset/09ed3eeb-c354-4c4d-a5af-f06a85a15f01,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Gemünden - Ebene: Auf´m Zeilbaum,http://www.daten.rlp.de/dataset/0784df8e-be90-4cf2-84fe-ed37629c3fcf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Hirschfeld (Hunsrück) - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/8c42f65d-cfba-4e7a-90ca-f63f1d45a4f2,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Raversbeuren - Ebene: In den Kirchgärten,http://www.daten.rlp.de/dataset/55561f79-078d-453f-bb1f-d480309a0e25,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Niedersohren - Ebene: Jenseits der Bach 3. Änderung,http://www.daten.rlp.de/dataset/9f6e9f7d-f4c4-4b1c-bf1f-eb6ea3581182,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -41,6 +33,8 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Schwarzen - Ebene: Im Flürchen,http://www.daten.rlp.de/dataset/97b51519-8d9a-4918-bdab-2e54c8af3f71,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gemünden - Ebene: Auf´m Zeilbaum 1. Änderung,http://www.daten.rlp.de/dataset/c59519b7-4c46-4ad5-b898-50f1b3a6736a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Metzenhausen - Ebene: Umringe der Bebauungspläne von Metzenhausen,http://www.daten.rlp.de/dataset/9f400112-8588-428d-b089-3d80b3e6aa0d,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Dickenschied - Ebene: Auf dem Kappesacker  II,http://www.daten.rlp.de/dataset/d637f70c-aca3-4ced-bc40-f8928abf3d8f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Auf der Taubenacht,http://www.daten.rlp.de/dataset/f360a1c2-0dac-42b5-9e72-d42560c5e2f7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Auf der Taubenacht 9. Änderung,http://www.daten.rlp.de/dataset/9319fa7c-c00c-44d2-9e53-0db30529f276,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Kludenbach - Ebene: Umringe der Bebauungspläne von Kludenbach,http://www.daten.rlp.de/dataset/5286105d-e2c0-4bbc-874a-29031a927d54,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Im Umgang,http://www.daten.rlp.de/dataset/076a6a9e-a20f-4db5-beaf-01800e38868d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -48,8 +42,10 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Lautzenhausen - Ebene: Stellplatzsatzung,http://www.daten.rlp.de/dataset/20c94c10-355f-4271-b743-1650c2d5c71f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Womrath - Ebene: Baugebiet in Flur 18 und 20 (Hasenrech),http://www.daten.rlp.de/dataset/3472b040-0f4a-443a-82ae-d15ae81905f6,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Dickenschied - Ebene: Auf dem Kappesacker  II 1. Änderung,http://www.daten.rlp.de/dataset/ae39c1a5-1a29-4413-aa39-d7005bc30518,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Dill - Ebene: Auf Beckersacker,http://www.daten.rlp.de/dataset/95cb4bb8-1357-47ff-80d0-4b5d11d61ecc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Kappel - Ebene: Eschwies,http://www.daten.rlp.de/dataset/def3156e-e258-4ab3-becd-91561eaf4424,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Sohren - Ebene: Von Gräfenheck,http://www.daten.rlp.de/dataset/9b16e143-ed2a-47b0-849d-33b001825b25,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Dill - Ebene: Auf Beckersacker 1. Änderung,http://www.daten.rlp.de/dataset/1e1dbc88-18d0-4e30-b87e-3d584e9f8d54,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Auf der Taubenacht 7. Änderung,http://www.daten.rlp.de/dataset/68069239-edf2-4e36-a806-26eb9fefeddc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Bärenbach - Ebene: Am Koblenzer Tor,http://www.daten.rlp.de/dataset/c0e7e088-f232-4cdc-b45c-544e2a80de47,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Bahnhofstraße / Kirchstraße / Friedhof,http://www.daten.rlp.de/dataset/276b37bd-cb35-422a-8578-1e5e2d94f470,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -70,13 +66,14 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Lautzenhausen - Ebene: Wassergall 2. Änderung,http://www.daten.rlp.de/dataset/2d31e360-7c73-470e-bca6-5ffb275c8ada,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Niederweiler - Ebene: Im Umring,http://www.daten.rlp.de/dataset/8b79d033-3c7c-48dc-bf66-6fc8f18ecd7a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Dickenschied - Ebene: Auf der Länger IV,http://www.daten.rlp.de/dataset/fd499cec-a7ae-47a2-ae91-d9cc279922a0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Reckershausen - Ebene: Umringe der Bebauungspläne von Reckershausen,http://www.daten.rlp.de/dataset/202adb3d-c2b9-4887-846c-429146dc361e,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Sohren - Ebene: Im Grund,http://www.daten.rlp.de/dataset/1a3e66f2-fc8f-4a27-a07b-252e213261e3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Unzenberg - Ebene: Hambucher Weg 1. Änderung,http://www.daten.rlp.de/dataset/3ea647c3-ed40-4a6a-939e-c2e4a251b9ae,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Niedersohren - Ebene: Perweid / Beim Kohlhauf 3. Änderung,http://www.daten.rlp.de/dataset/2bf59c44-0f13-4d98-abaa-cb7029be5e9f,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Rohrbach - Ebene: Umringe der Bebauungspläne von Rohrbach,http://www.daten.rlp.de/dataset/0f13ce44-d00e-4ca0-8746-c6b16c225774,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Auf der Taubenacht 2. Änderung,http://www.daten.rlp.de/dataset/8df5b8af-8ae4-4ced-b877-93051f5d2b23,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Schwarzen - Ebene: Umringe der Bebauungspläne von Schwarzen,http://www.daten.rlp.de/dataset/158cff10-062c-4365-a288-83a6c29e08eb,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Laufersweiler - Ebene: In der großen Kohlwies,http://www.daten.rlp.de/dataset/7ccca7f5-0298-40f9-943f-d165c20d82b0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Raversbeuren - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/da0b15d0-90c7-4a1b-b068-ce0d326b9565,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Hecken - Ebene: Umringe der Bebauungspläne von Hecken,http://www.daten.rlp.de/dataset/ad3f5df6-8985-4f3d-9223-abfa243d9dea,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Auf der Taubenacht 8. Änderung,http://www.daten.rlp.de/dataset/6e90342b-39da-491f-809e-e15902ae6c0e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Niederweiler - Ebene: Auf`m Katzenplatz I,http://www.daten.rlp.de/dataset/c74312ab-9955-45c0-9c35-763ce23c51ca,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -87,4 +84,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Gemünden - Ebene: Auf Ehren,http://www.daten.rlp.de/dataset/8c790930-acc4-482a-a818-8db3dcee0ffd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gemünden - Ebene: In den Birken 1. Änderung,http://www.daten.rlp.de/dataset/ee782045-4f3d-4270-83e4-79981c82486b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Laufersweiler - Ebene: Auf Dellenbaum II,http://www.daten.rlp.de/dataset/4edc0426-9996-4f8e-8469-7a192c31c9b3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Schlierschied - Ebene: Umringe der Bebauungspläne von Schlierschied,http://www.daten.rlp.de/dataset/5010975d-8db2-4b34-9df4-0f14a705c6e8,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Heinzenbach - Ebene: Flur 3 u. 5 1. Änderung,http://www.daten.rlp.de/dataset/bfe17628-760d-4073-9817-579339818019,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Raversbeuren - Ebene: Umringe der Bebauungspläne von Raversbeuren,http://www.daten.rlp.de/dataset/6f6baff0-4201-49ec-bb78-e890b3891b9d,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Brunkenstein,http://www.daten.rlp.de/dataset/c190ca17-7ec5-4b8a-ad72-7946f300a36e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
