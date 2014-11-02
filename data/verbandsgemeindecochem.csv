@@ -1,6 +1,5 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,x,,,,,,,,,,,,,,Briedern - Ebene: Umringe der Bebauungspläne von Briedern,http://www.daten.rlp.de/dataset/dd1f786a-3b3c-49f6-a7fe-098b78cb357f,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Bremm - Ebene: Am Friedhof,http://www.daten.rlp.de/dataset/bee666ba-3566-4e32-8490-488227927a67,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Klotten - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/f0404868-edaf-4c78-a4c9-b06c33e3f54c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Beilstein - Ebene: Umringe der Bebauungspläne von Beilstein,http://www.daten.rlp.de/dataset/d63d70d5-857f-4608-aa41-c07ad48d268a,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Mesenich - Ebene: Katerhell,http://www.daten.rlp.de/dataset/8f2e93ec-2fce-441d-9e43-0c1eae68391a,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Klotten - Ebene: Nordwestliche Ortserweiterung,http://www.daten.rlp.de/dataset/49e1abc0-ab21-45a4-9a8b-37654a1ae75b,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -10,7 +9,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Bruttig-Fankel - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/73eb9d09-5f87-4570-8e38-5c66073c5987,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Ellenz-Poltersdorf - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/d381c75a-347d-4804-b673-e286bae9f2da,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Faid - Ebene: Am Heiligenhaeuschen,http://www.daten.rlp.de/dataset/0426866b-c8cb-4eaa-b9a3-a21578dcc7bc,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Klotten - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/f0404868-edaf-4c78-a4c9-b06c33e3f54c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Greimersburg - Ebene: Im Kindchen Aenderungsplan Im Kindchen,http://www.daten.rlp.de/dataset/4442df70-6648-47d8-bb9e-b87d11970587,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Ernst - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/56230196-3eaa-4791-a479-33822fc67d3f,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Beilstein - Ebene: Auf `m Teich,http://www.daten.rlp.de/dataset/b1183ba4-20d4-4f26-a267-a4f0f25aca66,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -29,6 +27,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Ellenz-Poltersdorf - Ebene: An der Kirche - Beim Bauernweg,http://www.daten.rlp.de/dataset/29902907-8bcc-4fda-ae84-1ca67c362896,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Faid - Ebene: Gewerbegebiet  Auf der Strasse,http://www.daten.rlp.de/dataset/feced7fb-58c5-4688-b58c-457195bdaee6,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Greimersburg - Ebene: Sondergebiet Nipprich,http://www.daten.rlp.de/dataset/25be548b-2e15-4a3e-8365-1f1c6139bc13,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Briedern - Ebene: Umringe der Bebauungspläne von Briedern,http://www.daten.rlp.de/dataset/dd1f786a-3b3c-49f6-a7fe-098b78cb357f,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Greimersburg - Ebene: Auf dem Heckenstueck 1. Aenderung,http://www.daten.rlp.de/dataset/d7f94937-1fda-47c1-a282-c07c13944c9c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Ernst - Ebene: Suedlicher Ortsrand Teil I,http://www.daten.rlp.de/dataset/6aadf719-6d9f-4bb9-aa57-dfdb6c3a359d,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Ernst - Ebene: Sondergebiet Im Steinbruch 1. Aenderung,http://www.daten.rlp.de/dataset/5b502163-3660-431a-8841-d46ae7b1613c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -36,6 +35,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Bremm - Ebene: Schuppengebiet - Im Breuers,http://www.daten.rlp.de/dataset/17f83297-4fa5-4c53-bcb7-57b844ebf7d0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Mesenich - Ebene: Mesenich,http://www.daten.rlp.de/dataset/4c946052-7c83-485a-9fed-8159d515ad8a,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,"Bruttig-Fankel - Ebene: Zwischen den Orsteilen Bruttig und Fankel, Ortsteil Fankel 3. Aenderung",http://www.daten.rlp.de/dataset/f728340b-f315-473f-a1d7-e33762347afe,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Bremm - Ebene: Am Friedhof,http://www.daten.rlp.de/dataset/bee666ba-3566-4e32-8490-488227927a67,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Nehren - Ebene: Nördliche Ortserweiterung,http://www.daten.rlp.de/dataset/a93016b3-6260-45ea-ab7e-c90ada137147,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Ediger-Eller - Ebene: Auf dem Wert,http://www.daten.rlp.de/dataset/5f9c06ca-1b29-4431-8473-7a1fc0f07bf7,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Wirfus - Ebene: Umringe der Bebauungspläne von Wirfus,http://www.daten.rlp.de/dataset/6df1385a-99ab-4025-87ab-b45b8f4c41df,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
