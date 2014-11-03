@@ -88,7 +88,7 @@ function submitSearch(e) {
 
 map = L.map('map', {
   minZoom: 6,
-  maxZoom: 8,
+  maxZoom: 12,
   maxBounds: bounds
 }).setView([51.358061573190916, 10.810546875], 6);
 
@@ -105,8 +105,8 @@ L.tileLayer(MB_URL, {
 $.getJSON('notgermany.geojson', function(feature){
   L.geoJson(feature, {
     style: {
-      color: '#fff',
-      fillColor: '#fff',
+      color: '#ddd',
+      fillColor: '#ddd',
       weight: 1,
       opacity: 0.0,
       fillOpacity: 0.8
