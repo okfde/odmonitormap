@@ -3,12 +3,11 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,,,,,,x,,,,,,,,,Europawahl 2009,http://opendata.bonn.de/dataset/europawahl-2009,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2013,http://opendata.bonn.de/dataset/bundestagswahl-2013,dl-de-by-1.0,CSV,d
 ,,,,,,,,,,,,x,,,,Haushaltsplan 2013 2014,http://opendata.bonn.de/dataset/haushaltsplan-2013-2014,dl-de-by-1.0,XLSX,d
-,,,,,,,,,x,x,,,x,,,Pressemitteilungen,http://opendata.bonn.de/dataset/pressemitteilungen,dl-de-by-1.0,,d
-,,,,,,,x,,,,,,,,,Integrationsratswahl 2014,http://opendata.bonn.de/dataset/integrationsratswahl-2014,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2005,http://opendata.bonn.de/dataset/bundestagswahl-2005,dl-de-by-1.0,,d
 ,,,,,x,,,,x,,,,,,,Geschäftsbericht Tiefbauamt,http://opendata.bonn.de/dataset/gesch%C3%A4ftsbericht-tiefbauamt,dl-de-by-1.0,PDF,d
 ,,,,,x,,,,,,,,,,,Immobilienangebote,http://opendata.bonn.de/dataset/immobilienangebote,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Über- und außerplanmäßige Aufwendungen und Auszahlungen gemäß § 83 (2) GO NRW,http://opendata.bonn.de/dataset/%C3%BCber-und-au%C3%9Ferplanm%C3%A4%C3%9Fige-aufwendungen-und-auszahlungen-gem%C3%A4%C3%9F-%C2%A7-83-2-go-nrw,dl-de-by-1.0,PDF,d
+,,,,,,,x,,,,,,,,,Integrationsratswahl 2014,http://opendata.bonn.de/dataset/integrationsratswahl-2014,dl-de-by-1.0,,d
 ,,,,,x,,,,,x,,x,,,,Energieberichte,http://opendata.bonn.de/dataset/energieberichte,dl-de-by-1.0,,d
 ,,,,,x,,,,,,,,,,,Projektstatusberichte Konferenzzentrum,http://opendata.bonn.de/dataset/projektstatusberichte-konferenzzentrum,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Eckdaten des Haushaltes,http://opendata.bonn.de/dataset/eckdaten-des-haushaltes,dl-de-by-1.0,PDF,d
@@ -77,3 +76,4 @@ x,,,,,,,,,,,,x,,,,Einwohnermeldeämter,http://opendata.bonn.de/dataset/einwohner
 ,,,,,,,,,x,x,,,x,,,Stellenangebote,http://opendata.bonn.de/dataset/stellenangebote,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,Landtagswahl 2005,http://opendata.bonn.de/dataset/landtagswahl-2005,dl-de-by-1.0,XLS,d
 x,,,,,,,,,,,,,,,,Bevölkerungsstatistik,http://opendata.bonn.de/dataset/bev%C3%B6lkerungsstatistik,dl-de-by-1.0,CSV,d
+,,,,,,,,,x,x,,,x,,,Pressemitteilungen,http://opendata.bonn.de/dataset/pressemitteilungen,dl-de-by-1.0,,d
