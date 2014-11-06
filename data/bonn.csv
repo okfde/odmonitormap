@@ -1,16 +1,15 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,,,,,,,,,x,,,,Vorberichte zum Haushaltsplan,http://opendata.bonn.de/dataset/vorberichte-zum-haushaltsplan,dl-de-by-1.0,PDF,d
-,,,,,,,x,,,,,,,,,Europawahl 2004,http://opendata.bonn.de/dataset/europawahl-2004,dl-de-by-1.0,,d
-,,,,,,,,,,,,x,,,,Pressemitteilungen Stadt Bonn,http://opendata.bonn.de/dataset/pressemitteilungen-stadt-bonn,dl-de-by-1.0,,d
-,,,,,,,,,x,x,,,x,,,Pressemitteilungen,http://opendata.bonn.de/dataset/pressemitteilungen,dl-de-by-1.0,,d
-,,,,,,,x,,,,,,,,,Landtagswahl 2005,http://opendata.bonn.de/dataset/landtagswahl-2005,dl-de-by-1.0,XLS,d
-x,,,,,,,,,,,,,,,,Bevölkerungsstatistik,http://opendata.bonn.de/dataset/bev%C3%B6lkerungsstatistik,dl-de-by-1.0,CSV,d
-,,,,,,,x,,,,,,,,,Integrationsratswahl 2014,http://opendata.bonn.de/dataset/integrationsratswahl-2014,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Ausschreibungen/ Vergabeverfahren,http://opendata.bonn.de/dataset/ausschreibungen-vergabeverfahren,dl-de-by-1.0,,d
-,,,,,x,,,,,x,,x,,,,Energieberichte,http://opendata.bonn.de/dataset/energieberichte,dl-de-by-1.0,,d
+,,,,,,,,,,,,,x,,,Kennzahlen vermietete Büroflächen,http://opendata.bonn.de/dataset/kennzahlen-vermietete-b%C3%BCrofl%C3%A4chen,dl-de-by-1.0,"CSV,XLS",d
+,,,,,x,,,,,,,,,,,Uno in Bonn,http://opendata.bonn.de/dataset/uno-bonn,dl-de-by-1.0,,d
+,,,,,,,,,,,,x,,,,Vorberichte zum Haushaltsplan,http://opendata.bonn.de/dataset/vorberichte-zum-haushaltsplan,dl-de-by-1.0,PDF,d
+,,,,,,,,,,,,x,,,,Beteiligungsbericht 2005,http://opendata.bonn.de/dataset/beteiligungsbericht-2005,dl-de-by-1.0,,d
+,,,,,,,x,,,,,,,,,Kommunalwahl 1999,http://opendata.bonn.de/dataset/kommunalwahl-1999,dl-de-by-1.0,,d
+,,,,,,,x,,,,,,,,,Europawahl 2009,http://opendata.bonn.de/dataset/europawahl-2009,dl-de-by-1.0,,d
+,,,,,,,,,,,,x,,,,Pressemitteilungen Stadt Bonn,http://opendata.bonn.de/dataset/pressemitteilungen-stadt-bonn,dl-de-by-1.0,,d
+,,,,,x,,,,,x,,x,,,,Energieberichte,http://opendata.bonn.de/dataset/energieberichte,dl-de-by-1.0,DOC,d
 ,,,,,,,x,,,,,,,,,"Kommunalwahl 2009 (Bürgermeister, Bezirksvertretung, Rat)",http://opendata.bonn.de/dataset/kommunalwahl-2009-b%C3%BCrgermeister-bezirksvertretung-rat,dl-de-by-1.0,CSV,d
 ,,,,,x,,,,,,,,,,,Projektstatusberichte Konferenzzentrum,http://opendata.bonn.de/dataset/projektstatusberichte-konferenzzentrum,dl-de-by-1.0,,d
-,,,,,,,,,,,,,,,x,Bürgeranliegen online,http://opendata.bonn.de/dataset/b%C3%BCrgeranliegen-online,dl-de-by-1.0,,d
 ,,,,,,x,,,,,,,,,,Bonn am Rhein,http://opendata.bonn.de/dataset/bonn-am-rhein,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Eckdaten des Haushaltes,http://opendata.bonn.de/dataset/eckdaten-des-haushaltes,dl-de-by-1.0,PDF,d
 x,,,,,,,,,,,,,,,,Eintragungen in das Goldene Buch der Stadt Bonn,http://opendata.bonn.de/dataset/eintragungen-das-goldene-buch-der-stadt-bonn,dl-de-by-1.0,DOC,d
@@ -19,12 +18,11 @@ x,,,,,,,,,,,,,,,,Eintragungen in das Goldene Buch der Stadt Bonn,http://opendata
 ,,,,,,,,,x,x,,,x,,,Bilder der Stadtwerke Bonn,http://opendata.bonn.de/dataset/bilder-der-stadtwerke-bonn,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Haushaltssatzungen,http://opendata.bonn.de/dataset/haushaltssatzungen,dl-de-by-1.0,PDF,d
 ,,,,,,,,,,,,x,,,,Beteiligungsbericht 2012,http://opendata.bonn.de/dataset/beteiligungsbericht-2012,dl-de-by-1.0,,d
-,,,,,,,,,,,,,x,,,Kennzahlen vermietete Büroflächen,http://opendata.bonn.de/dataset/kennzahlen-vermietete-b%C3%BCrofl%C3%A4chen,dl-de-by-1.0,"CSV,XLS",d
-,,,,,x,,,,,,,,,,,Uno in Bonn,http://opendata.bonn.de/dataset/uno-bonn,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Open Data (Datensatzwunschliste),http://opendata.bonn.de/dataset/open-data-datensatzwunschliste,dl-de-by-1.0,XLSX,d
 ,,,,,,,,,,,,x,,,,Sachstandsbericht Anliegen.Bonn.de,http://opendata.bonn.de/dataset/sachstandsbericht-anliegenbonnde,dl-de-by-1.0,,d
 x,,,,,,,,x,,,,,,,,Bonn in Zahlen,http://opendata.bonn.de/dataset/bonn-zahlen,dl-de-by-1.0,,d
 ,,,,,x,,,,x,,,,,,,Geschäftsbericht Tiefbauamt 2013,http://opendata.bonn.de/dataset/gesch%C3%A4ftsbericht-tiefbauamt-2013,dl-de-by-1.0,PDF,d
+,,,,,,,,,,,,x,,,,Bürgeranliegen online/ Mängelmelder,http://opendata.bonn.de/dataset/b%C3%BCrgeranliegen-online-m%C3%A4ngelmelder,dl-de-by-1.0,,d
 ,,,,,x,,,,,,,,x,,,Strukturwandel - Das Bundesviertel,http://opendata.bonn.de/dataset/strukturwandel-das-bundesviertel,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,Integrationsratswahl 2010,http://opendata.bonn.de/dataset/integrationsratswahl-2010,dl-de-by-1.0,,d
 ,,,,,,,,,,x,,x,,,,Sitzungen des Verwaltungsrates bonnorange AöR,http://opendata.bonn.de/dataset/sitzungen-des-verwaltungsrates-bonnorange-a%C3%B6r,dl-de-by-1.0,,d
@@ -57,15 +55,14 @@ x,x,,x,x,x,x,x,x,x,x,x,x,x,,,Bürgeranträge gem. § 24 GO NRW,http://opendata.b
 x,x,,,,,x,,,,,,,,,,Bonner Bilder,http://opendata.bonn.de/dataset/bonner-bilder,dl-de-by-nc-1.0,,d
 x,x,,,x,x,x,x,x,x,,x,x,x,,,Veranstaltungskalender (Komplettübersicht),http://opendata.bonn.de/dataset/veranstaltungskalender-komplett%C3%BCbersicht,dl-de-by-1.0,,d
 ,,,,,,,,,x,x,,,x,,,Kennzahlen der Stadtwerke Bonn,http://opendata.bonn.de/dataset/kennzahlen-der-stadtwerke-bonn,dl-de-by-1.0,PDF,d
+,,,,,,,x,,,,,,,,,Europawahl 2004,http://opendata.bonn.de/dataset/europawahl-2004,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,Europawahl 2014,http://opendata.bonn.de/dataset/europawahl-2014,dl-de-by-1.0,CSV,d
 ,,,,,,,,,,,,,x,,,Büroflächenpreise,http://opendata.bonn.de/dataset/b%C3%BCrofl%C3%A4chenpreise,dl-de-by-1.0,CSV,d
 ,,,x,,x,,,,,,,,,,,Berlin Bonn Gesetz - Die Umsetzung,http://opendata.bonn.de/dataset/berlin-bonn-gesetz-die-umsetzung,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Beteiligungsbericht 2009,http://opendata.bonn.de/dataset/beteiligungsbericht-2009,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Beteiligungsbericht 2006,http://opendata.bonn.de/dataset/beteiligungsbericht-2006,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Beteiligungsbericht 2007,http://opendata.bonn.de/dataset/beteiligungsbericht-2007,dl-de-by-1.0,,d
-,,,,,,,,,,,,x,,,,Beteiligungsbericht 2005,http://opendata.bonn.de/dataset/beteiligungsbericht-2005,dl-de-by-1.0,,d
 ,,,,,x,,,,x,,,,,,,Kennzahlen Stadtentwässerung,http://opendata.bonn.de/dataset/kennzahlen-stadtentw%C3%A4sserung,dl-de-by-1.0,CSV,d
-,,,,,,,x,,,,,,,,,Kommunalwahl 1999,http://opendata.bonn.de/dataset/kommunalwahl-1999,dl-de-by-1.0,,d
 ,,,,,,,,,,,,,x,,,Wirtschaftsstandort Bonn,http://opendata.bonn.de/dataset/wirtschaftsstandort-bonn,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,Kommunalwahl 2004,http://opendata.bonn.de/dataset/kommunalwahl-2004,dl-de-by-1.0,XLS,d
 ,,,,,,,,,x,,,,,,,Parkhäuser,http://opendata.bonn.de/dataset/parkh%C3%A4user,dl-de-by-nc-1.0,,d
@@ -76,9 +73,12 @@ x,,,,,,,,x,,x,,,,,,Fair Trade Einkaufsführer,http://opendata.bonn.de/dataset/fa
 ,,,,,,,x,,,,,,,,,"Kommunalwahl 2014 (Rat, Bezirksvertretung)",http://opendata.bonn.de/dataset/kommunalwahl-2014-rat-bezirksvertretung,dl-de-by-1.0,CSV,d
 x,,,,,,,,,,,,x,,,,Einwohnermeldeämter,http://opendata.bonn.de/dataset/einwohnermelde%C3%A4mter,CC0-1.0,"XLSX,CSV",d
 ,,,,,,,,,,,,x,,,,Beteiligungsbericht 2013,http://opendata.bonn.de/dataset/beteiligungsbericht-2013,dl-de-by-1.0,,d
-,,,,,,,x,,,,,,,,,Europawahl 2009,http://opendata.bonn.de/dataset/europawahl-2009,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Bewilligung über- und außerplanmäßiger Aufwendungen und Auszahlungen nach § 83 (1) GO NRW bzw. § 85 (1) GO NRW,http://opendata.bonn.de/dataset/bewilligung-%C3%BCber-und-au%C3%9Ferplanm%C3%A4%C3%9Figer-aufwendungen-und-auszahlungen-nach-%C2%A7-83-1-go-nrw-bzw-%C2%A7,dl-de-by-1.0,PDF,d
+,,,,,,,,,x,x,,,x,,,Pressemitteilungen,http://opendata.bonn.de/dataset/pressemitteilungen,dl-de-by-1.0,,d
+,,,,,,,x,,,,,,,,,Landtagswahl 2005,http://opendata.bonn.de/dataset/landtagswahl-2005,dl-de-by-1.0,XLS,d
+x,,,,,,,,,,,,,,,,Bevölkerungsstatistik,http://opendata.bonn.de/dataset/bev%C3%B6lkerungsstatistik,dl-de-by-1.0,CSV,d
 ,,,,,,,,,,,,x,,,,Dezernatsverteilungsplan,http://opendata.bonn.de/dataset/dezernatsverteilungsplan,dl-de-by-1.0,"DOC,PDF",d
+,,,,,,,x,,,,,,,,,Integrationsratswahl 2014,http://opendata.bonn.de/dataset/integrationsratswahl-2014,dl-de-by-1.0,,d
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2005,http://opendata.bonn.de/dataset/bundestagswahl-2005,dl-de-by-1.0,,d
 ,,,,,x,,,,,,,,,,,Immobilienangebote,http://opendata.bonn.de/dataset/immobilienangebote,dl-de-by-1.0,,d
 ,,,,,,,,,,,,x,,,,Über- und außerplanmäßige Aufwendungen und Auszahlungen gemäß § 83 (2) GO NRW,http://opendata.bonn.de/dataset/%C3%BCber-und-au%C3%9Ferplanm%C3%A4%C3%9Fige-aufwendungen-und-auszahlungen-gem%C3%A4%C3%9F-%C2%A7-83-2-go-nrw,dl-de-by-1.0,PDF,d

@@ -1,8 +1,8 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+,,,,,x,,,,,x,,,,,,Solarkataster,http://daten.aachen.de/dataset/solarkataster,dl-de/by-2-0,"WMS,WFS,GML",d
 ,,x,,,,,,,,,,,,,,Gemeindegrenze der Stadt Aachen,http://daten.aachen.de/dataset/gemeindegrenze,dl-de/by-2-0,"WMS,WFS",d
 ,,x,,,,,,,,,,,,,,Straßenliste,http://daten.aachen.de/dataset/strassenliste,dl-de/by-2-0,XLS,d
 ,,,,,x,,,,,,,,,,,Denkmalbereiche,http://daten.aachen.de/dataset/denkmalbereiche,dl-de/by-2-0,"WMS,WFS,GML",d
 ,,,,,,,,,x,,,,,,,Baustellen Stadtgebiet Aachen,http://daten.aachen.de/dataset/baustellen-stadtgebiet-aachen,dl-de/by-2-0,"WMS,WFS,CSV,GEOJSON,GML",d
 x,,,,,x,,,,,,,,,,,Einwohnerstatistik,http://daten.aachen.de/dataset/einwohnerstatistik,dl-de/by-2-0,"XLSX,CSV",d
 ,,x,,,,,,,,,,,,,,Stadtplan (amtlich),http://daten.aachen.de/dataset/stadtplan-amtlich,dl-de/by-2-0,WMS,d
-,,,,,x,,,,,x,,,,,,Solarkataster,http://daten.aachen.de/dataset/solarkataster,dl-de/by-2-0,"WMS,WFS,GML",d
