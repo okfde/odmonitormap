@@ -1,5 +1,6 @@
 Stadtname,kurzname,DOMAIN,Open Data Portal,Kontakt Mail,Lat,Lon,modified,sourced-from-m,sourced-from-d,sourced-from-c,sourced-from-b,sourced-from-g,catalog-sources
 Verbandsgemeinde Rheinböllen,verbandsgemeinderheinboellen,,,,50.0066163,7.6703839,2014-11-07,0,47,0,0,0,daten.rlp.de
+Wennigsen (Deister),wennigsen,http://wennigsen.net,http://data.wennigsen.net ,jens@spiwi.de,52.2762744,9.5671846,2014-08-26,0,31,0,0,0,data.wennigsen.de
 Verbandsgemeinde Kastellaun,verbandsgemeindekastellaun,,,,50.0715547,7.4429326,2014-11-07,0,59,0,0,0,daten.rlp.de
 Norden,norden,,,,53.5942039,7.2067435,2014-11-07,0,1,0,0,0,govdata.de
 Baindt,baindt,http://baindt.de,,info@baindt.de,47.8420535,9.6622081,,0,0,0,2,0,
@@ -56,8 +57,8 @@ Wuppertal,wuppertal,http://wuppertal.de,https://www.wuppertal.de/rathaus-buerger
 Hannover,hannover,http://hannover.de,,Internetredaktion@Hannover-Stadt.de,52.3744779,9.7385532,2014-11-07,0,4,0,0,1,govdata.de
 Erlangen,erlangen,,,,49.5981208,11.0036532,2014-11-07,0,2,0,0,0,govdata.de
 Gelsenkirchen,gelsenkirchen,http://gelsenkirchen.de,,redaktion@gelsen-net.de,51.55622845,7.081511196,,0,0,0,2,6,
-Verbandsgemeinde Gerolstein,verbandsgemeindegerolstein,,,,50.2234404,6.6618586,2014-11-07,0,85,0,0,0,daten.rlp.de
 Westoverledingen,westoverledingen,http://westoverledingen.de,,Gemeinde@westoverledingen.de ,53.15,7.46667,,0,0,0,0,1,
+Verbandsgemeinde Gerolstein,verbandsgemeindegerolstein,,,,50.2234404,6.6618586,2014-11-07,0,85,0,0,0,daten.rlp.de
 Wiesbaden,wiesbaden,http://wiesbaden.de,,online-redaktion@wiesbaden-marketing.de,50.0833,8.25,,0,0,0,1,0,
 Spiekeroog,spiekeroog,,,,53.7666185,7.72555904783462,2014-11-07,0,1,0,0,0,govdata.de
 Neu Wulmstorf,neu-wulmstorf,http://neu-wulmstorf.de,,gemeinde@rh-neu-wulmstorf.de,53.4667,9.8,2014-10-22,0,0,8,0,0,
@@ -81,6 +82,7 @@ München,muenchen,http://muenchen.de,http://www.muenchen.de/opendata,info@portal
 Zweibrücken,zweibruecken,,,,49.2534991,7.37060801928933,2014-11-07,0,22,0,0,0,daten.rlp.de
 Verbandsgemeinde Emmelshausen,verbandsgemeindeemmelshausen,,,,50.1564357,7.5545807,2014-11-07,0,97,0,0,0,daten.rlp.de
 Kaiserslautern,kaiserslautern,http://kaiserslautern.de,,-,49.4432174,7.7689951,,0,0,0,4,0,
+Rhein-Erft-Kreis,rhein-erft-kreis,http://www.rhein-erft-kreis.de/,,,50.90334,6.763334,,0,0,0,1,2,
 Ilmenau,ilmenau,,,,50.6867695,10.9142385,2014-11-07,0,1,0,0,0,govdata.de
 Bremen,bremen,http://bremen.de,http://daten.bremen.de,info@bremen.de,53.0758099,8.80717,2014-11-07,0,144,53,11,34,daten.bremen.de
 Zwickau,zwickau,http://zwickau.de,,buergerservice@zwickau.de,50.7185043,12.4939267,,0,0,0,1,0,
