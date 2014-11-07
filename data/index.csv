@@ -35,14 +35,14 @@ Gera,gera,http://gera.de,,Buero.Oberbuergermeister@gera.de,50.887824,12.08134408
 Berlin,berlin,http://berlin.de,http://daten.berlin.de,Info@Berlin.de,52.5170365,13.3888599,2014-11-07,0,568,0,118,256,datenregister.berlin.de
 Wangerooge,wangerooge,,,,53.7834917,7.93518076593744,2014-11-07,0,1,0,0,0,govdata.de
 Bonn,bonn,http://bonn.de,http://opendata.bonn.de,opendata@bonn.de,50.7358511,7.1006599,2014-11-07,0,83,0,0,0,opendata.bonn.de
-Köln,koeln,http://stadt-koeln.de,http://offenedaten-koeln.de,e-government@stadt-koeln.de,50.9577031,6.95495255522418,2014-11-07,0,130,1,5,19,offenedaten-koeln.de
+Rhein-Erft-Kreis,rhein-erft-kreis,http://rhein-erft-kreis.de,,,50.90334,6.763334,,0,0,0,1,2,
+Köln,koeln,http://stadt-koeln.de,http://offenedaten-koeln.de,e-government@stadt-koeln.de,50.9577031,6.95495255522418,2014-11-07,0,131,1,5,19,offenedaten-koeln.de
 Sonnenberg,sonnenberg,,,,53.0178654,13.0887385,2014-11-07,0,1,0,0,0,govdata.de
 Baltrum,baltrum,,,,53.72703795,7.39548387505676,2014-11-07,0,1,0,0,0,govdata.de
 Mannheim,mannheim,http://mannheim.de,,stadtverwaltung@mannheim.de,49.4895914,8.4672361,,0,0,0,0,15,
 Cottbus,cottbus,http://cottbus.de,,info@cottbus.de,51.7567447,14.3357307,2014-10-22,0,0,1,0,0,
 Verbandsgemeinde Kirchberg (Hunsrück),verbandsgemeindekirchberghunsrueck,,,,49.9330554,7.35476790609633,2014-11-07,0,89,0,0,0,daten.rlp.de
 Hanau,hanau,http://hanau.de,,webmaster@hanau.de,50.1335542,8.9168179,,0,0,0,1,0,
-Aachen,aachen,http://www.aachen.de/,http://daten.aachen.de,,50.776351,6.0838618,2014-11-07,0,7,0,0,0,daten.aachen.de
 Borkum,borkum,,,,53.5859383,6.69158131203533,2014-11-07,0,1,0,0,0,govdata.de
 Esslingen am Neckar,esslingen,http://esslingen.de,,roland.karpentier@esslingen.de ,48.7388603,9.3010797,,0,0,0,0,33,
 Troisdorf,troisdorf,,,,50.8153071,7.1593271,2014-11-07,0,2,0,0,0,govdata.de
@@ -82,9 +82,8 @@ München,muenchen,http://muenchen.de,http://www.muenchen.de/opendata,info@portal
 Zweibrücken,zweibruecken,,,,49.2534991,7.37060801928933,2014-11-07,0,22,0,0,0,daten.rlp.de
 Verbandsgemeinde Emmelshausen,verbandsgemeindeemmelshausen,,,,50.1564357,7.5545807,2014-11-07,0,97,0,0,0,daten.rlp.de
 Kaiserslautern,kaiserslautern,http://kaiserslautern.de,,-,49.4432174,7.7689951,,0,0,0,4,0,
-Rhein-Erft-Kreis,rhein-erft-kreis,http://www.rhein-erft-kreis.de/,,,50.90334,6.763334,,0,0,0,1,2,
 Ilmenau,ilmenau,,,,50.6867695,10.9142385,2014-11-07,0,1,0,0,0,govdata.de
+Aachen,aachen,http://aachen.de,http://daten.aachen.de,,50.776351,6.0838618,2014-11-07,0,7,0,0,0,daten.aachen.de
 Bremen,bremen,http://bremen.de,http://daten.bremen.de,info@bremen.de,53.0758099,8.80717,2014-11-07,0,144,53,11,34,daten.bremen.de
 Zwickau,zwickau,http://zwickau.de,,buergerservice@zwickau.de,50.7185043,12.4939267,,0,0,0,1,0,
-Bodensee,bodensee,,,,47.57449,9.4963035,2014-11-07,0,1,0,0,0,govdata.de
 Gütersloh,guetersloh,http://guetersloh.de,,wolfgang.hein@gt-net.de,51.9044291,8.3799049,,0,0,0,1,0,

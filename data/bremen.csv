@@ -72,6 +72,18 @@ x,,,,,,,x,,,,,,,,,"(gültig ab 01.11.2012) - Excel (xls, 60 KB)",https://ssl2.br
 ,x,,,,,,,,,,,,,,,Laendervergleich-DFG-Drittmittel-2010,http://www.bremen.de/bremen-kompakt/bk-visualisierung/eingeworbene-dfg-mittel-35802726,CC-BY-ND 3.0,CSV,c
 ,x,,,,,,,,,,,,,,,Laendervergleich-Wanderungssaldo-Studienanfaenger-2011,http://www.bremen.de/bremen-kompakt/bk-visualisierung/wanderungssaldo-der-studienanfngerinnen-35802702,CC-BY-ND 3.0,CSV,c
 ,,,,,,,,,,,,x,,,,Personalhauptkosten2011,http://www.finanzen.bremen.de/sixcms/media.php/13/Kosten%20eines%20Arbeitsplatzes%202012%20(Anlagen%202012).13483.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,,,,,,,,http://www.bremen.de/bremen-kompakt/bk-visualisierung/stdtevergleich-der-wohnungsnettokaltmieten-35802715,nicht bekannt,CSV,c
+,,,,,,,,,,,,x,,,,Arbeitsplatzkosten,http://www.finanzen.bremen.de/sixcms/media.php/13/Personal-Arbeitsplatzkosten_Berechnungschema%202011.xls,nicht bekannt,XLS,g
+,x,,,,,,,,,,,,,,,Fortbildungsprogramm 2011,https://ssl.bremen.de/hfoev/sixcms/media.php/13/Fortbildungsprogramm+Kurz%FCbersicht+2012.xls,nicht bekannt,XLS,g
+,x,,,,,,,,,,,,,,,www.lis.bremen.de,http://www.lis.bremen.de/sixcms/media.php/13/Links%20Sek%20I_II.xls,nicht bekannt,XLS,b
+,,,,,,,,,,x,,,,,,"1991 (xls, 28 KB)",http://www.umwelt.bremen.de/sixcms/media.php/13/h91.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,Personalhauptkosten2013,http://www.finanzen.bremen.de/sixcms/media.php/13/Kosten%20eines%20Arbeitsplatzes%202013%20ab%20September%202013.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,,x,,,Laendervergleich-Veraenderungsrate-BIP-und-Erwerbstaetigkeit-2011-2012,http://www.bremen.de/bremen-kompakt/bk-visualisierung/vernderungsrate-des-bip-und-der-erwerbsttigkeit--35802708,CC-BY-ND 3.0,CSV,c
+,,,,,,,,,,,,,x,,,Laendervergleich-Einkommensmillionaere-2007,http://www.bremen.de/bremen-kompakt/bk-visualisierung/anteil-der-einkommensmillionre-35802723,CC-BY-ND 3.0,CSV,c
+,,,,,,,,,,,,,,,,open_data_sfbwg,http://www.bildung.bremen.de/sixcms/detail.php?gsid=bremen117.c.5194.de,CC-BY 3.0,ZIP,c
+,,,,,,,,,,,,,x,,,Hafenbilanz-2013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/hafenbilanz-2013-40933942,CC-BY-ND 3.0,CSV,c
+,x,,,,,,,,,,,,,,,Foerdermittel-Exzellenzinitiative-2012-ambitioniert-und-agil,http://www.bremen.de/bremen-kompakt/bk-visualisierung/frdermittel-der-exzellenzinitiative-35802705,CC-BY-ND 3.0,CSV,c
+,,,,,,,,,,,,,x,,,Wachstumsraten-Haefen-Nordrange,http://www.bremen.de/bremen-kompakt/bk-visualisierung/wachstumsraten-der-hfen-an-der-nordrange-35802724,CC-BY-ND 3.0,CSV,c
 ,,,,x,,,,x,,,,,,,,Pflegeeinrichtungen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8196.de,cc-by,XML,d
 ,,,,,,,x,,,,,,,,,Bundestagswahl (Zweitstimmen),http://daten.bremen.de/de/datensatz/bremen236.c.4430.de,cc-by,CSV,d
 x,,,,,,,,,,,,,,,,"Bevölkerung nach Geschlecht, Staatsangehörigkeit und Altersgruppen",http://daten.bremen.de/de/datensatz/bremen236.c.4415.de,cc-by,CSV,d
@@ -79,6 +91,7 @@ x,,,,,,,,,,,,,,,,"Bevölkerung nach Geschlecht, Staatsangehörigkeit und Altersg
 ,,,,,,,,,,x,,,,,,Umrisspolygone der öffentlichen Grünanlagen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.4427.de,cc-by,GML,d
 ,,,,,,,,,,,,x,,,,Zuwendungen in Bremen 2009/2010,http://daten.bremen.de/de/datensatz/bremen236.c.8332.de,other-closed,XLS,d
 x,,,,,,,,,,,,,,,,Vornamen (TOP 100 ) in Bremen 2006,http://daten.bremen.de/de/datensatz/bremen248.c.9552.de,cc-by,CSV,d
+,,,,,,x,,,,,,,,,,Parkbänke in öffentlichen Grünanlagen und auf kommunalen Friedhöfen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.4424.de,cc-by,GML,d
 ,,,,,,,,,,x,,,,,,Abwasser (Einrichtungen) in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8139.de,cc-by,XML,d
 ,,,,,,,,x,,,,,,,,Sozialpädagogische Familienhilfen (Einrichtungen) in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8217.de,cc-by,XML,d
 ,,,,,,,,,,,,,x,,,Handelsverbände in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8396.de,cc-by,XML,d
@@ -92,6 +105,7 @@ x,,,,,,,,,,,,,,,,"Gestorbene nach Geschlecht, Staatsangehörigkeit und Altersgru
 ,,,,,,x,,,,,,x,,,,Bürgerhäuser in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8121.de,cc-by,XML,d
 ,,,,x,,,,,,,,,,,,Mädchennotruf-Einrichtungen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8181.de,cc-by,XML,d
 ,,,,,,,,,,,,,x,,,Wochenmärkte in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8166.de,cc-by,XML,d
+,,,,,,,,,,,,x,,,,Zugriffszahlen Internetauftritt seniorenlotse.bremen.de 2013,http://daten.bremen.de/de/datensatz/bremen248.c.11624.de,cc-by,CSV,d
 x,,,,,,,,,,,,,,,,Bevölkerung nach Altersjahren und Geschlecht,http://daten.bremen.de/de/datensatz/bremen236.c.4413.de,cc-by,CSV,d
 ,,,,,,,,,,,,x,,,,Aktuelle Meldungen und Pressemitteilungen für das Jahr 2002,http://daten.bremen.de/de/datensatz/bremen236.c.8631.de,cc-by,XML,d
 ,x,,,,,,,,,,,x,,,,Grundschulen mit Sonderprofilen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8127.de,cc-by,XML,d
@@ -99,7 +113,6 @@ x,,,,,,,,,,,,,,,,Bevölkerung nach Altersjahren und Geschlecht,http://daten.brem
 ,,,,,x,,,,,,,,,,,Wohnen für Menschen mit Behinderungen (Einrichtungen) in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8160.de,cc-by,XML,d
 ,,,,,x,,,,,,,,,,,Wohnen im Alter (Einrichtungen) in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8163.de,cc-by,XML,d
 ,,,,,,,,,,,,x,,,,Aktuelle Meldungen und Pressemitteilungen für das Jahr 2001,http://daten.bremen.de/de/datensatz/bremen236.c.8633.de,cc-by,XML,d
-,,,,,x,,,,,,,,,,,,http://www.bremen.de/bremen-kompakt/bk-visualisierung/stdtevergleich-der-wohnungsnettokaltmieten-35802715,nicht bekannt,CSV,c
 ,,,,,,,,,,,,x,,,,Aktuelle Meldungen und Pressemitteilungen für das Jahr 2003,http://daten.bremen.de/de/datensatz/bremen236.c.8629.de,cc-by,XML,d
 ,,,,,x,,,,,,,,,,,Wohnmobilstellplätze in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8157.de,cc-by,XML,d
 ,,,,,,,,,,,,x,,,,Zuwendungen in Bremen 2011,http://daten.bremen.de/de/datensatz/bremen248.c.11143.de,other-closed,"XLS,PDF",d
@@ -108,7 +121,6 @@ x,,,,,,,,,,,,,,,,Bevölkerung nach Altersjahren und Geschlecht,http://daten.brem
 ,,,,,,,,,,,,x,,,,Aktuelle Meldungen und Pressemitteilungen für das Jahr 2000,http://daten.bremen.de/de/datensatz/bremen236.c.8635.de,cc-by,XML,d
 ,,,,,,,,,,,,x,,,,Haushalt des Landes und der Stadtgemeinde Bremen 2012/2013,http://daten.bremen.de/de/datensatz/bremen236.c.4403.de,cc-by,XLS,d
 ,,,,x,,,,,,,,,,,,Tierarztnotdienste in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8178.de,cc-by,XML,d
-,,,,,,,,,,,,x,,,,Arbeitsplatzkosten,http://www.finanzen.bremen.de/sixcms/media.php/13/Personal-Arbeitsplatzkosten_Berechnungschema%202011.xls,nicht bekannt,XLS,g
 ,,,,x,,,,x,,,,,,,,Mutter-Kind-Einrichtungen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8187.de,cc-by,XML,d
 ,x,,,,,,,,,,,,,,,Schulen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.4426.de,cc-by,XLS,d
 ,,,,,,,x,,,,,,,,,Wahllokale in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8345.de,cc-by,CSV,d
@@ -119,10 +131,12 @@ x,,,,,,,,,,,,,,,,Vorausschätzung: Bevölkerung nach Altersjahren und Geschlecht
 ,,,,,,,,,,,,x,,,,Haushalt des Landes und der Stadtgemeinde Bremen 2013 (IST-Daten),http://daten.bremen.de/de/datensatz/bremen248.c.11577.de,cc-by,XLSX,d
 ,,,,,,,,,,,x,,,,,Verbraucherinitiativen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8384.de,cc-by,XML,d
 ,,x,,,,,,,,,,,,,,"Karten, Pläne und Geo-Informationssysteme Bremen",http://daten.bremen.de/de/datensatz/bremen236.c.8258.de,cc-by,XML,d
+x,,,,,,,,,,,,,,,,Umlandwanderungen nach Herkunfts- bzw. Zielkreisen in Bremen (Bremer Umland),http://daten.bremen.de/de/datensatz/bremen236.c.4419.de,cc-by,CSV,d
 ,,,,,,,,,,,,,x,,,Unternehmensverbände in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8378.de,cc-by,XML,d
 ,,,,,,x,,,,,,,,,,Denkmalpflegeeinrichtungen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8100.de,cc-by,XML,d
 ,,,,,,,,,,,,x,,,,Geschäftsverteilungs- und Organisationspläne Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8252.de,cc-by,XML,d
 ,,,,,,,,,,x,,,,,,Wasserrettungsdienste in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8097.de,cc-by,XML,d
+,,,,,,x,,,,,,,,,,Spielplätze in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.4433.de,cc-by,CSV,d
 ,,,,,,x,,,,,,,,,,Volkstanz-Einrichtungen (und Vereine) in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8172.de,cc-by,XML,d
 x,,,,,,,,,,,,,,,,Vornamen (TOP 100 ) in Bremen 2011,http://daten.bremen.de/de/datensatz/bremen248.c.9587.de,cc-by,CSV,d
 ,,,,,,,,,,,,x,,,,Aktuelle Meldungen und Pressemitteilungen für das Jahr 2009,http://daten.bremen.de/de/datensatz/bremen236.c.8617.de,cc-by,XML,d
@@ -130,6 +144,7 @@ x,,,,,,,,,,,,,,,,Vornamen (TOP 100 ) in Bremen 2011,http://daten.bremen.de/de/da
 ,x,,,,,,,,,,,x,,,,Förderzentren in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8124.de,cc-by,XML,d
 ,,,,x,,,,,,,,x,,,,Krankenhäuser in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8109.de,cc-by,XML,d
 ,,,,x,,,,,,,,,,,,Toilettenstandorte in Bremen (Projekt Nette Toilette),http://daten.bremen.de/de/datensatz/bremen236.c.4405.de,cc-by,"GPX,KML",d
+,,,,,,,,,,x,,,,,,Baumfällungen und Baumpflanzungen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8275.de,cc-by,PDF,d
 ,,,,x,,,,,,,,,,,,Tierheilpraktiker in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8094.de,cc-by,XML,d
 ,,,,,,,,x,,,,x,,,,Kinderheime (Waisenhäuser) in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8169.de,cc-by,XML,d
 x,,,,,,,,,,,,,,,,Bevölkerung nach Altersgruppen und Wohndauer,http://daten.bremen.de/de/datensatz/bremen236.c.4410.de,cc-by,CSV,d
@@ -137,10 +152,9 @@ x,,,,,,,,,,,,,,,,Bevölkerung nach Altersgruppen und Wohndauer,http://daten.brem
 ,,,,,,,,,,,,x,,,,Ämter in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8106.de,cc-by,XML,d
 ,,,,,,,,,,x,,,,,,Abwasseraufbereitungsbetriebe in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8136.de,cc-by,XML,d
 ,,,,,,,,x,,,,,,,,Obdachlosenhilfeneinrichtungen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8246.de,cc-by,XML,d
+,,,x,,,,,,,,,,,,,Gesetze und Rechtsverordnungen Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8261.de,cc-by,XML,d
 ,,x,,,,,,,,,,,,,,Karteninhalte von GeoInformation Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.4404.de,other-closed,TMS,d
 ,,,,,,x,,,,,,,,,,Volkskunde (Einrichtungen) in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8175.de,cc-by,XML,d
-,x,,,,,,,,,,,,,,,Fortbildungsprogramm 2011,https://ssl.bremen.de/hfoev/sixcms/media.php/13/Fortbildungsprogramm+Kurz%FCbersicht+2012.xls,nicht bekannt,XLS,g
-,x,,,,,,,,,,,,,,,www.lis.bremen.de,http://www.lis.bremen.de/sixcms/media.php/13/Links%20Sek%20I_II.xls,nicht bekannt,XLS,b
 ,,,,,,x,,,,,,,,,,Veranstaltungsstätten in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8118.de,cc-by,XML,d
 ,,,,,,,,,,,,x,,,,Verwaltungsvorschriften Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8255.de,cc-by,XML,d
 ,,,,,,,,,,,,x,,,,Aktuelle Meldungen und Pressemitteilungen für das Jahr 2007,http://daten.bremen.de/de/datensatz/bremen236.c.8621.de,cc-by,XML,d
@@ -151,14 +165,13 @@ x,,,,,,,,,,,,,,,,Bevölkerung nach Altersgruppen und Wohndauer,http://daten.brem
 ,,,,x,,,,x,,,,,,,,Pflegeberatungsstellen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8243.de,cc-by,XML,d
 ,,,,,,,,,,,,,x,,,Berufs- und Fachverbände in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8402.de,cc-by,XML,d
 ,,,,,,x,,,,,,,,,,Kulturverbände in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8390.de,cc-by,XML,d
+x,,,,,,,,,,,,,,,,"Bevölkerung nach Migrationsstatus, Geschlecht und Altersgruppen",http://daten.bremen.de/de/datensatz/bremen236.c.4416.de,cc-by,CSV,d
 ,x,,,,,,,,,,,x,,,,Erwachsenenschulen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8130.de,cc-by,XML,d
 x,,,,,,,,,,,,,,,,Durchschnittliches Alter der Bevölkerung Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.4412.de,cc-by,CSV,d
 ,,,,,,x,,,,,,,,,,Tierheime und Tierschutzvereine in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8091.de,cc-by,XML,d
 ,x,,,,,,,,,,,,,,,Akademien (Einrichtungen) in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8145.de,cc-by,XML,d
 x,,,,,,,,,,,,,,,,"Bevölkerungsdaten nach Altersgruppen, Geschlecht und Haushaltsgröße",http://daten.bremen.de/de/datensatz/bremen236.c.4409.de,cc-by,CSV,d
 ,,,,x,,,,x,,,,,,,,Soziale Hilfsdienste in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8220.de,cc-by,XML,d
-,,,,,,,,,,x,,,,,,"1991 (xls, 28 KB)",http://www.umwelt.bremen.de/sixcms/media.php/13/h91.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,Personalhauptkosten2013,http://www.finanzen.bremen.de/sixcms/media.php/13/Kosten%20eines%20Arbeitsplatzes%202013%20ab%20September%202013.xls,nicht bekannt,XLS,g
 x,,,,,,,,,,,,,,,,Vornamen (TOP 100 ) in Bremen 2009,http://daten.bremen.de/de/datensatz/bremen248.c.9573.de,cc-by,CSV,d
 ,,,,,,,,,,,,x,,,,Aktuelle Meldungen und Pressemitteilungen für das Jahr 2008,http://daten.bremen.de/de/datensatz/bremen236.c.8619.de,cc-by,XML,d
 x,,,,,,,,,,,,,,,,Wanderungen von Ausländern über Gemeindegrenzen der Stadt Bremen nach Geschlecht und Staatsangehörigkeitsgruppen,http://daten.bremen.de/de/datensatz/bremen236.c.4421.de,cc-by,CSV,d
@@ -178,8 +191,10 @@ x,,,,,,,,,,,,,,,,Vornamen (TOP 100 ) in Bremen 2010,http://daten.bremen.de/de/da
 ,,,,,,,,,,,,x,,,,Zugriffszahlen des Schwarzen Bretts unter bremen.de für 2013,http://daten.bremen.de/de/datensatz/bremen248.c.11631.de,cc-by,CSV,d
 ,,,,,x,x,,,,,,,,,,Parkhäuser in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8073.de,cc-by,XML,d
 ,,,,x,,,,,,,,x,,,,Behindertenverbände in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8405.de,cc-by,XML,d
+x,,,,,,,,,,,,,,,,Innerstädtische Wanderungen nach Staatsangehörigkeit in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.4420.de,cc-by,CSV,d
 x,,,,,,,,,,,,,,,,Ahnen- und Familienforschung (Einrichtungen) in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8142.de,cc-by,XML,d
 ,,,,,,,,,,,,x,,,,Zuwendungen in Bremen 2011/2012,http://daten.bremen.de/de/datensatz/bremen248.c.11238.de,other-closed,XLSX,d
+,,,,,,x,,,,,,,,,,Musikverbände in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8387.de,cc-by,XML,d
 ,,,,,,,,,,,,x,,,,Haushalt des Landes und der Stadtgemeinde Bremen 2014/2015,http://daten.bremen.de/de/datensatz/bremen248.c.11168.de,cc-by,XLSX,d
 ,,,,,,,,,,x,,,,,,Entsorgungsbetriebe in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8133.de,cc-by,XML,d
 ,,,,,,,,,,,,x,,,,Zugriffszahlen Downloads unter Daten.Bremen.de 2013,http://daten.bremen.de/de/datensatz/bremen248.c.11756.de,cc-by,XLSX,d
@@ -197,12 +212,10 @@ x,,,,,,,,,,,,,,,,Vorausschätzung: Durchschnittsalter nach Geschlecht 2030 in Br
 ,,,,,,x,,,,,,,,,,Museen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8079.de,cc-by,XML,d
 ,,,,,,,,x,,,,,,,,Sozialverbände in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8214.de,cc-by,XML,d
 ,,,,,,,,,,,,x,,,,Aktuelle Meldungen und Pressemitteilungen für das Jahr 2005,http://daten.bremen.de/de/datensatz/bremen236.c.8625.de,cc-by,XML,d
-,,,,,,,,,,,,,x,,,Laendervergleich-Veraenderungsrate-BIP-und-Erwerbstaetigkeit-2011-2012,http://www.bremen.de/bremen-kompakt/bk-visualisierung/vernderungsrate-des-bip-und-der-erwerbsttigkeit--35802708,CC-BY-ND 3.0,CSV,c
 ,,,,x,,,,,,,,,,,,Apotheken in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8069.de,cc-by,XML,d
 ,,,,,,,,,,x,,,,,,Entsorgungsanlagen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8374.de,cc-by,PDF,d
 x,,,,,,,,,,,,,,,,"Bevölkerung nach Geschlecht, Familienstand und Altersgruppen",http://daten.bremen.de/de/datensatz/bremen236.c.4414.de,cc-by,CSV,d
 ,x,,,,,,,,,,,,x,,,Forschungseinrichtungen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8193.de,cc-by,XML,d
-,,,,,,,,,,,,,x,,,Laendervergleich-Einkommensmillionaere-2007,http://www.bremen.de/bremen-kompakt/bk-visualisierung/anteil-der-einkommensmillionre-35802723,CC-BY-ND 3.0,CSV,c
 ,,,,x,,,,,,,,,,,,Ärztliche Bereitschaftsdienste in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8280.de,cc-by,HTML,d
 ,,,,x,,,,,,,,,,,,Hausnotruf-Einrichtungen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8184.de,cc-by,XML,d
 ,x,,,,,,,,,,,,,,,Privatschulen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8226.de,cc-by,XML,d
@@ -215,19 +228,6 @@ x,,,,,,,,,,,,,,,,"Bevölkerung nach Geschlecht, Familienstand und Altersgruppen"
 x,,,,,,,,,,,,,,,,Vornamen (TOP 100 ) in Bremen 2012,http://daten.bremen.de/de/datensatz/bremen248.c.9594.de,cc-by,CSV,d
 ,,,,,,,,,,,,x,,,,Überwachungskamerastandorte in öffentlichen Einrichtungen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8202.de,cc-by,"XML,HTML",d
 x,,,,,,,,,,,,,,,,Vornamen (TOP 100 ) in Bremen 2007,http://daten.bremen.de/de/datensatz/bremen248.c.9559.de,cc-by,CSV,d
-,,,,,,,,,,,,,,,,open_data_sfbwg,http://www.bildung.bremen.de/sixcms/detail.php?gsid=bremen117.c.5194.de,CC-BY 3.0,ZIP,c
-,,,,,,,,,,,,,x,,,Hafenbilanz-2013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/hafenbilanz-2013-40933942,CC-BY-ND 3.0,CSV,c
-,x,,,,,,,,,,,,,,,Foerdermittel-Exzellenzinitiative-2012-ambitioniert-und-agil,http://www.bremen.de/bremen-kompakt/bk-visualisierung/frdermittel-der-exzellenzinitiative-35802705,CC-BY-ND 3.0,CSV,c
-,,,,,,,,,,,,,x,,,Wachstumsraten-Haefen-Nordrange,http://www.bremen.de/bremen-kompakt/bk-visualisierung/wachstumsraten-der-hfen-an-der-nordrange-35802724,CC-BY-ND 3.0,CSV,c
-,,,,,,x,,,,,,,,,,Parkbänke in öffentlichen Grünanlagen und auf kommunalen Friedhöfen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.4424.de,cc-by,GML,d
-,,,,,,,,,,,,x,,,,Zugriffszahlen Internetauftritt seniorenlotse.bremen.de 2013,http://daten.bremen.de/de/datensatz/bremen248.c.11624.de,cc-by,CSV,d
-x,,,,,,,,,,,,,,,,Umlandwanderungen nach Herkunfts- bzw. Zielkreisen in Bremen (Bremer Umland),http://daten.bremen.de/de/datensatz/bremen236.c.4419.de,cc-by,CSV,d
-,,,,,,x,,,,,,,,,,Spielplätze in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.4433.de,cc-by,CSV,d
-,,,,,,,,,,x,,,,,,Baumfällungen und Baumpflanzungen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8275.de,cc-by,PDF,d
-,,,x,,,,,,,,,,,,,Gesetze und Rechtsverordnungen Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8261.de,cc-by,XML,d
-x,,,,,,,,,,,,,,,,"Bevölkerung nach Migrationsstatus, Geschlecht und Altersgruppen",http://daten.bremen.de/de/datensatz/bremen236.c.4416.de,cc-by,CSV,d
-x,,,,,,,,,,,,,,,,Innerstädtische Wanderungen nach Staatsangehörigkeit in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.4420.de,cc-by,CSV,d
-,,,,,,x,,,,,,,,,,Musikverbände in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8387.de,cc-by,XML,d
 ,,,,,,,,,,x,,,,,,"1983 (xls, 23 KB)",http://www.umwelt.bremen.de/sixcms/media.php/13/h83.xls,nicht bekannt,XLS,g
 ,,x,,,x,,,,,,,,,,,"Tabelle1 - Der Senator für Umwelt, Bau und Verkehr",http://www.bauumwelt.bremen.de/sixcms/media.php/13/OFFIZIELLE+Vornotierungsliste+20140109.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,,,,,,x,,,,Arbeitsplatzkosten,http://finanzen.bremen.de/sixcms/media.php/13/Anlagen%202011.xls,nicht bekannt,XLS,g
