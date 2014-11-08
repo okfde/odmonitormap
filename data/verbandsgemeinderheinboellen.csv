@@ -1,4 +1,10 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+,x,x,,,,,,,,,,,,,,Benzweiler - Ebene: In den Krummäckern II,http://www.daten.rlp.de/dataset/8b50ebf6-6559-4572-bb62-57a3c20d911b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Erbach - Ebene: Ergänzungssatzung Rothweg 1. Änderung,http://www.daten.rlp.de/dataset/86df4b56-7310-46b8-80b6-2bac2cd3b896,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Liebshausen - Ebene: Liebshausen,http://www.daten.rlp.de/dataset/d1d9b141-4b18-4da9-8689-d61208e8d318,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Rheinböllen - Ebene: Rheinböllen,http://www.daten.rlp.de/dataset/cf066a96-9c25-4717-9784-86ac6a7f02ba,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Dichtelbach - Ebene: Dichtelbach,http://www.daten.rlp.de/dataset/eafc55fe-4788-48c7-8c76-07936af17fd0,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Schnorbach - Ebene: Am Faller,http://www.daten.rlp.de/dataset/6db0e8e3-3a30-4846-a1c1-763dc6975fdf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Riesweiler - Ebene: Auf´m Hahnacker, Rechtsplan Teil I 1. Änderung",http://www.daten.rlp.de/dataset/12de2087-98e1-4fcf-b17d-972917c299f8,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Benzweiler - Ebene: Umringe der Bebauungspläne von Benzweiler,http://www.daten.rlp.de/dataset/88cc60b5-cf0d-4819-aed5-6ad0a304cfef,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Steinbach - Ebene: Auf dem Kuhstück 1. Änderung,http://www.daten.rlp.de/dataset/fc9b828c-d9ad-4217-b498-8e4b4e448186,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -7,12 +13,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Rheinböllen - Ebene: Industriepark Soonwald,http://www.daten.rlp.de/dataset/8ea94be6-6f46-42ff-a751-e6e6d7eaa180,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Steinbach - Ebene: Auf dem Kuhstück,http://www.daten.rlp.de/dataset/9c1e0c86-dfa0-410d-9eee-56ff54772786,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Schnorbach - Ebene: Am Faller 1. Änderung,http://www.daten.rlp.de/dataset/3a42cbdf-1636-4725-a609-1da09926024f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Dichtelbach - Ebene: Dichtelbach,http://www.daten.rlp.de/dataset/eafc55fe-4788-48c7-8c76-07936af17fd0,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Schnorbach - Ebene: Am Faller,http://www.daten.rlp.de/dataset/6db0e8e3-3a30-4846-a1c1-763dc6975fdf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Riesweiler - Ebene: Auf´m Hahnacker, Rechtsplan Teil II",http://www.daten.rlp.de/dataset/3a03092d-9e77-4a03-bb5e-2d32a96e5e1b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Erbach - Ebene: Ergänzungssatzung Rothweg 1. Änderung,http://www.daten.rlp.de/dataset/86df4b56-7310-46b8-80b6-2bac2cd3b896,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Benzweiler - Ebene: In den Krummäckern II,http://www.daten.rlp.de/dataset/8b50ebf6-6559-4572-bb62-57a3c20d911b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Rheinböllen - Ebene: Rheinböllen,http://www.daten.rlp.de/dataset/cf066a96-9c25-4717-9784-86ac6a7f02ba,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,"Riesweiler - Ebene: Auf´m Hahnacker, Rechtsplan Teil I",http://www.daten.rlp.de/dataset/2b56180b-e9b7-49ac-8e4c-a059e77e13ed,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Benzweiler - Ebene: In den Krummäckern II 1. Änderung,http://www.daten.rlp.de/dataset/7af1cf62-38ca-4d93-8dd2-05e8cf668898,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Steinbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/edab54bf-2daf-4fee-8735-cfcddd8b911f,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -42,7 +43,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Dichtelbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/34a68f9f-0edf-4e3a-a1a3-199dd2452ad3,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Dichtelbach - Ebene: Bachwiese,http://www.daten.rlp.de/dataset/839ab5fd-bb45-4e3b-b64c-66fcdd837d5f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Rheinböllen - Ebene: Am Hockenborn,http://www.daten.rlp.de/dataset/18f97f06-baa3-44bf-888f-1c9568fc5ec8,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Liebshausen - Ebene: Liebshausen,http://www.daten.rlp.de/dataset/d1d9b141-4b18-4da9-8689-d61208e8d318,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,"Riesweiler - Ebene: Auf´m Hahnacker, Rechtsplan Teil I 2. Änderung",http://www.daten.rlp.de/dataset/705fa80b-e0e1-44ee-b92b-e7cb433a926c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Riesweiler - Ebene: Baugebiet III,http://www.daten.rlp.de/dataset/362e6dba-b371-4e75-9171-22c0457ac939,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Argenthal - Ebene: Am Südhang 1. Änderung,http://www.daten.rlp.de/dataset/06475b55-d6bf-4de6-b073-08155e8a83cf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
