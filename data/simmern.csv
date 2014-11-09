@@ -1,15 +1,8 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
 ,x,x,,,,,,,,,,,,,,Wüschheim - Ebene: Auf der Dörrwies,http://www.daten.rlp.de/dataset/ce06bc02-1c71-4225-b90d-7c730e9be3c8,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Reich - Ebene: Alte Kläranlage,http://www.daten.rlp.de/dataset/022db6b3-4809-44e3-9c8d-d8264c416ff4,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Nannhausen - Ebene: Auf der Norr II und III,http://www.daten.rlp.de/dataset/840cfe94-b37b-4bc7-a85f-fbfc810d4925,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Belgweiler - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/68a9af09-d7b6-4bbe-9d12-b728146ce174,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Laubach - Ebene: In den Possewiesen,http://www.daten.rlp.de/dataset/d9a8bf57-4ccb-4f46-a35a-e7cf01ae934c,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Tiefenbach - Ebene: Spanäcker II,http://www.daten.rlp.de/dataset/8e00e090-5219-44e6-aa41-2a4db47aab8e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Keidelheim - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/e4d19e0f-656f-422a-8fb3-d057ae5ebb47,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Altweidelbach - Ebene: In den dörren Bitzen,http://www.daten.rlp.de/dataset/d20f0e48-e5dc-4fa0-be65-14d6c195a714,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Altweidelbach - Ebene: Im Gehnenberg,http://www.daten.rlp.de/dataset/ffff57be-ead6-4090-bf9a-bfc38ce94fd5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Horn - Ebene: Am Budenbacher Weg III,http://www.daten.rlp.de/dataset/cabaa7d5-b5d8-47a5-ab88-792f70893b14,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Keidelheim - Ebene: Im Schneebäcker,http://www.daten.rlp.de/dataset/ccb1210f-c0b4-4716-a99e-474b77a28832,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Fronhofen - Ebene: Klopp,http://www.daten.rlp.de/dataset/c66e982f-2881-40b4-8d56-78a680529537,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Schönborn - Ebene: Kappesacker,http://www.daten.rlp.de/dataset/8830f566-17cb-41c3-b349-71c62e0750bd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Budenbach - Ebene: Umringe der Bebauungspläne von Budenbach,http://www.daten.rlp.de/dataset/42478867-5175-4d6f-8846-98680d532ac2,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Biebern - Ebene: Auf dem Schiederich,http://www.daten.rlp.de/dataset/eae088d9-237f-47cc-b8e3-db30ed5508b2,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Reich - Ebene: Umringe der Bebauungspläne von Reich,http://www.daten.rlp.de/dataset/8a9e24e9-0562-4f24-ab20-704663428f2a,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -18,8 +11,16 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Reich - Ebene: Alte Kläranlage 1. Änderung,http://www.daten.rlp.de/dataset/b223f601-159c-4fdc-b271-de9a729ce125,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Neuerkirch - Ebene: Auf Blaul,http://www.daten.rlp.de/dataset/539abc44-8c97-43a1-8b53-376aec7d3e5e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Riegenroth - Ebene: Ergänzungssatzung Ober der Kirche,http://www.daten.rlp.de/dataset/1a8fdd80-dc41-40b7-8524-5017d2555f4a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Horn - Ebene: Am Budenbacher Weg III,http://www.daten.rlp.de/dataset/cabaa7d5-b5d8-47a5-ab88-792f70893b14,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Keidelheim - Ebene: Im Schneebäcker,http://www.daten.rlp.de/dataset/ccb1210f-c0b4-4716-a99e-474b77a28832,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Fronhofen - Ebene: Im Gärtchen,http://www.daten.rlp.de/dataset/2cb93b91-5db9-4115-b5b7-9bacc45db70b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Wahlbach - Ebene: Umringe der Bebauungspläne von Wahlbach,http://www.daten.rlp.de/dataset/d91c786f-bb61-4883-bd77-5142c3bfce76,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Nannhausen - Ebene: Auf der Norr II und III,http://www.daten.rlp.de/dataset/840cfe94-b37b-4bc7-a85f-fbfc810d4925,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Belgweiler - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/68a9af09-d7b6-4bbe-9d12-b728146ce174,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Keidelheim - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/e4d19e0f-656f-422a-8fb3-d057ae5ebb47,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Altweidelbach - Ebene: In den dörren Bitzen,http://www.daten.rlp.de/dataset/d20f0e48-e5dc-4fa0-be65-14d6c195a714,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Altweidelbach - Ebene: Im Gehnenberg,http://www.daten.rlp.de/dataset/ffff57be-ead6-4090-bf9a-bfc38ce94fd5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Reich - Ebene: Alte Kläranlage,http://www.daten.rlp.de/dataset/022db6b3-4809-44e3-9c8d-d8264c416ff4,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Sargenroth - Ebene: Umringe der Bebauungspläne von Sargenroth,http://www.daten.rlp.de/dataset/295698fb-808e-4e76-a25a-51fe85213a58,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Holzbach - Ebene: Auf der Müllersgrub 1. Änderung,http://www.daten.rlp.de/dataset/fe50c1c6-b4a8-4412-ab29-ce6a59bb3ecd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Mutterschied - Ebene: Ergänzungssatzung Grundstück Berg,http://www.daten.rlp.de/dataset/8ae27aca-4131-4c88-aa73-2fcdc872c517,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -30,7 +31,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Klosterkumbd - Ebene: Auf Weiselstein 1. Änderung,http://www.daten.rlp.de/dataset/6bf1dd69-049c-42a0-a5a2-405b89ea381d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Nannhausen - Ebene: Auf der Norr I,http://www.daten.rlp.de/dataset/cba9f9af-0005-44b3-ac3a-650844233dbe,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Wüschheim - Ebene: In der Anlage,http://www.daten.rlp.de/dataset/fb8ee9f7-99eb-4e7b-bc0a-e1f43916a7a5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Laubach - Ebene: In den Possewiesen,http://www.daten.rlp.de/dataset/d9a8bf57-4ccb-4f46-a35a-e7cf01ae934c,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Fronhofen - Ebene: Klopp,http://www.daten.rlp.de/dataset/c66e982f-2881-40b4-8d56-78a680529537,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Klosterkumbd - Ebene: Ergänzungssatzung Kloster I,http://www.daten.rlp.de/dataset/dd1f4046-460b-4e69-907e-208bbfdceb48,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Holzbach - Ebene: Wälder Weg 1. Änderung,http://www.daten.rlp.de/dataset/3a5ceec4-db01-4f9e-99ef-6cf600386d57,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Reich - Ebene: Alte Kläranlage II,http://www.daten.rlp.de/dataset/a9be219d-8d63-4297-9dec-bcf405db8251,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -66,6 +67,5 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Niederkumbd - Ebene: Auf der Posswies II,http://www.daten.rlp.de/dataset/2a018409-5e14-4830-b653-353f672c9968,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Kümbdchen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/e3fff9cc-b712-4147-a266-ca4ac6fdc9c0,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Riegenroth - Ebene: Auf der Handhau II,http://www.daten.rlp.de/dataset/d9aeba91-59b2-44e5-8804-c8b9110377b2,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Bubach - Ebene: Obergarten,http://www.daten.rlp.de/dataset/4642051e-e430-453f-a618-f9b8d5ad5c2e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Schönborn - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/7663a124-2862-432a-bdf6-1783f72c1583,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Schönborn - Ebene: Kappesacker,http://www.daten.rlp.de/dataset/8830f566-17cb-41c3-b349-71c62e0750bd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Bubach - Ebene: Obergarten,http://www.daten.rlp.de/dataset/4642051e-e430-453f-a618-f9b8d5ad5c2e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d

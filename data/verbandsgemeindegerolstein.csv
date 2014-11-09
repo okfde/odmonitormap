@@ -1,13 +1,5 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,x,x,,,,,,,,,,,,,,Pelm - Ebene: Im Grundacker Aufhebung und Neufassung,http://www.daten.rlp.de/dataset/e6a31452-0772-41f0-8dd9-411f6fd2aba1,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Auf der Tröth,http://www.daten.rlp.de/dataset/681fce78-5b25-4eba-a0dc-72c2c5796c9d,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Kalkofsborn 2. Änderung,http://www.daten.rlp.de/dataset/3764f617-4e24-4c77-8ec9-e84079920998,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Rockeskyll - Ebene: Am Kalkofen 3. Änderung,http://www.daten.rlp.de/dataset/01b70837-ff68-4975-a035-a9b601efff13,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Aufhebungssatzung An der Salmer Straße,http://www.daten.rlp.de/dataset/ea45fb6c-e491-49ff-822f-465d0c27ec31,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Hohenfels-Essingen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/3a39905a-2025-44ff-8c80-af277ef1203c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Gerolstein - Ebene: Umringe der Bebauungspläne von Gerolstein,http://www.daten.rlp.de/dataset/c2acf786-302f-40b7-8833-98b6c87ebe6c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Sarresdorfer Straße West, nördl. Tei",http://www.daten.rlp.de/dataset/6da9c15e-8f84-4207-9806-ff6977391370,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Gewerbegebiet Bewingen, 1. Erweiterung 1. Änderung und Erweiterung",http://www.daten.rlp.de/dataset/40df4934-48f9-4124-81b4-1b01602e13af,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Auf der Bockleber – Aufhebung,http://www.daten.rlp.de/dataset/5020ccda-1da5-4b73-aca5-aef9e10350d4,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Birresborn - Ebene: Ortslage Birresborn – kombinierte Satzungen,http://www.daten.rlp.de/dataset/6fa0c613-908d-4a83-aa60-ac66d890c6bf,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Ferienhausgebiet Hillenseifen,http://www.daten.rlp.de/dataset/9574ec0b-c5c7-4d5c-a941-06fc11987818,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -19,7 +11,14 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Auf den vier Morgen,http://www.daten.rlp.de/dataset/0a678b37-3399-4ff2-ba35-ecdd25b0ccc5,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Pelm - Ebene: Umringe der Bebauungspläne von Pelm,http://www.daten.rlp.de/dataset/87d5c6f5-8344-4ffb-8b3a-b53440854861,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: In der Joch,http://www.daten.rlp.de/dataset/ad214041-8e83-4a2c-afb2-d2809970e845,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Sarresdorfer Straße West, nördl. Tei",http://www.daten.rlp.de/dataset/6da9c15e-8f84-4207-9806-ff6977391370,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Kombinierte Satzung Gerolstein-Michelbach,http://www.daten.rlp.de/dataset/1e7454dc-8ca0-444b-be6e-db8c3a41ff7f,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Gewerbegebiet Bewingen, 1. Erweiterung 1. Änderung und Erweiterung",http://www.daten.rlp.de/dataset/40df4934-48f9-4124-81b4-1b01602e13af,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Kalkofsborn 2. Änderung,http://www.daten.rlp.de/dataset/3764f617-4e24-4c77-8ec9-e84079920998,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Rockeskyll - Ebene: Am Kalkofen 3. Änderung,http://www.daten.rlp.de/dataset/01b70837-ff68-4975-a035-a9b601efff13,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Aufhebungssatzung An der Salmer Straße,http://www.daten.rlp.de/dataset/ea45fb6c-e491-49ff-822f-465d0c27ec31,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Hohenfels-Essingen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/3a39905a-2025-44ff-8c80-af277ef1203c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Pelm - Ebene: Im Grundacker Aufhebung und Neufassung,http://www.daten.rlp.de/dataset/e6a31452-0772-41f0-8dd9-411f6fd2aba1,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Kalenborn-Scheuern - Ebene: Unter der Held,http://www.daten.rlp.de/dataset/4cb105d0-3a79-4a62-a8c2-e7ef5fa7cda1,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Kalenborn-Scheuern - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/bf423e4b-52a6-4df3-afe1-f92527dda3d0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Hofacker, 1. Erweiterung",http://www.daten.rlp.de/dataset/d6b36d8c-6c62-461a-9ae1-2809c3ec56e3,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -58,6 +57,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Abrundungssatzung Gerolstein-Lissingen, Oberdorf Teilaufhebung",http://www.daten.rlp.de/dataset/7b864884-e1ab-4656-a4af-95d9bfc06fb0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Kalenborn-Scheuern - Ebene: Kalenborn-Scheuern,http://www.daten.rlp.de/dataset/24a021d1-1a11-43af-9c5f-908265d52931,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: In den Leyen,http://www.daten.rlp.de/dataset/8e5c55de-d87d-4b2e-b70b-fdb02bdd9194,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Gerolstein - Ebene: Umringe der Bebauungspläne von Gerolstein,http://www.daten.rlp.de/dataset/c2acf786-302f-40b7-8833-98b6c87ebe6c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Mürlenbach - Ebene: Auf dem Mühlenpesch,http://www.daten.rlp.de/dataset/1b44df85-d0cd-419b-a163-bdb3cce0f4d5,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Sanierungsgebiet I, 2. vorgezogenes Verfahren Kaiserhof/Rondell",http://www.daten.rlp.de/dataset/319e88af-9729-4fb9-aeb4-02d39afbe8d6,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Birresborn - Ebene: Auf der Schlack - Steinreich - Änderung Aufhebung und Neufassung eines Teilbereichs,http://www.daten.rlp.de/dataset/5f642c2e-02d6-4b5b-86dc-2c42c4c6176e,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
