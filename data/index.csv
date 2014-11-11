@@ -44,8 +44,8 @@ Wangerooge,wangerooge,,,,53.7834917,7.93518076593744,2014-11-11,0,1,0,0,0,govdat
 Bonn,bonn,http://bonn.de,http://opendata.bonn.de,opendata@bonn.de,50.7358511,7.1006599,2014-11-11,0,84,0,0,0,opendata.bonn.de
 Hamm,hamm,http://hamm.de,,-,51.6615566,7.81666112944453,2014-10-31,0,0,0,1,0,
 Köln,koeln,http://stadt-koeln.de,http://offenedaten-koeln.de,e-government@stadt-koeln.de,50.9577031,6.95495255522418,2014-11-11,0,131,1,5,19,offenedaten-koeln.de
-Sonnenberg,sonnenberg,,,,53.0178654,13.0887385,2014-11-11,0,1,0,0,0,govdata.de
 Baltrum,baltrum,,,,53.72703795,7.39548387505676,2014-11-11,0,1,0,0,0,govdata.de
+Nationalpark Harz,nationalparkharz,,,,51.78459855,10.5828622707056,2014-11-11,0,9,0,0,0,govdata.de
 Leipzig,leipzig,http://leipzig.de,,online-redaktion@leipzig.de ,51.340462,12.3747049,2014-10-31,0,0,0,2,53,
 Hannover,hannover,http://hannover.de,,Internetredaktion@Hannover-Stadt.de,52.3744779,9.7385532,2014-11-11,0,4,0,0,1,govdata.de
 Erlangen,erlangen,,,,49.5981208,11.0036532,2014-11-11,0,2,0,0,0,govdata.de
@@ -82,7 +82,6 @@ Ilmenau,ilmenau,,,,50.6867695,10.9142385,2014-11-11,0,1,0,0,0,govdata.de
 Aachen,aachen,http://aachen.de,http://daten.aachen.de,,50.776351,6.0838618,2014-11-11,0,7,0,0,0,daten.aachen.de
 Bremen,bremen,http://bremen.de,http://daten.bremen.de,info@bremen.de,53.0758099,8.80717,2014-11-11,0,144,53,11,34,daten.bremen.de
 München,muenchen,http://muenchen.de,http://www.muenchen.de/opendata,info@portalmuenchen.de,48.1372719,11.5754815,2014-08-15,0,0,0,6,10,
-Bodensee,bodensee,,,,47.57449,9.4963035,2014-11-11,0,1,0,0,0,govdata.de
 Duisburg,duisburg,http://duisburg.de,,info@stadt-duisburg.de ,51.44620175,6.742075968,2014-10-31,0,0,0,0,15,
 Salzgitter,salzgitter,http://salzgitter.de,,redaktion@stadt.salzgitter.de,52.1480205,10.3489635,2014-10-31,0,0,0,4,2,
 Zweibrücken,zweibruecken,,,,49.2534991,7.37060801928933,2014-11-11,0,22,0,0,0,daten.rlp.de

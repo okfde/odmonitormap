@@ -1,17 +1,4 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,,,x,,,,,,,,,,Sportkennzahlen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/sportkennzahlen-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
-,x,,,,,,,,,,,,,,,"Schulwesen, Schüler, Studierende Statistisches Jahrbuch 2012",http://daten.ulm.de/datenkatalog/metadaten/schulwesen-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
-,x,,,,,,,,,,,,,,,"Klassen, Schülerzahlen, Unterrichtsräume und Lehrkräfte an öffentlichen allgemeinbildenden Schulen der Stadt Ulm",http://daten.ulm.de/daten/single/klassen-schülerzahlen-unterrichtsräume-und-lehrkräfte-öffentlichen-allgemeinbildenden,CC BY 3.0 DE,"XLS,XLSX",d
-,,,,,,,,x,,,,,,,,"Sozialraumgrenzen Stadt Ulm, generalisiert",http://daten.ulm.de/daten/single/sozialraumgrenzen-stadt-ulm-generalisiert,CC BY 3.0 DE,SHAPE,d
-x,,,,,,,,,,,,,,,,Bevölkerungsdaten Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/bevoelkerungsdaten-jahrbuch2012,CC BY 3.0 DE,"XLS,XLSX",d
-,,,,,,,,x,,,,,,,,Sozialindikatoren Sozialraum Eselsberg der Stadt Ulm,http://daten.ulm.de/daten/single/sozialindikatoren-sozialraum-eselsberg-der-stadt-ulm,CC BY 3.0 DE,"XLS,XLSX",d
-,,,,,x,,,,,,,,,,,Recyclinghöfe Stadt Ulm,http://daten.ulm.de/daten/single/wertstoffhof,CC BY 3.0 DE,SHAPE,d
-,,x,,,,x,,,,,,,,,,Amtliche Stadtkarte für Menschen mit Behinderung Stadt Ulm,http://daten.ulm.de/daten/single/amtliche-stadtkarte-für-menschen-mit-behinderung-stadt-ulm,,AI,d
-,,,,,,,,,,,,,x,,,Arbeitsmarktzahlen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/arbeitsmarktzahlen-jahrbuch2012,CC BY 3.0 DE,"XLS,XLSX",d
-,,x,,,,,,,,,,,,,,Flächenstatistik der Landnutzung Stadt Ulm,http://daten.ulm.de/daten/single/flächenstatistik-der-landnutzung-stadt-ulm,CC BY 3.0 DE,CSV,d
-x,,,,,,,,,,,,,,,,Ulm und Umland - Kennzahlen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/ulm-und-umland-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
-,,x,,,,,,,,,,,,,,Automatisierte Liegenschaftskarte (ALK),http://daten.ulm.de/daten/single/automatisierte-liegenschaftskarte-alk,,ORACLE,d
-,x,,,,,,,,,,,,,,,"Stadtbibliothek, Fahrbibliotheken Stadt Ulm",http://daten.ulm.de/daten/single/stadtbibliothek,CC BY 3.0 DE,SHAPE,d
 ,,,,,x,,,,,,,,,,,Gartenabfallplätze Stadt Ulm,http://daten.ulm.de/daten/single/gartenabfallplatz,CC BY 3.0 DE,SHAPE,d
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2013 - Ergebnisse Erst- und Zweitstimmen in Ulm,http://daten.ulm.de/daten/single/Bundestagswahl_2013_Ergebnisse_Ulm,CC BY 3.0 DE,"XLS,XLSX",d
 ,,,,,,,x,,,,,,,,,amtliches Endergebnis (xlsx),http://www.wahl.ulm.de/gr2014/html/gr2014.html,nicht bekannt,XLS,c
@@ -124,3 +111,16 @@ x,,,,,,,,,,,,,,,,Städtevergleich BW - Kennzahlen Statistisches Jahrbuch 2012,ht
 ,,,,,,x,,,,,,,,,,Stadtmitte,http://www.ulm.de/sixcms/media.php/29/Stadtmitte.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,Wie sehe ich meine Klasse,http://www.fgs.schule.ulm.de/files/auswertung_klassenklima_-_wie_ich_meine_klasse_seh.xls,nicht bekannt,XLS,g
 ,,,,,,,x,,,,,,,,,Erststimmenergebnis Wahlabend (xls),http://www.wahl.ulm.de/bt2013/Erst/bt2013erst.html,nicht bekannt,XLS,c
+,,,,,,x,,,,,,,,,,Sportkennzahlen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/sportkennzahlen-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
+,x,,,,,,,,,,,,,,,"Schulwesen, Schüler, Studierende Statistisches Jahrbuch 2012",http://daten.ulm.de/datenkatalog/metadaten/schulwesen-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
+,x,,,,,,,,,,,,,,,"Klassen, Schülerzahlen, Unterrichtsräume und Lehrkräfte an öffentlichen allgemeinbildenden Schulen der Stadt Ulm",http://daten.ulm.de/daten/single/klassen-schülerzahlen-unterrichtsräume-und-lehrkräfte-öffentlichen-allgemeinbildenden,CC BY 3.0 DE,"XLS,XLSX",d
+,,,,,,,,x,,,,,,,,"Sozialraumgrenzen Stadt Ulm, generalisiert",http://daten.ulm.de/daten/single/sozialraumgrenzen-stadt-ulm-generalisiert,CC BY 3.0 DE,SHAPE,d
+x,,,,,,,,,,,,,,,,Bevölkerungsdaten Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/bevoelkerungsdaten-jahrbuch2012,CC BY 3.0 DE,"XLS,XLSX",d
+,,,,,,,,x,,,,,,,,Sozialindikatoren Sozialraum Eselsberg der Stadt Ulm,http://daten.ulm.de/daten/single/sozialindikatoren-sozialraum-eselsberg-der-stadt-ulm,CC BY 3.0 DE,"XLS,XLSX",d
+,,,,,x,,,,,,,,,,,Recyclinghöfe Stadt Ulm,http://daten.ulm.de/daten/single/wertstoffhof,CC BY 3.0 DE,SHAPE,d
+,,x,,,,x,,,,,,,,,,Amtliche Stadtkarte für Menschen mit Behinderung Stadt Ulm,http://daten.ulm.de/daten/single/amtliche-stadtkarte-für-menschen-mit-behinderung-stadt-ulm,,AI,d
+,,,,,,,,,,,,,x,,,Arbeitsmarktzahlen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/arbeitsmarktzahlen-jahrbuch2012,CC BY 3.0 DE,"XLS,XLSX",d
+,,x,,,,,,,,,,,,,,Flächenstatistik der Landnutzung Stadt Ulm,http://daten.ulm.de/daten/single/flächenstatistik-der-landnutzung-stadt-ulm,CC BY 3.0 DE,CSV,d
+x,,,,,,,,,,,,,,,,Ulm und Umland - Kennzahlen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/ulm-und-umland-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
+,,x,,,,,,,,,,,,,,Automatisierte Liegenschaftskarte (ALK),http://daten.ulm.de/daten/single/automatisierte-liegenschaftskarte-alk,,ORACLE,d
+,x,,,,,,,,,,,,,,,"Stadtbibliothek, Fahrbibliotheken Stadt Ulm",http://daten.ulm.de/daten/single/stadtbibliothek,CC BY 3.0 DE,SHAPE,d
