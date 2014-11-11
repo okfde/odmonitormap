@@ -1,35 +1,30 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,x,,,,,,,x,,,,,,,Baustellen in Köln,http://offenedaten-koeln.de/dataset/baustellen-köln,cc-by,"JSON,KMZ",d
-,,x,,,,,,,x,,,,,,,Busparkplätze in Köln,http://offenedaten-koeln.de/dataset/busparkplätze-köln,cc-by,"JSON,KMZ",d
+,,,,,,,,x,,x,,,,,,OpenData Endpoint zur Lärmaktionsplanung,http://offenedaten-koeln.de/dataset/opendata-endpoint-zur-lärmaktionsplanung,cc-by,JSON,d
+,,,,,,,x,,,,,,,,,"Landtagswahl 2012, Erststimmen",http://offenedaten-koeln.de/dataset/landtagswahl-2012-erststimmen,cc-by,XLS,d
+,,,,,,,x,,,,,,,,,Bundestagswahl11-Stadtteil,http://offenedaten-koeln.de/dataset/bundestagswahl11-stadtteil,cc-by,CSV,d
+,,,,,,,x,,,,,,,,,Wahlbeteiligung 2014,http://offenedaten-koeln.de/dataset/wahlbeteiligung-2014,cc-by,CSV,d
 ,,,,,,,,,,,,x,,,,Gesamtfinanzplan,http://offenedaten-koeln.de/dataset/gesamtfinanzplan,cc-by,CSV,d
 x,,,,,,,,,,,,,,,,Haushalte mit Kindern,http://offenedaten-koeln.de/dataset/haushalte-mit-kindern,cc-by,CSV,d
 x,,,,,,,,,,,,,,,,Einwohner nach Familienstand,http://offenedaten-koeln.de/dataset/einwohner-nach-familienstand,cc-by,CSV,d
 ,,,,,,,x,,,,,,,,,Bundestagswahl6-Wahlbezirk,http://offenedaten-koeln.de/dataset/bundestagswahl6-wahlbezirk,cc-by,CSV,d
+,,,,,,,,,,,,x,,,,Bezirke_Produktgruppen,http://offenedaten-koeln.de/dataset/bezirkeproduktgruppen,cc-by,CSV,d
 ,,x,,,,,,,,x,,,,,,Schadstoff-Mobil in Köln,http://offenedaten-koeln.de/dataset/schadstoff-mobil-köln,cc-by,XML,d
 ,,,,,x,,,,,,,,,,,Stadtbezirke Köln,http://offenedaten-koeln.de/dataset/stadtbezirke-köln,cc-by,CSV,d
 x,,,,,,,,,,,,,,,,Haushalte,http://offenedaten-koeln.de/dataset/haushalte,cc-by,CSV,d
 ,x,x,,,,,,,,,,,,,,Bibliotheken in Köln,http://offenedaten-koeln.de/dataset/bibliotheken-köln,cc-by,"JSON,KMZ",d
+,,,,,,,x,,,,,,,,,Bundestagswahl3-Gesamt-Kreisfreie Stadt,http://offenedaten-koeln.de/dataset/bundestagswahl3-gesamt-kreisfreie-stadt,cc-by,CSV,d
 ,,x,,,,,,x,,,,,,,,Kleiderkammern in Köln,http://offenedaten-koeln.de/dataset/kleiderkammern-köln,cc-by,XML,d
-,,,,,,,x,,,,,,,,,Ergebnisse_der_Landtagswahlen_in_Koeln_seit_1947_Zahl,http://offenedaten-koeln.de/dataset/ergebnissederlandtagswahleninkoelnseit1947zahl,cc-by,CSV,d
+,,,,,,,x,,,,,,,,,Ergebnisse_der_Bundestagswahlen_in_Koeln_seit_1949_Prozent,http://offenedaten-koeln.de/dataset/ergebnissederbundestagswahleninkoelnseit1949prozent,cc-by,CSV,d
+,,x,,,,,,,,,,,,,,Blockabschnitt,http://offenedaten-koeln.de/dataset/blockabschnitt,cc-by,"XML,KMZ,ZIP",d
 ,x,,x,,,,,,,,,,,,,Internetstadt Köln,http://offenedaten-koeln.de/dataset/internetstadt-köln,cc-by,PDF,d
-x,,,,,,,,,,,,,,,,Haushaltsgröße,http://offenedaten-koeln.de/dataset/haushaltsgröße,cc-by,CSV,d
-,,,,,,,,,,,,,,x,,Berufskollegs,http://www.bildung.koeln.de/materialbibliothek/download/berufskollegs.xls?idx=9774b82a5656216a50eeb5d4b3a5388c,nicht bekannt,XLS,g
-,,,,,,,,,,,,,,x,,Übersicht Anbieter Alphabetisierungskurse,http://www.bildung.koeln.de/materialbibliothek/download/Ubersicht_anbieter_alpha-kurse.xls?idx=8d98f3dde74ca5eb4ae213e0887bdaa8,nicht bekannt,XLS,g
-,,,,,,,,,,,,,,x,,Verzeichnis von Sonderdrucken Separata A,http://www.uni.koeln.de/jur-fak/instroem/docs/Sonderdrucke%20Av.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,,,x,,,http://www.bildung.koeln.de/imperia/md/content/schule/infotage_berufskollegs_13_14.xls,nicht bekannt,XLS,b
-,,,,,,,,,,,,,,x,,,http://www.bildung.koeln.de/imperia/md/content/selbst_schule/muelheim/_bersicht_schulregion_m_lheim_2014_04_08.xlsx,nicht bekannt,XLSX,b
-,,,,,,,,,,,,,,x,,Veranstaltungen Doppelabitur 2013,http://www.bildung.koeln.de/materialbibliothek/download/veranstaltungen_doppelabitur2013_okt.xls?idx=482596333f449c5e14965e3860a417a2,nicht bekannt,XLS,g
-,,,,,,,,,,,,,,x,,Grundschulen,http://www.bildung.koeln.de/materialbibliothek/download/grundschulen.xls?idx=d0a81ed7c4700c2cd9247fa17db10e83,nicht bekannt,XLS,g
-,,,,,,,,,,,,,,x,,Termine Schulen - bildung.koeln.de,http://www.bildung.koeln.de/materialbibliothek/download/termine_schulen.xls?idx=7d348102154af906593bf08c6a2f1764,nicht bekannt,XLS,g
-,,,,,,,,,,,,,,x,,Infotage Andere Schulformen,http://www.bildung.koeln.de/imperia/md/content/schule/infotage_andere_schulformen.xls?PHPSESSID=65b85dd152d03badf4d51559226355e5,nicht bekannt,XLS,g
-,,,,,,,,,,,,,,x,,Infotage Berufskollegs,http://www.bildung.koeln.de/imperia/md/content/schule/infotage_berufskollegs_13_14.xls?PHPSESSID=26140286daa5e3278999a755df248213,nicht bekannt,XLS,g
+,,,,,,,x,,,,,,,,,Ergebnisse_der_Landtagswahlen_in_Koeln_seit_1947_Prozent,http://offenedaten-koeln.de/dataset/ergebnissederlandtagswahleninkoelnseit1947prozent,cc-by,CSV,d
+,,,,,x,,,,,x,,,,,,Brunnen und Teichfontänen,http://offenedaten-koeln.de/dataset/brunnen-und-teichfontänen,cc-by,CSV,d
 ,,x,,,,,,,,,,,,,,Strassenknoten,http://offenedaten-koeln.de/dataset/strassenknoten,cc-by,"XML,KMZ,ZIP",d
 ,,,,,,,,,x,,,,,,,Verkehrskalender der Stadt Köln,http://offenedaten-koeln.de/dataset/verkehrskalender-der-stadt-köln,cc-by,JSON,d
 ,,x,,,,,,,,,,,,,,Flächennutzungsplan,http://offenedaten-koeln.de/dataset/flächennutzungsplan,cc-by,ZIP,d
-,,,,,,,,x,,x,,,,,,OpenData Endpoint zur Lärmaktionsplanung,http://offenedaten-koeln.de/dataset/opendata-endpoint-zur-lärmaktionsplanung,cc-by,JSON,d
 x,,,,,,,,,,,,,,,,Einwohner nach Konfession,http://offenedaten-koeln.de/dataset/einwohner-nach-konfession,cc-by,CSV,d
 x,,,,,,,,,,,,,,,,Einwohnerbewegung,http://offenedaten-koeln.de/dataset/einwohnerbewegung,cc-by,CSV,d
-,,,,,,,x,,,,,,,,,"Landtagswahl 2012, Erststimmen",http://offenedaten-koeln.de/dataset/landtagswahl-2012-erststimmen,cc-by,XLS,d
+,,x,,,,,,,x,,,,,,,Baustellen in Köln,http://offenedaten-koeln.de/dataset/baustellen-köln,cc-by,"JSON,KMZ",d
 ,,,,,,,,,x,,,,,,,Zugelassene Kraftfahrzeuge,http://offenedaten-koeln.de/dataset/zugelassene-kraftfahrzeuge,cc-by,CSV,d
 ,,x,,,,,,,,x,,,,,,AWB Hauptverwaltung,http://offenedaten-koeln.de/dataset/awb-hauptverwaltung,cc-by,XML,d
 ,,x,,,,,x,,,,,,,,,Kommunalwahlbezirke,http://offenedaten-koeln.de/dataset/kommunalwahlbezirke,cc-by,"XML,KMZ,ZIP",d
@@ -44,10 +39,9 @@ x,,,,,,,,,,,,,,,,Einwohnerbewegung,http://offenedaten-koeln.de/dataset/einwohner
 ,,x,,,,,,,,,,,,,,Strassenabschnitt,http://offenedaten-koeln.de/dataset/strassenabschnitt,cc-by,"XML,KMZ,ZIP",d
 x,,,,,,,,,,,,,,,,Vornamen,http://offenedaten-koeln.de/dataset/vornamen,cc-by,CSV,d
 ,,,,,,,x,,,,,,,,,"Landtagswahl 2012, Zweitstimmen",http://offenedaten-koeln.de/dataset/landtagswahl-2012-zweitstimmen,cc-by,XLS,d
-,,,,,,,x,,,,,,,,,Bundestagswahl11-Stadtteil,http://offenedaten-koeln.de/dataset/bundestagswahl11-stadtteil,cc-by,CSV,d
 ,,x,,,x,,,,,,,,,,,Bauprojekte in Köln,http://offenedaten-koeln.de/dataset/bauprojekte-köln,cc-by,"JSON,KMZ",d
 ,,x,,,,,,,x,,,,,,,Strassenbeschränkungen in Köln,http://offenedaten-koeln.de/dataset/strassenbeschränkungen-köln,cc-by,"JSON,KMZ",d
-,,,,,,,x,,,,,,,,,Wahlbeteiligung 2014,http://offenedaten-koeln.de/dataset/wahlbeteiligung-2014,cc-by,CSV,d
+,,x,,,,,,,x,,,,,,,Busparkplätze in Köln,http://offenedaten-koeln.de/dataset/busparkplätze-köln,cc-by,"JSON,KMZ",d
 ,,,,,,,,,,,,x,,,,Pressemeldungen,http://offenedaten-koeln.de/dataset/pressemeldungen,cc-by,XML,d
 ,,,,,,,x,,,,,,,,,Ergebnisse_der_Kommunalwahlen_in_Koeln_seit_1946_Prozent,http://offenedaten-koeln.de/dataset/ergebnissederkommunalwahleninkoelnseit1946prozent,cc-by,CSV,d
 ,,,,,,,x,,,,,,,,,"Bundestagswahl 2009, Zweitstimmen",http://offenedaten-koeln.de/dataset/bundestagswahl-2009-zweitstimmen,cc-by,XLS,d
@@ -85,7 +79,6 @@ x,,,,,,,,,,,,,,,,Schülerinnen und Schüler,http://offenedaten-koeln.de/dataset/
 ,,,,,,,x,,,,,,,,,Ergebnisse_der_Kommunalwahlen_in_Koeln_seit_1946_Zahl,http://offenedaten-koeln.de/dataset/ergebnissederkommunalwahleninkoelnseit1946zahl,cc-by,CSV,d
 ,,,,x,,,,x,,,,,,,,Gesundheit Und Soziales,http://offenedaten-koeln.de/dataset/gesundheit-und-soziales,cc-by,CSV,d
 ,,x,,,x,,,,x,,,,,,,Parkscheinautomaten in Koeln,http://offenedaten-koeln.de/dataset/parkscheinautomaten-koeln,cc-by,"JSON,KMZ",d
-,,,,,,,,,,,,x,,,,Bezirke_Produktgruppen,http://offenedaten-koeln.de/dataset/bezirkeproduktgruppen,cc-by,CSV,d
 x,,,,,,,,,,,,,,,,Einwohner nach Art des Migrationshintergrundes,http://offenedaten-koeln.de/dataset/einwohner-nach-art-des-migrationshintergrundes,cc-by,CSV,d
 ,,x,,,,,,,,,,,,,,Blockseite,http://offenedaten-koeln.de/dataset/blockseite,cc-by,"XML,KMZ,ZIP",d
 x,,,,,,,,,,,,,,,,Bevölkerungsbewegung,http://offenedaten-koeln.de/dataset/bevölkerungsbewegung,cc-by,CSV,d
@@ -112,20 +105,18 @@ x,,,,,,,,,,,,,,,,Einwohner mit MIgrationshintergrund,http://offenedaten-koeln.de
 ,,,,,,,,,,,,x,,,,Gebaeudewirtschaft der Stadt Koeln Jahresbericht,http://offenedaten-koeln.de/dataset/gebaeudewirtschaft-der-stadt-koeln-jahresbericht,cc-by,CSV,d
 ,,,,,,x,,,,,,,,,,Veranstaltungen der Stadt Köln,http://offenedaten-koeln.de/dataset/veranstaltungen-der-stadt-köln,cc-by,JSON,d
 x,,,,,,,,,,,,,,,,"Stadtfläche, Einwohnerdichte und Einwohner",http://offenedaten-koeln.de/dataset/stadtfläche-einwohnerdichte-und-einwohner,cc-by,CSV,d
-,,,,,,,x,,,,,,,,,Bundestagswahl3-Gesamt-Kreisfreie Stadt,http://offenedaten-koeln.de/dataset/bundestagswahl3-gesamt-kreisfreie-stadt,cc-by,CSV,d
 ,,x,,,,,,,,,,,,,,Stadtbezirke,http://offenedaten-koeln.de/dataset/stadtbezirke,cc-by,"XML,JSON,KMZ,ZIP",d
 ,,,,,,,x,,,,,,,,,Ergebnisse_der_Landtagswahlen_in_Koeln_seit_2010_Erststimmen_Zahl,http://offenedaten-koeln.de/dataset/ergebnissederlandtagswahleninkoelnseit2010erststimmenzahl,cc-by,CSV,d
 ,,,,,,,,,,,,x,,,,Bezirke_Einzeldarstellung,http://offenedaten-koeln.de/dataset/bezirkeeinzeldarstellung,cc-by,CSV,d
 x,,,,,,,,,,,,,,,,Statistisches Jahrbuch 2011,http://offenedaten-koeln.de/dataset/statistisches-jahrbuch-2011,cc-by,PDF,d
 ,,x,,,,x,,,,,,,,,,Veranstaltungsorte in Köln,http://offenedaten-koeln.de/dataset/veranstaltungsorte-köln,cc-by,"JSON,KMZ",d
-,,x,,,,,,,,,,,,,,Blockabschnitt,http://offenedaten-koeln.de/dataset/blockabschnitt,cc-by,"XML,KMZ,ZIP",d
-,,,,,,,x,,,,,,,,,Ergebnisse_der_Bundestagswahlen_in_Koeln_seit_1949_Prozent,http://offenedaten-koeln.de/dataset/ergebnissederbundestagswahleninkoelnseit1949prozent,cc-by,CSV,d
+,,,,,,,x,,,,,,,,,Ergebnisse_der_Landtagswahlen_in_Koeln_seit_1947_Zahl,http://offenedaten-koeln.de/dataset/ergebnissederlandtagswahleninkoelnseit1947zahl,cc-by,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzplan_Produktbereichssummen,http://offenedaten-koeln.de/dataset/finanzplanproduktbereichssummen,cc-by,CSV,d
 ,,,,,,,x,,,,,,,,,Datensätze zur Verbundwahl 2014,http://offenedaten-koeln.de/dataset/datensätze-zur-verbundwahl-2014,cc-by,CSV,d
 ,,,,,,,x,,,,,,,,,"Bundestagswahl 2009, Erststimmen",http://offenedaten-koeln.de/dataset/bundestagswahl-2009-erststimmen,cc-by,XLS,d
 ,x,,,,,,,,,,,,,,,Vorstudie OpenData,http://offenedaten-koeln.de/dataset/vorstudie-opendata,cc-by,PDF,d
+x,,,,,,,,,,,,,,,,Haushaltsgröße,http://offenedaten-koeln.de/dataset/haushaltsgröße,cc-by,CSV,d
 ,,x,,,,,,,,,,,,,,Strasse,http://offenedaten-koeln.de/dataset/strasse,cc-by,"XML,KMZ,ZIP",d
-,,,,,,,x,,,,,,,,,Ergebnisse_der_Landtagswahlen_in_Koeln_seit_1947_Prozent,http://offenedaten-koeln.de/dataset/ergebnissederlandtagswahleninkoelnseit1947prozent,cc-by,CSV,d
 x,,,,,,,,,,,,,,,,Einwohner nach Altersgruppen,http://offenedaten-koeln.de/dataset/einwohner-nach-altersgruppen,cc-by,CSV,d
 ,,,,,x,,,,,,,,,,,Bauen Und Wohnen Baufertigstellungen,http://offenedaten-koeln.de/dataset/bauen-und-wohnen-baufertigstellungen,cc-by,CSV,d
 ,,,,,,,,,x,,,,,,,Strassenverzeichnis,http://offenedaten-koeln.de/dataset/strassenverzeichnis,cc-by,CSV,d
@@ -135,23 +126,32 @@ x,,,,,,,,,,,,,,,,Ausländer nach Herkunftsländern,http://offenedaten-koeln.de/d
 ,,x,,,,,x,,,,,,,,,Stimmbezirk,http://offenedaten-koeln.de/dataset/stimmbezirk,cc-by,"XML,KMZ,ZIP",d
 ,,,,,,,x,,,,,,,,,Wahlvorschlaege_Koeln_Wahlkreis_93_bis_101,http://offenedaten-koeln.de/dataset/wahlvorschlaegekoelnwahlkreis93bis101,cc-by,CSV,d
 ,,x,,,,,,,,x,,,,,,Betriebshöfe in Köln,http://offenedaten-koeln.de/dataset/betriebshöfe-köln,cc-by,XML,d
-,,,,,x,,,,,x,,,,,,Brunnen und Teichfontänen,http://offenedaten-koeln.de/dataset/brunnen-und-teichfontänen,cc-by,CSV,d
 ,,,,,,,x,,,,,,,,,Wettbewerb - Teilnahmebedingungen,http://offenedaten-koeln.de/dataset/wettbewerb-teilnahmebedingungen,cc-by,PDF,d
 ,,,,,,,,,,x,,,x,,,Energiebericht Köln,http://offenedaten-koeln.de/dataset/energiebericht-köln,cc-by,CSV,d
 ,,,,,,,,,x,,,,,,,Parkhausbelegung,http://offenedaten-koeln.de/dataset/parkhausbelegung,cc-by,JSON,d
 ,,x,,,,,,,,x,,,,,,Wertstoff-Center in Köln,http://offenedaten-koeln.de/dataset/wertstoff-center-köln,cc-by,XML,d
-,,,,,,,,,,,,,,x,,Hauptschulen,http://www.bildung.koeln.de/materialbibliothek/download/hauptschulen.xls?idx=6eb344ddaa90795dc0e4318d82edd7d9&PHPSESSID=4ea1d7ae6182d879fde0bb5d1c92dc05,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,Berufskollegs,http://www.bildung.koeln.de/materialbibliothek/download/berufskollegs.xls?idx=9774b82a5656216a50eeb5d4b3a5388c,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,Übersicht Anbieter Alphabetisierungskurse,http://www.bildung.koeln.de/materialbibliothek/download/Ubersicht_anbieter_alpha-kurse.xls?idx=8d98f3dde74ca5eb4ae213e0887bdaa8,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Termine Schulen nach Schultyp - Bildung.koeln.de,http://www.bildung.koeln.de/materialbibliothek/download/termine_nach_schultyp.xls?idx=74bedad72f2d288b14c22a8cc4fdfb10&PHPSESSID=097e5831134b01bf85919619a0a9f29e,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Andere Schulformen,http://www.bildung.koeln.de/materialbibliothek/download/andere_schulformen.xls?idx=633b3790f7748792e27550e321689a4a,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,Verzeichnis von Sonderdrucken Separata A,http://www.uni.koeln.de/jur-fak/instroem/docs/Sonderdrucke%20Av.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,,http://www.bildung.koeln.de/materialbibliothek/download/veranstaltungen_doppelabitur.xls?idx=e0088a94915958058e98ff6be2d84db5,nicht bekannt,XLS,b
 ,,,,,,,,,,,,,,x,,Realschulen,http://www.bildung.koeln.de/materialbibliothek/download/realschulen.xls?idx=c1dc2731596853b2366be986aa5d4555,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,,http://www.bildung.koeln.de/imperia/md/content/schule/infotage_berufskollegs_13_14.xls,nicht bekannt,XLS,b
 ,,,,,,,,,,,,,,x,,Übersicht Schulregion Mülheim 2014-04-08,http://www.bildung.koeln.de/imperia/md/content/selbst_schule/muelheim/_bersicht_schulregion_m_lheim_2014_04_08.xlsx?PHPSESSID=7d7d0cc1c4579fbe6cdd1ce6e201cf55,nicht bekannt,XLSX,g
-,,,,,,,,,,,,,,x,,Veranstaltungen Doppelabitur,http://www.bildung.koeln.de/materialbibliothek/download/veranstaltungen_doppelabitur.xls?idx=e0088a94915958058e98ff6be2d84db5&PHPSESSID=6b4c88f4322165f2a4e5741469154dd4,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Workshops Lernfest 2014,http://www.bildung.koeln.de/imperia/md/content/veranstaltungen/workshops_lernfest_2014.xlsx?PHPSESSID=030bab16e330ea375cc529091d77e0cf,nicht bekannt,XLSX,g
+,,,,,,,,,,,,,,x,,,http://www.bildung.koeln.de/imperia/md/content/selbst_schule/muelheim/_bersicht_schulregion_m_lheim_2014_04_08.xlsx,nicht bekannt,XLSX,b
+,,,,,,,,,,,,,,x,,Veranstaltungen Doppelabitur 2013,http://www.bildung.koeln.de/materialbibliothek/download/veranstaltungen_doppelabitur2013_okt.xls?idx=482596333f449c5e14965e3860a417a2,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,Grundschulen,http://www.bildung.koeln.de/materialbibliothek/download/grundschulen.xls?idx=d0a81ed7c4700c2cd9247fa17db10e83,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,Termine Schulen - bildung.koeln.de,http://www.bildung.koeln.de/materialbibliothek/download/termine_schulen.xls?idx=7d348102154af906593bf08c6a2f1764,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,Infotage Andere Schulformen,http://www.bildung.koeln.de/imperia/md/content/schule/infotage_andere_schulformen.xls?PHPSESSID=65b85dd152d03badf4d51559226355e5,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,Infotage Berufskollegs,http://www.bildung.koeln.de/imperia/md/content/schule/infotage_berufskollegs_13_14.xls?PHPSESSID=26140286daa5e3278999a755df248213,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Verzeichnis von Sonderdrucken Separata W,http://www.uni.koeln.de/jur-fak/instroem/docs/Sonderdrucke.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,,http://www.bildung.koeln.de/materialbibliothek/download/termine_nach_schultyp.xls?idx=74bedad72f2d288b14c22a8cc4fdfb10,nicht bekannt,XLS,b
 ,,,,,,,,,,,,,,x,,,http://www.bildung.koeln.de/imperia/md/content/veranstaltungen/workshops_lernfest_2014.xlsx,nicht bekannt,XLSX,b
 ,,,,,,,,,,,,,,x,,Gymnasien,http://www.bildung.koeln.de/materialbibliothek/download/gymnasien.xls?idx=e44e83eeda14c281368533ffbe7756e4&PHPSESSID=6c60f1e2fb6916572f2cd9011c73b0e4,nicht bekannt,XLS,g
+,,x,,,x,x,,,,,,,,,,Rosenmontagszug,http://stadtplan.koeln.de/stadtplan/client/veedelszoech.html,nicht bekannt,KML,c
+,,,,,,,,,,,,,,x,,Hauptschulen,http://www.bildung.koeln.de/materialbibliothek/download/hauptschulen.xls?idx=6eb344ddaa90795dc0e4318d82edd7d9&PHPSESSID=4ea1d7ae6182d879fde0bb5d1c92dc05,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,Veranstaltungen Doppelabitur,http://www.bildung.koeln.de/materialbibliothek/download/veranstaltungen_doppelabitur.xls?idx=e0088a94915958058e98ff6be2d84db5&PHPSESSID=6b4c88f4322165f2a4e5741469154dd4,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Schultermine 2012-2013,http://www.bildung.koeln.de/materialbibliothek/download/schultermine_2012-2013.xlsx?idx=4943f43449184db7a7ed935ea8ff5dd1&PHPSESSID=68251bdf0fe1ebfc61562ea960ebd36f,nicht bekannt,XLSX,g
 ,,,,,,,,,,,,,,x,,Gesamtschulen,http://www.bildung.koeln.de/materialbibliothek/download/gesamtschulen.xls?idx=683148b1f4d80451a42336cc36781bcf,nicht bekannt,XLS,g
-,,x,,,x,x,,,,,,,,,,Rosenmontagszug,http://stadtplan.koeln.de/stadtplan/client/veedelszoech.html,nicht bekannt,KML,c
