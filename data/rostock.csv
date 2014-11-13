@@ -1,7 +1,9 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,x,,,x,,,,,,,,,,,ortsamtsbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/ortsamtsbereiche/ortsamtsbereiche.xlsx,nicht bekannt,XLSX,g
-,,,,,,x,,,,,,,,,,kinos.xlsx,https://geo.sv.rostock.de/download/opendata/kinos/kinos.xlsx,nicht bekannt,XLSX,g
-,,x,,,x,,,,,,,,,,,gemeindeflaeche.xlsx,https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.xlsx,nicht bekannt,XLSX,g
+,,,,,,,x,,,,,,,,,Bürgerschaftswahl 2004,http://www.opendata-hro.de/dataset/c3cadd4c-b27d-40d7-b98b-e618cf84b89e,odc-by,"CSV,XLSX,JSON",d
+,,,,,x,,,,,,,,,,,Mobilfunkantennen,http://www.opendata-hro.de/dataset/ba932851-6d18-482f-b9fc-98cd156ac7bc,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
+,,,,,,,,,,,x,,x,,,Banken,http://www.opendata-hro.de/dataset/c8d7bc49-0125-4bd9-96ae-5bdef7ab9c49,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
+,,,,,,,x,,,,,,,,,Bundestagswahl 2002,http://www.opendata-hro.de/dataset/e2ae83b6-9b9b-4f07-8399-35442395299c,odc-by,"CSV,XLSX,JSON",d
+,,,,,x,,,,,x,,,x,,,Solarpotential 2013,http://www.opendata-hro.de/dataset/809da8a1-2d6e-4eec-8611-ec27ad57d97d,odc-by,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,x,,,,,,,,,,x,,,,Statistische Blöcke,http://www.opendata-hro.de/dataset/1d163996-5ed7-488d-8d8e-11910a3c99c2,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,x,,,,,,,,x,,,,,,Sturmflut Ostsee,http://www.opendata-hro.de/dataset/79fc3386-6677-4af2-a9ef-5346225bc794,odc-by,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,,,,,,,,x,,,,,,,Reisebusparkplätze,http://www.opendata-hro.de/dataset/3cf4bc27-0769-48a2-aa46-95cccc4c80b5,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
@@ -41,12 +43,10 @@ x,,,,,,,,x,,,,,,,,Kinder- und Jugendbetreuung,http://www.opendata-hro.de/dataset
 ,,,,,,,,,,,,x,,,,Adressenliste,http://www.opendata-hro.de/dataset/310d8444-01f6-4432-aed1-4cd6d3b93f95,odc-by,"CSV,XLSX,JSON,WMS",d
 ,,x,,,,,x,,,,,,,,,Oberbürgermeisterwahl 2012,http://www.opendata-hro.de/dataset/0b21dcd5-802a-4250-911f-2d70cff2e3ea,odc-by,"CSV,XLSX,JSON,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,,,,,,,,x,,,,,,,Haltestellen,http://www.opendata-hro.de/dataset/fffea4a8-e55a-4b91-a53b-a9d598a7acfa,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
-,,,,,,,x,,,,,,,,,Bürgerschaftswahl 2004,http://www.opendata-hro.de/dataset/c3cadd4c-b27d-40d7-b98b-e618cf84b89e,odc-by,"CSV,XLSX,JSON",d
 ,,x,,,,,,,x,,,x,,,,Straßen,http://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,,,,,,x,,,,,,,,,Europaparlamentswahl 2009,http://www.opendata-hro.de/dataset/c7629958-542f-49d4-ad38-ec3b85700107,odc-by,"CSV,XLSX,JSON",d
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2009,http://www.opendata-hro.de/dataset/b9173e26-0b66-4fa1-84e8-e2662e1c5f79,odc-by,"CSV,XLSX,JSON",d
 x,,,,,,x,,x,,,,,,,,Begegnungszentren,http://www.opendata-hro.de/dataset/4b3353d0-965a-4c9a-b191-9bd6a9599730,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
-,,,,,x,,,,,,,,,,,Mobilfunkantennen,http://www.opendata-hro.de/dataset/ba932851-6d18-482f-b9fc-98cd156ac7bc,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
 x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2006,http://www.opendata-hro.de/dataset/95235ea3-87a2-4a9a-aedc-f171107ead85,odc-by,"XLSX,CSV,JSON",d
 ,,,,,x,,,,x,,,,,,,Baustellen,http://www.opendata-hro.de/dataset/fb03c3c5-cae0-41cd-9256-5472b0677377,odc-by,"CSV,XLSX,GEOJSON,GEORSS,KML,GML,WMS",d
 ,,,,,,,,x,,,x,,x,,,Fair-Trade-Gastronomie,http://www.opendata-hro.de/dataset/ac2459b3-67ee-4e49-8764-6f518b0c33ec,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
@@ -54,6 +54,7 @@ x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2006,http://www.opendata-hro.de/dataset/
 ,,,,,x,,,,x,,,,,,,Parkmöglichkeiten,http://www.opendata-hro.de/dataset/220781e3-2e11-4e06-955c-6bf5307973ff,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,x,,,,,,,,,,x,,,,Gemeindefläche,http://www.opendata-hro.de/dataset/fb8903bb-df12-45a7-a7de-5d0f17e2fca2,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,,,x,,,,,,,x,,x,,,Hörgeräteakustiker,http://www.opendata-hro.de/dataset/32cc18e5-80ea-45a0-8c28-c30d04b50f02,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
+,,,,,x,,,,,x,,,,,,Glascontainer,http://www.opendata-hro.de/dataset/41e083a5-862a-4c9e-abe8-3427ac61b83b,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
 ,,,,,x,,,,,,,,,,,Friedhöfe,http://www.opendata-hro.de/dataset/e9fda07a-424b-4e63-8aa1-2c24313b9002,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 x,,,,,,,,x,,,,,,,,Tagespflegeeinrichtungen,http://www.opendata-hro.de/dataset/e5773f72-970e-4337-a133-6a547dce7fa7,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,,,,,,x,,,,,,,Reisebusterminals,http://www.opendata-hro.de/dataset/141c4422-a265-427f-b8b3-208e216f4008,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
@@ -64,8 +65,8 @@ x,,,,,,,,x,,,,,,,,Tagespflegeeinrichtungen,http://www.opendata-hro.de/dataset/e5
 ,,,,x,,,,,,,x,,x,,,Apotheken,http://www.opendata-hro.de/dataset/652e7b9e-5bb2-4a7e-aeff-12421d3c32a5,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 x,,,,,,,,x,,,,,,,,Pflegeeinrichtungen,http://www.opendata-hro.de/dataset/e8d34128-b923-4e37-a18d-09ef5d6d5e61,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,,x,,,,,x,,,,,,Sanierungsgebiet,http://www.opendata-hro.de/dataset/ec4de52b-afd2-483e-9f51-f5ef96440065,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
-,,,,,,,,,,,x,,x,,,Banken,http://www.opendata-hro.de/dataset/c8d7bc49-0125-4bd9-96ae-5bdef7ab9c49,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2005,http://www.opendata-hro.de/dataset/312bb56d-15b4-4aa0-a1bd-2e867dd95e4a,odc-by,"XLSX,CSV,JSON",d
+,,,,,x,,,,,x,,,,,,Hundetoiletten,http://www.opendata-hro.de/dataset/d8f701a5-48e8-4995-86e8-42471b878986,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
 ,,,,,,x,,,,,,,,,,Feldsportanlagen,http://www.opendata-hro.de/dataset/9b7cbfc5-ffcb-4b51-9227-5bfe46eacc5d,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,x,,,,,,,,,,,,,,,Wissenschaftliche Einrichtungen,http://www.opendata-hro.de/dataset/1b59b3e2-a01a-4b42-9a67-f133f66438c6,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,,x,,,,,,,,,,,Bebauungspläne (Geltungsbereiche),http://www.opendata-hro.de/dataset/b6cadf55-e2e2-4113-9821-e2f2adcae5c1,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
@@ -77,6 +78,7 @@ x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2005,http://www.opendata-hro.de/dataset/
 x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2010,http://www.opendata-hro.de/dataset/45e94633-189b-4857-b710-f9b6fb4aa7a8,odc-by,"XLSX,CSV,JSON",d
 ,,x,,,,,,,,,,x,,,,Ortsbeiratsbereiche,http://www.opendata-hro.de/dataset/dd8a8a8a-797d-494b-8586-09d1f57fb0a2,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,,,,,x,,,x,,,,,,,Fähranleger,http://www.opendata-hro.de/dataset/07ee6be5-9d7f-43ee-b9cf-06a4f8b6c53f,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
+,,,,x,,,,,,,,,x,,,Ärztehäuser,http://www.opendata-hro.de/dataset/27e1cb37-ee30-4108-a0c6-9c98defe7c19,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,,x,,,,,x,,,,,,Toiletten,http://www.opendata-hro.de/dataset/aca0b5e5-d897-4ce3-8117-059cbd73d7e0,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
 ,,,,x,,,,,,,x,,x,,,Drogerien,http://www.opendata-hro.de/dataset/305d5bb9-28cb-496f-ad29-09838c5dcdbc,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,,,,x,,,,,,,,,Bürgerschaftswahl 2009,http://www.opendata-hro.de/dataset/b2e2f9be-b977-4459-a9b0-e1bf303b0d99,odc-by,"CSV,XLSX,JSON",d
@@ -88,6 +90,7 @@ x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2009,http://www.opendata-hro.de/dataset/
 ,,x,,,,,,,,x,,,,,,Schöpfwerkeinflussbereiche,http://www.opendata-hro.de/dataset/89413ed1-ad41-4211-a144-212172e50545,odc-by,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,,,,,,x,,,,,,,,,Landtagswahl 2002,http://www.opendata-hro.de/dataset/6714c938-5003-40b3-be72-e8f1c7a2f211,odc-by,"CSV,XLSX,JSON",d
 ,,x,,,,,,,,,,x,,,,Ortsamtsbereiche,http://www.opendata-hro.de/dataset/aceccfc0-dbf2-42a3-9456-389c6a0edb7c,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
+,,,,,,x,,,,,,,,,,Touristeninformation,http://www.opendata-hro.de/dataset/e543112e-7f46-42bf-ab8c-23fa7774a034,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,x,,,,,,,,,,x,,,,Offene Regionalkarte Mecklenburg-Vorpommern (ORKa.MV),http://www.opendata-hro.de/dataset/c3c935a0-a8fb-45ec-a4cc-aba211c2d978,cc-by,"TMS,WMS",d
 ,x,,,,,x,,,,,,,,,,Kunst im öffentlichen Raum,http://www.opendata-hro.de/dataset/9f7b6293-9e16-4f26-ac2a-920b20d4d830,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,x,,,,,,,x,,x,,,Sanitätshäuser,http://www.opendata-hro.de/dataset/d338266b-4f94-4cad-ae97-fe350baf8287,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
@@ -99,7 +102,6 @@ x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2009,http://www.opendata-hro.de/dataset/
 ,,,,,,,,,,,x,,x,,,Bäckereien,http://www.opendata-hro.de/dataset/91bf3ccf-3407-4766-a4d3-abd3684cd747,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,,,,,,x,,,,,,,Stadtbuslinien,http://www.opendata-hro.de/dataset/3f9c3016-fc26-40af-96d4-f9cd5037ca6d,odc-by,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,,,,,,,,,,,x,,,,Behörden (nicht-kommunal),http://www.opendata-hro.de/dataset/bcc44f79-75bd-4aa7-b7f5-35097a62d9e6,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
-,,,,,,,x,,,,,,,,,Bundestagswahl 2002,http://www.opendata-hro.de/dataset/e2ae83b6-9b9b-4f07-8399-35442395299c,odc-by,"CSV,XLSX,JSON",d
 ,,,,,x,,,,x,,,,,,,Taxistände,http://www.opendata-hro.de/dataset/ae5e53ed-3fda-495f-81ce-fe65163bf4c2,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
 ,x,,,,x,x,,,,,,,,,,Baudenkmale,http://www.opendata-hro.de/dataset/78c98423-8d83-48db-ba8c-705ff1829d6e,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,,,x,x,,,,,,,x,,,,Rettungswachen,http://www.opendata-hro.de/dataset/613c98c1-2cc2-4bd1-b298-f3a9716c3755,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
@@ -119,6 +121,9 @@ x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2009,http://www.opendata-hro.de/dataset/
 ,,,,,,,,,x,,,,x,,,Tankstellen,http://www.opendata-hro.de/dataset/f9ff00f8-0928-4255-8e27-d965cfeeedef,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,,x,,,,,,,,,,,Leuchten,http://www.opendata-hro.de/dataset/69562564-657b-4761-8a76-a27ac1d5c70a,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2005,http://www.opendata-hro.de/dataset/d31b7c96-c44a-46d3-87b7-e6275d7637ca,odc-by,"CSV,XLSX,JSON",d
+,,x,,,x,,,,,,,,,,,ortsamtsbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/ortsamtsbereiche/ortsamtsbereiche.xlsx,nicht bekannt,XLSX,g
+,,,,,,x,,,,,,,,,,kinos.xlsx,https://geo.sv.rostock.de/download/opendata/kinos/kinos.xlsx,nicht bekannt,XLSX,g
+,,x,,,x,,,,,,,,,,,gemeindeflaeche.xlsx,https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.xlsx,nicht bekannt,XLSX,g
 ,,x,,,x,,,,,,,,,,,ortsbeiratsbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/ortsbeiratsbereiche/ortsbeiratsbereiche.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,,x,,,,,,,,tagespflegeeinrichtungen.xlsx,https://geo.sv.rostock.de/download/opendata/tagespflegeeinrichtungen/tagespflegeeinrichtungen.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,,x,,,,,,,,"Liste der Tagespflegepersonen, Stand 12.12.2013",http://rathaus.rostock.de/sixcms/detail.php?_sid1=rostock_01.c.260.de&_sid2=rostock_01.c.267.de&_sid3=&_sid4=&_sid5=&id=35490,nicht bekannt,XLS,c
@@ -145,8 +150,3 @@ x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2009,http://www.opendata-hro.de/dataset/
 ,,x,,,x,,,,,,,,,,,stadtbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/stadtbereiche/stadtbereiche.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,,,x,,,,,,,parkmoeglichkeiten.xlsx,https://geo.sv.rostock.de/download/opendata/parkmoeglichkeiten/parkmoeglichkeiten.xlsx,nicht bekannt,XLSX,g
 ,,x,,,x,,,,,,,,,,,ortsteile.xlsx,https://geo.sv.rostock.de/download/opendata/ortsteile/ortsteile.xlsx,nicht bekannt,XLSX,g
-,,,,,x,,,,,x,,,,,,Glascontainer,http://www.opendata-hro.de/dataset/41e083a5-862a-4c9e-abe8-3427ac61b83b,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
-,,,,,x,,,,,x,,,,,,Hundetoiletten,http://www.opendata-hro.de/dataset/d8f701a5-48e8-4995-86e8-42471b878986,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
-,,,,x,,,,,,,,,x,,,Ärztehäuser,http://www.opendata-hro.de/dataset/27e1cb37-ee30-4108-a0c6-9c98defe7c19,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
-,,,,,,x,,,,,,,,,,Touristeninformation,http://www.opendata-hro.de/dataset/e543112e-7f46-42bf-ab8c-23fa7774a034,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
-,,,,,x,,,,,x,,,x,,,Solarpotential 2013,http://www.opendata-hro.de/dataset/809da8a1-2d6e-4eec-8611-ec27ad57d97d,odc-by,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",d

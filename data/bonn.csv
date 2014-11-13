@@ -1,4 +1,16 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+,,,,,x,,,,,x,,x,,,,Energieberichte,http://opendata.bonn.de/dataset/energieberichte,dl-de-by-1.0,"DOC,PDF",d
+,,,,,,,x,,,,,,,,,"Kommunalwahl 2009 (Bürgermeister, Bezirksvertretung, Rat)",http://opendata.bonn.de/dataset/kommunalwahl-2009-b%C3%BCrgermeister-bezirksvertretung-rat,dl-de-by-1.0,CSV,d
+x,,,,,x,,,,x,,,x,,,,Bürgerbriefe,http://opendata.bonn.de/dataset/b%C3%BCrgerbriefe,dl-de-by-1.0,JSON,d
+,,x,,,,,,,,,,,,,,Stadtgebiet Bonn (Eckzahlen),http://opendata.bonn.de/dataset/stadtgebiet-bonn-eckzahlen,dl-de-by-1.0,"CSV,HTML",d
+x,x,,x,x,x,x,x,x,x,x,x,x,x,,,Bürgeranträge gem. § 24 GO NRW,http://opendata.bonn.de/dataset/b%C3%BCrgerantr%C3%A4ge-gem-%C2%A7-24-go-nrw,dl-de-by-1.0,HTML,d
+,,,,,x,,,,x,,,,,,,Verkäufe,http://opendata.bonn.de/dataset/verk%C3%A4ufe,dl-de-by-1.0,HTML,d
+,,,,,,,,,,,,x,,,,Vorschlagslisten Konsolidierung Haushalt 2015/2016,http://opendata.bonn.de/dataset/vorschlagslisten-konsolidierung-haushalt-20152016,dl-de-by-1.0,PDF,d
+,,,,,,,x,,,,,,,,,Europawahl 2004,http://opendata.bonn.de/dataset/europawahl-2004,dl-de-by-1.0,XLS,d
+,,,,,,,,,,,,x,,,,Beteiligungsbericht 2009,http://opendata.bonn.de/dataset/beteiligungsbericht-2009,dl-de-by-1.0,HTML,d
+x,,,,,,,,x,,x,,,,,,Fair Trade Einkaufsführer,http://opendata.bonn.de/dataset/fair-trade-einkaufsf%C3%BChrer,dl-de-by-1.0,"PDF,CSV,XLS",d
+,,,,,,,,,,,,x,,,,Bewilligung über- und außerplanmäßiger Aufwendungen und Auszahlungen nach § 83 (1) GO NRW bzw. § 85 (1) GO NRW,http://opendata.bonn.de/dataset/bewilligung-%C3%BCber-und-au%C3%9Ferplanm%C3%A4%C3%9Figer-aufwendungen-und-auszahlungen-nach-%C2%A7-83-1-go-nrw-bzw-%C2%A7,dl-de-by-1.0,PDF,d
+,,,,,,,,,,,,x,,,,Über- und außerplanmäßige Aufwendungen und Auszahlungen gemäß § 83 (2) GO NRW,http://opendata.bonn.de/dataset/%C3%BCber-und-au%C3%9Ferplanm%C3%A4%C3%9Fige-aufwendungen-und-auszahlungen-gem%C3%A4%C3%9F-%C2%A7-83-2-go-nrw,dl-de-by-1.0,PDF,d
 ,,,,,,,,,,,,x,,,,Ausschreibungen/ Vergabeverfahren,http://opendata.bonn.de/dataset/ausschreibungen-vergabeverfahren,dl-de-by-1.0,JSON,d
 ,,,,,x,,,,,,,,,,,Projektstatusberichte Konferenzzentrum,http://opendata.bonn.de/dataset/projektstatusberichte-konferenzzentrum,dl-de-by-1.0,PDF,d
 ,,,,,,x,,,,,,,,,,Bonn am Rhein,http://opendata.bonn.de/dataset/bonn-am-rhein,dl-de-by-1.0,DOCREADER,d
@@ -71,15 +83,3 @@ x,,,,,,,,,,,,,,,,Bevölkerungsstatistik,http://opendata.bonn.de/dataset/bev%C3%B
 ,,,,,,,x,,,,,,,,,Integrationsratswahl 2014,http://opendata.bonn.de/dataset/integrationsratswahl-2014,dl-de-by-1.0,CSV,d
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2005,http://opendata.bonn.de/dataset/bundestagswahl-2005,dl-de-by-1.0,XLS,d
 ,,,,,x,,,,,,,,,,,Immobilienangebote,http://opendata.bonn.de/dataset/immobilienangebote,dl-de-by-1.0,HTML,d
-,,,,,x,,,,,x,,x,,,,Energieberichte,http://opendata.bonn.de/dataset/energieberichte,dl-de-by-1.0,"DOC,PDF",d
-,,,,,,,x,,,,,,,,,"Kommunalwahl 2009 (Bürgermeister, Bezirksvertretung, Rat)",http://opendata.bonn.de/dataset/kommunalwahl-2009-b%C3%BCrgermeister-bezirksvertretung-rat,dl-de-by-1.0,CSV,d
-x,,,,,x,,,,x,,,x,,,,Bürgerbriefe,http://opendata.bonn.de/dataset/b%C3%BCrgerbriefe,dl-de-by-1.0,JSON,d
-,,x,,,,,,,,,,,,,,Stadtgebiet Bonn (Eckzahlen),http://opendata.bonn.de/dataset/stadtgebiet-bonn-eckzahlen,dl-de-by-1.0,"CSV,HTML",d
-x,x,,x,x,x,x,x,x,x,x,x,x,x,,,Bürgeranträge gem. § 24 GO NRW,http://opendata.bonn.de/dataset/b%C3%BCrgerantr%C3%A4ge-gem-%C2%A7-24-go-nrw,dl-de-by-1.0,HTML,d
-,,,,,x,,,,x,,,,,,,Verkäufe,http://opendata.bonn.de/dataset/verk%C3%A4ufe,dl-de-by-1.0,HTML,d
-,,,,,,,,,,,,x,,,,Vorschlagslisten Konsolidierung Haushalt 2015/2016,http://opendata.bonn.de/dataset/vorschlagslisten-konsolidierung-haushalt-20152016,dl-de-by-1.0,PDF,d
-,,,,,,,x,,,,,,,,,Europawahl 2004,http://opendata.bonn.de/dataset/europawahl-2004,dl-de-by-1.0,XLS,d
-,,,,,,,,,,,,x,,,,Beteiligungsbericht 2009,http://opendata.bonn.de/dataset/beteiligungsbericht-2009,dl-de-by-1.0,HTML,d
-x,,,,,,,,x,,x,,,,,,Fair Trade Einkaufsführer,http://opendata.bonn.de/dataset/fair-trade-einkaufsf%C3%BChrer,dl-de-by-1.0,"PDF,CSV,XLS",d
-,,,,,,,,,,,,x,,,,Bewilligung über- und außerplanmäßiger Aufwendungen und Auszahlungen nach § 83 (1) GO NRW bzw. § 85 (1) GO NRW,http://opendata.bonn.de/dataset/bewilligung-%C3%BCber-und-au%C3%9Ferplanm%C3%A4%C3%9Figer-aufwendungen-und-auszahlungen-nach-%C2%A7-83-1-go-nrw-bzw-%C2%A7,dl-de-by-1.0,PDF,d
-,,,,,,,,,,,,x,,,,Über- und außerplanmäßige Aufwendungen und Auszahlungen gemäß § 83 (2) GO NRW,http://opendata.bonn.de/dataset/%C3%BCber-und-au%C3%9Ferplanm%C3%A4%C3%9Fige-aufwendungen-und-auszahlungen-gem%C3%A4%C3%9F-%C2%A7-83-2-go-nrw,dl-de-by-1.0,PDF,d
