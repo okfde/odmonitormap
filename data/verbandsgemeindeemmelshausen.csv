@@ -1,12 +1,4 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Quellenhof,http://www.daten.rlp.de/dataset/c63b27ba-1670-41f2-9690-b227f9c20d37,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Niedert - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/4d3e612d-d36a-4fe4-8823-1c203f1f0bca,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Ney - Ebene: In den Schmidtstücken II 2. Änderung,http://www.daten.rlp.de/dataset/ce2f78e6-6a77-42cc-9d71-c9ac025a5d23,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Dörth - Ebene: Am Trinkborn,http://www.daten.rlp.de/dataset/3a283a34-5aeb-407a-94c3-2a4acb45d656,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Umringe der Bebauungspläne von Lingerhahn,http://www.daten.rlp.de/dataset/1a61f4c1-3512-4187-b534-ed96e7a14434,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Hungenroth - Ebene: Im Stiergarten / Auf dem Holzweg 1. Änderung,http://www.daten.rlp.de/dataset/011912e4-dde8-4625-9db7-586411a62e22,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Heilbrünnchen II 1. Änderung,http://www.daten.rlp.de/dataset/2fa75a3a-515e-49e5-a015-f04e0471888b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Stierswiese,http://www.daten.rlp.de/dataset/aaf267fb-ebdc-47da-b4f1-e257fc197f64,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Ney - Ebene: Klarstellungssatzung In der Hohl,http://www.daten.rlp.de/dataset/c462b1d1-da1f-42a4-97a6-902b482d0bb0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Niedert - Ebene: Niedert,http://www.daten.rlp.de/dataset/7fe60a83-a3cf-4f60-97eb-e3557aaa3686,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Bickenbach - Ebene: Bickenbach,http://www.daten.rlp.de/dataset/9f1b0c27-23ba-42cd-abd6-6f75acc06df9,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -88,3 +80,11 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Am Kirchweg 1. Änderung,http://www.daten.rlp.de/dataset/c74f15ae-5310-4868-8914-0dd0ee9aa66d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Gondershausen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/5f3eb21f-b0e8-4743-8e24-ce8ad1ae72d8,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Morshausen - Ebene: Umringe der Bebauungspläne von Morshausen,http://www.daten.rlp.de/dataset/e2de7e0c-1ad0-4aea-8610-63cd3f4812f7,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Quellenhof,http://www.daten.rlp.de/dataset/c63b27ba-1670-41f2-9690-b227f9c20d37,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Niedert - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/4d3e612d-d36a-4fe4-8823-1c203f1f0bca,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Ney - Ebene: In den Schmidtstücken II 2. Änderung,http://www.daten.rlp.de/dataset/ce2f78e6-6a77-42cc-9d71-c9ac025a5d23,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Dörth - Ebene: Am Trinkborn,http://www.daten.rlp.de/dataset/3a283a34-5aeb-407a-94c3-2a4acb45d656,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Umringe der Bebauungspläne von Lingerhahn,http://www.daten.rlp.de/dataset/1a61f4c1-3512-4187-b534-ed96e7a14434,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Hungenroth - Ebene: Im Stiergarten / Auf dem Holzweg 1. Änderung,http://www.daten.rlp.de/dataset/011912e4-dde8-4625-9db7-586411a62e22,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Heilbrünnchen II 1. Änderung,http://www.daten.rlp.de/dataset/2fa75a3a-515e-49e5-a015-f04e0471888b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Stierswiese,http://www.daten.rlp.de/dataset/aaf267fb-ebdc-47da-b4f1-e257fc197f64,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
