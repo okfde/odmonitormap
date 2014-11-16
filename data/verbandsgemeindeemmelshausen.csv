@@ -1,6 +1,8 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,x,x,,,,,,,,,,,,,,Ney - Ebene: Klarstellungssatzung In der Hohl,http://www.daten.rlp.de/dataset/c462b1d1-da1f-42a4-97a6-902b482d0bb0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Niedert - Ebene: Niedert,http://www.daten.rlp.de/dataset/7fe60a83-a3cf-4f60-97eb-e3557aaa3686,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Karbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/e9a62bfa-3ec7-4685-9772-3c84fc572801,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Dörth - Ebene: Dörth,http://www.daten.rlp.de/dataset/2411bb2f-cbb7-40a9-8b50-6d49bf154ff0,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Umringe der Bebauungspläne von Emmelshausen,http://www.daten.rlp.de/dataset/77f957a1-fbf3-4a4b-8c2a-944fc6170ba5,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Hungenroth - Ebene: Auf der Dreispitz,http://www.daten.rlp.de/dataset/c8722aba-34cb-4be0-b7c0-355329ad1aec,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Bickenbach - Ebene: Bickenbach,http://www.daten.rlp.de/dataset/9f1b0c27-23ba-42cd-abd6-6f75acc06df9,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Ney - Ebene: Umringe der Bebauungspläne von Ney,http://www.daten.rlp.de/dataset/9a29e12a-a2c0-4095-9e66-46693bfa59e2,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Bickenbach - Ebene: Umringe der Bebauungspläne von Bickenbach,http://www.daten.rlp.de/dataset/adae0881-a406-40d1-8f97-541a33ab6cf7,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -15,7 +17,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Heilbrünnchen I 4. Änderung,http://www.daten.rlp.de/dataset/31a534fb-70ce-4b64-8c69-e1ae2f93e940,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum,http://www.daten.rlp.de/dataset/f633991a-f984-497a-8bd7-1fb2aa185c5c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Auf dem Heugarten 1. Änderung,http://www.daten.rlp.de/dataset/a470690c-3b1f-4542-81ec-839524b789fe,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Karbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/e9a62bfa-3ec7-4685-9772-3c84fc572801,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Ney - Ebene: Ergänzungssatzung Wiesenstraße / Kratzenburger Straße,http://www.daten.rlp.de/dataset/17a9736e-b719-4efb-a8ad-1f22169bd0eb,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Thörlingen - Ebene: Thörlingen,http://www.daten.rlp.de/dataset/54726e53-4314-426d-b1a6-851855b5d8c4,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Auf der Galgenhöhe,http://www.daten.rlp.de/dataset/2800d537-e814-4f97-b0a7-8256b5d651a7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -44,9 +45,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/829c15f8-3ebb-4359-9585-38c6f23665b1,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Maisborn - Ebene: Hinter den Hopfengärten,http://www.daten.rlp.de/dataset/20ccdc55-d15b-45f9-9125-0321e36b2c9f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen I 3. Änderung,http://www.daten.rlp.de/dataset/0619e13a-a090-4002-ad89-bf7275958864,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Dörth - Ebene: Dörth,http://www.daten.rlp.de/dataset/2411bb2f-cbb7-40a9-8b50-6d49bf154ff0,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Norath - Ebene: Am Holzapfelbaum II 1. Änderung,http://www.daten.rlp.de/dataset/bdd5266b-88f5-4246-8b00-4e4e2063ab22,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Umringe der Bebauungspläne von Emmelshausen,http://www.daten.rlp.de/dataset/77f957a1-fbf3-4a4b-8c2a-944fc6170ba5,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Dörth - Ebene: Südhang,http://www.daten.rlp.de/dataset/f72ea6a5-d710-41b9-b5d4-2963946de217,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Mermuth - Ebene: Umringe der Bebauungspläne von Mermuth,http://www.daten.rlp.de/dataset/3e7dfaba-1302-4c8a-8178-80edf41145ea,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Unter der Leyen,http://www.daten.rlp.de/dataset/e58edcce-93bf-45eb-8372-a32daa1e5d5e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -61,7 +60,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Emmelshausen,http://www.daten.rlp.de/dataset/1e3c4a5c-1292-4d6d-8f5b-8b789c9c56ac,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Kirchenflur 2. Änderung,http://www.daten.rlp.de/dataset/b8095ae0-6efd-43de-b7e1-163a46772d0d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schwaller Dell,http://www.daten.rlp.de/dataset/35341d63-f9e5-4ac7-a666-f06787b4bb2c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Hungenroth - Ebene: Auf der Dreispitz,http://www.daten.rlp.de/dataset/c8722aba-34cb-4be0-b7c0-355329ad1aec,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Dörth - Ebene: Klarstellungs- und Ergänzungssatzung Südhang,http://www.daten.rlp.de/dataset/2bbddf74-2f3b-4933-ab31-f41be52c6d74,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Halsenbach - Ebene: Umringe der Bebauungspläne von Halsenbach,http://www.daten.rlp.de/dataset/259615d4-1f0c-4161-84a1-8a4c941f2e1f,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Ney - Ebene: In den Schmidtstücken II,http://www.daten.rlp.de/dataset/498c5c0a-7f5d-4398-8838-b0e44d773be5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -88,3 +86,5 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Hungenroth - Ebene: Im Stiergarten / Auf dem Holzweg 1. Änderung,http://www.daten.rlp.de/dataset/011912e4-dde8-4625-9db7-586411a62e22,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Heilbrünnchen II 1. Änderung,http://www.daten.rlp.de/dataset/2fa75a3a-515e-49e5-a015-f04e0471888b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Stierswiese,http://www.daten.rlp.de/dataset/aaf267fb-ebdc-47da-b4f1-e257fc197f64,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Ney - Ebene: Klarstellungssatzung In der Hohl,http://www.daten.rlp.de/dataset/c462b1d1-da1f-42a4-97a6-902b482d0bb0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Niedert - Ebene: Niedert,http://www.daten.rlp.de/dataset/7fe60a83-a3cf-4f60-97eb-e3557aaa3686,cc-nc,"KARTENVIEWER,WMS,HTML",d
