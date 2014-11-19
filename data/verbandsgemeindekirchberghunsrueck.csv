@@ -1,6 +1,10 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,x,,,,,,,,,,,,,,Nieder Kostenz - Ebene: Umringe der Bebauungspläne von Nieder Kostenz,http://www.daten.rlp.de/dataset/b8c25e7b-f8c7-4773-8b0a-4fdc4ca7c2ed,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/d4b36879-77da-4eaa-9b29-d36d3f20091e,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Gehlweiler - Ebene: Schäferstück,http://www.daten.rlp.de/dataset/94748348-eddc-45be-8794-725f236cfee7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Hecken - Ebene: Im obersten Kappesgarten 1. Änderung,http://www.daten.rlp.de/dataset/f0cb9b76-bc36-4b16-a34f-933278d13daf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Belg - Ebene: An der Buch,http://www.daten.rlp.de/dataset/a20a294a-bba2-405a-8a55-266288163a78,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Heinzenbach - Ebene: Hambuch II,http://www.daten.rlp.de/dataset/40c5e160-7f58-4677-a842-f5f73c360cdf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,"Rohrbach - Ebene: Baugebiet in Flur 1, 11 und 12",http://www.daten.rlp.de/dataset/9b726b1f-b0c3-4f73-b4df-75cce08cdfd8,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Laufersweiler - Ebene: In der großen Kohlwies,http://www.daten.rlp.de/dataset/7ccca7f5-0298-40f9-943f-d165c20d82b0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Sohren - Ebene: Am Berg,http://www.daten.rlp.de/dataset/976bf06c-e98f-48eb-a3bb-5b5065929100,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Niedersohren - Ebene: Im Langenacker,http://www.daten.rlp.de/dataset/bd16b7a7-6c57-466c-bccd-611362ffe813,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gemünden - Ebene: Im Bangert,http://www.daten.rlp.de/dataset/65989529-f94c-40b3-ac22-fda9c8961822,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -10,6 +14,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Niedersohren - Ebene: Perweid / Beim Kohlhauf,http://www.daten.rlp.de/dataset/8be44d82-9d13-470c-aa0a-4bef907cb131,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Wahlenau - Ebene: In der Wies unter den Backesbitzen,http://www.daten.rlp.de/dataset/78e120f6-cb05-413e-bac0-a0eb0ec88d23,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Lautzenhausen - Ebene: Mühlenweg,http://www.daten.rlp.de/dataset/f3a776d4-7633-4a24-ad7c-cc2d58ff2e47,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/d4b36879-77da-4eaa-9b29-d36d3f20091e,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Niedersohren - Ebene: Golfplatz Annahof,http://www.daten.rlp.de/dataset/9d7f34f9-97cf-4de6-af73-30609f5bf820,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Lautzenhausen - Ebene: In den Kappesstückern I,http://www.daten.rlp.de/dataset/d15cf9aa-3cb1-4b4e-8fd3-499f9712131e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Laufersweiler - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/6cdf0eaf-19b2-4b8b-8d88-be3174d530f5,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -77,9 +82,4 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Schlierschied - Ebene: Umringe der Bebauungspläne von Schlierschied,http://www.daten.rlp.de/dataset/5010975d-8db2-4b34-9df4-0f14a705c6e8,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Raversbeuren - Ebene: Umringe der Bebauungspläne von Raversbeuren,http://www.daten.rlp.de/dataset/6f6baff0-4201-49ec-bb78-e890b3891b9d,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Brunkenstein,http://www.daten.rlp.de/dataset/c190ca17-7ec5-4b8a-ad72-7946f300a36e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Gehlweiler - Ebene: Schäferstück,http://www.daten.rlp.de/dataset/94748348-eddc-45be-8794-725f236cfee7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Hecken - Ebene: Im obersten Kappesgarten 1. Änderung,http://www.daten.rlp.de/dataset/f0cb9b76-bc36-4b16-a34f-933278d13daf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Belg - Ebene: An der Buch,http://www.daten.rlp.de/dataset/a20a294a-bba2-405a-8a55-266288163a78,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Heinzenbach - Ebene: Hambuch II,http://www.daten.rlp.de/dataset/40c5e160-7f58-4677-a842-f5f73c360cdf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,"Rohrbach - Ebene: Baugebiet in Flur 1, 11 und 12",http://www.daten.rlp.de/dataset/9b726b1f-b0c3-4f73-b4df-75cce08cdfd8,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Laufersweiler - Ebene: In der großen Kohlwies,http://www.daten.rlp.de/dataset/7ccca7f5-0298-40f9-943f-d165c20d82b0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Nieder Kostenz - Ebene: Umringe der Bebauungspläne von Nieder Kostenz,http://www.daten.rlp.de/dataset/b8c25e7b-f8c7-4773-8b0a-4fdc4ca7c2ed,cc-nc,"KARTENVIEWER,WMS,HTML",d

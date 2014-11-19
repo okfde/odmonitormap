@@ -1,11 +1,7 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
 ,x,,,,,,,,,,,,,,,Wie sehe ich meinen Lehrer,http://www.fgs.schule.ulm.de/files/auswertung_klassenklima_-_wie_sehe_ich_meinen_lehr.xls,nicht bekannt,XLS,g
-,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/bt2013/Erst/Erststimme_Wahlabend.xls,nicht bekannt,XLS,b
-,,,,,,,x,,,,,,,,,amtliches Endergebnis (xlsx),http://www.wahl.ulm.de/gr2014/html/gr2014.html,nicht bekannt,XLS,c
 ,,,,,,,x,,,,,,,,,amtliches Endergebnis (xlsx),http://www.wahl.ulm.de/or2014/Eggingen/or2014egg.html,nicht bekannt,XLS,c
-,,x,,,x,,,,,,,,,,,Gefahrenbäume 2010,http://www.ulm.de/sixcms/media.php/29/F%E4llliste%202010.xls,nicht bekannt,XLS,g
 ,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/or2014/Goe-Do/OR_vorl_Ergebnis.xlsx,nicht bekannt,XLSX,b
-,,,,,,,x,,,,,,,,,Ergebnis Wahlabend (xlsx),http://www.wahl.ulm.de/eu2014/html/eu2014.html,nicht bekannt,XLS,c
 ,,,,,,x,,,,,,,,,,Sportkennzahlen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/sportkennzahlen-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
 ,,,,,x,,,,,,,,,,,Gartenabfallplätze Stadt Ulm,http://daten.ulm.de/daten/single/gartenabfallplatz,CC BY 3.0 DE,SHAPE,d
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2013 - Ergebnisse Erst- und Zweitstimmen in Ulm,http://daten.ulm.de/daten/single/Bundestagswahl_2013_Ergebnisse_Ulm,CC BY 3.0 DE,"XLS,XLSX",d
@@ -21,7 +17,6 @@ x,,,,,,,,,,,,,,,,"Vorausrechnungsgebiete der Stadt Ulm, generalisiert",http://da
 ,,x,,,,,,,,,,,,,,"Stadtviertel der Stadt Ulm, generalisiert",http://daten.ulm.de/daten/single/stadtviertel-generalisiert,CC BY 3.0 DE,SHAPE,d
 ,,,,,,,,,,,,,x,,,Betriebe und Beschäftigte im vearbeitenden Gewerbe der Stadt Ulm,http://daten.ulm.de/daten/single/betriebe-und-beschäftigte-im-vearbeitenden-gewerbe-der-stadt-ulm,CC BY 3.0 DE,"XLS,XLSX",d
 ,,,,,,,,,,,,x,,,,Steuern und Finanzen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/steuern-finanzen-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
-,,,,,,x,,,,,,,,,,Spiel- und Bolzplatzflächen in den Stadtteilen der Stadt Ulm,http://daten.ulm.de/daten/single/spiel-und-bolzplatzflächen-den-stadtteilen-der-stadt-ulm,CC BY 3.0 DE,CSV,d
 ,,,,,,x,,,x,,,,,,,"Unterwegs in Ulm, die 60 Ulmer Spazierwege",http://daten.ulm.de/datenkatalog/metadaten/unterwegs-in-ulm,,AI,d
 ,,,,,,,x,,,,,,,,,Wahllokale der Stadt Ulm (Karte),http://daten.ulm.de/daten/single/wahllokale-uebersichtskarte,CC BY 3.0 DE,PDF,d
 ,,,,,,x,,,,,,,,,,Spielplätze Stadt Ulm,http://daten.ulm.de/daten/single/spielplaetze-oeffentliche,CC BY 3.0 DE,SHAPE,d
@@ -94,6 +89,10 @@ x,,,,,,,,,,,,,,,,Ulm und Umland - Kennzahlen Statistisches Jahrbuch 2012,http://
 ,x,,,,,,,,,,,,,,,"Stadtbibliothek, Fahrbibliotheken Stadt Ulm",http://daten.ulm.de/daten/single/stadtbibliothek,CC BY 3.0 DE,SHAPE,d
 ,x,,,,,,,,,,,,,,,Musikschulstandorte Stadt Ulm (Karte),http://daten.ulm.de/daten/single/musikschulstandorte-karte,CC BY-NC-ND 3.0 DE,SHAPE,d
 ,,,,,,,,x,,,,,,,,Sozialindikatoren Sozialraum West der Stadt Ulm,http://daten.ulm.de/daten/single/sozialindikatoren-sozialraum-west-der-stadt-ulm,CC BY 3.0 DE,"XLS,XLSX",d
+,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/bt2013/Erst/Erststimme_Wahlabend.xls,nicht bekannt,XLS,b
+,,,,,,,x,,,,,,,,,amtliches Endergebnis (xlsx),http://www.wahl.ulm.de/gr2014/html/gr2014.html,nicht bekannt,XLS,c
+,,x,,,x,,,,,,,,,,,Gefahrenbäume 2010,http://www.ulm.de/sixcms/media.php/29/F%E4llliste%202010.xls,nicht bekannt,XLS,g
+,,,,,,,x,,,,,,,,,Ergebnis Wahlabend (xlsx),http://www.wahl.ulm.de/eu2014/html/eu2014.html,nicht bekannt,XLS,c
 ,,,,,,,x,,,,,,,,,Zweitstimmenergebnis Wahlabend (xls),http://www.wahl.ulm.de/bt2013/Zweit/bt2013zweit.html,nicht bekannt,XLS,c
 ,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/or2014/Unterweiler/OR_vorl_Ergebnis.xlsx,nicht bekannt,XLSX,b
 ,,,,,,,x,,,,,,,,,Ergebnis Wahlabend (xlsx),http://www.wahl.ulm.de/eu2014/html/EU_vorl_Ergebnis.xlsx,nicht bekannt,XLSX,g
@@ -124,3 +123,4 @@ x,,,,,,,,,,,,,,,,Ulm und Umland - Kennzahlen Statistisches Jahrbuch 2012,http://
 ,,,,,,x,,,,,,,,,,Stadtmitte,http://www.ulm.de/sixcms/media.php/29/Stadtmitte.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,Wie sehe ich meine Klasse,http://www.fgs.schule.ulm.de/files/auswertung_klassenklima_-_wie_ich_meine_klasse_seh.xls,nicht bekannt,XLS,g
 ,,,,,,,x,,,,,,,,,Erststimmenergebnis Wahlabend (xls),http://www.wahl.ulm.de/bt2013/Erst/bt2013erst.html,nicht bekannt,XLS,c
+,,,,,,x,,,,,,,,,,Spiel- und Bolzplatzflächen in den Stadtteilen der Stadt Ulm,http://daten.ulm.de/daten/single/spiel-und-bolzplatzflächen-den-stadtteilen-der-stadt-ulm,CC BY 3.0 DE,CSV,d
