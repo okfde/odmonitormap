@@ -1,5 +1,5 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,,,,,,,,,x,,,,Amtsblätter der Stadt Bochum,http://www.bochum.de/C125708500379A31/vwContentByKey/W29PGFRJ548BOCMDE/nav/75F9RD294BOLD,dl-de-by-1.0,TXT,d
+,,,,,,,x,,,,,,,,,Ergebnisse der Wahl der Bezirksvertretungen am 25. Mai 2014,http://www.bochum.de/opendata/datensaetze/politik-wahlen/nav/75F9RD294BOLD#par4,dl-de-by-1.0,CSV,d
 ,,,,,,x,,,,,,,,,,Haus- und Badeordnung für die Benutzung der Bäder der Stadt Bochum,http://www.bochum.de/opendata/datensaetze/kultur-sport-freizeit/nav/75F9RD294BOLD#par5,dl-de-by-1.0,TXT,d
 ,,,,,,,,,,,,,x,,,"Sozialversicherungspflichtig Beschäftigte in den Stadtbezirken in Bochum nach Geschlecht, Nationalität und ausgewählten Altersgruppen",http://www.bochum.de/opendata/datensaetze/wirtschaft-arbeit/nav/75F9RD294BOLD#par1,dl-de-by-1.0,"CSV,XLS",d
 x,,,,,,,,,,,,,,,,"Anzahl der Einwohner nach statistischen Bezirken, Staatsangehörigkeit und Geschlecht der Person",http://www.bochum.de/opendata/datensaetze/bevoelkerung/nav/75F9RD294BOLD#par3,dl-de-by-1.0,"CSV,XLS",d
@@ -8,6 +8,7 @@ x,,,,,,,,,,,,,,,,"Anzahl der Einwohner nach Stadtbezirken, Staatsangehörigkeit 
 ,,x,,,x,,,,,,,,,,,Denkmalliste der Stadt Bochum,http://www.bochum.de/opendata/datensaetze/geografie-geodaten-stadtplanung/nav/75F9RD294BOLD#par1,dl-de-by-1.0,"CSV,XLS",d
 ,,,,,,x,,x,,,,,,,,"Informationen für Bochumer Eltern und Kinder (Beratungs-, Freizeit- und Hilfsangebote)",http://www.bochum.de/opendata/datensaetze/jugend-familie-soziales/nav/75F9RD294BOLD#par2,dl-de-by-1.0,"CSV,XLS",d
 x,,,,,,,,,,,,,,,,"Anzahl der Einwohner nach statistischen Bezirken, Staatsangehörigkeit und Alter der Person",http://www.bochum.de/opendata/datensaetze/bevoelkerung/nav/75F9RD294BOLD#par1,dl-de-by-1.0,"CSV,XLS",d
+x,,,,,,,,,,,,,,,,"Anzahl der Einwohner nach Stadtbezirken, Staatsangehörigkeit und Alter der Person",http://www.bochum.de/opendata/datensaetze/bevoelkerung/nav/75F9RD294BOLD#par2,dl-de-by-1.0,"CSV,XLS",d
 ,x,,,,,,,,,,,,,,,Auszug aus der Entgeltregelung der Stadt Bochum - Gestellung von Räumen für Veranstaltungen,http://www.bochum.de/opendata/datensaetze/bildung-wissenschaft/nav/75F9RD294BOLD#par2,dl-de-by-1.0,TXT,d
 ,,,,,,,,,,,,x,,,,Haushaltssatzung,http://www.bochum.de/opendata/datensaetze/oeffentliche-verwaltung-haushalt-steuern/nav/75F9RD294BOLD#par3,dl-de-by-1.0,TXT,d
 ,,,,,,,x,,,,,,,,,Ergebnis der Europawahl am 25. Mai 2014,http://www.bochum.de/opendata/datensaetze/politik-wahlen/nav/75F9RD294BOLD#par2,dl-de-by-1.0,CSV,d
@@ -18,10 +19,9 @@ x,,,,,,,,,,,,,,,,"Anzahl der Einwohner nach statistischen Bezirken, Staatsangeh�
 ,,,,,,x,,,,,,,,,,Benutzungsregelung für die städtischen Sportstätten,http://www.bochum.de/opendata/datensaetze/kultur-sport-freizeit/nav/75F9RD294BOLD#par6,dl-de-by-1.0,TXT,d
 ,,,,,,x,,,,,,,,,,Übersicht der Bochumer Hallen- und Freibäder,http://www.bochum.de/opendata/datensaetze/kultur-sport-freizeit/nav/75F9RD294BOLD#par2,dl-de-by-1.0,"CSV,XLS",d
 ,,,x,,,,,,,x,,,,,,Friedhofssatzung der Stadt Bochum,http://www.bochum.de/opendata/datensaetze/ortsrecht/nav/75F9RD294BOLD#par3,dl-de-by-1.0,TXT,d
-,,,,,,,,,,,,x,,,,Datentabelle zum Haushaltsplanentwurf 2015,http://www.bochum.de/opendata/datensaetze/oeffentliche-verwaltung-haushalt-steuern/nav/75F9RD294BOLD#par2,dl-de-by-1.0,"CSV,XLS",d
+,,,,,,,x,,,,,,,,,Ergebnis der Wahl zum Rat der Stadt Bochum am 25. Mai 2014,http://www.bochum.de/opendata/datensaetze/politik-wahlen/nav/75F9RD294BOLD#par3,dl-de-by-1.0,CSV,d
 ,,,,,,x,,x,,,,,,,,Spiel- und Bolzplätze auf Bochumer Stadtgebiet,http://www.bochum.de/opendata/datensaetze/jugend-familie-soziales/nav/75F9RD294BOLD#par3,dl-de-by-1.0,"CSV,XLS",d
 ,,,,,,x,,,,,,,,,,Übersicht der Bochumer Sportanlagen,http://www.bochum.de/opendata/datensaetze/kultur-sport-freizeit/nav/75F9RD294BOLD#par1,dl-de-by-1.0,"CSV,XLS",d
 ,,,,,,,,x,,,,,,,,Vornamen-Statistiken,http://www.bochum.de/opendata/datensaetze/jugend-familie-soziales/nav/75F9RD294BOLD#par1,dl-de-by-1.0,"CSV,XLS",d
-,,,,,,,x,,,,,,,,,Ergebnisse der Wahl der Bezirksvertretungen am 25. Mai 2014,http://www.bochum.de/opendata/datensaetze/politik-wahlen/nav/75F9RD294BOLD#par4,dl-de-by-1.0,CSV,d
-x,,,,,,,,,,,,,,,,"Anzahl der Einwohner nach Stadtbezirken, Staatsangehörigkeit und Alter der Person",http://www.bochum.de/opendata/datensaetze/bevoelkerung/nav/75F9RD294BOLD#par2,dl-de-by-1.0,"CSV,XLS",d
-,,,,,,,x,,,,,,,,,Ergebnis der Wahl zum Rat der Stadt Bochum am 25. Mai 2014,http://www.bochum.de/opendata/datensaetze/politik-wahlen/nav/75F9RD294BOLD#par3,dl-de-by-1.0,CSV,d
+,,,,,,,,,,,,x,,,,Amtsblätter der Stadt Bochum,http://www.bochum.de/C125708500379A31/vwContentByKey/W29PGFRJ548BOCMDE/nav/75F9RD294BOLD,dl-de-by-1.0,TXT,d
+,,,,,,,,,,,,x,,,,Datentabelle zum Haushaltsplanentwurf 2015,http://www.bochum.de/opendata/datensaetze/oeffentliche-verwaltung-haushalt-steuern/nav/75F9RD294BOLD#par2,dl-de-by-1.0,"CSV,XLS",d

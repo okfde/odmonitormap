@@ -10,6 +10,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Südhöhe I,http://www.daten.rlp.de/dataset/e89a7365-c024-4ef3-a166-45563bb05617,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Breitestrasse /Beckstrasse 3. Änderung,http://www.daten.rlp.de/dataset/6817aff5-6b98-433c-a440-9a55c2f64dc8,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Pönterberg II,http://www.daten.rlp.de/dataset/0c9503a0-f4fe-413e-9a87-8434852d2ce1,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Andernach - Ebene: Rheinstrasse / Holzgasse 1.Änderung,http://www.daten.rlp.de/dataset/42561c92-449b-423f-912a-12fcb0f16563,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: In der Jaugel,http://www.daten.rlp.de/dataset/76fcb480-b756-4b4b-a380-475e482ce8db,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Industriegebiet I 1. Planänderung,http://www.daten.rlp.de/dataset/fdca602a-5b5a-4b5f-8c2e-85ce992f8cfc,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Hochstrasse-Obere Wallstrasse-Bahnhofstrasse-Eisengasse,http://www.daten.rlp.de/dataset/26cd888f-9b11-4c81-b84a-06fffd3b0dfa,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -34,7 +35,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Am Kirchberg 2. Planänderung,http://www.daten.rlp.de/dataset/a553fcc6-29d5-4bdb-8085-194e2b10c5f8,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Am Mühlgraben,http://www.daten.rlp.de/dataset/cc47d37f-6b69-48a3-a407-b07da050da35,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Schulzentrum 2. Planänderung,http://www.daten.rlp.de/dataset/a49ca94b-dcef-4026-bd00-06a41ad0bad1,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Andernach - Ebene: Hochstrasse-Obere Wallstrasse-Bahnhofstrasse-Eisengasse 7. Planänderung,http://www.daten.rlp.de/dataset/dce47c04-a6ce-489d-bf62-9a66e7e02663,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Güntherstrasse/Karolingerstrasse 1. Planänderung,http://www.daten.rlp.de/dataset/88e61f7e-6e55-4e7c-949d-701e2850cbb0,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Bahnübergang Namedy 1. Planänderung,http://www.daten.rlp.de/dataset/c2fc0cae-9de8-48ed-93e5-10e0bb9dd7e9,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Schulzentrum 3. Planänderung,http://www.daten.rlp.de/dataset/40f17582-79a2-4207-91d0-088dd94197ea,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -46,11 +46,11 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Himmeroder Strasse,http://www.daten.rlp.de/dataset/c2121847-56be-4acb-86d0-41bda45732d4,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Breitestrasse /Beckstrasse 1. Planänderung,http://www.daten.rlp.de/dataset/f208e00b-d445-48f2-ad3d-5510ba0d6e3f,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Andernach - Ebene: Flächennutzungspläne,http://www.daten.rlp.de/dataset/541d981d-6ec8-4558-be04-a69f74ba42c8,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Andernach - Ebene: In der oberen Antel 1. Planänderung,http://www.daten.rlp.de/dataset/210c510d-453f-4d3d-aa3b-4e65d024a2ce,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Am Burgerbergweg 1. Änderung,http://www.daten.rlp.de/dataset/c0473796-11b9-4011-8e52-d9ade926bff3,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: In der Wiese 2. Planänderung,http://www.daten.rlp.de/dataset/b192e07c-ce87-4ba9-a2d4-2dd8f775a874,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Auf dem Hammerweg,http://www.daten.rlp.de/dataset/4d9f5b47-da2b-4dc5-a5e3-5f9a269f5d6e,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Andernach - Ebene: Friedhof - Hauptstrasse,http://www.daten.rlp.de/dataset/0233dc6e-a5c2-47db-ab28-ff3a778c9d27,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Andernach - Ebene: Rheinstrasse / Holzgasse 1.Änderung,http://www.daten.rlp.de/dataset/42561c92-449b-423f-912a-12fcb0f16563,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Antel 2. Planänderung,http://www.daten.rlp.de/dataset/2e269a1d-e056-470b-bc40-ef4e2834ed2f,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Himmeroder Strasse 1. Planänderung,http://www.daten.rlp.de/dataset/aa272d5a-a086-4a8c-8ce0-16cf6b9546c5,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Andernach - Ebene: Friedhof - Hauptstrasse,http://www.daten.rlp.de/dataset/0233dc6e-a5c2-47db-ab28-ff3a778c9d27,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Andernach - Ebene: Hochstrasse-Obere Wallstrasse-Bahnhofstrasse-Eisengasse 7. Planänderung,http://www.daten.rlp.de/dataset/dce47c04-a6ce-489d-bf62-9a66e7e02663,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Andernach - Ebene: In der oberen Antel 1. Planänderung,http://www.daten.rlp.de/dataset/210c510d-453f-4d3d-aa3b-4e65d024a2ce,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
