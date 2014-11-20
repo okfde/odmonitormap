@@ -8,7 +8,6 @@ Regensburg,regensburg,,,,49.0195333,12.0974869,2014-11-20,0,1,0,0,0,govdata.de
 Wiesbaden,wiesbaden,http://wiesbaden.de,,online-redaktion@wiesbaden-marketing.de,50.0833,8.25,2014-10-31,0,0,0,1,0,offenedaten.de
 Chemnitz,chemnitz,http://chemnitz.de,,katja.uhlemann@stadt-chemnitz.de,50.8322608,12.9252977,2014-08-15,0,0,4,0,0,offenedaten.de
 Verbandsgemeinde Vallendar,verbandsgemeindevallendar,,,,50.4001381,7.6142479,2014-11-20,0,36,0,0,0,daten.rlp.de
-Ulm,ulm,http://ulm.de,http://daten.ulm.de,-,48.398312,9.9910464,2014-11-20,0,88,9,10,18,"offenedaten.de,daten.ulm.de"
 Hamburg,hamburg,http://hamburg.de,http://transparenz.hamburg.de,info-office@hamburg.de,53.5437641,10.0099133,2014-11-13,0,1992,0,29,124,"offenedaten.de,transparenz.hamburg.de"
 Hannover,hannover,http://hannover.de,,Internetredaktion@Hannover-Stadt.de,52.3744779,9.7385532,2014-11-20,0,4,0,0,1,"offenedaten.de,govdata.de"
 Erlangen,erlangen,,,,49.5981208,11.0036532,2014-11-20,0,2,0,0,0,govdata.de
@@ -18,6 +17,7 @@ Spiekeroog,spiekeroog,,,,53.7666185,7.72555904783462,2014-11-20,0,1,0,0,0,govdat
 Marxzell,marxzell,http://marxzell.de,,gemeinde@marxzell.de,48.8617614,8.4488303,2014-10-31,0,0,0,1,0,offenedaten.de
 Verbandsgemeinde Gerolstein,verbandsgemeindegerolstein,,,,50.2234404,6.6618586,2014-11-20,0,83,0,0,0,daten.rlp.de
 Braunschweig,braunschweig,,,,52.27165645,10.5203138303942,2014-11-20,0,8,0,0,0,govdata.de
+Ulm,ulm,http://ulm.de,http://daten.ulm.de,opendata@ulm.de,48.398312,9.9910464,2014-11-20,0,88,9,10,18,"offenedaten.de,daten.ulm.de"
 Schnackenburg,schnackenburg,,,,53.0369826,11.5657431,2014-11-20,0,1,0,0,0,govdata.de
 Verbandsgemeinde Hamm (Sieg),verbandsgemeindehammsieg,,,,50.7666871,7.6783886319334,2014-11-20,0,1,0,0,0,daten.rlp.de
 Uetze,uetze,http://uetze.de,,-,52.4644432,10.2025806,2014-10-22,0,0,4,0,0,offenedaten.de
