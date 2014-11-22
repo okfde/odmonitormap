@@ -16,7 +16,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Beltheim - Ebene: Am Brügel,http://www.daten.rlp.de/dataset/5f22d8df-2853-4fa3-93d3-3204acd18110,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Braunshorn - Ebene: Vor den Gärten,http://www.daten.rlp.de/dataset/91deac3f-648a-461f-ba69-aa2a6c342b7a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Beltheim - Ebene: Schreinerei Busch,http://www.daten.rlp.de/dataset/30262dfd-100b-4558-8c32-47da430a646b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Lahr - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/f13368bc-1be8-4a83-9cfb-8115758e98b3,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Kastellaun - Ebene: Südstraße,http://www.daten.rlp.de/dataset/c8acd0e9-c255-472c-bcae-1b5ccc7866ef,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Lahr - Ebene: Blenzenstück,http://www.daten.rlp.de/dataset/16f37f6b-3647-41cd-9ad7-d216d47f6352,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Beltheim - Ebene: Einbeziehungssatzung Mannebach,http://www.daten.rlp.de/dataset/c8e5b587-9f87-4c93-8b04-ad27eaa9af11,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -25,7 +24,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Mörsdorf - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/3b634317-746d-4a02-9841-be07ff65b547,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gödenroth - Ebene: Gewerbegebiet An der Trift II,http://www.daten.rlp.de/dataset/27e76eea-56b4-4248-b7e2-9174b7aaa498,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Kastellaun - Ebene: Kleiner Rehberg XVII 2. Änderung,http://www.daten.rlp.de/dataset/052cc765-46d3-4b74-9f0c-b9aa2f46bf40,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Lahr - Ebene: Umringe der Bebauungspläne von Lahr,http://www.daten.rlp.de/dataset/e66050ff-ea84-48ea-a52f-9d108868813d,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Dommershausen - Ebene: Abrundungssatzung Dorweiler / Eveshausen,http://www.daten.rlp.de/dataset/476c6081-75fa-4835-ad37-5e4d1df4e8ca,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Braunshorn - Ebene: Vor den Gärten 1. Änderung,http://www.daten.rlp.de/dataset/ce15d42b-5cb6-4911-9d17-72d77a16154b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Dommershausen - Ebene: Auf der Kreuzerwies,http://www.daten.rlp.de/dataset/9ae40d5d-ce1e-4705-8f63-64e3170739cd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -42,9 +40,11 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Hasselbach - Ebene: Sondergebiet Fotovoltaik Oberste Birkenstruth,http://www.daten.rlp.de/dataset/c828b931-415e-47d0-9e53-96a56f70d4bd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Mörsdorf - Ebene: 2. Nordwestliche Ortserweiterung,http://www.daten.rlp.de/dataset/38c87b1d-160c-40c1-90cd-1eeb2b897ac9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Kastellaun - Ebene: Fachmarktzentrum Bahnhofstraße,http://www.daten.rlp.de/dataset/a3d2c35c-6e3f-4682-abe6-42dffb97c9f3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Alterkülz - Ebene: Alterkülz,http://www.daten.rlp.de/dataset/a6b35b6f-7b93-4293-a652-c55efed37a1a,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Uhler - Ebene: Umringe der Bebauungspläne von Uhler,http://www.daten.rlp.de/dataset/6a165657-3ec7-491f-bc01-db6737302c69,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Kastellaun - Ebene: Kleiner Rehberg XVII 1. Änderung,http://www.daten.rlp.de/dataset/473f5c94-d6b1-4ce5-aec5-09e96646b7fb,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Korweiler - Ebene: Korweiler,http://www.daten.rlp.de/dataset/2ecfc3b9-01b7-4887-b911-b451ec45de20,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Kastellaun - Ebene: Kastellaun,http://www.daten.rlp.de/dataset/ebd367ae-46b1-4edc-901e-fe7cb9859ff5,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Zilshausen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/96b37b17-7ba5-4023-a8ea-3cd21dfaa95a,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Roth - Ebene: Im Rother Flur,http://www.daten.rlp.de/dataset/990447b9-404b-47ba-8238-5d30f297642e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Kastellaun - Ebene: Industriegebiet IX A 1. Änderung,http://www.daten.rlp.de/dataset/50d92488-77b8-467e-bf5b-840ccbae7a2d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -52,6 +52,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Braunshorn - Ebene: Umringe der Bebauungspläne von Braunshorn,http://www.daten.rlp.de/dataset/f2e94233-5dea-489c-8ff4-2f85ee66b864,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Braunshorn - Ebene: Hinter der alten Schule II,http://www.daten.rlp.de/dataset/22a555ad-3ec4-4442-a8fb-c41475d4bacd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Beltheim - Ebene: Am Brügel 2. Änderung,http://www.daten.rlp.de/dataset/a1dacf1a-abfc-473d-98b4-5faa565e7314,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Lahr - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/f13368bc-1be8-4a83-9cfb-8115758e98b3,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Lahr - Ebene: Umringe der Bebauungspläne von Lahr,http://www.daten.rlp.de/dataset/e66050ff-ea84-48ea-a52f-9d108868813d,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Beltheim - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/165f0442-6975-4101-8e8e-45eb01edc04f,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Alterkülz - Ebene: Alterkülz,http://www.daten.rlp.de/dataset/a6b35b6f-7b93-4293-a652-c55efed37a1a,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Kastellaun - Ebene: Kastellaun,http://www.daten.rlp.de/dataset/ebd367ae-46b1-4edc-901e-fe7cb9859ff5,cc-nc,"KARTENVIEWER,WMS,HTML",d
