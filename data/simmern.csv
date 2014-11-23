@@ -3,6 +3,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Reich - Ebene: Umringe der Bebauungspläne von Reich,http://www.daten.rlp.de/dataset/8a9e24e9-0562-4f24-ab20-704663428f2a,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Riegenroth - Ebene: Umringe der Bebauungspläne von Riegenroth,http://www.daten.rlp.de/dataset/e826f499-3eeb-4de4-bbce-ea903c7ab2f2,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Keidelheim - Ebene: Auf`m Berg,http://www.daten.rlp.de/dataset/4be6354b-e1bb-4eee-a3b3-4f4866353e4d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Reich - Ebene: Alte Kläranlage 1. Änderung,http://www.daten.rlp.de/dataset/b223f601-159c-4fdc-b271-de9a729ce125,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Neuerkirch - Ebene: Auf Blaul,http://www.daten.rlp.de/dataset/539abc44-8c97-43a1-8b53-376aec7d3e5e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Riegenroth - Ebene: Ergänzungssatzung Ober der Kirche,http://www.daten.rlp.de/dataset/1a8fdd80-dc41-40b7-8524-5017d2555f4a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Horn - Ebene: Am Budenbacher Weg III,http://www.daten.rlp.de/dataset/cabaa7d5-b5d8-47a5-ab88-792f70893b14,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -56,7 +57,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Mutterschied - Ebene: Verlängerung der Albert-Weinand-Straße,http://www.daten.rlp.de/dataset/f2c35cc5-37c9-4d3f-883d-ed4c596fa38e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Schönborn - Ebene: Umringe der Bebauungspläne von Schönborn,http://www.daten.rlp.de/dataset/44066839-37a5-44f7-9f98-7a45f510e58c,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Pleizenhausen - Ebene: Auf der Gredenbitz 1. Änderung,http://www.daten.rlp.de/dataset/ae10499b-6a32-4a9a-a377-5e29c0d2effc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Fronhofen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/74409833-2473-4a01-af02-e5551adf9ebb,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Niederkumbd - Ebene: Auf der Posswies II,http://www.daten.rlp.de/dataset/2a018409-5e14-4830-b653-353f672c9968,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Kümbdchen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/e3fff9cc-b712-4147-a266-ca4ac6fdc9c0,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Riegenroth - Ebene: Auf der Handhau II,http://www.daten.rlp.de/dataset/d9aeba91-59b2-44e5-8804-c8b9110377b2,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -64,4 +64,4 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Klosterkumbd - Ebene: Auf Weiselstein,http://www.daten.rlp.de/dataset/e7aaa2b4-a95d-4020-9f37-ba9c9b7de170,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Bubach - Ebene: Obergarten,http://www.daten.rlp.de/dataset/4642051e-e430-453f-a618-f9b8d5ad5c2e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Schönborn - Ebene: Kappesacker,http://www.daten.rlp.de/dataset/8830f566-17cb-41c3-b349-71c62e0750bd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Reich - Ebene: Alte Kläranlage 1. Änderung,http://www.daten.rlp.de/dataset/b223f601-159c-4fdc-b271-de9a729ce125,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Fronhofen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/74409833-2473-4a01-af02-e5551adf9ebb,cc-nc,"KARTENVIEWER,WMS,HTML",d
