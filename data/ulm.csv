@@ -1,8 +1,11 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,,x,,,,,,,,,,,Bau- und Wohnungswesen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/bau-wohnungswesen-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
-,,,,,,,,,x,,,,,,,OpenStreetMap-ÖPNV-Bushaltestellen,http://daten.ulm.de/datenkatalog/metadaten/openstreetmap-haltestellen-terrestris,,WMS,d
 x,,,,,,,,,,,,,,,,Ulm und Umland - Kennzahlen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/ulm-und-umland-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
 ,x,,,,,,,,,,,,,,,Wie sehe ich meinen Lehrer,http://www.fgs.schule.ulm.de/files/auswertung_klassenklima_-_wie_sehe_ich_meinen_lehr.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,,,,,,,Bau- und Wohnungswesen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/bau-wohnungswesen-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
+,,,,,,,,,x,,,,,,,OpenStreetMap-ÖPNV-Bushaltestellen,http://daten.ulm.de/datenkatalog/metadaten/openstreetmap-haltestellen-terrestris,,WMS,d
+,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/or2014/Goe-Do/OR_vorl_Ergebnis.xlsx,nicht bekannt,XLSX,b
+,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/bt2013/Erst/Erststimme_Wahlabend.xls,nicht bekannt,XLS,b
+,,,,,,,,,,,,x,,,,Steuern und Finanzen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/steuern-finanzen-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
 ,,,,,,x,,,,,,,,,,Sportkennzahlen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/sportkennzahlen-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
 ,,,,,x,,,,,,,,,,,Gartenabfallplätze Stadt Ulm,http://daten.ulm.de/daten/single/gartenabfallplatz,CC BY 3.0 DE,SHAPE,d
 ,,,,,,x,,,,,,,,,,Spielplätze mit Trainingsgeräten für Senioren,http://daten.ulm.de/daten/single/spielplaetze-seniorentrainingsgeraete,CC BY 3.0 DE,SHAPE,d
@@ -28,11 +31,9 @@ x,,,,,,,,,,,,,,,,Bevölkerungsdaten Statistisches Jahrbuch 2012,http://daten.ulm
 ,,x,,,,,,,,,,,,,,Orthobilder 2013 der Stadt Ulm,http://daten.ulm.de/daten/single/orthobilder-2013-der-stadt-ulm,,TIFF,d
 ,,,,,,,,,x,,,,,,,Parkhäuser und P+R Stadt Ulm,http://daten.ulm.de/daten/single/parkhaeuser,CC BY 3.0 DE,SHAPE,d
 ,,,,,,,,,,x,,,,,,Landschaftsschutzgebiete der Stadt Ulm,http://daten.ulm.de/daten/single/landschaftsschutzgebiete_ulm,CC BY 3.0 DE,ORACLE,d
-,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/or2014/Goe-Do/OR_vorl_Ergebnis.xlsx,nicht bekannt,XLSX,b
-,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/bt2013/Erst/Erststimme_Wahlabend.xls,nicht bekannt,XLS,b
+,,x,,,x,,,,,,,,,,,Gefahrenbäume 2010,http://www.ulm.de/sixcms/media.php/29/F%E4llliste%202010.xls,nicht bekannt,XLS,g
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2013 - Ergebnisse Erst- und Zweitstimmen in Ulm,http://daten.ulm.de/daten/single/Bundestagswahl_2013_Ergebnisse_Ulm,CC BY 3.0 DE,"XLS,XLSX",d
 x,,,,,,,,,,,,,,,,"Vorausrechnungsgebiete der Stadt Ulm, generalisiert",http://daten.ulm.de/daten/single/vorausrechnungsgebiete,CC BY 3.0 DE,SHAPE,d
-,,,,,,,,,,,,x,,,,Steuern und Finanzen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/steuern-finanzen-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
 ,,,,,,x,,,,,,,,,,Spielplätze Stadt Ulm,http://daten.ulm.de/daten/single/spielplaetze-oeffentliche,CC BY 3.0 DE,SHAPE,d
 ,,,,,,,x,,,,,,,,,amtliches Endergebnis (xlsx),http://www.wahl.ulm.de/gr2014/html/gr2014.html,nicht bekannt,XLS,c
 ,,,,,,,,x,,,,,,,,"Sozialraumgrenzen Stadt Ulm, generalisiert",http://daten.ulm.de/daten/single/sozialraumgrenzen-stadt-ulm-generalisiert,CC BY 3.0 DE,SHAPE,d
@@ -48,9 +49,7 @@ x,,,,,,,,,,,,,,,,"Vorausrechnungsgebiete der Stadt Ulm, generalisiert",http://da
 ,,,,,,,,x,,,,,,,,Sozialindikatoren Sozialraum Mitte/Ost der Stadt Ulm,http://daten.ulm.de/daten/single/sozialindikatoren-sozialraum-mitteost-der-stadt-ulm,CC BY 3.0 DE,"XLS,XLSX",d
 ,,,,,x,,,,,,,,,,,Häckselplätze Stadt Ulm,http://daten.ulm.de/daten/single/haeckselplatz,CC BY 3.0 DE,SHAPE,d
 ,,x,,,,,,,,,,,,,,Amtliche Stadtkarte Stadt Ulm / Neu-Ulm,http://daten.ulm.de/daten/single/amtliche-stadtkarte-stadt-ulm-neu-ulm,,AI,d
-,,x,,,x,,,,,,,,,,,Gefahrenbäume 2010,http://www.ulm.de/sixcms/media.php/29/F%E4llliste%202010.xls,nicht bekannt,XLS,g
 ,,,,,,,x,,,,,,,,,Ergebnis Wahlabend (xlsx),http://www.wahl.ulm.de/eu2014/html/eu2014.html,nicht bekannt,XLS,c
-,,,,,,,x,,,,,,,,,amtliches Endergebnis (xlsx),http://www.wahl.ulm.de/or2014/Eggingen/or2014egg.html,nicht bekannt,XLS,c
 ,,,,,,,x,,,,,,,,,Wahlbezirke (tabellarisch) der Stadt Ulm,http://daten.ulm.de/datenkatalog/metadaten/wahlbezirke-tabelle,CC BY 3.0 DE,"XLS,XLSX",d
 ,,,,,,,x,,,,,,,,,Europawahl 2014 - Ergebnisse in Ulm,http://daten.ulm.de/daten/single/Europawahl_2014_Ergebnisse_Ulm,CC BY 3.0 DE,"XLS,XLSX",d
 x,,,,,,,,,,,,,,,,"Wohnbevölkerung nach Geschlecht, Konfession und Familienstand in Stadtteilen der Stadt Ulm",http://daten.ulm.de/daten/single/wohnbevölkerung-nach-geschlecht-konfession-und-familienstand-stadtteilen-der-stadt-ulm,CC BY 3.0 DE,"XLS,XLSX",d
@@ -59,15 +58,12 @@ x,,,,,,,,,,,,,,,,"Wohnbevölkerung nach Geschlecht, Konfession und Familienstand
 x,,,,,,,,,,,,,,,,"Wohnbevölkerung nach Altersjahren, Staatsangehörigkeit und Geschlecht der Stadt Ulm",http://daten.ulm.de/daten/single/wohnbevölkerung-nach-altersjahren-staatsangehörigkeit-und-geschlecht-der-stadt-ulm,CC BY 3.0 DE,"XLS,XLSX",d
 ,,,,,,,,,,,,x,,,,Landes- und Bundessteuern: Steueraufkommen beim Finanzamt Ulm,http://daten.ulm.de/daten/single/landes-und-bundessteuern-steueraufkommen-beim-finanzamt-ulm,CC BY 3.0 DE,"XLS,XLSX",d
 ,,,x,,,,,,,,,,,,,Öffentliche Sicherheit Kennzahlen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/sicherheit-oeffentliche-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
-,,,x,,,,,,,,,,,,,Straftaten in Ulm nach Deliktgruppen,http://daten.ulm.de/daten/single/straftaten-ulm-nach-deliktgruppen,CC BY 3.0 DE,CSV,d
 ,,,,,,,x,,,,,,,,,Bundestagwahl 2013 Stadt Ulm (Ergebniskarten),http://daten.ulm.de/daten/single/bundestagswahl2013-karten,CC BY 3.0 DE,PDF,d
 ,,x,,,,,,,,,,,,,,maps.ulm.de - das Geoportal der Stadt Ulm,http://daten.ulm.de/daten/single/mapsulmde-das-geoportal-der-stadt-ulm,,POSTGRESQL,d
 ,,x,,,,,,,,,,,,,,"Stadtteile der Stadt Ulm, generalisiert",http://daten.ulm.de/daten/single/stadtteile-generalisiert,CC BY 3.0 DE,SHAPE,d
-x,,,,x,,,,,,,,,,,,Gesundheitskennzahlen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/gesundheit-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
 ,,x,,,,,,,,,,,,,,OpenStreetMap-WMS - Stil mapnik,http://daten.ulm.de/datenkatalog/metadaten/openstreetmap-wms-stil-mapnik,,WMS,d
 ,,,,,,x,,,,,,,,,,"map-it ""Mein Lieblingsplatz"" - Kartenviewer Stadt Ulm",http://daten.ulm.de/daten/single/map-it-mein-lieblingsplatz-kartenviewer-stadt-ulm,,SHAPE,d
 ,,x,,,,,,,,,,,,,,Orthobilder 2010 der Stadt Ulm,http://daten.ulm.de/daten/single/orthobilder-2010,,TIFF,d
-,,,,,x,,,,,,,,,,,Versorgung und Entsorgung Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/versorung-entsorgung-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
 ,,,,,,,,,x,,,,,,,Amtliches Straßenverzeichnis und Gewannnamen der Stadt Ulm,http://daten.ulm.de/daten/single/strassenverzeichnis-und-gewannnamen,CC BY 3.0 DE,"XLS,XLSX",d
 ,,,,,,,x,,,,,,,,,Bundestagswahlergebnisse Zweitstimmen in Ulm,http://daten.ulm.de/daten/single/bundestagswahlergebnisse-zweitstimmen,CC BY 3.0 DE,"XLS,XLSX",d
 ,,x,,,,x,,,,,,,,,,Amtliche Stadtkarte für Menschen mit Behinderung Stadt Ulm,http://daten.ulm.de/daten/single/amtliche-stadtkarte-für-menschen-mit-behinderung-stadt-ulm,,AI,d
@@ -88,6 +84,10 @@ x,,,,,,,,,,,,,,,,Städtevergleich BW - Kennzahlen Statistisches Jahrbuch 2012,ht
 ,x,,,,,,,,,,,,,,,"Stadtbibliothek, Fahrbibliotheken Stadt Ulm",http://daten.ulm.de/daten/single/stadtbibliothek,CC BY 3.0 DE,SHAPE,d
 ,x,,,,,,,,,,,,,,,Musikschulstandorte Stadt Ulm (Karte),http://daten.ulm.de/daten/single/musikschulstandorte-karte,CC BY-NC-ND 3.0 DE,SHAPE,d
 ,,,,,,,,x,,,,,,,,Sozialindikatoren Sozialraum West der Stadt Ulm,http://daten.ulm.de/daten/single/sozialindikatoren-sozialraum-west-der-stadt-ulm,CC BY 3.0 DE,"XLS,XLSX",d
+,,,,,,,x,,,,,,,,,amtliches Endergebnis (xlsx),http://www.wahl.ulm.de/or2014/Eggingen/or2014egg.html,nicht bekannt,XLS,c
+,,,x,,,,,,,,,,,,,Straftaten in Ulm nach Deliktgruppen,http://daten.ulm.de/daten/single/straftaten-ulm-nach-deliktgruppen,CC BY 3.0 DE,CSV,d
+x,,,,x,,,,,,,,,,,,Gesundheitskennzahlen Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/gesundheit-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
+,,,,,x,,,,,,,,,,,Versorgung und Entsorgung Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/versorung-entsorgung-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
 ,,,,,,x,,,,,,,,,,Schwimmbäder und Badeseen Stadt Ulm,http://daten.ulm.de/daten/single/baeder-seen,CC BY 3.0 DE,SHAPE,d
 ,,,,,,x,,,,,,,,,,Spiel- und Bolzplatzflächen in den Stadtteilen der Stadt Ulm,http://daten.ulm.de/daten/single/spiel-und-bolzplatzflächen-den-stadtteilen-der-stadt-ulm,CC BY 3.0 DE,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplanbereiche,http://daten.ulm.de/daten/single/bplanbereiche,,SHAPE,d
