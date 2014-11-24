@@ -314,12 +314,19 @@ var getCityContent = function(city, marker, map) {
   }
 };
 
-var icon = L.MakiMarkers.icon({icon: "polling-place", color: "#0c0", size: "s"});
+var gicon = L.MakiMarkers.icon({icon: "polling-place", color: "#0c0", size: "s"});
+var bicon = L.MakiMarkers.icon({icon: "polling-place", color: "#665", size: "s"});
 
 var createMarker = function(d) {
   var lat = parseFloat(d.Lat, 10);
   var lon = parseFloat(d.Lon, 10);
-  var marker = L.marker([lat, lon], {icon: icon});
+  if ((d['type'].toLowerCase().indexOf('stadt') != -1) || (d['type'] == '')) {
+    //It's a 'city'
+    var marker = L.marker([lat, lon], {icon: gicon});
+  }
+  else {
+    var marker = L.marker([lat, lon], {icon: bicon});
+  }
   getCityContent(d, marker, map);
 };
 

@@ -19,7 +19,7 @@ for f in os.listdir("."):
 try:
     cur = metautils.getDBCursor(settings, dictCursor = True)
 
-    cur.execute('SELECT DISTINCT city_fullname, contact_email, open_data_portal, last_updated, city_shortname, cities.url AS url, latitude, longitude FROM cities INNER JOIN data ON data.city = cities.city_shortname WHERE data.accepted=%s', (True,))
+    cur.execute('SELECT DISTINCT city_fullname, city_type, contact_email, open_data_portal, last_updated, city_shortname, cities.url AS url, latitude, longitude FROM cities INNER JOIN data ON data.city = cities.city_shortname WHERE data.accepted=%s', (True,))
     results = cur.fetchall()
     
     rows = []
@@ -28,6 +28,7 @@ try:
         print 'Processing city ' + result['city_shortname'] + '...'
         row = OrderedDict()
         row['Stadtname'] = result['city_fullname']
+        row['type'] = result['city_type']
         row['kurzname'] = result['city_shortname']
         row['DOMAIN'] = result['url']
         row['Open Data Portal'] = result['open_data_portal']
