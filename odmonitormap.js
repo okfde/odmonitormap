@@ -279,7 +279,7 @@ var getCityContent = function(city, marker, map) {
         console.log("Finished " + city.Stadtname);
         marker.addTo(map);
         //Update the page
-        $('.totals').html("Dieser Prototyp des Open Data Monitors umfasst zu Demonstrationszwecken zur Zeit <strong>" + cityCount + " Städte</strong> mit insgesamt <strong>" + completeCount + " Datensätzen</strong> (ohne Anspruch auf Vollständigkeit)");
+        $('.totals').html("Dieser Prototyp des Open Data Monitors umfasst zu Demonstrationszwecken zur Zeit <strong>" + cityCount + " Städte</strong> mit insgesamt <strong>" + completeCount + " Datensätzen</strong> (ohne Anspruch auf Vollständigkeit). <small>Wichtig: nicht alle Datensätze sind offen. Bald erfolgt eine Darstellung darüber welche Daten wirklich offen sind.</small>")
         //Is this the last city?
         if (cityCount == quickCityCount) {
           console.log("cityCount reached quickCityCount, finding unique formats");
