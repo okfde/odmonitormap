@@ -1,5 +1,6 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
 ,x,,,,,,,,,,,,,,,Standortliste HSU Frankfurt 2012,https://www.frankfurt.de/sixcms/media.php/738/Standortliste%20HSU%20Frankfurt%202012.xlsx,nicht bekannt,XLSX,g
+x,x,x,,x,x,,x,,,,,,x,,,Daten Stadtteilprofile,http://www.frankfurt.de/sixcms/detail.php?id=11800621&_ffmpar%5B_id_eltern%5D=2811,nicht bekannt,XLS,m
 ,,,,x,,,,x,,,,,x,,,Ärztedichte und Sozialleistungen,http://www.offenedaten.frankfurt.de/dataset/gesundheit-soziales,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,x,,,,x,,,,,,,Stadtgebiet Fläche,http://www.offenedaten.frankfurt.de/dataset/stadtgebietflaeche,dl-de-by-1.0,"PDF,JSON,TXT,XLS,CSV",d
 ,,,,,,,,,,,,,x,,,Beschäftigte,http://www.offenedaten.frankfurt.de/dataset/wirtschaft,dl-de-by-1.0,"PDF,JSON,XLS",d
@@ -29,4 +30,3 @@ x,,,,,,,,,,,,,,,,Vornamensstatistik von 2000 bis 2014,http://www.offenedaten.fra
 ,,,,,,,,,,,,,,,x,Haushalte in Stadtteilen,http://www.offenedaten.frankfurt.de/dataset/haushalte,dl-de-by-1.0,"PDF,JSON,XLS",d
 x,,,,,,,,,,,,,,,,Bevölkerung Stadtteile,http://www.offenedaten.frankfurt.de/dataset/stadtteilprofile-bevoelkerung,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,,,,,,,,,,x,WMS Stadtkarten 2012 (Graustufen),http://www.offenedaten.frankfurt.de/dataset/wms-stadtkarten-2012-graustufen,dl-de-by-1.0,LINK,d
-x,x,x,,x,x,,x,,,,,,x,,,Daten Stadtteilprofile,http://www.frankfurt.de/sixcms/detail.php?id=11800621&_ffmpar%5B_id_eltern%5D=2811,nicht bekannt,XLS,m
