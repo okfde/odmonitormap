@@ -1,181 +1,181 @@
 Stadtname,type,kurzname,DOMAIN,Open Data Portal,Kontakt Mail,Lat,Lon,modified,sourced-from-m,sourced-from-d,sourced-from-c,sourced-from-b,sourced-from-g,catalog-sources
-Farschweiler,,farschweiler,,,,49.7155246,6.8280448,2014-11-25,0,1,0,0,0,daten.rlp.de
-Verbandsgemeinde Hamm (Sieg),,verbandsgemeindehammsieg,,,,50.7666871,7.6783886319334,2014-11-25,0,4,0,0,0,daten.rlp.de
-Braunschweig,,braunschweig,,,,52.27165645,10.5203138303942,2014-11-25,0,155,0,0,0,"geoportal.braunschweig.de,govdata.de"
+Verbandsgemeinde Gerolstein,,verbandsgemeindegerolstein,,,,50.2234404,6.6618586,2014-11-26,0,268,0,0,0,daten.rlp.de
+Verbandsgemeinde Emmelshausen,,verbandsgemeindeemmelshausen,,,,50.1564357,7.5545807,2014-11-26,0,244,0,0,0,daten.rlp.de
+Hornbach,,hornbach,,,,49.1875373,7.3687796,2014-11-26,0,2,0,0,0,daten.rlp.de
 Uetze,Stadt,uetze,http://uetze.de,,-,52.4644432,10.2025806,2014-10-22,0,0,4,0,0,offenedaten.de
-Berlin,Stadt,berlin,http://berlin.de,http://daten.berlin.de,Info@Berlin.de,52.5170365,13.3888599,2014-11-25,0,568,0,118,256,"offenedaten.de,datenregister.berlin.de"
-Lahnstein,,lahnstein,,,,50.3090305,7.6044602,2014-11-25,0,1,0,0,0,daten.rlp.de
-Burg,,burg,,,,50.0482252,6.1326691,2014-11-25,0,3,0,0,0,govdata.de
-Verbandsgemeinde Altenkirchen (Westerwald),,verbandsgemeindealtenkirchenwesterwald,,,,50.68765685,7.63860730956498,2014-11-25,0,9,0,0,0,daten.rlp.de
-Urbar,,urbar,,,,50.1316205,7.7202693,2014-11-25,0,1,0,0,0,daten.rlp.de
-Gundersheim,,gundersheim,,,,49.6919633,8.19467402299804,2014-11-25,0,2,0,0,0,daten.rlp.de
+Troisdorf,,troisdorf,,,,50.8153071,7.1593271,2014-11-26,0,2,0,0,0,govdata.de
+Laufeld,,laufeld,,,,50.0792259,6.8644499,2014-11-26,0,1,0,0,0,daten.rlp.de
+Regensburg,,regensburg,,,,49.0195333,12.0974869,2014-11-26,0,1,0,0,0,govdata.de
+Verbandsgemeinde Dierdorf,,verbandsgemeindedierdorf,,,,50.5479176,7.6570093,2014-11-26,0,1,0,0,0,daten.rlp.de
+Niederfischbach,,niederfischbach,,,,50.856157,7.8804934,2014-11-26,0,1,0,0,0,daten.rlp.de
+Oberwesel,,oberwesel,,,,50.1060039,7.726558,2014-11-26,0,1,0,0,0,daten.rlp.de
+Alsdorf,,alsdorf,,,,50.8771537,6.1620774,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Cochem,,verbandsgemeindecochem,,,,50.1484113,7.166281,2014-11-26,0,142,0,0,0,daten.rlp.de
 Nürnberg,Stadt,nuernberg,http://nuernberg.de,,-,49.4538723,11.0772978,2014-10-31,0,0,0,2,9,offenedaten.de
-Bitburg,,bitburg,,,,49.9732762,6.524947,2014-11-25,0,1,0,0,0,daten.rlp.de
-Rheinland-Pfalz,Land,rheinlandpfalz,http://rlp.de,http://daten.rlp.de,,49.7497346,7.4396553,2014-11-25,0,1246,0,0,0,daten.rlp.de
-Verbandsgemeinde Heidesheim am Rhein,,verbandsgemeindeheidesheimamrhein,,,,50.00275895,8.12045156609348,2014-11-25,0,2,0,0,0,daten.rlp.de
 München,Landeshauptstadt,muenchen,http://muenchen.de,http://www.muenchen.de/opendata,info@portalmuenchen.de,48.1372719,11.5754815,2014-08-15,0,0,0,6,10,offenedaten.de
 Münster,Stadt,muenster,http://muenster.de,http://www.muenster.de/stadt/katasteramt/geodatenmanagement.html,redaktion@muenster.de,51.9625101,7.6251879,2014-08-26,0,0,1,0,3,offenedaten.de
-Bad Dürkheim,,badduerkheim,,,,49.4632944,8.1705063,2014-11-25,0,9,0,0,0,daten.rlp.de
-Verbandsgemeinde Ruwer,,verbandsgemeinderuwer,,,,49.7616878,6.7289246,2014-11-25,0,1,0,0,0,daten.rlp.de
+Wissen,,wissen,,,,50.7827594,7.7355905,2014-11-26,0,1,0,0,0,govdata.de
+Dahn,,dahn,,,,49.1493317,7.7802569,2014-11-26,0,1,0,0,0,daten.rlp.de
 Zapfendorf,Stadt,zapfendorf,http://zapfendorf.de,,poststelle@zapfendorf.de,50.0171801,10.9314384,2014-10-31,0,0,0,2,0,offenedaten.de
 Baindt,Stadt,baindt,http://baindt.de,,info@baindt.de,47.8420535,9.6622081,2014-10-31,0,0,0,2,0,offenedaten.de
-Zweibrücken,,zweibruecken,,,,49.2534991,7.37060801928933,2014-11-25,0,62,0,0,0,daten.rlp.de
-Verbandsgemeinde Vallendar,,verbandsgemeindevallendar,,,,50.4001381,7.6142479,2014-11-25,0,118,0,0,0,daten.rlp.de
-Stuttgart,Landeshauptstadt,stuttgart,http://stuttgart.de,,post@stuttgart.de ,48.7763511,9.1829049,2014-11-25,17,1,141,9,116,"offenedaten.de,govdata.de"
+Koblenz,,koblenz,,,,50.34624975,7.58400984250468,2014-11-26,0,23,0,0,0,daten.rlp.de
+Mutterstadt,,mutterstadt,,,,49.4422445,8.3542306,2014-11-26,0,2,0,0,0,daten.rlp.de
+Kausen,,kausen,,,,50.7415625,7.868058,2014-11-26,0,1,0,0,0,daten.rlp.de
 Zwickau,Stadt,zwickau,http://zwickau.de,,buergerservice@zwickau.de,50.7185043,12.4939267,2014-10-31,0,0,0,1,0,offenedaten.de
-Rostock,Hansestadt,rostock,http://rostock.de,http://opendata-hro.de ,ulrich.kunze@rostock.de,54.0924445,12.1286127,2014-11-25,0,122,1,0,28,"offenedaten.de,opendata-hro.de"
-Ilmenau,,ilmenau,,,,50.6867695,10.9142385,2014-11-25,0,1,0,0,0,govdata.de
-Schmißberg,,schmissberg,,,,49.6645257,7.2038888,2014-11-25,0,1,0,0,0,daten.rlp.de
+Girod,,girod,,,,50.4510676,7.910067,2014-11-26,0,1,0,0,0,daten.rlp.de
+Dockweiler,,dockweiler,,,,50.2510261,6.7799648,2014-11-26,0,1,0,0,0,daten.rlp.de
+Albig,,albig,,,,49.7735056,8.121674,2014-11-26,0,1,0,0,0,daten.rlp.de
+Rhens,,rhens,,,,50.281527,7.6162978,2014-11-26,0,1,0,0,0,daten.rlp.de
 Wiesbaden,Landeshauptstadt,wiesbaden,http://wiesbaden.de,,online-redaktion@wiesbaden-marketing.de,50.0833,8.25,2014-10-31,0,0,0,1,0,offenedaten.de
-Schnackenburg,,schnackenburg,,,,53.0369826,11.5657431,2014-11-25,0,1,0,0,0,govdata.de
-Aachen,Stadt,aachen,http://aachen.de,http://daten.aachen.de,,50.776351,6.0838618,2014-11-25,0,7,0,0,0,daten.aachen.de
-Andernach,,andernach,,,,50.4354202,7.3993254,2014-11-25,0,158,0,0,0,daten.rlp.de
-Verbandsgemeinde Rülzheim,,verbandsgemeinderuelzheim,,,,49.1539607,8.2911891,2014-11-25,0,1,0,0,0,daten.rlp.de
-Plaidt,,plaidt,,,,50.3924191,7.3904512,2014-11-25,0,1,0,0,0,daten.rlp.de
-Verbandsgemeinde Sankt Goar-Oberwesel,,verbandsgemeindesanktgoar-oberwesel,,,,50.1027814,7.67059682046591,2014-11-25,0,101,0,0,0,daten.rlp.de
-Karlsruhe,Stadt,karlsruhe,http://karlsruhe.de,,online-team@pia.karlsruhe.de,49.0105758,8.4041208,2014-11-25,0,1,0,1,3,"offenedaten.de,govdata.de"
-Hof,,hof,,,,50.3219015,11.9178807,2014-11-25,0,1,0,0,0,daten.rlp.de
-Verbandsgemeinde Mendig,,verbandsgemeindemendig,,,,50.3693333,7.2805696,2014-11-25,0,1,0,0,0,daten.rlp.de
-Dernbach,,dernbach,,,,49.2375602,8.004028,2014-11-25,0,1,0,0,0,daten.rlp.de
-Daxweiler,,daxweiler,,,,49.966518,7.7527726,2014-11-25,0,1,0,0,0,daten.rlp.de
-Spiekeroog,,spiekeroog,,,,53.7666185,7.72555904783462,2014-11-25,0,1,0,0,0,govdata.de
-Wangerooge,,wangerooge,,,,53.7834917,7.93518076593744,2014-11-25,0,1,0,0,0,govdata.de
-Bendorf,,bendorf,,,,50.4238296,7.5732901,2014-11-25,0,2,0,0,0,daten.rlp.de
+Saulheim,,saulheim,,,,49.8735238,8.1490682,2014-11-26,0,1,0,0,0,daten.rlp.de
+Sprendlingen,,sprendlingen,,,,49.8598924,7.9862476,2014-11-26,0,1,0,0,0,daten.rlp.de
+Hönningen,,hoenningen,,,,50.4722745,6.9571651,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Dannstadt-Schauernheim,,verbandsgemeindedannstadt-schauernheim,,,,49.4355521,8.3097391,2014-11-26,0,2,0,0,0,daten.rlp.de
+Schifferstadt,,schifferstadt,,,,49.3845728,8.3731645,2014-11-26,0,2,0,0,0,daten.rlp.de
+Feuerscheid,,feuerscheid,,,,50.1028937,6.4548557,2014-11-26,0,1,0,0,0,daten.rlp.de
+Hochspeyer,,hochspeyer,,,,49.4440075,7.8965283,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Kastellaun,,verbandsgemeindekastellaun,,,,50.0715547,7.4429326,2014-11-26,0,149,0,0,0,daten.rlp.de
+Mayschoß,,mayschoss,,,,50.5234776,7.0198281,2014-11-26,0,1,0,0,0,daten.rlp.de
+Frankenthal (Pfalz),,frankenthalpfalz,,,,49.5445804,8.3540061,2014-11-26,0,8,0,0,0,daten.rlp.de
+Hannover,Landeshauptstadt,hannover,http://hannover.de,,Internetredaktion@Hannover-Stadt.de,52.3744779,9.7385532,2014-11-26,0,4,0,0,1,"offenedaten.de,govdata.de"
+Köln,Stadt,koeln,http://stadt-koeln.de,http://offenedaten-koeln.de,e-government@stadt-koeln.de,50.9577031,6.95495255522418,2014-11-26,0,135,1,5,19,"offenedaten.de,offenedaten-koeln.de"
 Duisburg,Stadt,duisburg,http://duisburg.de,,info@stadt-duisburg.de ,51.44620175,6.742075968,2014-10-31,0,0,0,0,15,offenedaten.de
 Leipzig,Stadt,leipzig,http://leipzig.de,,online-redaktion@leipzig.de ,51.340462,12.3747049,2014-10-31,0,0,0,2,53,offenedaten.de
-Butjadingen,,butjadingen,,,,53.545725,8.35288707942149,2014-11-25,0,1,0,0,0,govdata.de
-Nationalpark Harz,,nationalparkharz,,,,51.78459855,10.5828622707056,2014-11-25,0,9,0,0,0,govdata.de
-Dudenhofen,,dudenhofen,,,,49.3153979,8.386219,2014-11-25,0,1,0,0,0,daten.rlp.de
-Speyer,,speyer,,,,49.3165553,8.433615,2014-11-25,0,10,0,0,0,daten.rlp.de
-Verbandsgemeinde Waldfischbach-Burgalben,,verbandsgemeindewaldfischbach-burgalben,,,,49.28576,7.6584288,2014-11-25,0,1,0,0,0,daten.rlp.de
 Neu Wulmstorf,Stadt,neu-wulmstorf,http://neu-wulmstorf.de,,gemeinde@rh-neu-wulmstorf.de,53.4667,9.8,2014-10-22,0,0,8,0,0,offenedaten.de
-Simmern,,simmern,,,,50.389471,7.6734439,2014-11-25,0,195,0,0,0,daten.rlp.de
-Verbandsgemeinde Cochem,,verbandsgemeindecochem,,,,50.1484113,7.166281,2014-11-25,0,142,0,0,0,daten.rlp.de
-Oberwesel,,oberwesel,,,,50.1060039,7.726558,2014-11-25,0,1,0,0,0,daten.rlp.de
-Alsdorf,,alsdorf,,,,50.8771537,6.1620774,2014-11-25,0,1,0,0,0,daten.rlp.de
+Cuxhaven,,cuxhaven,,,,53.8687798,8.6982859,2014-11-26,0,5,0,0,0,govdata.de
+Verbandsgemeinde Ransbach-Baumbach,,verbandsgemeinderansbach-baumbach,,,,50.4667,7.73333,2014-11-26,0,1,0,0,0,daten.rlp.de
+Bitburg,,bitburg,,,,49.9732762,6.524947,2014-11-26,0,1,0,0,0,daten.rlp.de
+Gundersheim,,gundersheim,,,,49.6919633,8.19467402299804,2014-11-26,0,2,0,0,0,daten.rlp.de
 Bochum,Stadt,bochum,http://bochum.de,http://www.bochum.de/opendata,info@bochum.de,51.482321,7.2187465,2014-11-25,0,26,0,0,0,"offenedaten.de,http://www.bochum.de/opendata"
-Niederfischbach,,niederfischbach,,,,50.856157,7.8804934,2014-11-25,0,1,0,0,0,daten.rlp.de
-Wissen,,wissen,,,,50.7827594,7.7355905,2014-11-25,0,1,0,0,0,govdata.de
-Dahn,,dahn,,,,49.1493317,7.7802569,2014-11-25,0,1,0,0,0,daten.rlp.de
-Mutterstadt,,mutterstadt,,,,49.4422445,8.3542306,2014-11-25,0,2,0,0,0,daten.rlp.de
-Kausen,,kausen,,,,50.7415625,7.868058,2014-11-25,0,1,0,0,0,daten.rlp.de
-Koblenz,,koblenz,,,,50.34624975,7.58400984250468,2014-11-25,0,23,0,0,0,daten.rlp.de
-Hornbach,,hornbach,,,,49.1875373,7.3687796,2014-11-25,0,2,0,0,0,daten.rlp.de
-Troisdorf,,troisdorf,,,,50.8153071,7.1593271,2014-11-25,0,2,0,0,0,govdata.de
-Verbandsgemeinde Emmelshausen,,verbandsgemeindeemmelshausen,,,,50.1564357,7.5545807,2014-11-25,0,244,0,0,0,daten.rlp.de
-Verbandsgemeinde Gerolstein,,verbandsgemeindegerolstein,,,,50.2234404,6.6618586,2014-11-25,0,268,0,0,0,daten.rlp.de
+Rheinland-Pfalz,Land,rheinlandpfalz,http://rlp.de,http://daten.rlp.de,,49.7497346,7.4396553,2014-11-26,0,1246,0,0,0,daten.rlp.de
+Verbandsgemeinde Heidesheim am Rhein,,verbandsgemeindeheidesheimamrhein,,,,50.00275895,8.12045156609348,2014-11-26,0,2,0,0,0,daten.rlp.de
+Verbandsgemeinde Ruwer,,verbandsgemeinderuwer,,,,49.7616878,6.7289246,2014-11-26,0,1,0,0,0,daten.rlp.de
+Bad Dürkheim,,badduerkheim,,,,49.4632944,8.1705063,2014-11-26,0,9,0,0,0,daten.rlp.de
+Stuttgart,Landeshauptstadt,stuttgart,http://stuttgart.de,,post@stuttgart.de ,48.7763511,9.1829049,2014-11-26,17,1,141,9,116,"offenedaten.de,govdata.de"
+Verbandsgemeinde Vallendar,,verbandsgemeindevallendar,,,,50.4001381,7.6142479,2014-11-26,0,118,0,0,0,daten.rlp.de
+Zweibrücken,,zweibruecken,,,,49.2534991,7.37060801928933,2014-11-26,0,62,0,0,0,daten.rlp.de
+Braunschweig,,braunschweig,,,,52.27165645,10.5203138303942,2014-11-26,0,155,0,0,0,"geoportal.braunschweig.de,govdata.de"
+Verbandsgemeinde Hamm (Sieg),,verbandsgemeindehammsieg,,,,50.7666871,7.6783886319334,2014-11-26,0,4,0,0,0,daten.rlp.de
+Farschweiler,,farschweiler,,,,49.7155246,6.8280448,2014-11-26,0,1,0,0,0,daten.rlp.de
+Lahnstein,,lahnstein,,,,50.3090305,7.6044602,2014-11-26,0,1,0,0,0,daten.rlp.de
+Berlin,Stadt,berlin,http://berlin.de,http://daten.berlin.de,Info@Berlin.de,52.5170365,13.3888599,2014-11-26,0,568,0,118,256,"offenedaten.de,datenregister.berlin.de"
 Gelsenkirchen,Stadt,gelsenkirchen,http://gelsenkirchen.de,,redaktion@gelsen-net.de,51.55622845,7.081511196,2014-10-31,0,0,0,2,6,offenedaten.de
-Laufeld,,laufeld,,,,50.0792259,6.8644499,2014-11-25,0,1,0,0,0,daten.rlp.de
-Verbandsgemeinde Dierdorf,,verbandsgemeindedierdorf,,,,50.5479176,7.6570093,2014-11-25,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Altenkirchen (Westerwald),,verbandsgemeindealtenkirchenwesterwald,,,,50.68765685,7.63860730956498,2014-11-26,0,9,0,0,0,daten.rlp.de
+Burg,,burg,,,,50.0482252,6.1326691,2014-11-26,0,3,0,0,0,govdata.de
+Urbar,,urbar,,,,50.1316205,7.7202693,2014-11-26,0,1,0,0,0,daten.rlp.de
 Wuppertal,Stadt,wuppertal,http://wuppertal.de,https://www.wuppertal.de/rathaus-buergerservice/offene_daten/index.php,stadtverwaltung@stadt.wuppertal.de,51.264018,7.1780374,2014-10-14,0,2,0,1,0,"offenedaten.de,wuppertal.de"
-Regensburg,,regensburg,,,,49.0195333,12.0974869,2014-11-25,0,1,0,0,0,govdata.de
-Hochspeyer,,hochspeyer,,,,49.4440075,7.8965283,2014-11-25,0,1,0,0,0,daten.rlp.de
-Köln,Stadt,koeln,http://stadt-koeln.de,http://offenedaten-koeln.de,e-government@stadt-koeln.de,50.9577031,6.95495255522418,2014-11-25,0,135,1,5,19,"offenedaten.de,offenedaten-koeln.de"
-Hannover,Landeshauptstadt,hannover,http://hannover.de,,Internetredaktion@Hannover-Stadt.de,52.3744779,9.7385532,2014-11-25,0,4,0,0,1,"offenedaten.de,govdata.de"
-Frankenthal (Pfalz),,frankenthalpfalz,,,,49.5445804,8.3540061,2014-11-25,0,8,0,0,0,daten.rlp.de
-Verbandsgemeinde Kastellaun,,verbandsgemeindekastellaun,,,,50.0715547,7.4429326,2014-11-25,0,149,0,0,0,daten.rlp.de
-Mayschoß,,mayschoss,,,,50.5234776,7.0198281,2014-11-25,0,1,0,0,0,daten.rlp.de
-Cuxhaven,,cuxhaven,,,,53.8687798,8.6982859,2014-11-25,0,5,0,0,0,govdata.de
-Verbandsgemeinde Ransbach-Baumbach,,verbandsgemeinderansbach-baumbach,,,,50.4667,7.73333,2014-11-25,0,1,0,0,0,daten.rlp.de
+Bendorf,,bendorf,,,,50.4238296,7.5732901,2014-11-26,0,2,0,0,0,daten.rlp.de
+Daxweiler,,daxweiler,,,,49.966518,7.7527726,2014-11-26,0,1,0,0,0,daten.rlp.de
+Spiekeroog,,spiekeroog,,,,53.7666185,7.72555904783462,2014-11-26,0,1,0,0,0,govdata.de
+Wangerooge,,wangerooge,,,,53.7834917,7.93518076593744,2014-11-26,0,1,0,0,0,govdata.de
+Dernbach,,dernbach,,,,49.2375602,8.004028,2014-11-26,0,1,0,0,0,daten.rlp.de
+Butjadingen,,butjadingen,,,,53.545725,8.35288707942149,2014-11-26,0,1,0,0,0,govdata.de
+Dudenhofen,,dudenhofen,,,,49.3153979,8.386219,2014-11-26,0,1,0,0,0,daten.rlp.de
+Nationalpark Harz,,nationalparkharz,,,,51.78459855,10.5828622707056,2014-11-26,0,9,0,0,0,govdata.de
+Simmern,,simmern,,,,50.389471,7.6734439,2014-11-26,0,195,0,0,0,daten.rlp.de
+Speyer,,speyer,,,,49.3165553,8.433615,2014-11-26,0,10,0,0,0,daten.rlp.de
 Cottbus,Stadt,cottbus,http://cottbus.de,,info@cottbus.de,51.7567447,14.3357307,2014-10-22,0,0,1,0,0,offenedaten.de
-Albig,,albig,,,,49.7735056,8.121674,2014-11-25,0,1,0,0,0,daten.rlp.de
-Rhens,,rhens,,,,50.281527,7.6162978,2014-11-25,0,1,0,0,0,daten.rlp.de
-Dockweiler,,dockweiler,,,,50.2510261,6.7799648,2014-11-25,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Waldfischbach-Burgalben,,verbandsgemeindewaldfischbach-burgalben,,,,49.28576,7.6584288,2014-11-26,0,1,0,0,0,daten.rlp.de
+Ilmenau,,ilmenau,,,,50.6867695,10.9142385,2014-11-26,0,1,0,0,0,govdata.de
+Rostock,Hansestadt,rostock,http://rostock.de,http://opendata-hro.de ,ulrich.kunze@rostock.de,54.0924445,12.1286127,2014-11-26,0,122,1,0,28,"offenedaten.de,opendata-hro.de"
 Hamm,Stadt,hamm,http://hamm.de,,-,51.6615566,7.81666112944453,2014-10-31,0,0,0,1,0,offenedaten.de
-Girod,,girod,,,,50.4510676,7.910067,2014-11-25,0,1,0,0,0,daten.rlp.de
-Saulheim,,saulheim,,,,49.8735238,8.1490682,2014-11-25,0,1,0,0,0,daten.rlp.de
-Verbandsgemeinde Dannstadt-Schauernheim,,verbandsgemeindedannstadt-schauernheim,,,,49.4355521,8.3097391,2014-11-25,0,2,0,0,0,daten.rlp.de
-Hönningen,,hoenningen,,,,50.4722745,6.9571651,2014-11-25,0,1,0,0,0,daten.rlp.de
-Sprendlingen,,sprendlingen,,,,49.8598924,7.9862476,2014-11-25,0,1,0,0,0,daten.rlp.de
-Feuerscheid,,feuerscheid,,,,50.1028937,6.4548557,2014-11-25,0,1,0,0,0,daten.rlp.de
-Schifferstadt,,schifferstadt,,,,49.3845728,8.3731645,2014-11-25,0,2,0,0,0,daten.rlp.de
-Roxheim,,roxheim,,,,49.8639145,7.8098763,2014-11-25,0,1,0,0,0,daten.rlp.de
-Gerolsheim,,gerolsheim,,,,49.5485287,8.2647113,2014-11-25,0,1,0,0,0,daten.rlp.de
-Tübingen,,tuebingen,,,,48.5236164,9.0535531,2014-11-25,0,1,0,0,0,govdata.de
+Andernach,,andernach,,,,50.4354202,7.3993254,2014-11-26,0,158,0,0,0,daten.rlp.de
+Aachen,Stadt,aachen,http://aachen.de,http://daten.aachen.de,,50.776351,6.0838618,2014-11-26,0,7,0,0,0,daten.aachen.de
+Verbandsgemeinde Rülzheim,,verbandsgemeinderuelzheim,,,,49.1539607,8.2911891,2014-11-26,0,1,0,0,0,daten.rlp.de
+Schnackenburg,,schnackenburg,,,,53.0369826,11.5657431,2014-11-26,0,1,0,0,0,govdata.de
+Schmißberg,,schmissberg,,,,49.6645257,7.2038888,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Sankt Goar-Oberwesel,,verbandsgemeindesanktgoar-oberwesel,,,,50.1027814,7.67059682046591,2014-11-26,0,101,0,0,0,daten.rlp.de
+Karlsruhe,Stadt,karlsruhe,http://karlsruhe.de,,online-team@pia.karlsruhe.de,49.0105758,8.4041208,2014-11-26,0,1,0,1,3,"offenedaten.de,govdata.de"
+Plaidt,,plaidt,,,,50.3924191,7.3904512,2014-11-26,0,1,0,0,0,daten.rlp.de
+Hof,,hof,,,,50.3219015,11.9178807,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Mendig,,verbandsgemeindemendig,,,,50.3693333,7.2805696,2014-11-26,0,1,0,0,0,daten.rlp.de
 Mannheim,Universitätsstadt,mannheim,http://mannheim.de,,stadtverwaltung@mannheim.de,49.4895914,8.4672361,2014-10-31,0,0,0,0,15,offenedaten.de
+Spangdahlem,,spangdahlem,,,,49.9833,6.68333,2014-11-26,0,1,0,0,0,daten.rlp.de
+Klein-Winternheim,,klein-winternheim,,,,49.9397907,8.2127574,2014-11-26,0,1,0,0,0,daten.rlp.de
+Norden,,norden,,,,53.5942039,7.2067435,2014-11-26,0,1,0,0,0,govdata.de
+Verbandsgemeinde Kirchberg (Hunsrück),,verbandsgemeindekirchberghunsrueck,,,,49.9330554,7.35476790609633,2014-11-26,0,227,0,0,0,daten.rlp.de
+Klotten,,klotten,,,,50.1641546,7.2003745,2014-11-26,0,1,0,0,0,daten.rlp.de
 Rheinstetten,Stadt,rheinstetten,http://rheinstetten.de,,rathaus@rheinstetten.de,48.9714945,8.2994571,2014-10-22,0,0,1,0,0,offenedaten.de
-Verbandsgemeinde Bad Kreuznach,,verbandsgemeindebadkreuznach,,,,49.8431642,7.8657658,2014-11-25,0,9,0,0,0,daten.rlp.de
-Boppard,,boppard,,,,50.228893,7.6000539,2014-11-25,0,99,0,0,0,daten.rlp.de
-Verbandsgemeinde Nieder-Olm,,verbandsgemeindenieder-olm,,,,49.9024441,8.2022984,2014-11-25,0,1,0,0,0,daten.rlp.de
-Frankfurt am Main,Stadt,frankfurt,http://frankfurt.de,http://offenedaten.frankfurt.de,onlinebuero@stadt-frankfurt.de,50.12134215,8.661951186,2014-11-25,1,29,0,0,1,"offenedaten.de,offenedaten.frankfurt.de"
-Mertesheim,,mertesheim,,,,49.5700371,8.1335199,2014-11-25,0,1,0,0,0,daten.rlp.de
-Büchel,,buechel,,,,50.1730329,7.0840762,2014-11-25,0,1,0,0,0,daten.rlp.de
-Laudert,,laudert,,,,50.0775557,7.6032905,2014-11-25,0,2,0,0,0,daten.rlp.de
-Kaiserslautern,Stadt,kaiserslautern,http://kaiserslautern.de,,-,49.4432174,7.7689951,2014-11-25,0,18,0,4,0,"daten.rlp.de,offenedaten.de"
-Verbandsgemeinde Kusel,,verbandsgemeindekusel,,,,49.5399844,7.4008479,2014-11-25,0,10,0,0,0,daten.rlp.de
-Wilgartswiesen,,wilgartswiesen,,,,49.2075724,7.8690791,2014-11-25,0,1,0,0,0,daten.rlp.de
-Verbandsgemeinde Edenkoben,,verbandsgemeindeedenkoben,,,,49.282236,8.1284357,2014-11-25,0,2,0,0,0,daten.rlp.de
+Diepholz,Landkreis,diepholz,http:/diepholz.de,http://gdi.diepholz.de,,52.6113677,8.372661,2014-11-26,0,421,0,0,0,gdi.diepholz.de
+Juist,,juist,,,,53.6784483,6.9956079,2014-11-26,0,1,0,0,0,govdata.de
+Moers,Stadt,moers,http://moers.de,http://offenedaten.moers.de,offenedaten@moers.de,51.4512826,6.6284302,2014-11-26,0,125,1,6,1,"offenedaten.de,offenedaten.moers.de"
+Borkum,,borkum,,,,53.5859383,6.69158131203533,2014-11-26,0,1,0,0,0,govdata.de
+Verbandsgemeinde Bad Ems,,verbandsgemeindebadems,,,,50.3352062,7.7128538,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Winnweiler,,verbandsgemeindewinnweiler,,,,49.5696123,7.8523678,2014-11-26,0,1,0,0,0,daten.rlp.de
+Waldesch,,waldesch,,,,50.2806912,7.5462298,2014-11-26,0,2,0,0,0,daten.rlp.de
+Nierstein,,nierstein,,,,49.8710847,8.3365369,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Konz,,verbandsgemeindekonz,,,,49.6991955,6.573793,2014-11-26,0,1,0,0,0,daten.rlp.de
+Kottenheim,,kottenheim,,,,50.3481315,7.2547868,2014-11-26,0,1,0,0,0,daten.rlp.de
+Germersheim,Stadt,germersheim,http://germersheim.eu,,dfranzen@germersheim.eu,49.2231,8.36389,2014-11-26,0,10,0,0,0,daten.rlp.de
 Potsdam,Stadt,potsdam,http://potsdam.de,,Poststelle@Rathaus.Potsdam.de,52.42822535,13.02407591,2014-10-31,0,0,0,3,1,offenedaten.de
-Wahlrod,,wahlrod,,,,50.6499392,7.7165507,2014-11-25,0,1,0,0,0,daten.rlp.de
+Otterbach,,otterbach,,,,49.4861803,7.737771,2014-11-26,0,1,0,0,0,daten.rlp.de
+Niederhorbach,,niederhorbach,,,,49.1160541,8.0327863,2014-11-26,0,1,0,0,0,daten.rlp.de
+Bonn,Stadt,bonn,http://bonn.de,http://opendata.bonn.de,opendata@bonn.de,50.7358511,7.1006599,2014-11-26,0,90,0,0,0,"offenedaten.de,opendata.bonn.de"
+Verbandsgemeinde Rheinböllen,,verbandsgemeinderheinboellen,,,,50.0066163,7.6703839,2014-11-26,0,123,0,0,0,daten.rlp.de
+Verbandsgemeinde Maxdorf,,verbandsgemeindemaxdorf,,,,49.4815909,8.287455,2014-11-26,0,1,0,0,0,daten.rlp.de
+Baltrum,,baltrum,,,,53.72703795,7.39548387505676,2014-11-26,0,1,0,0,0,govdata.de
 Düsseldorf,Stadt,duesseldorf,http://duesseldorf.de,,info@duesseldorf.de ,51.2235376,6.7637565,2014-10-31,0,0,0,32,5,offenedaten.de
+Echternacherbrück,,echternacherbrueck,,,,49.8134189,6.4311864,2014-11-26,0,1,0,0,0,daten.rlp.de
 Chemnitz,Stadt,chemnitz,http://chemnitz.de,,katja.uhlemann@stadt-chemnitz.de,50.8322608,12.9252977,2014-08-15,0,0,4,0,0,offenedaten.de
-Rückweiler,,rueckweiler,,,,49.5822882,7.2401787,2014-11-25,0,1,0,0,0,daten.rlp.de
-Rheinbreitbach,,rheinbreitbach,,,,50.6185836,7.2291175,2014-11-25,0,1,0,0,0,daten.rlp.de
-Idar-Oberstein,,idar-oberstein,,,,49.7106197,7.313321,2014-11-25,0,2,0,0,0,daten.rlp.de
 Witten,Stadt,witten,http://witten.de,,poststelle@stadt-witten.de  ,51.4370171,7.335124,2014-10-22,0,0,2,0,0,offenedaten.de
-Alzey,,alzey,,,,49.7455695,8.1150946,2014-11-25,0,3,0,0,0,daten.rlp.de
-Pirmasens,,pirmasens,,,,49.1996961,7.6087847,2014-11-25,0,8,0,0,0,daten.rlp.de
+Thür,,thuer,,,,50.3570635,7.2759497,2014-11-26,0,1,0,0,0,daten.rlp.de
 Marxzell,Stadt,marxzell,http://marxzell.de,,gemeinde@marxzell.de,48.8617614,8.4488303,2014-10-31,0,0,0,1,0,offenedaten.de
+Wattenheim,,wattenheim,,,,49.5217662,8.0619525,2014-11-26,0,1,0,0,0,daten.rlp.de
 Westoverledingen,Stadt,westoverledingen,http://westoverledingen.de,,Gemeinde@westoverledingen.de ,53.15,7.46667,2014-10-31,0,0,0,0,1,offenedaten.de
-Norderney,,norderney,,,,53.7122885,7.23577947730025,2014-11-25,0,1,0,0,0,govdata.de
-Trier,,trier,,,,49.7599119,6.6444925,2014-11-25,0,46,0,0,0,daten.rlp.de
-Sessenhausen,,sessenhausen,,,,50.5270744,7.7138848,2014-11-25,0,1,0,0,0,daten.rlp.de
+Schwegenheim,,schwegenheim,,,,49.270724,8.3309303,2014-11-26,0,1,0,0,0,daten.rlp.de
+Ulm,Universitätsstadt,ulm,http://ulm.de,http://daten.ulm.de,opendata@ulm.de,48.398312,9.9910464,2014-11-26,0,88,9,10,18,"offenedaten.de,daten.ulm.de"
+Klüsserath,,kluesserath,,,,49.8436701,6.8502063,2014-11-26,0,1,0,0,0,daten.rlp.de
+Schweisweiler,,schweisweiler,,,,49.5900432,7.8239609,2014-11-26,0,1,0,0,0,daten.rlp.de
+Worms,,worms,,,,49.6615131,8.32120408588846,2014-11-26,0,11,0,0,0,daten.rlp.de
+Verbandsgemeinde Offenbach an der Queich,,verbandsgemeindeoffenbachanderqueich,,,,49.1959934,8.1928331,2014-11-26,0,1,0,0,0,daten.rlp.de
+Baden-Württemberg,Land,badenwuerttemberg,http://baden-wuerttemberg.de,http://opendata.service-bw.de,,48.6296972,9.1949534,2014-11-26,0,76,0,0,0,opendata.service-bw.de
 Hamburg,Freie und Hansestadt,hamburg,http://hamburg.de,http://transparenz.hamburg.de,info-office@hamburg.de,53.5437641,10.0099133,2014-11-13,0,1992,0,29,124,"offenedaten.de,transparenz.hamburg.de"
-Neuwied,,neuwied,,,,50.4302589,7.4663112,2014-11-25,0,10,0,0,0,daten.rlp.de
-Sinzig,,sinzig,,,,50.5452042,7.2490828,2014-11-25,0,1,0,0,0,daten.rlp.de
-Barbelroth,,barbelroth,,,,49.101447,8.0728342,2014-11-25,0,1,0,0,0,daten.rlp.de
-Verbandsgemeinde Bad Breisig,,verbandsgemeindebadbreisig,,,,50.5092867,7.2980569,2014-11-25,0,1,0,0,0,daten.rlp.de
-Mainz,Stadt,mainz,http://mainz.de,,oberbuergermeister@stadt.mainz.de,49.9999952,8.2710237,2014-11-25,0,152,0,0,3,"daten.rlp.de,offenedaten.de"
-Erlangen,,erlangen,,,,49.5981208,11.0036532,2014-11-25,0,2,0,0,0,govdata.de
+Hildesheim,Stadt,hildesheim,http://hildesheim.de,,info@hildesheim-marketing.de,52.1532179,9.9523941,2014-11-26,0,18,0,0,1,"offenedaten.de,govdata.de"
+Wawern,,wawern,,,,49.6488728,6.54127888172516,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Landstuhl,,verbandsgemeindelandstuhl,,,,49.4143311,7.5722301,2014-11-26,0,5,0,0,0,daten.rlp.de
+Verbandsgemeinde Höhr-Grenzhausen,,verbandsgemeindehoehr-grenzhausen,,,,50.4369616,7.6695837,2014-11-26,0,1,0,0,0,daten.rlp.de
+Weselberg,,weselberg,,,,49.3347914,7.6088388,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Bad Hönningen,,verbandsgemeindebadhoenningen,,,,50.5157382,7.3065922,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Birkenfeld,,verbandsgemeindebirkenfeld,,,,49.6488236,7.1647477,2014-11-26,0,10,0,0,0,daten.rlp.de
+Pfalzfeld,,pfalzfeld,,,,50.1127052,7.5789176,2014-11-26,0,1,0,0,0,daten.rlp.de
+Hetzerath,,hetzerath,,,,49.8751938,6.81074109858012,2014-11-26,0,1,0,0,0,daten.rlp.de
 Dresden,Stadt,dresden,http://dresden.de,,presse@dresden.de,51.0493286,13.7381437,2014-10-31,0,0,0,4,2,offenedaten.de
 Rhein-Erft-Kreis,Landkreis,rhein-erft-kreis,http://rhein-erft-kreis.de,,,50.90334,6.763334,2014-10-31,0,0,0,1,2,offenedaten.de
-Bremen,Stadt,bremen,http://bremen.de,http://daten.bremen.de,info@bremen.de,53.0758099,8.80717,2014-11-25,0,144,53,11,34,"offenedaten.de,daten.bremen.de"
+Remagen,,remagen,,,,50.5784435,7.2311017,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Kandel,,verbandsgemeindekandel,,,,49.08594315,8.19663013629936,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Edenkoben,,verbandsgemeindeedenkoben,,,,49.282236,8.1284357,2014-11-26,0,2,0,0,0,daten.rlp.de
 Salzgitter,Stadt,salzgitter,http://salzgitter.de,,redaktion@stadt.salzgitter.de,52.1480205,10.3489635,2014-10-31,0,0,0,4,2,offenedaten.de
-Germersheim,Stadt,germersheim,http://germersheim.eu,,dfranzen@germersheim.eu,49.2231,8.36389,2014-11-25,0,10,0,0,0,daten.rlp.de
-Bonn,Stadt,bonn,http://bonn.de,http://opendata.bonn.de,opendata@bonn.de,50.7358511,7.1006599,2014-11-25,0,89,0,0,0,"offenedaten.de,opendata.bonn.de"
-Niederhorbach,,niederhorbach,,,,49.1160541,8.0327863,2014-11-25,0,1,0,0,0,daten.rlp.de
-Otterbach,,otterbach,,,,49.4861803,7.737771,2014-11-25,0,1,0,0,0,daten.rlp.de
-Verbandsgemeinde Rheinböllen,,verbandsgemeinderheinboellen,,,,50.0066163,7.6703839,2014-11-25,0,123,0,0,0,daten.rlp.de
-Verbandsgemeinde Maxdorf,,verbandsgemeindemaxdorf,,,,49.4815909,8.287455,2014-11-25,0,1,0,0,0,daten.rlp.de
-Baltrum,,baltrum,,,,53.72703795,7.39548387505676,2014-11-25,0,1,0,0,0,govdata.de
-Echternacherbrück,,echternacherbrueck,,,,49.8134189,6.4311864,2014-11-25,0,1,0,0,0,daten.rlp.de
-Spangdahlem,,spangdahlem,,,,49.9833,6.68333,2014-11-25,0,1,0,0,0,daten.rlp.de
-Diepholz,Landkreis,diepholz,http:/diepholz.de,http://gdi.diepholz.de,,52.6113677,8.372661,2014-11-25,0,421,0,0,0,gdi.diepholz.de
-Verbandsgemeinde Kirchberg (Hunsrück),,verbandsgemeindekirchberghunsrueck,,,,49.9330554,7.35476790609633,2014-11-25,0,227,0,0,0,daten.rlp.de
-Klotten,,klotten,,,,50.1641546,7.2003745,2014-11-25,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Kusel,,verbandsgemeindekusel,,,,49.5399844,7.4008479,2014-11-26,0,10,0,0,0,daten.rlp.de
+Wilgartswiesen,,wilgartswiesen,,,,49.2075724,7.8690791,2014-11-26,0,1,0,0,0,daten.rlp.de
+Kaiserslautern,Stadt,kaiserslautern,http://kaiserslautern.de,,-,49.4432174,7.7689951,2014-11-26,0,18,0,4,0,"daten.rlp.de,offenedaten.de"
+Wahlrod,,wahlrod,,,,50.6499392,7.7165507,2014-11-26,0,1,0,0,0,daten.rlp.de
+Tübingen,,tuebingen,,,,48.5236164,9.0535531,2014-11-26,0,1,0,0,0,govdata.de
+Roxheim,,roxheim,,,,49.8639145,7.8098763,2014-11-26,0,1,0,0,0,daten.rlp.de
+Gerolsheim,,gerolsheim,,,,49.5485287,8.2647113,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Nieder-Olm,,verbandsgemeindenieder-olm,,,,49.9024441,8.2022984,2014-11-26,0,1,0,0,0,daten.rlp.de
+Verbandsgemeinde Bad Kreuznach,,verbandsgemeindebadkreuznach,,,,49.8431642,7.8657658,2014-11-26,0,9,0,0,0,daten.rlp.de
+Boppard,,boppard,,,,50.228893,7.6000539,2014-11-26,0,99,0,0,0,daten.rlp.de
 Wennigsen (Deister),Stadt,wennigsen,http://wennigsen.net,http://data.wennigsen.net ,jens@spiwi.de,52.2762744,9.5671846,2014-08-26,0,31,0,0,0,data.wennigsen.de
-Klein-Winternheim,,klein-winternheim,,,,49.9397907,8.2127574,2014-11-25,0,1,0,0,0,daten.rlp.de
-Norden,,norden,,,,53.5942039,7.2067435,2014-11-25,0,1,0,0,0,govdata.de
-Moers,Stadt,moers,http://moers.de,http://offenedaten.moers.de,offenedaten@moers.de,51.4512826,6.6284302,2014-11-25,0,125,1,6,1,"offenedaten.de,offenedaten.moers.de"
-Juist,,juist,,,,53.6784483,6.9956079,2014-11-25,0,1,0,0,0,govdata.de
-Nierstein,,nierstein,,,,49.8710847,8.3365369,2014-11-25,0,1,0,0,0,daten.rlp.de
-Waldesch,,waldesch,,,,50.2806912,7.5462298,2014-11-25,0,2,0,0,0,daten.rlp.de
-Verbandsgemeinde Konz,,verbandsgemeindekonz,,,,49.6991955,6.573793,2014-11-25,0,1,0,0,0,daten.rlp.de
-Kottenheim,,kottenheim,,,,50.3481315,7.2547868,2014-11-25,0,1,0,0,0,daten.rlp.de
-Verbandsgemeinde Winnweiler,,verbandsgemeindewinnweiler,,,,49.5696123,7.8523678,2014-11-25,0,1,0,0,0,daten.rlp.de
+Frankfurt am Main,Stadt,frankfurt,http://frankfurt.de,http://offenedaten.frankfurt.de,onlinebuero@stadt-frankfurt.de,50.12134215,8.661951186,2014-11-26,1,29,0,0,1,"offenedaten.frankfurt.de,offenedaten.de"
+Mertesheim,,mertesheim,,,,49.5700371,8.1335199,2014-11-26,0,1,0,0,0,daten.rlp.de
+Laudert,,laudert,,,,50.0775557,7.6032905,2014-11-26,0,2,0,0,0,daten.rlp.de
+Büchel,,buechel,,,,50.1730329,7.0840762,2014-11-26,0,1,0,0,0,daten.rlp.de
 Esslingen am Neckar,Stadt,esslingen,http://esslingen.de,,roland.karpentier@esslingen.de ,48.7388603,9.3010797,2014-10-31,0,0,0,0,33,offenedaten.de
-Borkum,,borkum,,,,53.5859383,6.69158131203533,2014-11-25,0,1,0,0,0,govdata.de
-Verbandsgemeinde Bad Ems,,verbandsgemeindebadems,,,,50.3352062,7.7128538,2014-11-25,0,1,0,0,0,daten.rlp.de
-Verbandsgemeinde Bad Hönningen,,verbandsgemeindebadhoenningen,,,,50.5157382,7.3065922,2014-11-25,0,1,0,0,0,daten.rlp.de
-Verbandsgemeinde Birkenfeld,,verbandsgemeindebirkenfeld,,,,49.6488236,7.1647477,2014-11-25,0,10,0,0,0,daten.rlp.de
-Weselberg,,weselberg,,,,49.3347914,7.6088388,2014-11-25,0,1,0,0,0,daten.rlp.de
-Pfalzfeld,,pfalzfeld,,,,50.1127052,7.5789176,2014-11-25,0,1,0,0,0,daten.rlp.de
-Remagen,,remagen,,,,50.5784435,7.2311017,2014-11-25,0,1,0,0,0,daten.rlp.de
-Hetzerath,,hetzerath,,,,49.8751938,6.81074109858012,2014-11-25,0,1,0,0,0,daten.rlp.de
-Verbandsgemeinde Kandel,,verbandsgemeindekandel,,,,49.08594315,8.19663013629936,2014-11-25,0,1,0,0,0,daten.rlp.de
+Mainz,Stadt,mainz,http://mainz.de,,oberbuergermeister@stadt.mainz.de,49.9999952,8.2710237,2014-11-26,0,152,0,0,3,"daten.rlp.de,offenedaten.de"
+Verbandsgemeinde Bad Breisig,,verbandsgemeindebadbreisig,,,,50.5092867,7.2980569,2014-11-26,0,1,0,0,0,daten.rlp.de
+Neuwied,,neuwied,,,,50.4302589,7.4663112,2014-11-26,0,10,0,0,0,daten.rlp.de
+Sinzig,,sinzig,,,,50.5452042,7.2490828,2014-11-26,0,1,0,0,0,daten.rlp.de
+Barbelroth,,barbelroth,,,,49.101447,8.0728342,2014-11-26,0,1,0,0,0,daten.rlp.de
+Erlangen,,erlangen,,,,49.5981208,11.0036532,2014-11-26,0,2,0,0,0,govdata.de
+Bremen,Stadt,bremen,http://bremen.de,http://daten.bremen.de,info@bremen.de,53.0758099,8.80717,2014-11-26,0,144,53,11,34,"offenedaten.de,daten.bremen.de"
+Idar-Oberstein,,idar-oberstein,,,,49.7106197,7.313321,2014-11-26,0,2,0,0,0,daten.rlp.de
 Gütersloh,Stadt,guetersloh,http://guetersloh.de,,wolfgang.hein@gt-net.de,51.9044291,8.3799049,2014-10-31,0,0,0,1,0,offenedaten.de
 Hanau,Stadt,hanau,http://hanau.de,,webmaster@hanau.de,50.1335542,8.9168179,2014-10-31,0,0,0,1,0,offenedaten.de
-Schwegenheim,,schwegenheim,,,,49.270724,8.3309303,2014-11-25,0,1,0,0,0,daten.rlp.de
-Wattenheim,,wattenheim,,,,49.5217662,8.0619525,2014-11-25,0,1,0,0,0,daten.rlp.de
-Thür,,thuer,,,,50.3570635,7.2759497,2014-11-25,0,1,0,0,0,daten.rlp.de
-Worms,,worms,,,,49.6615131,8.32120408588846,2014-11-25,0,11,0,0,0,daten.rlp.de
-Verbandsgemeinde Offenbach an der Queich,,verbandsgemeindeoffenbachanderqueich,,,,49.1959934,8.1928331,2014-11-25,0,1,0,0,0,daten.rlp.de
+Rückweiler,,rueckweiler,,,,49.5822882,7.2401787,2014-11-26,0,1,0,0,0,daten.rlp.de
+Rheinbreitbach,,rheinbreitbach,,,,50.6185836,7.2291175,2014-11-26,0,1,0,0,0,daten.rlp.de
+Pirmasens,,pirmasens,,,,49.1996961,7.6087847,2014-11-26,0,8,0,0,0,daten.rlp.de
+Alzey,,alzey,,,,49.7455695,8.1150946,2014-11-26,0,3,0,0,0,daten.rlp.de
+Sessenhausen,,sessenhausen,,,,50.5270744,7.7138848,2014-11-26,0,1,0,0,0,daten.rlp.de
+Trier,,trier,,,,49.7599119,6.6444925,2014-11-26,0,46,0,0,0,daten.rlp.de
 Gera,Stadt,gera,http://gera.de,,Buero.Oberbuergermeister@gera.de,50.887824,12.08134408,2014-10-31,0,0,0,3,0,offenedaten.de
-Schweisweiler,,schweisweiler,,,,49.5900432,7.8239609,2014-11-25,0,1,0,0,0,daten.rlp.de
-Ulm,Universitätsstadt,ulm,http://ulm.de,http://daten.ulm.de,opendata@ulm.de,48.398312,9.9910464,2014-11-25,0,88,9,10,18,"offenedaten.de,daten.ulm.de"
-Klüsserath,,kluesserath,,,,49.8436701,6.8502063,2014-11-25,0,1,0,0,0,daten.rlp.de
-Verbandsgemeinde Landstuhl,,verbandsgemeindelandstuhl,,,,49.4143311,7.5722301,2014-11-25,0,5,0,0,0,daten.rlp.de
-Verbandsgemeinde Höhr-Grenzhausen,,verbandsgemeindehoehr-grenzhausen,,,,50.4369616,7.6695837,2014-11-25,0,1,0,0,0,daten.rlp.de
-Wawern,,wawern,,,,49.6488728,6.54127888172516,2014-11-25,0,1,0,0,0,daten.rlp.de
-Hildesheim,Stadt,hildesheim,http://hildesheim.de,,info@hildesheim-marketing.de,52.1532179,9.9523941,2014-11-25,0,18,0,0,1,"offenedaten.de,govdata.de"
-Baden-Württemberg,Land,badenwuerttemberg,http://baden-wuerttemberg.de,http://opendata.service-bw.de,,48.6296972,9.1949534,2014-11-25,0,76,0,0,0,opendata.service-bw.de
+Norderney,,norderney,,,,53.7122885,7.23577947730025,2014-11-26,0,1,0,0,0,govdata.de
