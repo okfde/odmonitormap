@@ -1,62 +1,38 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,x,,,,,,,,,,,,,Stellungnahme LfDI Enquete Bürgerbeteilgung 09/2012,http://www.daten.rlp.de/dataset/3f4aa8ea-2d8a-44d7-b324-91c25a49fb12,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,,,,,,,,,LGB: HUEK200 Nutzbare Feldkapazitaet - Ebene: Nutzbare Feldkapazität der HÜK 200,http://www.daten.rlp.de/dataset/7991e4fb-d1dd-4855-b51a-f66313fac090,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2002 - Ebene: DIE LINKE Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/0d5ff898-d60a-4406-a291-3c7d3e1e1e26,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Ländliches Verbindungswegenetz RP - Ebene: Verbindungswege Priorität III,http://www.daten.rlp.de/dataset/a18f0530-2263-43b7-a399-40fd397d7dc6,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C21_Aenderung,http://www.daten.rlp.de/dataset/5fa1c164-d87d-4855-b998-31c36c768aa3,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Planung --,http://www.daten.rlp.de/dataset/426003d0-9890-4709-b5bb-714b5ab16351,dl-de-by-1.0,HTML,d
-,,,,,,x,,,,,,,,,,"Tourismusstatistik - Ausländische Gäste, Betriebsarten -",http://www.daten.rlp.de/dataset/1f9e96ff-a681-40e7-8a26-50bb0fd29582,dl-de-by-1.0,"HTML,XLS",d
-,x,x,,,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Schuldnerberatungsstellen,http://www.daten.rlp.de/dataset/005e60df-2ad5-4388-b979-38be0e144ab8,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,Verbraucherinformation unverzüglich regeln,http://www.daten.rlp.de/dataset/bb38be63-c2c8-4d66-811f-8c96d00a9529,dl-de-by-1.0,HTML,d
-,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Visualisierung/Eifel --,http://www.daten.rlp.de/dataset/4e298467-7037-4ca6-8c08-17e7168ab14e,dl-de-by-1.0,HTML,d
-,,,,x,,,,x,,,,,,,,Betreutes Wohnen für Menschen mit Behinderung,http://www.daten.rlp.de/dataset/bdb833d3-e3ba-4d46-bb0e-769d2de5941c,dl-de-by-1.0,HTML,d
-,,,x,,,,,,,,,,,,,Informationsfreiheit in Grundgesetz und Landesverfassungen,http://www.daten.rlp.de/dataset/1ecd46b2-089f-4217-842e-9087790e8656,dl-de-by-1.0,HTML,d
-,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2013 - Ebene: CDU Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/b9e91c1d-a1ff-495e-b48d-d31364e1aee1,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,Protokoll 12. Sitzung IFK (Arbeitsgemeinschaft),http://www.daten.rlp.de/dataset/f78cf249-941c-49f1-8559-4da4eeb09bac,dl-de-by-1.0,PDF,d
+,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaft, Landkreis Vulkaneifel –",http://www.daten.rlp.de/dataset/2983b3fc-6df4-4d99-9320-24f39c60f13b,dl-de-by-1.0,PDF,d
+,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 61 in Brohltalbrücke,http://www.daten.rlp.de/dataset/3326603c-1f0b-4624-aa97-742bcfad8824,dl-de-by-1.0,PDF,d
+,,,,x,,,,x,,,,,,,,Integrative Kindertagesstätten und Förderkindergärten,http://www.daten.rlp.de/dataset/be33ce8c-8e34-4be0-8322-96f5ce29c38b,dl-de-by-1.0,HTML,d
+,,x,,,,,,,,,,,,,,WebApp - GeoPortal.rlp,http://www.daten.rlp.de/dataset/208d1b10-815f-4f32-96aa-596681585d95,dl-de-by-1.0,,d
+,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Visualisierung --,http://www.daten.rlp.de/dataset/677121c3-5d7b-408b-a031-0368403706cb,dl-de-by-1.0,HTML,d
+,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaft, Westerwaldkreis –",http://www.daten.rlp.de/dataset/f5ce634e-fdf3-4ac2-9473-815685aab981,dl-de-by-1.0,PDF,d
+,,,x,,,,,,,,,,,,,Öffentlichkeit der Sitzungen von Entscheidungsgremien,http://www.daten.rlp.de/dataset/54320cf1-89ee-4da2-ae64-5f8b800b35c8,dl-de-by-1.0,HTML,d
+,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 10 in Rheinbrücke Wörth,http://www.daten.rlp.de/dataset/783d6552-af7a-498d-a866-df9fd899d624,dl-de-by-1.0,PDF,d
+,,,x,,,,,,,,,,,,,Transparenz in Verwaltung und Archiven,http://www.daten.rlp.de/dataset/000892e5-786e-46db-bb4e-e13626f5d17e,dl-de-by-1.0,HTML,d
+,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- FAQ --,http://www.daten.rlp.de/dataset/ed125b95-a001-47e3-86cb-d8c2d01b61b5,dl-de-by-1.0,HTML,d
+,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C29A,http://www.daten.rlp.de/dataset/f2c0adb7-c125-4a79-8083-12b081a3f2a7,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,,,x,,,,x,,,,,,,"A 60, Ausbau Mainzer-Ring --Chronik --",http://www.daten.rlp.de/dataset/dac1241f-d396-462d-9657-e7f378dfd878,dl-de-by-1.0,HTML,d
+,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 61 in Rheinbrücke Speyer-Nord,http://www.daten.rlp.de/dataset/04b6b748-4174-4791-8444-8d201ea1de7c,dl-de-by-1.0,PDF,d
 ,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Planung/Landespflege --,http://www.daten.rlp.de/dataset/6eea9521-abb4-4dcc-98f3-268baa8a97c4,dl-de-by-1.0,HTML,d
-,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 61 in Franken,http://www.daten.rlp.de/dataset/51fa062b-fd60-4e14-bf09-ebc29ca5ef9f,dl-de-by-1.0,PDF,d
 ,,,x,,,,,,,,,,,,,Informationsfreiheit bei öffentlich-rechtlichen Rundfunkanstalten,http://www.daten.rlp.de/dataset/377e0166-e3f1-42bd-8ba9-a1f47dc17a5c,dl-de-by-1.0,HTML,d
-,,x,,,,,,,,,,,,,,Mitfahrerparkplaetze - Ebene: Wald,http://www.daten.rlp.de/dataset/7d20275f-dfea-4e59-8c1f-2b6bf88bfaa2,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, Landkreis Cochem-Zell –",http://www.daten.rlp.de/dataset/e7e62441-bce7-4a47-abb3-7075a5e8fa22,dl-de-by-1.0,PDF,d
-,,,x,,,,,,,,,,,,,Protokoll 22. Sitzung IFK,http://www.daten.rlp.de/dataset/8c3aa3b0-f6d0-4e6a-a555-9f76b9d1310b,dl-de-by-1.0,HTML,d
+,,,,x,,,,x,,,,,,,,Gesundheitsfachberufe (Ausbildung),http://www.daten.rlp.de/dataset/6077074a-07bd-452e-b33c-ff008625bdcc,dl-de-by-1.0,HTML,d
 ,,,,,,,,,,,,,,,x,sandapp,http://www.daten.rlp.de/dataset/fc093c23-3a8c-472c-8d2e-6fd115bef307,dl-de-by-1.0,,d
-,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Baureport --,http://www.daten.rlp.de/dataset/27c73d42-e41b-4631-8b93-1a7192d80d44,dl-de-by-1.0,HTML,d
-,,,,,,x,,,,,,,,,,"Datenkompass – Tourismus, Rhein-Hunsrück-Kreis –",http://www.daten.rlp.de/dataset/21614707-bc22-46be-b176-31571e6ac3b0,dl-de-by-1.0,PDF,d
-,,,,,,,,,x,,,,,,,Langzeitzählstellen in Rheinland-Pfalz,http://www.daten.rlp.de/dataset/c2e0f4fb-7951-4b02-8d4e-7bc32a403e3c,dl-de-by-1.0,HTML,d
-,x,,,,,,,,,,,,,,,Hochschulstatistik - Studierende an Fachhochschulen -,http://www.daten.rlp.de/dataset/1a05676b-0ba0-42e7-9319-c2e0f023a595,dl-de-by-1.0,"HTML,XLS",d
-,,,x,,,,,,,,,,,,,Protokoll 21. AKIF,http://www.daten.rlp.de/dataset/76563852-16ef-43ba-a89f-6030d68dfcde,dl-de-by-1.0,HTML,d
-,,,,,,,,,x,,,,,,,"Langzeitzählstelle auf der B 9 in AS Oggersheimer Kreuz, VQ Nord",http://www.daten.rlp.de/dataset/aafeb993-bbef-4631-b7ae-cf5853c59191,dl-de-by-1.0,PDF,d
-,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, Eifelkreis Bitburg-Prüm –",http://www.daten.rlp.de/dataset/ba2802ea-d061-4b34-84b4-9794b243123e,dl-de-by-1.0,PDF,d
+,,x,,,,,,,,,,,,,,Ländliches Verbindungswegenetz RP - Ebene: Verbindungswege Öffentl. Strassen,http://www.daten.rlp.de/dataset/ce8bee3e-df19-4123-9eb2-a3e3d83ae1d5,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,x,,,x,,,,,Hilfen zur Integration in RLP - Ebene: Ausländerbehörden in RLP,http://www.daten.rlp.de/dataset/a2e8a9f3-5148-4bb7-b6a0-ef0ed867f523,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 64 in Sauertalbrücke,http://www.daten.rlp.de/dataset/371cb090-f86c-4a07-8682-95761d93d980,dl-de-by-1.0,PDF,d
-,x,x,,,,,,,,,,,,,,LGB: Geotourismus - Ebene: Museum,http://www.daten.rlp.de/dataset/a4c25b30-cbb9-48ff-a117-f255679a8d99,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 61 in AK Koblenz-Nord,http://www.daten.rlp.de/dataset/6221b0d9-bdd4-4f35-af76-87715630d9c9,dl-de-by-1.0,PDF,d
+,,,x,,,,,,,,,,,,,Protokoll 23. AKIF,http://www.daten.rlp.de/dataset/5f680deb-1822-418f-8139-5679fdcce079,dl-de-by-1.0,HTML,d
+,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaft, Landkreis Alzey-Worms –",http://www.daten.rlp.de/dataset/8324cc94-f892-4180-b2ae-9e9bb89b00cc,dl-de-by-1.0,PDF,d
+,,,,,,,,,,,,,x,,,"Außenhandel - Aus- und Einfuhr, Warengruppen -",http://www.daten.rlp.de/dataset/6d6698c1-4667-4a9a-affa-1b4f2c3088ff,dl-de-by-1.0,"HTML,XLS",d
 ,,x,,,,,,,,,,,,,,Mitfahrerparkplaetze - Ebene: Mitfahrerparkplaetze,http://www.daten.rlp.de/dataset/3f658f48-82d2-4e11-8ce2-fae0bd681ca1,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,,x,,,,,,,,,,,,,Verbraucherinformationsgesetz nachbessern,http://www.daten.rlp.de/dataset/3a3b7cff-61a0-4042-9e74-e761fa6696a3,dl-de-by-1.0,HTML,d
-,,,x,,,,,,,,,,,,,Protokoll 20.AKIF,http://www.daten.rlp.de/dataset/867f3ba5-e192-4756-b30c-dc6d577375b0,dl-de-by-1.0,HTML,d
+,,,x,,,,,,,,,,,,,Informationsfreiheit in Rheinland-Pfalz Tipps und Infos,http://www.daten.rlp.de/dataset/20029ed3-a6fd-4174-aee3-cb9e22f89ea6,dl-de-by-1.0,PDF,d
 ,,,,x,,,,x,,,,,,,,"Landesamt für Soziales, Jugend und Versorgung",http://www.daten.rlp.de/dataset/1b37f59d-c52b-4aed-95f9-df3697130fda,dl-de-by-1.0,HTML,d
+,,,x,,,,,,,,,,,,,Protokoll 19. AKIF,http://www.daten.rlp.de/dataset/3f7c5e8a-9172-4d50-93d9-e9fbc0ac5437,dl-de-by-1.0,HTML,d
 ,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Monitoring --,http://www.daten.rlp.de/dataset/a222c6db-e47e-411a-b923-82827458dd13,dl-de-by-1.0,HTML,d
-,,,,x,,,,x,,,,,,,,Gebärdensprachdolmetscher (Vermittlungsstellen),http://www.daten.rlp.de/dataset/f00684c5-d281-41ab-ad26-72e40c12fbe8,dl-de-by-1.0,HTML,d
-,,,,,x,,,,,,,,x,,,Preise - Kaufwerte für baureifes Land -,http://www.daten.rlp.de/dataset/e031b327-61d7-4560-b899-54c3526edb5e,dl-de-by-1.0,"HTML,XLS",d
-,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: MH3,http://www.daten.rlp.de/dataset/877830bc-9cd7-434c-8cdf-23eab897193a,cc-by,"KARTENVIEWER,WMS,HTML",d
-,x,,,,,,,,,,,,,,,"Datenkompass – Erziehung und Bildung, Landkreis Trier-Saarburg –",http://www.daten.rlp.de/dataset/6be39e94-67a0-4e24-8152-0e37227d9951,dl-de-by-1.0,PDF,d
-,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, Landkreis Bernkastel-Wittlich –",http://www.daten.rlp.de/dataset/a525a1ab-6f43-477f-ba17-aef575e6e561,dl-de-by-1.0,PDF,d
-,x,x,,,,,,,,,,,,,,LGB: HGW Blei - Ebene: LGB: HGW Blei,http://www.daten.rlp.de/dataset/dcb9d9d7-b74e-4df6-9b85-ccb33a582d3b,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: GRÜNE Landesstimmen,  Gewinne und Verluste gegenüber  Landtagswahl 2001 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/baadb423-dfec-4e78-8702-b01657571f53,cc-by,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2001 - Ebene: CDU Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/6199ab7f-fc2c-4a87-9986-49f30e0b8775,cc-by,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2005 - Ebene: GRÜNE Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 2002 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/6cdc49d3-b335-4117-be0c-1210b76bbe35,cc-by,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,x,,,x,,,,,Statistik-RP - Ebene: Gemeindedaten,http://www.daten.rlp.de/dataset/98807454-122c-4f1a-b683-5dfd87d8642b,cc-by,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung unter 20 Jahre, Veränderung gegenüber 2003 in % (Kreisebene)",http://www.daten.rlp.de/dataset/2a4a1cd5-1fe5-4066-b1a1-fc0fec11d1c8,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Ländliches Verbindungswegenetz RP - Ebene: Verbindungswege Priorität I,http://www.daten.rlp.de/dataset/83ea414e-13fa-4d47-908c-fb4c90607852,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2009 - Ebene: SPD Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/24a1a7c8-4236-4f07-bf55-5828240bbade,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Verwaltungsgrenzen Rheinland-Pfalz 2014 - Ebene: Kreisebene,http://www.daten.rlp.de/dataset/44adc427-c0a6-402f-96b1-9473a8638dd3,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,Protokoll 18. AKIF,http://www.daten.rlp.de/dataset/f3d51830-c09d-47ef-a66e-bf5709ef55b6,dl-de-by-1.0,HTML,d
-,x,x,,,,,,,,,,,,,,LGB: HGW Mangan - Ebene: LGB: HGW Mangan,http://www.daten.rlp.de/dataset/a4544824-4949-4fc1-bcaa-36f88e3a3a35,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, Landkreis Mainz-Bingen –",http://www.daten.rlp.de/dataset/7926484d-9fd5-436e-84f6-c6bf31526f32,dl-de-by-1.0,PDF,d
-,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2002 - Ebene: GRÜNE Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 1998 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/86420d8e-a6c4-4096-8d9a-fc9f88d1b48f,cc-by,"KARTENVIEWER,WMS,HTML",d
-x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Landkreis Trier-Saarburg-",http://www.daten.rlp.de/dataset/8541ae4f-d3c4-46bf-9d9d-a16f185918ae,dl-de-by-1.0,PDF,d
-,x,x,,,,,,x,,,x,,,,,"Bevölkerung in der Zukunft - Ebene: Bevölkerung 65 Jahre und älter 2060, Veränderung gegenüber 2010 in %",http://www.daten.rlp.de/dataset/c4b44b44-cd9d-4134-b02a-08201cd82f3a,cc-by,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: GRÜNE Landesstimmen,  Gewinne und Verluste gegenüber Landtagswahl 2001 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/af19d5e7-59b6-4a0f-bac2-b53b1ed045dd,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C21_Aenderung_1Teilaenderung,http://www.daten.rlp.de/dataset/9a84ad8c-2694-4a63-8e01-2c9cfb58baab,cc-by,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: Wahlbeteiligung, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/11abfdd1-67ad-416a-a146-507cb87364e3,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaft, Landkreis Ahrweiler –",http://www.daten.rlp.de/dataset/9bdebc32-f531-4836-ba1f-a33f9004a191,dl-de-by-1.0,PDF,d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Ebene, Landkreis Trier-Saarburg -",http://www.daten.rlp.de/dataset/67f625ef-61f3-438f-90cc-451c08e6f8cd,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerungsbewegung 2013 - Ebene: Gestorbene, Anzahl je 1.000 Einwohner (Gemeindeebene)",http://www.daten.rlp.de/dataset/93d7c1dc-9bb9-4d66-aa6b-01505424596c,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -113,7 +89,6 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,x,x,,,,,,,,,,,,,,LGB: WLF Grundwasserergiebigkeit - Ebene: LGB: WLF Grundwasserergiebigkeit,http://www.daten.rlp.de/dataset/c3817aeb-c61c-4c36-9ac9-eb3f0505a0c0,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,,x,,,,,,,,,,,,,Protokoll 16. AKIF,http://www.daten.rlp.de/dataset/26c06b0c-fbad-4767-aa6f-9e8faadb45c1,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,,,,,,,,,LGB: Uebersichtskarte der Oberflaechennahen Rohstoffe - Ebene: LGB: Uebersichtskarte der Oberflaechennahen Rohstoffe,http://www.daten.rlp.de/dataset/bd334e99-af85-47e0-a8b2-82c9e7b3dfd3,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaft, Landkreis Vulkaneifel –",http://www.daten.rlp.de/dataset/2983b3fc-6df4-4d99-9320-24f39c60f13b,dl-de-by-1.0,PDF,d
 ,,x,,,,,,,,,,,,,,Straßennetz - Ebene: Bundesstraßen,http://www.daten.rlp.de/dataset/453f67fa-4187-42f8-be15-535bda10dd8a,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Familienzentren,http://www.daten.rlp.de/dataset/fa44d989-2e7f-4d05-b3af-42b25ccb2e3c,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,,,x,,,,x,,,,,,,,"Datenkompass – Soziales und Gesundheit, Landkreis Südliche Weinstraße –",http://www.daten.rlp.de/dataset/7602ac64-aa73-40af-a83a-a1d1964d8a8a,dl-de-by-1.0,PDF,d
@@ -134,14 +109,17 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,x,x,,,,,,,,,,,,,,LGB: RROP Rheinhessen-Nahe - Ebene: Rohstoffsicherungsflächen des Regionalen Raumordnungsplans Rheinhessen-Nahe,http://www.daten.rlp.de/dataset/bdb1f8d9-1bf3-474b-8536-50b67364ae24,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,,,x,,,,x,,,,,,,,"Datenkompass – Soziales und Gesundheit, Westerwaldkreis –",http://www.daten.rlp.de/dataset/d227d32b-716f-4c65-a23b-4cc7a98ed6f4,dl-de-by-1.0,PDF,d
 ,,x,,,x,,,,,x,,x,,,,Vogelschutzgebiet - Ebene: Vogelschutzgebiet,http://www.daten.rlp.de/dataset/29fa65b0-e91b-4596-beed-2cc8176c40b1,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Planung --,http://www.daten.rlp.de/dataset/426003d0-9890-4709-b5bb-714b5ab16351,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung in der Zukunft - Ebene: Bevölkerung unter 20 Jahre 2060, Anteil in %",http://www.daten.rlp.de/dataset/81f83c33-c130-4d77-81a8-1e2e39a6b3e9,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,"LGB: HGW Kobalt - Ebene: Kobalt, 90.Perzentil (Oberboden)",http://www.daten.rlp.de/dataset/6f834582-26a8-475a-aed8-b52fe4009b7f,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung in der Zukunft - Ebene: Bevölkerung 65 Jahre und älter 2060, Anteil in %",http://www.daten.rlp.de/dataset/5eb6b7d4-a6a6-4ef6-8a68-f62660252d63,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,,,,x,,,,,,,,,,"Tourismusstatistik - Ausländische Gäste, Betriebsarten -",http://www.daten.rlp.de/dataset/1f9e96ff-a681-40e7-8a26-50bb0fd29582,dl-de-by-1.0,"HTML,XLS",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2005 - Ebene: Sonstige Zweitstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/a20c50be-cee6-4305-bab1-e8ad2493cd8f,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2004 - Ebene: GRÜNE, Gewinne und Verluste gegenüber Europawahl 1999 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/92c2fa33-96b0-41ba-9f0a-09737fcff12e,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung 65 Jahre und älter, Anteil in % (Kreisebene)",http://www.daten.rlp.de/dataset/eef02829-c02c-41ff-8e54-f66a1c992496,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,x,,,x,,x,,,,Verwaltungsgrenzen Rheinland-Pfalz 2014 - Ebene: Gemeindeebene,http://www.daten.rlp.de/dataset/43274794-a291-4e8b-a14e-4b2b8f650f61,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, kreisfreie Stadt Landau i. d. Pfalz -",http://www.daten.rlp.de/dataset/d43462a9-b05a-46ed-beac-3dd5f531cb05,dl-de-by-1.0,PDF,d
+,x,x,,,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Schuldnerberatungsstellen,http://www.daten.rlp.de/dataset/005e60df-2ad5-4388-b979-38be0e144ab8,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,x,,,,,,,,,,,oeffentliche Energiethemen - Ebene: Bioenergieanlagen oeffentlich,http://www.daten.rlp.de/dataset/bdcf4090-a2df-42b9-a3f9-9c80783c8b88,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,x,,,x,,,,,Bevölkerung in der Zukunft - Ebene: Jugendquotient: Jugendliche unter 20 Jahre je 100 Personen im Alter von 20 bis unter 65 Jahre 2010,http://www.daten.rlp.de/dataset/88e4a6b1-2952-4bcc-bd04-6d27a6b56a38,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,x,,,,,,Naturschutzgebiet - Ebene: Naturschutzgebiet,http://www.daten.rlp.de/dataset/32126023-8ab6-46b5-acd2-462ac71d372e,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -161,12 +139,13 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Eben
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaftliche Entwicklungspotenziale, Landkreis Ahrweiler –",http://www.daten.rlp.de/dataset/e1e392d8-9fa8-4685-8ea4-ff8c906035d1,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung unter 3 Jahre, Veränderung gegenüber 2003 in % (Kreisebene)",http://www.daten.rlp.de/dataset/6577910f-193e-469c-9b8c-553ec8353d62,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,x,,,,,,LGB: BFD50/200 Retentionsvermoegen fuer Blei - Ebene: Retentionsvermögen für Blei,http://www.daten.rlp.de/dataset/72b14664-833f-4746-b100-1c57c85726b7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 61 in Brohltalbrücke,http://www.daten.rlp.de/dataset/3326603c-1f0b-4624-aa97-742bcfad8824,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung 20 bis unter 65 Jahre, Anteil in % (Kreisebene)",http://www.daten.rlp.de/dataset/3c789a0d-c69a-4d61-90da-34817a87ecd3,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,x,,,,,,,"Langzeitzählstelle auf der A 6 in AS Ludwigshafen, VQ West",http://www.daten.rlp.de/dataset/4970bdd2-5906-4094-8efb-60b5741a0232,dl-de-by-1.0,PDF,d
+,,,x,,,,,,,,,,,,,Verbraucherinformation unverzüglich regeln,http://www.daten.rlp.de/dataset/bb38be63-c2c8-4d66-811f-8c96d00a9529,dl-de-by-1.0,HTML,d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaftliche Entwicklungspotenziale, kreisfreie Stadt Landau i. d. Pfalz –",http://www.daten.rlp.de/dataset/bf7fdf5f-158d-42ac-935e-81e3b4d2dd1b,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung in der Zukunft - Ebene: Bevölkerung 80 Jahre und älter 2030, Veränderung gegenüber 2010 in %",http://www.daten.rlp.de/dataset/07e876ad-5d62-4797-8e53-5376bebe17a9,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,,,,,,,,,,,,,,,"Datenkompass – Erziehung und Bildung, Landkreis Südliche Weinstraße –",http://www.daten.rlp.de/dataset/fbfb4995-ac18-4458-ae9f-156a47aa0357,dl-de-by-1.0,PDF,d
+,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Visualisierung/Eifel --,http://www.daten.rlp.de/dataset/4e298467-7037-4ca6-8c08-17e7168ab14e,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Angebote für Wohnungslose,http://www.daten.rlp.de/dataset/e53861c4-8137-4789-8f4c-522fb761da60,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 x,,,,,,,,,,,,,,,,"Mikrozensus - Bevölkerung, allgemeiner Schulabschluss, beruflicher Ausbildungs-/Hochschulabschluss -",http://www.daten.rlp.de/dataset/2f5f351a-469b-4c87-b043-7dd62dda1be4,dl-de-by-1.0,HTML,d
 ,,x,,,,,,,,,,,,,,Verwaltungsgrenzen Rheinland-Pfalz,http://www.daten.rlp.de/dataset/08366033-9a14-49fe-baad-166e4cb8a56c,dl-de-by-nc-1.0,WEBMAPSERVICE,d
@@ -182,13 +161,10 @@ x,,,,,,,,,,,,,,,,"Mikrozensus - Bevölkerung, allgemeiner Schulabschluss, berufl
 x,,,,,,,,,,,,,,,,"Bevölkerungsfortschreibung - Gemeindezahl, Bevölkerungsgrößenklassen -",http://www.daten.rlp.de/dataset/1a90cf01-e24d-4fc5-a18b-b2a643ed12c2,dl-de-by-1.0,"HTML,XLS",d
 ,,,,,,,,,,,,,x,,,Preise - Kaufwerte für Flächen landwirtschaftlicher Nutzung -,http://www.daten.rlp.de/dataset/1070fac9-51d5-4b40-8400-72e5cba447c3,dl-de-by-1.0,"HTML,XLS",d
 ,,x,,,x,,,,,x,,x,,,,HPNV_Standorte_RLP - Ebene: Gruppierung nach Standorten,http://www.daten.rlp.de/dataset/32a25652-7160-4f54-b88d-fc152b9f7fd8,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,,,,x,,,,x,,,,,,,,Integrative Kindertagesstätten und Förderkindergärten,http://www.daten.rlp.de/dataset/be33ce8c-8e34-4be0-8322-96f5ce29c38b,dl-de-by-1.0,HTML,d
-,,x,,,,,,,,,,,,,,WebApp - GeoPortal.rlp,http://www.daten.rlp.de/dataset/208d1b10-815f-4f32-96aa-596681585d95,dl-de-by-1.0,,d
 ,,,x,,,,,,,,,,,,,Informationsfreiheit - Luecken schließen,http://www.daten.rlp.de/dataset/7baac449-c986-4194-bf62-c94803150d6c,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2009 - Ebene: GRÜNE Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/c50ba68f-d041-48d6-ad3e-faf43dac17ff,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Ebene, Landkreis Cochem-Zell -",http://www.daten.rlp.de/dataset/0e3aac2b-83a0-4249-9767-e0918bf5423f,dl-de-by-1.0,PDF,d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 60 in Hechtsheim,http://www.daten.rlp.de/dataset/a4a48479-2bc9-4886-846d-116b1d58f995,dl-de-by-1.0,PDF,d
-,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Visualisierung --,http://www.daten.rlp.de/dataset/677121c3-5d7b-408b-a031-0368403706cb,dl-de-by-1.0,HTML,d
 ,,x,,,,,,,,,,,,,,Festung Ehrenbreitstein - Ebene: Infrastruktur linear,http://www.daten.rlp.de/dataset/aff9ad17-9d64-4d8c-b91d-4b443d7ff0bc,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,,x,,,,,,,,,,,,,Protokoll 20. Sitzung IFK,http://www.daten.rlp.de/dataset/787c3ecd-dde4-44e6-9a19-890c8356df8c,dl-de-by-1.0,HTML,d
 x,,,,,,,,,,,,,,,,"Bevölkerungsfortschreibung - verbandsfreie Gemeinden, Bevölkerungsgrößenklassen, -dichte -",http://www.daten.rlp.de/dataset/f36d2f3c-05c4-450b-86d2-ff10038f6b7d,dl-de-by-1.0,"HTML,XLS",d
@@ -196,9 +172,9 @@ x,,,,,,,,,,,,,,,,"Bevölkerungsfortschreibung - verbandsfreie Gemeinden, Bevölk
 ,,,,,,,,,x,,,,,,,"Langzeitzählstelle auf der A 60 in AS Mainz-Finthen, VQ Ost",http://www.daten.rlp.de/dataset/76f3e9a8-c6f5-486a-b0ed-1f6c97e34e9f,dl-de-by-1.0,PDF,d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaft, kreisfreie Stadt Landau i. d. Pfalz –",http://www.daten.rlp.de/dataset/ec4712fb-7fd2-415d-983d-2fd24043b452,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,,,,,,,,,LGB: WLF Grundwasserergiebigkeit - Ebene: Grundwasserergiebigkeit,http://www.daten.rlp.de/dataset/7fd075a7-9ebf-4788-b7f2-665ed642ae79,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaft, Westerwaldkreis –",http://www.daten.rlp.de/dataset/f5ce634e-fdf3-4ac2-9473-815685aab981,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,,,,,,,,,"LGB: WLF Wärmeentzugsleistung - Ebene: Mögliche Wärmeentzugsleistung, 2400 Betriebstunden, wenn trocken",http://www.daten.rlp.de/dataset/d19639cf-a09b-4ae3-8347-c55ea99e1665,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,x,,,,,,,Straßenverkehrsunfälle - Personenschäden -,http://www.daten.rlp.de/dataset/1be42085-018d-4dbf-a1a1-f7c7e06f94ca,dl-de-by-1.0,"HTML,XLS",d
+,,,,x,,,,x,,,,,,,,Betreutes Wohnen für Menschen mit Behinderung,http://www.daten.rlp.de/dataset/bdb833d3-e3ba-4d46-bb0e-769d2de5941c,dl-de-by-1.0,HTML,d
 ,,,,x,,,,x,,,,,,,,"Datenkompass – Soziales und Gesundheit, Rhein-Lahn-Kreis –",http://www.daten.rlp.de/dataset/33238a87-87e1-497f-85f8-53658d962b6e,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2011 - Ebene: FDP Landesstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/e1f1eec4-3b23-4a3b-b825-afa7f2ffff0e,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Straßennetz - Ebene: Stationen A-Straßen,http://www.daten.rlp.de/dataset/2980b835-9eb6-4563-bb25-5b6df73f65d5,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
@@ -213,7 +189,6 @@ x,,,,,,,,,,,,,,,,"Bevölkerungsfortschreibung - verbandsfreie Gemeinden, Bevölk
 ,,x,,,,,,,,,,,,,,Mitfahrerparkplaetze - Ebene: Industrie_Gewerbe,http://www.daten.rlp.de/dataset/973d85d8-6211-4555-b560-8e3160e58cac,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Trinkwasserentgelte 2013 - Ebene: Jahresentgelt bei einem Trinkwasserverbrauch von 40 m³, Euro (Verbandsgemeindeebene)",http://www.daten.rlp.de/dataset/9b35df73-d3c8-47e5-9860-8586574a92cc,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Ebene, Landkreis Ahrweiler -",http://www.daten.rlp.de/dataset/ed7a858c-5250-4858-810d-2da84480804e,dl-de-by-1.0,PDF,d
-,,,x,,,,,,,,,,,,,Öffentlichkeit der Sitzungen von Entscheidungsgremien,http://www.daten.rlp.de/dataset/54320cf1-89ee-4da2-ae64-5f8b800b35c8,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2009 - Ebene: GRÜNE, Gewinne und Verluste gegenüber  Europawahl 2004 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/3c0ee23a-f2de-473f-8218-30125b92cdd4,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Festung Ehrenbreitstein - Ebene: Infrastruktur,http://www.daten.rlp.de/dataset/48824094-9e01-4e19-858f-154946560105,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,,x,,,,,,,,,,,,,Offenlegung von Aktivitäten und Bezügen der Mitglieder öffentlicher Organe und Gremien,http://www.daten.rlp.de/dataset/a0c54012-80eb-4149-a0c3-310b290276c6,dl-de-by-1.0,HTML,d
@@ -222,7 +197,6 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,x,x,,,,,,,,,,,,,,WMS Layer Geoportal.rlp - Ebene: Layerumringe RP,http://www.daten.rlp.de/dataset/d543b36f-eaad-4e60-b2cf-16facb01866c,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Flächennutzung 2013 - Ebene: Siedlungs- und Verkehrsfläche, Anteil an der Bodenfläche in % (Kreisebene)",http://www.daten.rlp.de/dataset/79bc6510-800e-4020-8831-c22af49ad675,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Mitfahrerparkplaetze - Ebene: Gemeindestrassen,http://www.daten.rlp.de/dataset/07679fa4-1cc1-4ab7-96bb-c20a8136b028,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 10 in Rheinbrücke Wörth,http://www.daten.rlp.de/dataset/783d6552-af7a-498d-a866-df9fd899d624,dl-de-by-1.0,PDF,d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 9 in Mittelweiden,http://www.daten.rlp.de/dataset/5f7614e9-836e-4345-a481-b64ebeb4f460,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: WASG Landesstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/36f6c64d-d17b-4251-a230-086370eaf1ce,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,Hilfen für Familien in RLP - Ebene: Familienzentren in RLP,http://www.daten.rlp.de/dataset/563dc505-8379-4e7b-b6a5-e85f956f7ca9,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -232,6 +206,7 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,,,x,,,,,,,,,,,,,Protokoll 15. AKIF,http://www.daten.rlp.de/dataset/d0722605-62e8-4e84-a75a-0d6e38421326,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: SPD Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/f9cfa6b9-7a23-4114-a885-17e72689dce8,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,x,,,,,,Gewässergüte - Ebene: Gewässergüte Rheinland-Pfalz,http://www.daten.rlp.de/dataset/f4aad7e7-d8f2-4341-ace2-c951095a2d8e,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,,x,,,,,,,,,,,,,Informationsfreiheit in Grundgesetz und Landesverfassungen,http://www.daten.rlp.de/dataset/1ecd46b2-089f-4217-842e-9087790e8656,dl-de-by-1.0,HTML,d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 48 in AK Koblenz-Ost,http://www.daten.rlp.de/dataset/22de9e0e-e485-4480-8b55-15d227dff9cb,dl-de-by-1.0,PDF,d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: D9_Aenderung,http://www.daten.rlp.de/dataset/d5f14bde-7964-41e7-a86a-cdaf32c60d1d,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C10a_Neuaufstellung_II,http://www.daten.rlp.de/dataset/68f5715c-09e9-4b4a-b3ce-964779d4c476,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -257,10 +232,8 @@ x,,x,,,,,,,,x,,,x,,,LGB: BFD200 Feldkapazitaet 100cm - Ebene: LGB: BFD200 Feldka
 ,x,x,,,,,,,,,,,,,,LGB: WLF Wärmeleitfähigkeit - Ebene: Wärmeleitfähigkeit trocken,http://www.daten.rlp.de/dataset/62f68169-3dde-4db7-98de-c8d6baf6ae16,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Hilfen für Familien in RLP - Ebene: Hilfen für Familien in RLP,http://www.daten.rlp.de/dataset/cd952f34-e11e-4933-a00b-4b0d083e0ada,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Allgemeinbildende Schulen 2013 - Ebene: Grundschulen, Anzahl (Kreisebene)",http://www.daten.rlp.de/dataset/858ec94a-4578-48d1-9573-2978e6320356,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,Transparenz in Verwaltung und Archiven,http://www.daten.rlp.de/dataset/000892e5-786e-46db-bb4e-e13626f5d17e,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,,,,,,,,,"LGB: HGW Mangan - Ebene: Mangan, 90.Perzentil (Oberboden)",http://www.daten.rlp.de/dataset/e5080bfe-3601-407f-8dd9-c3cc49722375,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2009 - Ebene: SPD Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 2005  in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/e8aceb0d-b59d-4844-b33e-e3fb9e993fd6,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- FAQ --,http://www.daten.rlp.de/dataset/ed125b95-a001-47e3-86cb-d8c2d01b61b5,dl-de-by-1.0,HTML,d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 41 in Altenbergtunnel,http://www.daten.rlp.de/dataset/602138d8-7708-4394-b751-762af5482061,dl-de-by-1.0,PDF,d
 ,x,,,,,,,,,,,,,,,"Schulstatistik - allgemeinbildende Schulen, Schulentlassene, Abschlussart, Schulart -",http://www.daten.rlp.de/dataset/a2ce6a3f-29e1-47d4-bf72-0be13909f353,dl-de-by-1.0,"HTML,XLS",d
 x,,x,,,,,,,,x,,,x,,,LGB: Cross Compliance Bodenerosion - Ebene: Wassererosionsgefährdungsklasse Cross Compliance,http://www.daten.rlp.de/dataset/c40daffd-c924-48bc-b55b-b80b46d71703,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -284,10 +257,10 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 63 in Marienborn,http://www.daten.rlp.de/dataset/62967c66-75e3-4619-b59d-7845d0b58718,dl-de-by-1.0,PDF,d
 ,,x,,,,,,,,,,,,,,Höhenlinien Rheinland-Pfalz,http://www.daten.rlp.de/dataset/655b8571-e56c-4792-b43c-250851c9b6fc,dl-de-by-nc-1.0,WEBMAPSERVICE,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung unter 20 Jahre, Anteil in % (Gemeindeebene)",http://www.daten.rlp.de/dataset/3eb9cf04-3834-4222-8567-6cf9dc3084a9,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C29A,http://www.daten.rlp.de/dataset/f2c0adb7-c125-4a79-8083-12b081a3f2a7,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2004 - Ebene: Sonstige, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/b2acba87-a11e-4aad-85d7-547498f2caa8,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,,,x,,,,x,,,,,,,"A 60, Ausbau Mainzer-Ring --Chronik --",http://www.daten.rlp.de/dataset/dac1241f-d396-462d-9657-e7f378dfd878,dl-de-by-1.0,HTML,d
+,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2013 - Ebene: CDU Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/b9e91c1d-a1ff-495e-b48d-d31364e1aee1,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2005 - Ebene: SPD Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/ee235803-29e1-46e4-88d1-f7224feaec1a,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,x,,,,,,,,,,,,,Protokoll 12. Sitzung IFK (Arbeitsgemeinschaft),http://www.daten.rlp.de/dataset/f78cf249-941c-49f1-8559-4da4eeb09bac,dl-de-by-1.0,PDF,d
 ,,x,,,,,,,,,,,,,,Straßennetz - Ebene: Autobahnen,http://www.daten.rlp.de/dataset/4fbf5797-ff87-4c09-987d-599f96bfeec8,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,,,x,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Familien, Rhein-Lahn-Kreis –",http://www.daten.rlp.de/dataset/65393f64-d45d-4123-bb7c-13faf497966a,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung in der Zukunft - Ebene: Bevölkerung unter 3 Jahre 2060, Anteil in %",http://www.daten.rlp.de/dataset/1c7a816e-a74a-43ec-b562-c78ad58a51ab,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -298,7 +271,6 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,,x,,,,,,,,,,,,,,Hilfen für Frauen in RLP - Ebene: Beratungsstellen der Frauenhäuser in RLP,http://www.daten.rlp.de/dataset/db9ea7bc-68ae-4974-b2df-a42933e346b8,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: HGW Kobalt - Ebene: LGB: HGW Kobalt,http://www.daten.rlp.de/dataset/c263675f-a73c-4311-a86e-c8421ba5d0a6,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: B2_Neuaufstellung,http://www.daten.rlp.de/dataset/574687fc-0a00-494f-a2b6-8320db65fb79,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 61 in Rheinbrücke Speyer-Nord,http://www.daten.rlp.de/dataset/04b6b748-4174-4791-8444-8d201ea1de7c,dl-de-by-1.0,PDF,d
 ,,,,,x,,,,,,,,x,,,"Gebäudefortschreibung - Wohngebäude- und Wohnungsbestand, Gebäudearten -",http://www.daten.rlp.de/dataset/1325db5d-0f10-444f-a139-fb0fd13ce4d8,dl-de-by-1.0,"HTML,XLS",d
 ,,x,,,,,,,,,,,,,,Ländliches Verbindungswegenetz RP - Ebene: Verbindungswege Priorität III,http://www.daten.rlp.de/dataset/ca57f850-0c45-4e88-ba99-dc26cc7e49d6,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: HUEK200 Schnittspuren - Ebene: Lage der geologischen und hydrogeologischen Schnitte der HÜK 200,http://www.daten.rlp.de/dataset/63615a03-4d6d-4a23-9fca-a08253dad030,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -310,6 +282,7 @@ x,,x,,,,,,,,x,,,x,,,LGB: Cross Compliance Bodenerosion - Ebene: LGB: Cross Compl
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaftliche Entwicklungspotenziale, kreisfreie Stadt Neustadt a. d. Weinstr. –",http://www.daten.rlp.de/dataset/f48a4e6e-752a-4757-98e9-a3219f1aa1ba,dl-de-by-1.0,PDF,d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C27_Am_Kaffenberg,http://www.daten.rlp.de/dataset/b5173816-4bb9-4f81-8f3b-ca520322400b,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,x,,,,,,LGB: BFD50/200 Retentionsvermoegen fuer Cadmium - Ebene: LGB: BFD50/200 Retentionsvermoegen fuer Cadmium,http://www.daten.rlp.de/dataset/1716ce89-377b-4b20-8c3f-c25dec98202e,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 61 in Franken,http://www.daten.rlp.de/dataset/51fa062b-fd60-4e14-bf09-ebc29ca5ef9f,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2009 - Ebene: DIE LINKE Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 2005 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/09efe571-d4a3-4a74-aaf2-79e71aa3de70,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2009 - Ebene: CDU Zweitstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/9157a52b-4ee1-4832-bc4f-982f86b0b2e0,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Schülerinnen und Schüler an allgemeinbildenden Schulen 2013 - Ebene: Achtklässlerinnen und Achtklässler an der IGS am Wohnort, Anteil an der Schülerschaft dieser Klassenstufe in % (VG)",http://www.daten.rlp.de/dataset/facf257f-c874-4dd4-add4-7fe437e173cf,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -343,6 +316,7 @@ x,,,,,,,,,,,,,,,,"Bevölkerungsfortschreibung  - Bevölkerung, Verwaltungsbezirk
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung 65 Jahre und älter, Veränderung gegenüber 1993 in % (Kreisebene)",http://www.daten.rlp.de/dataset/ba47ca68-60e5-4700-949c-aa1e2bc0815c,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,,,,,,,,,,,,,,,"Schulstatistik - allgemeinbildende Schulen, Schularten, Verwaltungsbezirke -",http://www.daten.rlp.de/dataset/e1d01509-3fd1-44a1-ad85-cae5bf54a338,dl-de-by-1.0,"HTML,XLS",d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: F3_Neuaufstellung_II,http://www.daten.rlp.de/dataset/f39cdfea-daaa-41ec-92b3-0469e080a7b5,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Mitfahrerparkplaetze - Ebene: Wald,http://www.daten.rlp.de/dataset/7d20275f-dfea-4e59-8c1f-2b6bf88bfaa2,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,DLR Bodenordnungsverfahren RLP - Ebene: Vereinfachte Flurb. n. §86 FlurbG.,http://www.daten.rlp.de/dataset/7f7c2958-e3e3-4aa8-bd8e-edd3587a51f5,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Westerwaldkreis -",http://www.daten.rlp.de/dataset/22daf464-d757-40b1-963e-06e9708a7046,dl-de-by-1.0,PDF,d
 ,,,,,x,,,,,,,,x,,,Mikrozensus - Bruttokaltmiete in reinen Mietwohnungen,http://www.daten.rlp.de/dataset/85495384-557c-4dac-954b-b77dda47fb50,dl-de-by-1.0,"HTML,XLS",d
@@ -372,6 +346,7 @@ x,,x,,,,,,,,x,,,x,,,LGB: BFD200 Feldkapazitaet 100cm - Ebene: BFD200 Feldkapazit
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung 65 Jahre und älter, Veränderung gegenüber 2003 in % (Kreisebene)",http://www.daten.rlp.de/dataset/2c725679-ff72-45a0-b233-5acb3a3deed7,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,x,,,,,,,,,,"Datenkompass – Tourismus, Eifelkreis Bitburg-Prüm –",http://www.daten.rlp.de/dataset/1a61af2c-45b9-4ce3-a5ff-5a1c04c48854,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Schulentlassene allgemeinbildender Schulen 2013 - Ebene: Schulentlassene ohne Hauptschulabschluss, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/c2f1fee2-a3d5-44ff-bf25-bf3c52170cad,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, Landkreis Cochem-Zell –",http://www.daten.rlp.de/dataset/e7e62441-bce7-4a47-abb3-7075a5e8fa22,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2009 - Ebene: FDP, Anteil in % (VG)",http://www.daten.rlp.de/dataset/dda0e5dd-6998-42be-a644-445718939924,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,x,,,,,,,,x,,,x,,,LGB: BFD200 Bodenkarte - Ebene: BFD200 Bodengrosslandschaft (BGL),http://www.daten.rlp.de/dataset/819f7159-e507-430e-a0c6-3565e53ab454,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Familien, Landkreis Bernkastel-Wittlich –",http://www.daten.rlp.de/dataset/e44fb6cb-0c0c-4dca-a015-d829d43db28d,dl-de-by-1.0,PDF,d
@@ -380,13 +355,13 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,x,x,,,,,,,,,,,,,,LGB: Geotourismus - Ebene: Geotop,http://www.daten.rlp.de/dataset/93908829-52be-4e43-b674-13a6c42bb678,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Schülerinnen und Schüler an allgemeinbildenden Schulen 2013 - Ebene: Schülerinnen und Schüler am Wohnort, Anzahl je 1.000 Einwohner (VG)",http://www.daten.rlp.de/dataset/7abca523-17fc-4cd3-b8b2-194296bb9116,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,Datenkompass – Wirtschaftliche Entwicklungspotenziale Landkreis Südwestpfalz –,http://www.daten.rlp.de/dataset/093e6ab8-f0ba-4d16-b3df-bf70f92861d9,dl-de-by-1.0,PDF,d
-,,,,x,,,,x,,,,,,,,Gesundheitsfachberufe (Ausbildung),http://www.daten.rlp.de/dataset/6077074a-07bd-452e-b33c-ff008625bdcc,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Allgemeinbildende Schulen 2013 - Ebene: Grundschulen, Veränderung der Anzahl gegenüber 2003 in % (Kreisebene)",http://www.daten.rlp.de/dataset/ef938c74-7357-4fb6-a458-1b2db150efd8,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,x,,,,x,,,,,,,,Selbsthilfeorganisationen für Sucht,http://www.daten.rlp.de/dataset/2853f2c3-27d1-45f2-9d43-82d74dbf9d2c,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,,,,,,,,,"LGB: HGW Nickel - Ebene: Nickel, Mittlerer Gesamtgehalt (Oberboden)",http://www.daten.rlp.de/dataset/4500dceb-7ad2-409c-9e56-149dd4b16fce,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Soziale Einrichtungen RLP - Ebene: Betreutes Wohnen für Menschen mit Behinderung,http://www.daten.rlp.de/dataset/0fd7d0d3-2e16-4591-8c96-a15b60a959d9,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Preise - Verbraucherpreisindex, Güter- und Dienstleistungsgruppen -",http://www.daten.rlp.de/dataset/81a22964-928c-4009-b114-d97f7d7178bf,dl-de-by-1.0,"HTML,XLS",d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, Westerwaldkreis –",http://www.daten.rlp.de/dataset/3f7e894b-27a0-47d8-bd4c-9270e4b8513e,dl-de-by-1.0,PDF,d
+,,,x,,,,,,,,,,,,,Protokoll 22. Sitzung IFK,http://www.daten.rlp.de/dataset/8c3aa3b0-f6d0-4e6a-a555-9f76b9d1310b,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2004 - Ebene: CDU, Gewinne und Verluste gegenüber Europawahl 1999  in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/7e1860f6-7392-4c40-9c9d-315bdc317f34,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Familien, Landkreis Trier-Saarburg –",http://www.daten.rlp.de/dataset/6fab0ece-81d0-4b45-92fc-6777ccac0d5b,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2005 - Ebene: DIE LINKE Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/77d590f3-6cd6-4aab-8fb3-a08088cbf5cc,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -432,6 +407,7 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: WASG Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/1ef0e5f9-a641-437f-84df-80150168c987,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, kreisfreie Stadt Neustadt a. d. Weinstr. -",http://www.daten.rlp.de/dataset/e30f4172-ae29-4a29-96a1-a7f714612cbe,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,,,x,,,,,,LGB: HUEK200 Schutzwirkung der Grundwasserueberdeckung - Ebene: Schutzwirkung der Grundwasserueberdeckung der HUEK 200,http://www.daten.rlp.de/dataset/9ee80244-5ab7-45bf-91c3-0c8b67fb3071,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Baureport --,http://www.daten.rlp.de/dataset/27c73d42-e41b-4631-8b93-1a7192d80d44,dl-de-by-1.0,HTML,d
 ,,,,,,,,,,,,,x,,,Erwerbstätigkeit - Erwerbstätige am Arbeitsort - Wirtschaftsbereichen - Quartalsergebnisse,http://www.daten.rlp.de/dataset/95134028-82d2-4283-a763-19cec5f238c8,dl-de-by-1.0,,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung Insgesamt, Veränderung gegenüber 1993 in % (Gemeindeebene)",http://www.daten.rlp.de/dataset/c0c8835d-5f2c-4164-a582-4a3fad25e765,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Linien des Biotopkasters von Rheinland-Pfalz - Ebene: Linien des Biotopkasters von Rheinland-Pfalz,http://www.daten.rlp.de/dataset/2e7c367c-13ca-46f9-81c1-01c4c18fdfb6,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
@@ -439,7 +415,6 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, kreisfr
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung in der Zukunft - Ebene: Bevölkerung 80 Jahre und älter 2060, Veränderung gegenüber 2010 in %",http://www.daten.rlp.de/dataset/32e80cb0-7f73-48da-883f-e69f19926c8b,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Erwerbstätigkeit - Arbeitnehmer am Arbeitsort, Wirtschaftsbereiche -",http://www.daten.rlp.de/dataset/014d0c1e-9803-43c2-9f65-f771b4f41ff6,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2004 - Ebene: DIE LINKE, Gewinne und Verluste gegenüber Europawahl 1999 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/e04cbdbb-8993-479f-8464-8070f7a91d38,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Ländliches Verbindungswegenetz RP - Ebene: Verbindungswege Öffentl. Strassen,http://www.daten.rlp.de/dataset/ce8bee3e-df19-4123-9eb2-a3e3d83ae1d5,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,,,x,,,,x,,,,,,,,"Datenkompass – Soziales und Gesundheit, Rhein-Pfalz-Kreis –",http://www.daten.rlp.de/dataset/1677dae2-0596-47e5-a884-fd9d2295893a,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,,,,,,,,,LGB: WLF Wärmeleitfähigkeit - Ebene: Wärmeleitfähigkeit wassergesättigt,http://www.daten.rlp.de/dataset/c7e4ee8f-71f2-4337-b4e2-a7beabab5cf7,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: HGW Arsen - Ebene: Oberboden,http://www.daten.rlp.de/dataset/3eec282d-9587-4e6c-83a5-76767ddee2dc,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -461,6 +436,7 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, kreisfr
 ,x,x,,,,,,,,,,,,,,"LGB: HGW Cadmium - Ebene: Cadmium, 90.Perzentil (Oberboden)",http://www.daten.rlp.de/dataset/358e3bca-e74b-434e-8577-eb1d6fc65f2b,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,,,x,,,,x,,,,,,,,"Datenkompass – Soziales und Gesundheit, Landkreis Mayen-Koblenz –",http://www.daten.rlp.de/dataset/5e27e102-cd4a-42b4-8c21-8d4630b09d0e,dl-de-by-1.0,PDF,d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Donnersbergkreis -",http://www.daten.rlp.de/dataset/738bad63-9966-4a0c-b03e-ad1d30ef6ed2,dl-de-by-1.0,PDF,d
+,,,,,,x,,,,,,,,,,"Datenkompass – Tourismus, Rhein-Hunsrück-Kreis –",http://www.daten.rlp.de/dataset/21614707-bc22-46be-b176-31571e6ac3b0,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerungsbewegung 2013 - Ebene: Gestorbene, Veränderung gegenüber 1993 in % (Verbandsgemeindeebene)",http://www.daten.rlp.de/dataset/69ab0135-1d17-4e29-a848-a6e69f9b3989,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Familien, Landkreis Alzey-Worms –",http://www.daten.rlp.de/dataset/2377e180-4b2c-4505-9bf7-35980f4444a5,dl-de-by-1.0,PDF,d
 ,x,,,,,,,,,,,,,,,"Berufsausbildung - Auszubildende, Ausbildungsbereiche -",http://www.daten.rlp.de/dataset/c502bffb-8cf8-42ee-a2ff-c7ad3ddef750,dl-de-by-1.0,"HTML,XLS",d
@@ -475,6 +451,7 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2001 - Ebene: FDP Landesstimmen, Gewinne und Verluste gegenüber Landtagswahl 1996 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/c17c884a-6c1e-49b0-8f2f-6ed7d791658e,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: FDP Landesstimmen, Gewinne und Verluste gegenüber Landtagswahl 2001  in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/d79532a9-8ac3-436e-920c-87aeca5b2d99,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung 80 Jahre und älter, Anteil in % (Gemeindeebene)",http://www.daten.rlp.de/dataset/e7eb43a4-c70d-4930-84e3-74f01a2b1a99,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,,,,,,,x,,,,,,,Langzeitzählstellen in Rheinland-Pfalz,http://www.daten.rlp.de/dataset/c2e0f4fb-7951-4b02-8d4e-7bc32a403e3c,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Schulentlassene allgemeinbildender Schulen 2013 - Ebene: Schulentlassene mit qualifiziertem Sekundarabschluss I, Veränderung gegenüber 2008 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/e553dbf0-4b60-4759-a1a0-ee37383dfa5b,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2001 - Ebene: SPD Landesstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/4561e5b5-9a97-4bcc-b769-ea51765c0cff,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaftliche Entwicklungspotenziale, Westerwaldkreis –",http://www.daten.rlp.de/dataset/372aaa24-35e1-410b-a705-bf77abc2fe03,dl-de-by-1.0,PDF,d
@@ -503,6 +480,7 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Donners
 ,x,x,,,,,,x,,,x,,,,,Hilfen für Frauen in RLP - Ebene: Frauenspezifische Suchtangebote in RLP,http://www.daten.rlp.de/dataset/ff05adab-8c22-42cc-82a0-204e24bdccc4,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,x,,,,,,Gesetzliche Überschwemmungsgebiete - Ebene: Gesetzliche Überschwemmungsgebiete,http://www.daten.rlp.de/dataset/6e837a8b-bff0-48b0-b65e-220012881b5c,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: HUEK200 Verfestigung - Ebene: LGB: HUEK200 Verfestigung,http://www.daten.rlp.de/dataset/d1ed1f6d-2cf7-4b40-9e96-d012aa36e0d1,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,,,,,,,,,,,,,,,Hochschulstatistik - Studierende an Fachhochschulen -,http://www.daten.rlp.de/dataset/1a05676b-0ba0-42e7-9319-c2e0f023a595,dl-de-by-1.0,"HTML,XLS",d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2009 - Ebene: FDP, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/77db9968-350d-488c-ab54-864c6b109963,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: HUEK200 Art des Hohlraums - Ebene: Art des Hohlraums für den Oberen Grundwasserleiter der HÜK 200,http://www.daten.rlp.de/dataset/b315a591-080e-47ad-aacb-954f4c617f78,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: E7_Aenderung_Unteres_Rappenfeld,http://www.daten.rlp.de/dataset/10a75af8-f9f2-49e6-9fb6-abc0b02a7476,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -511,20 +489,22 @@ x,,x,,,,,,,,x,,,x,,,LGB: BFD50/200 Auswaschungsgefaehrdung am Beispiel des Nitra
 x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Familien, Landkreis Cochem-Zell –",http://www.daten.rlp.de/dataset/f80d493e-f40d-4517-a971-cec6c4302ad3,dl-de-by-1.0,PDF,d
 ,x,,,,,,,,,,,,,,,Schulstatistik - allgemeinbildende Schulen -,http://www.daten.rlp.de/dataset/97039da9-da74-4b54-bd3e-4b35d884c4b7,dl-de-by-1.0,"HTML,XLS",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung unter 3 Jahre, Veränderung gegenüber 1993 in % (Kreisebene)",http://www.daten.rlp.de/dataset/5d3b48d9-1acc-4411-9f15-5cf7453f6728,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,x,,,,,,,,,,,,,Protokoll 21. AKIF,http://www.daten.rlp.de/dataset/76563852-16ef-43ba-a89f-6030d68dfcde,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung in der Zukunft - Ebene: Bevölkerung unter 20 Jahre 2010, Anteil in %",http://www.daten.rlp.de/dataset/3d100b4d-7603-4e38-9a08-21500dc951b4,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Laufende Flurbereinigungsverfahren in Rheinland-Pfalz - Ebene: Flurbereinigungsverfahren in Rheinland-Pfalz,http://www.daten.rlp.de/dataset/c474cd83-ac63-438f-9380-5e8bbfba5b5a,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
+,,,,,,,,,x,,,,,,,"Langzeitzählstelle auf der B 9 in AS Oggersheimer Kreuz, VQ Nord",http://www.daten.rlp.de/dataset/aafeb993-bbef-4631-b7ae-cf5853c59191,dl-de-by-1.0,PDF,d
 ,,x,,,x,,,,,,,,,,,Flächennutzungsplan Landau - Ebene: FNP_Umring_313000,http://www.daten.rlp.de/dataset/7e27e76a-3d29-4957-9caa-739893d7e629,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 258 in Oberbaar,http://www.daten.rlp.de/dataset/37d3965b-cc89-41c9-81c7-6fe824bcf3dd,dl-de-by-1.0,PDF,d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaftliche Entwicklungspotenziale, Landkreis Bernkastel-Wittlich –",http://www.daten.rlp.de/dataset/93ffd46a-2f6e-4958-abc8-e328cf3842f4,dl-de-by-1.0,PDF,d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Ebene, Landkreis Südliche Weinstraße -",http://www.daten.rlp.de/dataset/6a07730e-f861-48bb-b1d6-db657d2e1293,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,,,,,,,,,LGB: HGW Nickel - Ebene: LGB: HGW Nickel,http://www.daten.rlp.de/dataset/f5bf76cd-7045-4668-b1c3-0ebe715af07e,cc-nc,"KARTENVIEWER,WMS,HTML",d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, kreisfreie Stadt Ludwigshafen a. Rhein -",http://www.daten.rlp.de/dataset/94343d04-167f-494d-93b2-75312e3bb6ce,dl-de-by-1.0,PDF,d
+,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, Eifelkreis Bitburg-Prüm –",http://www.daten.rlp.de/dataset/ba2802ea-d061-4b34-84b4-9794b243123e,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2011 - Ebene: SPD Landesstimmen, Gewinne und Verluste gegenüber Landtagswahl 2006 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/b6597f91-02d2-416f-b85e-1bdab95706d3,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung in der Zukunft - Ebene: Bevölkerung 20 bis unter 65 Jahre 2010, Anteil in %",http://www.daten.rlp.de/dataset/5b8ed16f-72d4-42c4-b141-5404aabab734,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung unter 20 Jahre, Veränderung gegenüber 1993 in % (Verbandsgemeindeebene)",http://www.daten.rlp.de/dataset/2930481a-b015-4705-bad6-e7acd7e4ea2c,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerungsbewegung 2013 - Ebene: Lebendgeborene, Anzahl je 1.000 Einwohner (Gemeindeebene)",http://www.daten.rlp.de/dataset/904926fa-b2aa-4f3e-bf94-0c34e15bab51,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Allgemeinbildende Schulen 2013 - Ebene: Realschulen plus, Anzahl (Kreisebene)",http://www.daten.rlp.de/dataset/19b5459e-b7fe-40a9-81e6-5cdc50a46b37,cc-by,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,x,,,x,,,,,Hilfen zur Integration in RLP - Ebene: Ausländerbehörden in RLP,http://www.daten.rlp.de/dataset/a2e8a9f3-5148-4bb7-b6a0-ef0ed867f523,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,x,x,,x,x,x,,,,Naturräumliche Gliederung Rheinland-Pfalz - Ebene: Naturraumgrenzen,http://www.daten.rlp.de/dataset/f26892fa-4bca-44cd-8b1e-a558a43ef070,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2013 - Ebene: FDP Zweitstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/0c8dd39c-f111-4ff4-8516-00932b06706c,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2009 - Ebene: SPD, Gewinne und Verluste gegenüber Europawahl 2004 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/a4c9e0d9-9cf7-4546-bb2b-7c0c6a0b3d90,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -568,6 +548,7 @@ x,,,,,,,,,,,,,,,,Ausländerzentralregister - Ausländer nach Herkunft -,http://w
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2013 - Ebene: DIE LINKE Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 2009 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/c2d80515-430f-4c39-bd2a-d656ede349d0,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2009 - Ebene: GRÜNE Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 2005 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/d09b25fc-a810-4473-b2b7-2e797b79c6f3,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, Landkreis Alzey-Worms –",http://www.daten.rlp.de/dataset/b5cacc2f-a3c6-4684-9652-276c861dbcf1,dl-de-by-1.0,PDF,d
+,x,x,,,,,,,,,,,,,,LGB: Geotourismus - Ebene: Museum,http://www.daten.rlp.de/dataset/a4c25b30-cbb9-48ff-a117-f255679a8d99,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,,x,,,,,,,,,,,,,Protokoll 22. AKIF,http://www.daten.rlp.de/dataset/f3a98326-cea9-4aa4-806a-43924a13c8ae,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2002 - Ebene: Sonstige Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/4627bf8c-ba22-434c-9014-69d767969506,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: BFD50/200 Potenzielle Sickerwasserspende (1961-1990) - Ebene: Potenzielle Sickerwasserspende (1961-1990),http://www.daten.rlp.de/dataset/f543106d-1a94-4a05-a841-3e73157bd776,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -576,7 +557,6 @@ x,,,,,,,,,,,,,,,,Ausländerzentralregister - Ausländer nach Herkunft -,http://w
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Landkreis Ahrweiler -",http://www.daten.rlp.de/dataset/ecde5c25-7a87-49e0-9380-7b4bd6e8a379,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Flächennutzung 2013 - Ebene: Waldfläche, Anteil an der Bodenfläche in % (Gemeindeebene)",http://www.daten.rlp.de/dataset/4c6c8081-b7e2-414b-89c7-384a60c2e7d9,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Familien, Westerwaldkreis –",http://www.daten.rlp.de/dataset/a523be3e-781a-42bf-9173-26f3fd73219c,dl-de-by-1.0,PDF,d
-,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 61 in AK Koblenz-Nord,http://www.daten.rlp.de/dataset/6221b0d9-bdd4-4f35-af76-87715630d9c9,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2009 - Ebene: Sonstige, Anteil in % (VG)",http://www.daten.rlp.de/dataset/728ee70a-3796-47c5-a449-122dd5c717c0,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: FDP Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/80f71005-afb3-466a-86a8-868f0c4280d3,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerungsbewegung 2013 - Ebene: Geborenen- bzw. Gestorbenenüberschuss (-), Anzahl je 1.000 Einwohner (Kreisebene)",http://www.daten.rlp.de/dataset/97888a58-1dd8-49de-b99c-63c53f3d69bf,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -596,14 +576,12 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2011 - Ebene: FDP Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/d6abbc07-b6b7-4daf-8b94-1ddbcb9844ac,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Rhein-Hunsrück-Kreis -",http://www.daten.rlp.de/dataset/19d95dc4-ace7-4172-bdcb-f1398f05cb43,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,,,,,,,,,LGB: HUEK200 Durchlaessigkeit - Ebene: Einstufung des Oberen Grundwasserleiters der HUEK 200 in Durchlaessigkeitsklassen,http://www.daten.rlp.de/dataset/4debc7da-b18d-4200-8e84-c1d92b0b5080,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,,x,,,,,,,,,,,,,Protokoll 23. AKIF,http://www.daten.rlp.de/dataset/5f680deb-1822-418f-8139-5679fdcce079,dl-de-by-1.0,HTML,d
 ,x,,,,,,,,,,,,,,,"Datenkompass – Erziehung und Bildung, Rhein-Lahn-Kreis –",http://www.daten.rlp.de/dataset/534be3cd-2daa-4c66-adc5-11874699b52d,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Flächennutzung 2013 - Ebene: Waldfläche, Anteil an der Bodenfläche in % (Verbandsgemeindeebene)",http://www.daten.rlp.de/dataset/931ebf44-4b21-4c9b-93e7-cec21b95100c,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Schulentlassene allgemeinbildender Schulen 2013 - Ebene: Schulentlassene mit allgemeiner Hochschulreife, Veränderung gegenüber 2008 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/67284529-cd57-4444-aa00-03f2cd3eea43,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerungsbewegung 2013 - Ebene: Gestorbene, Anzahl je 1.000 Einwohner (Kreisebene)",http://www.daten.rlp.de/dataset/0770380c-f8d7-4465-8471-af3535675dad,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: FDP Landesstimmen, Gewinne und Verluste gegenüber Landtagswahl 2001 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/94a23975-83fd-4943-9cb1-acc243cd4753,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,x,,,x,,,WMS UTM WINDATLAS RLP - Ebene: Windgeschwindigkeit auf 100m ueber Grund,http://www.daten.rlp.de/dataset/e10e0f45-f581-41ff-9645-5948ac449305,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaft, Landkreis Alzey-Worms –",http://www.daten.rlp.de/dataset/8324cc94-f892-4180-b2ae-9e9bb89b00cc,dl-de-by-1.0,PDF,d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaft, Eifelkreis Bitburg-Prüm –",http://www.daten.rlp.de/dataset/f53f5f47-6b78-490f-a845-ac5f212bb8e0,dl-de-by-1.0,PDF,d
 ,,,,,,,,,x,,,,,,,"Langzeitzählstelle auf der B 9 in AS Ludwigshafen-Nord, VQ Süd",http://www.daten.rlp.de/dataset/1e22344a-6b53-4ac8-80d6-d40634185363,dl-de-by-1.0,PDF,d
 ,,,,,,,,,x,,,,,,,"Langzeitzählstelle auf der A 650 in AS Oggersheim-Süd, VQ Ost",http://www.daten.rlp.de/dataset/1bf09cbb-d681-473f-9a17-29e50e880462,dl-de-by-1.0,PDF,d
@@ -625,7 +603,6 @@ x,,,,,,,,,,,,,,,,"Mikrozensus - Bevölkerung, Familienstand, Altersgruppen -",ht
 ,x,x,,,,,,,,x,,,,,,LGB: BFD50/200 Puffervermoegen fuer Saeuren - Ebene: LGB: BFD50/200 Puffervermoegen fuer Saeuren,http://www.daten.rlp.de/dataset/4e6bb423-4250-4d56-95ac-632cd6ede528,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerungsbewegung 2013 - Ebene: Lebendgeborene, Veränderung gegenüber 1993 in % (Kreisebene)",http://www.daten.rlp.de/dataset/f4c9604e-c010-4cb2-a975-7960bf9e9926,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2013 - Ebene: CDU Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 2009 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/5353d1d1-eecc-454a-8f94-95ac38ab113c,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,,,,,,,,,,,x,,,"Außenhandel - Aus- und Einfuhr, Warengruppen -",http://www.daten.rlp.de/dataset/6d6698c1-4667-4a9a-affa-1b4f2c3088ff,dl-de-by-1.0,"HTML,XLS",d
 ,x,x,,,,,,x,,,x,,,,,"Allgemeinbildende Schulen 2013 - Ebene: Grundschulen, Anzahl (Verbandsgemeindeebene)",http://www.daten.rlp.de/dataset/b00e8cb8-a772-4f6e-a75f-53ccde64c585,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: Gewinnungsstellen mineralischer Rohstoffe - Ebene: Gewinnungsstellen mineralischer Rohstoffe,http://www.daten.rlp.de/dataset/3d22a0d1-0dd4-4d53-b7e6-06cad6cdbf0c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2009 - Ebene: Wahlbeteiligung, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/490b36e3-848a-4409-ba57-caa36ebd8e1b,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -641,7 +618,6 @@ x,,,,,,,,,,,,,,,,"Mikrozensus - Bevölkerung, Familienstand, Altersgruppen -",ht
 ,,,,x,,,,x,,,,,,,,Fachkliniken für Suchtkranke,http://www.daten.rlp.de/dataset/4590c6ad-cd30-45bd-9250-e38750cdc7a1,dl-de-by-1.0,HTML,d
 ,,x,,,,,,,,x,,,,,,Überflutungsflächen (HQ10) - Ebene: Überflutungsflächen HQ10,http://www.daten.rlp.de/dataset/e51382ec-3c5a-4c7e-a290-86dbc86de268,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2004 - Ebene: SPD, Anteil in % (VG)",http://www.daten.rlp.de/dataset/0f7077fe-a3b8-4ef1-95ce-a6d861816b95,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,Informationsfreiheit in Rheinland-Pfalz Tipps und Infos,http://www.daten.rlp.de/dataset/20029ed3-a6fd-4174-aee3-cb9e22f89ea6,dl-de-by-1.0,PDF,d
 ,,,,,,,,,x,,,,,,,Straßenverkehrsunfälle - Verunglückte und Beteiligte -,http://www.daten.rlp.de/dataset/e9af043a-f288-485c-8e1f-05055b0f3f2d,dl-de-by-1.0,"HTML,XLS",d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2009 - Ebene: FDP, Gewinne und Verluste gegenüber Europawahl 2004  in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/596f77f2-2476-4280-86c4-2132c0455ba8,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,x,,,,,,LGB: Hangstabilitaet - Ebene: LGB: Hangstabilitaet,http://www.daten.rlp.de/dataset/8509dbff-3821-4ceb-b00f-a3781e72dde1,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -654,6 +630,7 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Eben
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2013 - Ebene: SPD Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/8ab4ff7e-262c-42d4-a114-4f20e3ad3557,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Erwerbstätigkeit - Erwerbstätige am Arbeitsort, Wirtschaftsbereiche -",http://www.daten.rlp.de/dataset/2322b2c5-63dc-4427-9547-4e3a63749226,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2011 - Ebene: GRÜNE Landesstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/5313de82-b351-494b-aeff-3f8c16dc0c7d,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,x,,,,,,,,,,,,,Protokoll 20.AKIF,http://www.daten.rlp.de/dataset/867f3ba5-e192-4756-b30c-dc6d577375b0,dl-de-by-1.0,HTML,d
 ,,,x,,,,,,,,,,,,,Transparenz in öffentlichen Unternehmen,http://www.daten.rlp.de/dataset/4320e216-2037-4adc-a4ea-c880d7a6862c,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,,,,,,,,,LGB: HUEK200 Durchlaessigkeit - Ebene: LGB: HUEK200 Durchlaessigkeit,http://www.daten.rlp.de/dataset/86b2b238-832b-4869-b204-8216c62eb6d6,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: BFD50/200 Boeden als Archiv der Kultur- und Naturgeschichte - Ebene: LGB: BFD50/200 Boeden als Archiv der Kultur- und Naturgeschichte,http://www.daten.rlp.de/dataset/84333d64-e979-4dff-964d-b3c5b920892f,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -699,7 +676,6 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Eben
 ,x,x,,,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Betreutes Wohnen für ältere Menschen,http://www.daten.rlp.de/dataset/9b189b44-2b61-42a9-bed2-c889b6d83b53,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,"GeoPortal Wasser - Trinkwasserschutzgebiete, Rechtsverordnung - Ebene: GeoPortal Wasser - Trinkwasserschutzgebiete, Rechtsverordnung",http://www.daten.rlp.de/dataset/99e30d25-409a-44d9-9d59-0d78a3a6efff,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: AH2,http://www.daten.rlp.de/dataset/839adec2-5b4c-45e7-b833-6e4d46d1faff,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,Protokoll 19. AKIF,http://www.daten.rlp.de/dataset/3f7c5e8a-9172-4d50-93d9-e9fbc0ac5437,dl-de-by-1.0,HTML,d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C3f,http://www.daten.rlp.de/dataset/6010e56b-bc93-47ec-81f3-21ac76cf19ff,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,x,,,,,,,,,,"Tourismusstatistik - Gäste, Übernachtungen, Betriebsarten -",http://www.daten.rlp.de/dataset/3e67965f-3798-4aed-aac9-2dabd1acf4cc,dl-de-by-1.0,"HTML,XLS",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2013 - Ebene: GRÜNE Zweitstimmen, Gewinne und Verluste gegenüber  Bundestagswahl 2009 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/5c6eb86c-9fcb-4f2c-ae33-2d651546a47e,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -772,10 +748,10 @@ x,,x,,,,,,,,x,,,x,,,LGB: BFD50/200 Potenzielle Erosionsgefaehrdung durch Wasser 
 x,,x,,,,,,,,x,,,x,,,LGB: BFD200 Standorttypisierung - Ebene: LGB: BFD200 Standorttypisierung,http://www.daten.rlp.de/dataset/13ff469b-bd1e-4868-a93a-31d7217476ca,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2011 - Ebene: CDU Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/a9e1d450-13fc-49c3-91be-a986a54a3b51,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, Rhein-Lahn-Kreis –",http://www.daten.rlp.de/dataset/d2885252-ce7b-4e23-816c-75fd0e3a7ced,dl-de-by-1.0,PDF,d
+,,,,x,,,,x,,,,,,,,Betreuungsvereine,http://www.daten.rlp.de/dataset/89bc746a-0a74-4cab-8961-d0e49714bb6e,dl-de-by-1.0,HTML,d
 ,x,,,,,,,,,,,,,,,"Datenkompass – Erziehung und Bildung, Landkreis Vulkaneifel –",http://www.daten.rlp.de/dataset/a7182525-8dda-4d08-91ff-ed29a59e716b,dl-de-by-1.0,PDF,d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 255 in Boden,http://www.daten.rlp.de/dataset/466b463b-2f4f-4b06-bab1-6e6adc90b4e9,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung 65 Jahre und älter, Anteil in % (Gemeindeebene)",http://www.daten.rlp.de/dataset/9a4f946b-fd3b-46e6-8bab-8824723d082c,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,Stellungnahme LfDI Enquete Bürgerbeteilgung 10/2012,http://www.daten.rlp.de/dataset/fa69b57c-5fbc-4e1d-9c16-d8ca03df403a,dl-de-by-1.0,HTML,d
 ,,,,,x,,,,,,,,x,,,"Baugenehmigungen - Wohn- und Nichtwohnbau, Gebäudeart, Art der Beheizung -",http://www.daten.rlp.de/dataset/80e2fa35-7d61-4709-bf89-0f5d0b968d82,dl-de-by-1.0,"HTML,XLS",d
 ,x,x,,,,,,,,,,,,,,"LGB: HGW Kupfer - Ebene: Kupfer, Mittlerer Gesamtgehalt (Oberboden)",http://www.daten.rlp.de/dataset/8ab98320-0809-4a21-aa6d-0d8646fcf0d9,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Grundwasserlandschaften - Ebene: Grundwasserlandschaften,http://www.daten.rlp.de/dataset/cdea4d4f-012e-4ed7-ba6c-7011f3f436e4,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -789,7 +765,9 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Landkre
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: Sonstige Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/1f39747b-0d62-4a59-8f3d-4d7805571849,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2002 - Ebene: Sonstige Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 1998 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/e86438e9-ccdc-4485-8653-3a1ef430531f,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2004 - Ebene: DIE LINKE, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/f41733cf-24f1-4c2c-8260-936e29515eb0,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,,x,,,,x,,,,,,,,Betreuungsbehörden,http://www.daten.rlp.de/dataset/102178e9-67d2-48db-b1b6-82ce0c549235,dl-de-by-1.0,HTML,d
 ,,,,,,x,,,,,,,,,,"Datenkompass – Tourismus, Landkreis Trier-Saarburg –",http://www.daten.rlp.de/dataset/ff334ca3-7158-4d85-8f84-45dad46bd354,dl-de-by-1.0,PDF,d
+,,,x,,,,,,,,,,,,,Informationsfreiheitsgesetz endlich verabschieden,http://www.daten.rlp.de/dataset/a7c85d72-c6e1-4b69-a2b7-927f9f19c927,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,Bevölkerung 2013 - Ebene: Jugendquotient: Jugendliche unter 20 Jahre je 100 Personen im Alter von 20 bis unter 65 Jahre (Verbandsgemeindeebene),http://www.daten.rlp.de/dataset/43e45b39-9264-447a-ab69-fbeae3d7f561,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: Geotourismus - Ebene: Infozentrum,http://www.daten.rlp.de/dataset/9dd9456d-97ae-42ff-8d70-91367894559f,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,x,,,,,x,,x,,,,HPNV_Kartiereinheiten_RLP - Ebene: HpnV-Kartiereinheiten,http://www.daten.rlp.de/dataset/f062ce5f-5b1d-4ad2-8efb-9f47e8d214c2,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
@@ -809,7 +787,6 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Landkre
 ,x,x,,,,,,,,,,,,,,LGB: HGW Nickel - Ebene: Oberboden,http://www.daten.rlp.de/dataset/8ee6adc7-5124-4d41-b7d4-b2f3e50c9d98,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Übersichtskarte Rheinland-Pfalz 1:250.000,http://www.daten.rlp.de/dataset/b51bc668-44d5-498b-a756-3feec96a1dc9,dl-de-by-nc-1.0,"WEBMAPSERVICE,GEOTIFF",d
 ,x,x,,,,,,,,,,,,,,LGB: HGW Kupfer - Ebene: LGB: HGW Kupfer,http://www.daten.rlp.de/dataset/e142276e-8ff1-45c0-b2de-ce84e9d66661,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Aktuelles/Liste Projektstand--,http://www.daten.rlp.de/dataset/57f13913-a252-4388-80ed-2dbac36439e4,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Flächennutzung 2013 - Ebene: Bevölkerungsdichte, Einwohner je qkm (Gemeindeebene)",http://www.daten.rlp.de/dataset/c9f6c614-87fc-42a2-b23a-f696dce22ba8,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Ländliches Verbindungswegenetz RP - Ebene: Verbindungswege Priorität I,http://www.daten.rlp.de/dataset/a3f31913-964d-4e64-8cf9-1b838f3c63d9,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung in der Zukunft - Ebene: Bevölkerung unter 3 Jahre 2010, Anteil in %",http://www.daten.rlp.de/dataset/80597611-cb34-4c81-976d-dcf15ea998fd,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -822,7 +799,6 @@ x,,,,,,,,,,,,,,,,"Ausländerzentralregister - Ausländer, Staatsangehörigkeiten
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2005 - Ebene: DIE LINKE Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 2002 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/9c3a0c3d-370c-49e0-9184-f1b28d18a003,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2004 - Ebene: Sonstige, Gewinne und Verluste gegenüber Europawahl 1999 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/244c3247-26c9-4c00-a146-e79e4f4edab8,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,Hilfen für Familien in RLP - Ebene: Familienbildungsstätten in RLP,http://www.daten.rlp.de/dataset/4100fc64-106a-4518-9a09-ae2d8b37233b,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Topographische Karte Rheinland-Pfalz 1:25.000,http://www.daten.rlp.de/dataset/928abaea-45e1-4e32-b14f-a47fac67b24d,dl-de-by-nc-1.0,WEBMAPSERVICE,d
 ,x,x,,,,,,x,,,x,,,,,"Flächennutzung 2013 - Ebene: Siedlungs- und Verkehrsfläche, Anteil an der Bodenfläche in % (Verbandsgemeindeebene)",http://www.daten.rlp.de/dataset/950e50b3-de3a-4076-8e17-5552a102b830,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2013 - Ebene: GRÜNE Zweitstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/d9f3099c-b010-48ae-88ed-ac95c0451e28,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2001 - Ebene: Sonstige Landesstimmen, Gewinne und Verluste gegenüber Landtagswahl 1996 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/3ce93dbb-4e1f-4ae5-953a-9ee1181b8b74,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -850,7 +826,6 @@ x,,x,,,,,,,,x,,,x,,,LGB: BFD200 Nitratrueckhaltevermoegen - Ebene: LGB: BFD200 N
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2009 - Ebene: Sonstige, Gewinne und Verluste gegenüber Europawahl 2004 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/160b492b-8ad6-4333-b43b-7620d74694ed,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 3 in Birken,http://www.daten.rlp.de/dataset/597144c7-a4a2-4b47-a40f-4de839b5f36f,dl-de-by-1.0,PDF,d
 ,x,,,,,,,,,,,,,,,"Datenkompass – Erziehung und Bildung, Landkreis Cochem-Zell –",http://www.daten.rlp.de/dataset/942125e4-41a1-4e2b-91fb-dae7afd0244f,dl-de-by-1.0,PDF,d
-,,,x,,,,,,,,,,,,,Protokoll 13. Sitzung IFK,http://www.daten.rlp.de/dataset/fe09cb37-0e91-4066-ba73-bb530ccf7385,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Schülerinnen und Schüler an allgemeinbildenden Schulen 2013 - Ebene: Ausländische Schülerinnen und Schüler am Wohnort, Anteil an der Schülerschaft in % (VG)",http://www.daten.rlp.de/dataset/0b45e85b-dc28-499f-a726-a1aacb020987,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,"LGB: BFD50/200 Grund-, stau- und hangnasse Boeden - Ebene: LGB: BFD50/200 Grund-, stau- und hangnasse Boeden",http://www.daten.rlp.de/dataset/c2b2112c-292b-4608-9f38-db35140350c8,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,,,x,,,,x,,,,,,,,Betreuungsangebote (Ehrenamt),http://www.daten.rlp.de/dataset/f2b91e36-dee5-4dc0-adf6-c68a7ba4e00a,dl-de-by-1.0,HTML,d
@@ -863,7 +838,7 @@ x,,x,,,,,,,,x,,,x,,,LGB: BFD200 Nitratrueckhaltevermoegen - Ebene: LGB: BFD200 N
 ,,,,,,,,,,x,,,x,,,Energie - Energiebedingte CO2-Emissionen -,http://www.daten.rlp.de/dataset/8a266be9-a91d-4095-8fef-954b3c6cead1,dl-de-by-1.0,"HTML,XLS",d
 ,,,,,,x,,,,,,,,,,"Datenkompass – Tourismus, Landkreis Mayen-Koblenz –",http://www.daten.rlp.de/dataset/722ff21e-8cba-43b2-bdde-0b259fb79c85,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,,,,,,,,,LGB: HUEK200 Grundwasserleitertypen - Ebene: LGB: HUEK200 Grundwasserleitertypen,http://www.daten.rlp.de/dataset/3e8d39b9-ed94-4aa5-b23d-eb380c9474f3,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2001 - Ebene: Sonstige Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/0d9b5059-d609-4d3c-af0b-93b52ba7fcb9,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,x,,,,,,,,,,,,,Protokoll 11. AKIF,http://www.daten.rlp.de/dataset/a68bbfcc-87d9-4706-80e3-c1cb021f320d,dl-de-by-1.0,HTML,d
 ,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Planung/Chronologie --,http://www.daten.rlp.de/dataset/2026701e-346e-4e24-8c9d-37fa92f9c7ec,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Kommunale Behindertenbeiräte,http://www.daten.rlp.de/dataset/400f2928-d308-48f2-9d77-2be323be69da,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,,,x,,,,x,,,,,,,,Ambulante Pflegedienste,http://www.daten.rlp.de/dataset/ac090dc4-ab64-432f-9cdb-a89b76aa7ead,dl-de-by-1.0,HTML,d
@@ -871,7 +846,6 @@ x,,x,,,,,,,,x,,,x,,,LGB: BFD200 Nitratrueckhaltevermoegen - Ebene: LGB: BFD200 N
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2001 - Ebene: SPD Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/83ca313c-3e27-44c5-905e-a793fb32d1a6,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2002 - Ebene: GRÜNE Zweitstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/220653bf-9044-4071-a249-ed2ee74797f8,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2011 - Ebene: GRÜNE Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/d7735e0c-632a-4bae-8a75-17821e4aebd8,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,Protokoll 21. Sitzung IFK,http://www.daten.rlp.de/dataset/ea8f17bc-420d-491f-9b40-600d258ca2d3,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2011 - Ebene: GRÜNE Landesstimmen, Gewinne und Verluste gegenüber Landtagswahl 2006 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/9eaaffde-0651-43c0-a768-fc655252d732,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,x,,,,,,,,x,,,x,,,LGB: BFD200 Nitratrueckhaltevermoegen - Ebene: BFD200 Nitratrückhaltevermögen,http://www.daten.rlp.de/dataset/ee156c67-ae6d-44ae-97a6-d8466bb4537f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,DLR Bodenordnungsverfahren RLP - Ebene: Flurbereinigung n. §§ 1/37 FlurbG,http://www.daten.rlp.de/dataset/a1d6b650-9fd9-4115-a182-104a9e979a42,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
@@ -893,7 +867,6 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Eben
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2005 - Ebene: GRÜNE Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/4435655b-ac6f-4d7e-9537-ac23496aa2d7,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,Erwerbstätigenrechnung - Arbeitsvolumen nach Wirtschaftsbereichen,http://www.daten.rlp.de/dataset/87b10f28-82b8-4681-942b-91f68da9f133,dl-de-by-1.0,,d
 ,x,x,,,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Suchtberatungsstellen,http://www.daten.rlp.de/dataset/b5e5cc82-4f17-434c-ae0b-919fb84aa266,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
-,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 49 in Wasserbilligerbrück,http://www.daten.rlp.de/dataset/a34395d7-f430-4881-947f-86ca41cb62ed,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,,,,,,,,,LGB: HGW Cadmium - Ebene: LGB: HGW Cadmium,http://www.daten.rlp.de/dataset/753ca7f7-3ae3-4961-a386-64e186a6a333,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,x,,,x,,x,,,,Naturräumliche Gliederung Rheinland-Pfalz - Ebene: Naturraumflaeche_Alle_Ebenen,http://www.daten.rlp.de/dataset/8dd2abec-1bb3-441c-95f8-bbfc9787a4de,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 271 in Kirchheim,http://www.daten.rlp.de/dataset/ad074af8-081d-4b1e-aa54-824df99dff58,dl-de-by-1.0,PDF,d
@@ -909,7 +882,6 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Rhein-L
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2009 - Ebene: CDU Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/8bf0b812-8240-42f5-8823-1ffa21e2de1f,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,x,,,,,,,,,,,,,Protokoll 13. AKIF,http://www.daten.rlp.de/dataset/920253ea-2b17-401e-a4fb-5d107447b326,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,,,x,,,,,,LGB: Erdbeben - Ebene: Untergrundklassen,http://www.daten.rlp.de/dataset/acb88cf7-34a4-4994-bf94-a0c6f54c4b51,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 61 in Nahebrücke Bingen,http://www.daten.rlp.de/dataset/bea83c75-ec7e-43b7-a5ce-43792830a1be,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,,,,,,,,,LGB: WLF Wärmeleitfähigkeit - Ebene: LGB: WLF Wärmeleitfähigkeit,http://www.daten.rlp.de/dataset/fbc07ac0-8512-46e6-b43b-e5b78eb27b73,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,,,,,,,,,,,,,,,"Datenkompass – Erziehung und Bildung, kreisfreie Stadt Neustadt a. d. Weinstr. –",http://www.daten.rlp.de/dataset/15ea72c0-c067-4ad4-9e97-4e1681109898,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Allgemeinbildende Schulen 2013 - Ebene: Grundschulen, Anzahl (Gemeindeebene)",http://www.daten.rlp.de/dataset/ab9a6610-6bf6-4b39-9ae5-564b2ad28317,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -927,6 +899,7 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Rhein-L
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: F1_Neuaufstellung_II,http://www.daten.rlp.de/dataset/7199c53c-fe27-4617-a000-0d5fd1b5fdd7,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,"Bebauungspläne Landau - Ebene: C25, Teil B",http://www.daten.rlp.de/dataset/810e6ea1-9754-4520-88d3-60410c16811a,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C8i,http://www.daten.rlp.de/dataset/ceffef11-d29f-419e-8a53-b253691e1c77,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: G1,http://www.daten.rlp.de/dataset/8bdc98e7-f609-464d-88e9-04b5aab05752,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,x,,,,x,,,,,,,,"Datenkompass – Soziales und Gesundheit, Rhein-Hunsrück-Kreis –",http://www.daten.rlp.de/dataset/6271f0d1-94cd-4a29-9267-a18fc18012c8,dl-de-by-1.0,PDF,d
 ,x,,,,,,,,,,,,,,,"Datenkompass – Erziehung und Bildung, Landkreis Südwestpfalz –",http://www.daten.rlp.de/dataset/01dc32de-8981-4d74-a4c4-005e3a226538,dl-de-by-1.0,PDF,d
 x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Familien, Landkreis Südwestpfalz –",http://www.daten.rlp.de/dataset/1eaaa179-437e-46f6-985e-ca30ff856278,dl-de-by-1.0,PDF,d
@@ -938,10 +911,10 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 51 in Meilbrück,http://www.daten.rlp.de/dataset/64acff26-073d-47ff-8574-f22e0d341e70,dl-de-by-1.0,PDF,d
 ,,x,,,,,,,,,,,,,,Gesetzliche Überschwemmungsgebiete - Ebene: Gesetzliche Überschwemmungsgebiete,http://www.daten.rlp.de/dataset/3dbee131-f442-485a-b62b-3765395f0900,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: GRÜNE Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/9c1cb52e-b4db-45ed-9a28-53b5f72ea6a6,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,Protokoll 17. Sitzung IFK,http://www.daten.rlp.de/dataset/32124259-07b7-4629-8fbb-5e5fbb697f8e,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Beratungsstellen der Frauenhäuser in RLP,http://www.daten.rlp.de/dataset/68e2bbdf-a803-4a09-b21e-f11f0facd71b,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Ebene, Eifelkreis Bitburg-Prüm -",http://www.daten.rlp.de/dataset/0d46f89c-f9b4-4d40-9c91-7ba603bc57b6,dl-de-by-1.0,PDF,d
 ,,,x,,,,,,,,,,,,,Transparenz in der Finanzverwaltung,http://www.daten.rlp.de/dataset/6c0823ff-b0df-4e82-aaab-d42836995577,dl-de-by-1.0,HTML,d
+,,,x,,,,,,,,,,,,,LIFG Gesetzestext,http://www.daten.rlp.de/dataset/e42c99f0-644b-4ddf-91a2-ff4b3ca7f80d,dl-de-by-1.0,HTML,d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaftliche Entwicklungspotenziale, Landkreis Trier-Saarburg –",http://www.daten.rlp.de/dataset/8b048628-cbd8-40a2-8eb7-5e5e434095bb,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Migrationsfachdienste,http://www.daten.rlp.de/dataset/5c0852e8-248c-480d-a572-ff044e69b4f0,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2011 - Ebene: CDU Landesstimmen,  Gewinne und Verluste gegenüber Landtagswahl 2006 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/eedcc759-022b-4e4b-aeee-92eb23852c02,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -950,7 +923,6 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Eben
 ,x,x,,,,,,,,,,,,,,LGB: Geotourismus - Ebene: Technisches_Denkmal,http://www.daten.rlp.de/dataset/56e84043-973f-4d4e-b52c-c8f832b333d0,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: HUEK200 Verfestigung - Ebene: Verfestigung für den Oberen Grundwasserleiter der HUEK 200,http://www.daten.rlp.de/dataset/688b3b08-1ffc-4340-a61d-1a60ee7911a9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 61 in Moseltalbrücke,http://www.daten.rlp.de/dataset/e5db9975-0cad-48e9-ae0a-a1d940b2e62e,dl-de-by-1.0,PDF,d
-,,,x,,,,,,,,,,,,,Protokoll 15. Sitzung IFK,http://www.daten.rlp.de/dataset/740c3f5a-0d15-4176-9d2d-5470c0803ceb,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,,,,,,,,,LGB: HUEK200 Grundwasserkoerper - Ebene: LGB: HUEK200 Grundwasserkoerper,http://www.daten.rlp.de/dataset/6aec8331-cd9e-4124-b01b-d2794840a57e,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaftliche Entwicklungspotenziale, Eifelkreis Bitburg-Prüm –",http://www.daten.rlp.de/dataset/4973aa6a-9568-4851-b7c0-ebe176baa077,dl-de-by-1.0,PDF,d
 ,,x,,,,,,,,x,,,,,,Laermpegel LDEN - Ebene: Laermpegel LDEN,http://www.daten.rlp.de/dataset/984aa6a1-d2c4-4bd3-ac99-e846c6afc6db,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
@@ -976,14 +948,16 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung Insgesamt, Veränderung gegenüber 2003 in % (Gemeindeebene)",http://www.daten.rlp.de/dataset/fbcac4ca-5888-4a7d-bcde-1942707420f3,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2004 - Ebene: GRÜNE, Anteil in % (VG)",http://www.daten.rlp.de/dataset/b025d40e-51da-4ce0-b5e3-f1efc4c8472f,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,x,,,,,,,,,,,Frankenthal(Pfalz) - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/459c8ad5-8845-414f-a08c-4f5efdbe3cc9,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C8f,http://www.daten.rlp.de/dataset/a41a6378-f065-44e5-8b3b-b876e9baa50a,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,x,,,,,,,,,,,,,Verwaltungsvorschriften gehören ans Licht der Öffentlichkeit,http://www.daten.rlp.de/dataset/1d35ca2c-aa5f-4d07-88f0-d688ae5e5bc6,dl-de-by-1.0,HTML,d
 ,,x,,,,,,,,,,,,,,"Bebauungspläne Landau - Ebene: C25, Teil A",http://www.daten.rlp.de/dataset/3bba268a-2a36-42cd-b279-c5f6212ff91f,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Straßennetz - Ebene: Kreisstraßen,http://www.daten.rlp.de/dataset/11ab339d-34aa-4909-a7d8-ed10f003b4f8,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2013 - Ebene: SPD Zweitstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/ab1d8a39-4be2-499b-810f-9b99979d06c7,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaftliche Entwicklungspotenziale, Landkreis Cochem-Zell –",http://www.daten.rlp.de/dataset/67d73543-2c10-41ac-9ed7-cf2502198f75,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Schülerinnen und Schüler an allgemeinbildenden Schulen 2013 - Ebene: Einschulungen am Wohnort, Anzahl je 1.000 Einwohner (VG)",http://www.daten.rlp.de/dataset/424fdc3f-7912-4325-a27e-86cec1560ac7,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C18_Teilbereich_A,http://www.daten.rlp.de/dataset/c49826d9-e8cf-468e-b21c-9ef3655e5ba1,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,x,,,,,,,,x,,,x,,,LGB: BFD200 nutzbare Feldkapazitaet im durchwurzelbaren Boden - Ebene: LGB: BFD200 nutzbare Feldkapazitaet im durchwurzelbaren Boden,http://www.daten.rlp.de/dataset/5080c8b2-e516-4236-9b48-643e511bd24b,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung in der Zukunft - Ebene: Bevölkerung 65 Jahre und älter 2030, Anteil in %",http://www.daten.rlp.de/dataset/8d2f6f89-0a6f-4b1f-abd0-7a4eb00d5b72,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Planung/Streckenverlauf --,http://www.daten.rlp.de/dataset/90dae365-df7d-456d-b051-dc20c5eb8461,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2013 - Ebene: GRÜNE Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 2009 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/dd4093bc-30c4-4aef-ad6f-b905d8f20fe1,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Erwerbstätigkeit - Erwerbstätige am Arbeitsort, Wirtschaftsbereiche -",http://www.daten.rlp.de/dataset/cee670c9-7c89-4f9d-b714-106dbc80b34a,dl-de-by-1.0,,d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 60 in Steinebrück,http://www.daten.rlp.de/dataset/b074fe0b-83dc-4220-99fa-1b6b3425dc73,dl-de-by-1.0,PDF,d
@@ -1018,10 +992,10 @@ x,,x,,,,,,,,x,,,x,,,LGB: BFD200 nutzbare Feldkapazitaet im durchwurzelbaren Bode
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerungsbewegung 2013 - Ebene: Wanderungssaldo, Anzahl je 1.000 Einwohner (Verbandsgemeindeebene)",http://www.daten.rlp.de/dataset/08e077fe-0c84-416e-a53d-24cce7209052,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2004 - Ebene: SPD,Gewinne und Verluste gegenüber Europawahl 1999 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/578ff5e6-cdb2-42af-a027-2661ba3fd7a7,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: HUEK200 Geochemischer Gesteinstyp - Ebene: Geochemischer Gesteinstyp für den Oberen Grundwasserleiter der HUEK 200,http://www.daten.rlp.de/dataset/2d9572b6-a829-4054-a285-c18173c693fe,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,,x,,,,,,,,,,,,,Protokoll 12. AKIF,http://www.daten.rlp.de/dataset/157d282f-ca01-4ed9-aff6-4136aa95a4ea,dl-de-by-1.0,HTML,d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 49 in Horchheimer Höhe,http://www.daten.rlp.de/dataset/97cc5afc-cddb-46d5-b6e2-d18ab2d5aeb3,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,,,,,,,,,LGB: HUEK200 Tiefere bedeutende Grundwasserleiter - Ebene: Tiefere bedeutende Grundwasserleiter der HÜK 200,http://www.daten.rlp.de/dataset/7955d335-1b31-4317-b774-ef259262dee6,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,x,,,x,,x,,,,Naturräumliche Gliederung Rheinland-Pfalz - Ebene: Naturräumliche Gliederung Rheinland-Pfalz,http://www.daten.rlp.de/dataset/5ec3e00c-7f95-456a-899c-ce39a98002b4,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C9g,http://www.daten.rlp.de/dataset/bd5b83aa-8308-412f-9b50-a2fe512c98b9,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung 65 Jahre und älter, Veränderung gegenüber 1993 in % (Verbandsgemeindeebene)",http://www.daten.rlp.de/dataset/c106bb78-b65e-4b5a-8d3c-a8dd003b7c72,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,x,,,x,,x,,,,WMS Layer Geoportal.rlp - Ebene: Rheinland-Pfalz,http://www.daten.rlp.de/dataset/db67e1fa-736a-4e49-b694-258b70df3d95,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,x,,,,x,,,,,,,,Frühförderzentren,http://www.daten.rlp.de/dataset/fd29d331-d23e-4c96-aae7-3c744b55ffb7,dl-de-by-1.0,HTML,d
@@ -1029,7 +1003,6 @@ x,,x,,,,,,,,x,,,x,,,LGB: BFD200 nutzbare Feldkapazitaet im durchwurzelbaren Bode
 ,,x,,,,,,,,,,,,,,Ländliches Verbindungswegenetz RP - Ebene: Zubringerwege,http://www.daten.rlp.de/dataset/08e70cf2-ec8d-44c5-aa60-be9088cd1017,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 x,,x,,,,,,,,x,,,x,,,LGB: BFD200 Feldkapazitaet im durchwurzelbaren Boden - Ebene: LGB: BFD200 Feldkapazitaet im durchwurzelbaren Boden,http://www.daten.rlp.de/dataset/01e6c56a-67ad-46ad-8b67-70971922afcc,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2002 - Ebene: SPD Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/7e357e15-e59c-41ce-9d59-0af28299089b,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 48 in Kannenbäckerland,http://www.daten.rlp.de/dataset/62edac4f-9d4c-4b93-bff0-ff2a5aa8084e,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2001 - Ebene: GRÜNE Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/10384e97-6be1-494d-b416-a8c844b7bf10,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Außenhandel - Aus- und Einfuhr, Erdteile, Länder",http://www.daten.rlp.de/dataset/90a7f38f-5cc4-44fc-ba35-31c82d7105f7,dl-de-by-1.0,"HTML,XLS",d
 x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Familien, Landkreis Ahrweiler –",http://www.daten.rlp.de/dataset/1a5482d8-4a40-475d-b1dd-da2253997092,dl-de-by-1.0,PDF,d
@@ -1040,7 +1013,9 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,,x,,,,,,,,,,,,,,Mitfahrerparkplaetze - Ebene: Strassennetz,http://www.daten.rlp.de/dataset/498df713-f340-4d5b-a524-07c96d0efc04,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: E2_Aenderungsplan_I,http://www.daten.rlp.de/dataset/b3ac9d36-8379-4c22-b5e9-5f2dd4535cc1,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,x,,,,,,,,,,"Tourismusstatistik - Gäste, Übernachtungen -",http://www.daten.rlp.de/dataset/bb7532ed-54bf-470e-9fa5-9378dc261310,dl-de-by-1.0,"HTML,XLS",d
+,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Visualisierung/Hunsrück --,http://www.daten.rlp.de/dataset/9827b62e-b8fe-4cde-9159-91046bf5d009,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,,,,,,,,,LGB: HGW Zink - Ebene: LGB: HGW Zink,http://www.daten.rlp.de/dataset/b2f5c251-a7b2-4c6d-891d-accb767a8d2d,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Topographische Karte Rheinland-Pfalz 1:100.000,http://www.daten.rlp.de/dataset/462d0347-2da5-47e3-bfd3-e3af384f626d,dl-de-by-nc-1.0,WEBMAPSERVICE,d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2004 - Ebene: Sonstige, Gewinne und Verluste gegenüber Europawahl 1999 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/c67cfaad-24cd-42ef-9580-bf737d8e2808,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Jugendmigrationsdienste,http://www.daten.rlp.de/dataset/0c0c714d-90c1-45ae-bfeb-83133c331184,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,Statistik-RP - Ebene: Kreisdaten,http://www.daten.rlp.de/dataset/594537dc-aa08-4739-8156-13042785d533,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -1048,7 +1023,6 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,,,,,,x,,,,,,,,,,"Datenkompass – Tourismus, Landkreis Südliche Weinstraße –",http://www.daten.rlp.de/dataset/424c8e39-4e96-47b0-b2bf-cf55089e8f3f,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2005 - Ebene: SPD Zweitstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/7a825fe9-ad24-4a27-b870-8e9b2055fe2b,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerungsbewegung 2013 - Ebene: Lebendgeborene, Veränderung gegenüber 2003 in % (Kreisebene)",http://www.daten.rlp.de/dataset/a15b0773-1c56-4edd-8bfd-abd932883dfb,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,Protokoll 18. Sitzung IFK,http://www.daten.rlp.de/dataset/e69a63da-dbc3-406e-9b80-0b304bab6be3,dl-de-by-1.0,PDF,d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C1b,http://www.daten.rlp.de/dataset/7b745010-9afb-47cd-be25-3e9007f015da,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,"GeoPortal Wasser - Trinkwasserschutzgebiete, im Verfahren - Ebene: Trinkwasserschutzgebiete",http://www.daten.rlp.de/dataset/95355b4d-ad16-4334-a750-a5214c6a38ac,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,,x,,,,,,,,,,,,,Gesetzlicher Schutz von Whistleblowern,http://www.daten.rlp.de/dataset/1428fa8c-425e-4987-83ea-50304e978401,dl-de-by-1.0,HTML,d
@@ -1060,6 +1034,7 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2002 - Ebene: CDU Zweitstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/31a6aa9c-2532-47b4-8e6f-ebe3ea54e5ea,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,,,,,,x,x,,,,x,,,,"Enquete-Kommission 16/2 ""Aktive Bürgerbeteiligung für eine starke Demokratie""",http://www.daten.rlp.de/dataset/2929f1f2-04e7-490a-8d36-897731cc4dc2,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Schulen in RLP,http://www.daten.rlp.de/dataset/883e4994-1a4c-461b-b3fc-4079dc591ae3,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,x,,,x,,,,,"Europawahl 2009 - Ebene: CDU, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/c967b4a1-adaf-4256-9e92-523b4c8eb1d1,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,,,,,,,,,,,,,,,"Datenkompass – Erziehung und Bildung, Landkreis Mayen-Koblenz –",http://www.daten.rlp.de/dataset/79051cdb-b09e-46cb-99f0-8976e909493c,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Schulentlassene allgemeinbildender Schulen 2013 - Ebene: Schulentlassene ohne Hauptschulabschluss, Veränderung gegenüber 2008 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/e9b305fd-ac65-45d8-954c-6d7a4b583ee4,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaftliche Entwicklungspotenziale, Rhein-Hunsrück-Kreis –",http://www.daten.rlp.de/dataset/a6a96805-f47e-4583-8c64-6a08721b70fe,dl-de-by-1.0,PDF,d
@@ -1067,26 +1042,29 @@ x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Famili
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2009 - Ebene: DIE LINKE Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/6a5cc471-f0dd-41a3-a677-ed37aff7b9da,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Allgemeinbildende Schulen 2013 - Ebene: Grundschulen, Veränderung der Anzahl gegenüber 1993 in % (Kreisebene)",http://www.daten.rlp.de/dataset/955aee5c-44ad-4b1c-a5d7-aceca7002fd7,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: Geotourismus - Ebene: Besucherbergwerk,http://www.daten.rlp.de/dataset/420efd18-8504-4776-8cba-400d27e8f9ff,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,,,x,,,,x,,,,,,,,Schuldnerberatungsstellen,http://www.daten.rlp.de/dataset/abfe3004-4bc7-4be8-b7cc-ef91a4ab8f1d,dl-de-by-1.0,HTML,d
 ,,x,,,,,,,,,,,,,,Gewässergüte - Ebene: Gewässergüte Rheinland-Pfalz,http://www.daten.rlp.de/dataset/6d3bd75b-8668-497c-b855-1ec39ffb36ae,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,x,,,,,,,,,,,oeffentliche Energiethemen - Ebene: Geothermie oeffentlich,http://www.daten.rlp.de/dataset/4f605106-639e-4161-9e71-bdcb069b55f1,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,x,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Werkstätten für behinderte Menschen,http://www.daten.rlp.de/dataset/9b5a3bdf-db16-47af-a3d7-e4de6fee7853,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,x,,,x,,x,,,,Naturräumliche Gliederung Rheinland-Pfalz - Ebene: Naturraumflaechen_3_Ordnung,http://www.daten.rlp.de/dataset/07e16498-029e-436c-85c4-bd3e2b3148de,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaftliche Entwicklungspotenziale, Rhein-Lahn-Kreis –",http://www.daten.rlp.de/dataset/e45e3bdd-c694-4314-97aa-571db847ac90,dl-de-by-1.0,PDF,d
+,x,x,,,,,,,,,,,,,,"LGB: WLF Wärmeentzugsleistung - Ebene: Mögliche Wärmeentzugsleistung, 1800 Betriebstunden, wenn trocken",http://www.daten.rlp.de/dataset/3789a876-e191-47f6-8800-8046582f2eb3,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,x,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Sonderkindergärten RLP,http://www.daten.rlp.de/dataset/ff9b0bca-ea2a-4cea-ba6c-ffb2bb4ca3fb,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Hilfen zur Integration in RLP - Ebene: Hilfen zur Integration in RLP,http://www.daten.rlp.de/dataset/b6cf5e72-e3b4-40cb-a357-5e2637eaaf25,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerungsbewegung 2013 - Ebene: Geborenen- bzw. Gestorbenenüberschuss (-), Anzahl je 1.000 Einwohner (Verbandsgemeindeebene)",http://www.daten.rlp.de/dataset/418bc239-a03c-46f2-a2db-0112070ceb74,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2013 - Ebene: Wahlbeteiligung, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/1c9b3645-1bfb-4675-af81-fce6c1e08994,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, Landkreis Trier-Saarburg –",http://www.daten.rlp.de/dataset/8060bab8-8de1-4037-9c5a-bc549f0de2be,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Trinkwasserentgelte 2013 - Ebene: Jahresentgelt bei einem Trinkwasserverbrauch von 120 m³, Euro (Kreisebene)",http://www.daten.rlp.de/dataset/8eed4eba-240a-4621-91d6-0f04c2353e4b,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,x,,,,,,,,,,,,,Transparenz in Parlamenten,http://www.daten.rlp.de/dataset/7aff74b2-71b0-4db0-bf5a-db88ddd11eb5,dl-de-by-1.0,HTML,d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Ebene, Landkreis Bernkastel-Wittlich -",http://www.daten.rlp.de/dataset/bc28f80d-f7a5-41d6-9297-63512334e2fa,dl-de-by-1.0,PDF,d
 x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Familien, Landkreis Mayen-Koblenz –",http://www.daten.rlp.de/dataset/f7ebbf86-873f-4ca5-ae91-7d7bc8cb2195,dl-de-by-1.0,PDF,d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaft, Rhein-Pfalz-Kreis –",http://www.daten.rlp.de/dataset/f1013560-64f8-40a7-8a1b-2020f0ead66d,dl-de-by-1.0,PDF,d
 ,,,,x,,,,x,,,,,,,,"Datenkompass – Soziales und Gesundheit, Landkreis Mainz-Bingen –",http://www.daten.rlp.de/dataset/6abbae7e-410a-46cd-91df-4d1fd88d8703,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung in der Zukunft - Ebene: Bevölkerung unter 3 Jahre 2030, Anteil in %",http://www.daten.rlp.de/dataset/a98b0667-0e42-4163-8d39-c4b10dfd7b62,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,,,,,x,x,,,,,,,,Jugendmanifest rlp,http://www.daten.rlp.de/dataset/22158779-a762-46e1-8171-4759c7c85772,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Allgemeinbildende Schulen 2013 - Ebene: Gymnasien, Anzahl (Kreisebene)",http://www.daten.rlp.de/dataset/f5e701df-9bab-4cc8-b487-39bafdc1aa54,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: HGW Chrom - Ebene: LGB: HGW Chrom,http://www.daten.rlp.de/dataset/bfc68553-5e0d-4ee9-9ec7-7410bdee9f27,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Mitfahrerparkplaetze - Ebene: Strassennetz,http://www.daten.rlp.de/dataset/848f894f-038c-46e1-8710-f6e67c0481ee,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: E3,http://www.daten.rlp.de/dataset/a7fc5204-7a57-4671-a1f0-9b7a4405f0dc,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: HUEK200 Grundwasserleitertypen - Ebene: Einstufung des Oberen Grundwasserleiters der HUEK 200 in Grundwasserleitertypen,http://www.daten.rlp.de/dataset/15272e73-6533-4970-ae93-8c9055b9ae3a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2009 - Ebene: GRÜNE Zweitstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/fcff4a12-d478-464b-a719-77c24443b3d5,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Flächennutzung 2013 - Ebene: Landwirtschaftsfläche, Anteil an der Bodenfläche in % (Gemeindeebene)",http://www.daten.rlp.de/dataset/69557d9e-fafb-4216-92cb-604e4e12c433,,"KARTENVIEWER,WMS,HTML",d
@@ -1100,6 +1078,7 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Landkre
 ,,,x,,,,x,,,,,,,,,Anwendungshinweise zum Landesinformationsfreiheitsgesetz,http://www.daten.rlp.de/dataset/5d4e5c00-dbe6-4281-b550-e263288614ae,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Ausländische Bevölkerung, Anteil in % (Kreisebene)",http://www.daten.rlp.de/dataset/3744e8c9-b612-4dff-9fe3-671146cd0bd2,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Mitfahrerparkplaetze - Ebene: Strassennetz,http://www.daten.rlp.de/dataset/856a2bbc-749e-42d9-aa0a-dbfa035de580,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,LGB: Geotourismus - Ebene: Kulturhistorisches_Ziel,http://www.daten.rlp.de/dataset/fc47e9c2-c7c7-4c09-9239-e85088be3354,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Schülerinnen und Schüler an allgemeinbildenden Schulen 2013 - Ebene: Ausländische Schülerinnen und Schüler am Schulort, Anteil an der Schülerschaft in % (VG)",http://www.daten.rlp.de/dataset/333f9da2-8ef6-4117-9bb0-bbe6214b9052,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2009 - Ebene: DIE LINKE, Anteil in % (VG)",http://www.daten.rlp.de/dataset/3b2c0231-5881-4bfb-8f72-dc10fd77fb41,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,Bevölkerung in der Zukunft - Ebene: Altenquotient: Ältere Menschen ab 65 Jahre je 100 Personen im Alter von 20 bis unter 65 Jahre 2030,http://www.daten.rlp.de/dataset/ecd6868c-3e78-4e4d-a9f4-3f3c79b1b84c,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -1130,8 +1109,8 @@ x,,x,,,,,,,,x,,,x,,,Einzellagen_RLP - Ebene: Einzellagen lt. Weinbergsrolle,http
 ,,,x,,,,,,,,,,,,,Protokoll 16. Sitzung IFK,http://www.daten.rlp.de/dataset/65d247b3-33b5-4bee-af05-772b7acc37e1,dl-de-by-1.0,HTML,d
 ,,x,,,,,,,,,,,,,,Mitfahrerparkplaetze - Ebene: Ackerland,http://www.daten.rlp.de/dataset/dcb4bbc0-cf97-4a9f-85fe-21be44012b97,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Gewerbeanzeigen - Gewerbeanmeldungen, Grund der Anmeldung, Wirtschaftszweige -",http://www.daten.rlp.de/dataset/1fb96409-4448-47b4-8c44-7956d5d40bab,dl-de-by-1.0,"HTML,XLS",d
-,,x,,,,,,,,,,,,,,Festung Ehrenbreitstein - Ebene: Stationen Festungsrundgang,http://www.daten.rlp.de/dataset/f729984d-43f7-48f4-9b2b-8ace701db682,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Grundwassermessstellen - Ebene: Grundwassermessstellen,http://www.daten.rlp.de/dataset/dd8ceadc-b3af-4734-a040-738667370817,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Luftbilder Rheinland-Pfalz,http://www.daten.rlp.de/dataset/fad9a0b7-9bac-4011-b286-ceb4ee9ac27a,dl-de-by-nc-1.0,WEBMAPSERVICE,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung 20 bis unter 65 Jahre, Anteil in % (Gemeindeebene)",http://www.daten.rlp.de/dataset/b258b3ec-3a6d-49e8-b520-476eb8b64bf3,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,x,,,,,,,,x,,,Baugenehmigungen - Wohnbau -,http://www.daten.rlp.de/dataset/42eda6ac-8955-4267-9e17-9ff8f5bed50b,dl-de-by-1.0,"HTML,XLS",d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: GS5,http://www.daten.rlp.de/dataset/11a26395-6eff-472a-9cf8-69248d52a129,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -1140,7 +1119,6 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Eben
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Rhein-Pfalz-Kreis -",http://www.daten.rlp.de/dataset/48a8c516-71db-47c7-9d9a-309ebfaf21e0,dl-de-by-1.0,PDF,d
 ,x,,,,,,,,,,,,,,,"Datenkompass – Erziehung und Bildung, Rhein-Pfalz-Kreis –",http://www.daten.rlp.de/dataset/5a678696-fa91-4214-b5e1-07dfe5db6527,dl-de-by-1.0,PDF,d
 ,x,,,,,,,,,,,,,,,"Datenkompass – Erziehung und Bildung, Landkreis Ahrweiler –",http://www.daten.rlp.de/dataset/477e9e0e-acc2-4dd0-8d70-12aad2960e4f,dl-de-by-1.0,PDF,d
-,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaft, Landkreis Mainz-Bingen –",http://www.daten.rlp.de/dataset/f20a3d33-c0ad-4f9f-b620-3846d85c0812,dl-de-by-1.0,PDF,d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: ND6,http://www.daten.rlp.de/dataset/bedd1567-1fc0-4bb3-92ab-ddd8e853f33e,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Landkreis Südwestpfalz -",http://www.daten.rlp.de/dataset/573e9900-44e0-4041-9418-e8ef7519c839,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2002 - Ebene: SPD Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 1998  in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/db61367b-b3a2-4a6d-843f-27b46943fa6b,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -1150,6 +1128,7 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Landkre
 ,,,,,,,,,x,,,,,,,Straßenverkehrsunfälle - Personenschäden -,http://www.daten.rlp.de/dataset/206bfd52-fb87-4899-939e-215068f6390a,dl-de-by-1.0,"HTML,XLS",d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 39 in Rheinbrücke Speyer-Süd,http://www.daten.rlp.de/dataset/114f118e-bacc-4630-a1c1-8555bec3dc3f,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2009 - Ebene: Sonstige Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 2005 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/e400cd60-112c-488c-8271-e5498a2823b7,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: WH3,http://www.daten.rlp.de/dataset/ccc522b9-7b02-4f32-ac68-cfce15615d39,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: AH4,http://www.daten.rlp.de/dataset/a2f87428-6659-4dc5-99f0-622e144dcd73,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,x,,,,,,,,x,,,x,,,LGB: BFD200 Bodenkarte - Ebene: LGB: BFD200 Bodenkarte,http://www.daten.rlp.de/dataset/7ba6314a-73e6-405f-a84c-447d162cd2d7,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,"LGB: BFD50/200 Grund-, stau- und hangnasse Boeden - Ebene: Grund-, stau- und hangnasse Böden",http://www.daten.rlp.de/dataset/c6a13e8d-bcaf-4be7-abb1-9086019f99c3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -1166,19 +1145,20 @@ x,,,,,,,,,,,,,,,,"Bevölkerungsfortschreibung - Verbandsgemeinden, Bevölkerungs
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2004 - Ebene: Wahlbeteiligung, Anteil in % (VG)",http://www.daten.rlp.de/dataset/44786a52-33a2-48a9-9831-e80488d9cfff,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: ND5_und_ND5_Ergaenzung,http://www.daten.rlp.de/dataset/e9b75bf9-9932-4566-8e5b-415b0748b4b2,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Straßennetz - Ebene: Netzknoten,http://www.daten.rlp.de/dataset/c1f3c552-9942-4af7-a17d-78c332ef5c39,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,Verträge zwischen Staat und Unternehmen offen legen,http://www.daten.rlp.de/dataset/71e38a4e-3b2b-4e46-b2f9-e0b82e52eea9,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung unter 3 Jahre, Anteil in % (Verbandsgemeindeebene)",http://www.daten.rlp.de/dataset/6fa9015b-4219-45df-be71-6c6e6fb2bd16,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2005 - Ebene: FDP Zweitstimmen, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/0ff18e73-55f8-464e-ab8b-47af40b59dc9,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,,,,,,,,,,,,,x,Transparenz Krankenhaushygiene IFK,http://www.daten.rlp.de/dataset/730d616d-5152-42e9-9aa7-805b81f2836b,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2004 - Ebene: FDP, Gewinne und Verluste gegenüber Europawahl 1999 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/fcbbf0b8-7f31-4b91-adf1-8fde07888228,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 41 in Winzenheim,http://www.daten.rlp.de/dataset/d68f29fc-f78d-46fd-a5aa-28e65f2acd9b,dl-de-by-1.0,PDF,d
+,,,,x,,,,x,,,,,,,,Kommunale Behindertenbeiräte,http://www.daten.rlp.de/dataset/9f4596d1-bb37-43fb-a34a-3e3e0cb0ab3e,dl-de-by-1.0,HTML,d
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Ebene, Landkreis Südwestpfalz -",http://www.daten.rlp.de/dataset/ba8b6f33-c40d-4b0f-9bdd-2518742dcfa2,dl-de-by-1.0,PDF,d
 ,,x,,,,,,,,x,,,,,,Badegewässer - Ebene: Badegewässer Rheinland-Pfalz,http://www.daten.rlp.de/dataset/f546b7a4-fb6b-47ea-8f00-4365c32823ab,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,,,,,x,,,,,,,,,,"Datenkompass – Tourismus, kreisfreie Stadt Ludwigshafen a. Rhein –",http://www.daten.rlp.de/dataset/89185795-a010-4e93-9e7d-eb900cf064b9,dl-de-by-1.0,PDF,d
 ,,,x,,,,,,,,,,,,,Grusswort BfDI-Symposium 2012,http://www.daten.rlp.de/dataset/1783c536-32ec-4dc5-9bc1-5cd0b2fa9273,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Schülerinnen und Schüler an allgemeinbildenden Schulen 2013 - Ebene: Schülerinnen und Schüler am Schulort, Anzahl je 1.000 Einwohner (VG)",http://www.daten.rlp.de/dataset/5389d9b2-4ba1-43e8-95bd-21be6911c1c8,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Trinkwasserentgelte 2013 - Ebene: Jahresentgelt bei einem Trinkwasserverbrauch von 80 m³, Veränderung gegenüber 2005 in % (Kreisebene)",http://www.daten.rlp.de/dataset/20c1bf04-b2f2-46bb-937f-ea7fac5fc043,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, Donnersbergkreis –",http://www.daten.rlp.de/dataset/dc1d1cf0-412c-48d6-b189-725965bc912c,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2013 - Ebene: FDP Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 2009  in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/ab1f6031-0dab-490f-8b99-da6e1f33e867,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,,,,,,,x,,,,,,,"Langzeitzählstelle auf der B 9 in AD Ludwigshafen, VQ Süd",http://www.daten.rlp.de/dataset/30829c3e-c2b4-4213-b4e4-38240f3690a8,dl-de-by-1.0,PDF,d
 ,,x,,,,,,,,,,,,,,Straßennetz - Ebene: ABA Kilometer,http://www.daten.rlp.de/dataset/98a75d40-8617-49a6-8b94-d2ac327e61a3,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,x,,,x,,x,,,,DLR Bezirksgrenzen in Rheinland-Pfalz - Ebene: DLR Bezirksgrenzen RLP,http://www.daten.rlp.de/dataset/46e813d9-83cd-4f5a-8366-46df7077997b,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: Sonstige Landesstimmen, Gewinne und Verluste gegenüber Landtagswahl 2001 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/b161908f-b2ea-4ed8-84fc-02a93778a386,cc-by,"KARTENVIEWER,WMS,HTML",d
@@ -1198,10 +1178,10 @@ x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Landkre
 x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, VG-Ebene, Landkreis Mayen-Koblenz -",http://www.daten.rlp.de/dataset/d7e594f5-9054-4bb2-9167-90146af5b12d,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerungsbewegung 2013 - Ebene: Wanderungssaldo, Anzahl je 1.000 Einwohner (Gemeindeebene)",http://www.daten.rlp.de/dataset/0d1e4572-339d-4a4d-8261-c5df1bd79c4c,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,x,,,,,,,,x,,,x,,,LGB: BFD200 Standorttypisierung - Ebene: BFD200 Standorttypisierung,http://www.daten.rlp.de/dataset/6f4dd54e-616e-476e-844b-1149bbc51ffb,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Ländliches Verbindungswegenetz RP - Ebene: Verbindungswege Priorität III,http://www.daten.rlp.de/dataset/83321691-9922-4166-abc9-4cdf52fa917d,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Fachkliniken für Suchtkranke,http://www.daten.rlp.de/dataset/e6d504d5-b767-4022-a176-4531bf07c28f,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Bevölkerung in der Zukunft - Ebene: Bevölkerung Insgesamt 2030, Veränderung gegenüber 2010 in %",http://www.daten.rlp.de/dataset/8b8dde18-ba08-4411-8695-2f30d8455c57,cc-by,"KARTENVIEWER,WMS,HTML",d
 x,,x,,,,,,,,x,,,x,,,LGB: BFD50/200 Potenzielle Erosionsgefaehrdung durch Wasser - Ebene: LGB: BFD50/200 Potenzielle Erosionsgefaehrdung durch Wasser,http://www.daten.rlp.de/dataset/09079ecb-ed7d-4e83-b290-ff3c54873d2d,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,,,,,,,,x,,,,,,,"Langzeitzählstelle auf der A 6 in AS Frankenthal, VQ West",http://www.daten.rlp.de/dataset/51924b15-03d1-469c-bdc8-4f7d7439036b,dl-de-by-1.0,PDF,d
 ,,x,,,,,,,,x,,,x,,,WMS UTM WINDATLAS RLP - Ebene: Windgeschwindigkeit auf 140m ueber Grund,http://www.daten.rlp.de/dataset/dfaf4679-9f2a-44c8-859b-26a593862334,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Schülerinnen und Schüler an allgemeinbildenden Schulen 2013 - Ebene: Achtklässlerinnen und Achtklässler an Gymnasien am Wohnort, Anteil an der Schülerschaft dieser Klassenstufe in % (Kreis)",http://www.daten.rlp.de/dataset/01006906-c678-47b0-8a4f-e575abf973ff,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,x,,,,,,Überflutungsflächen (HQ10) - Ebene: Potenzielle Überflutungsflächen HQ10,http://www.daten.rlp.de/dataset/a77f670e-719c-456e-91b1-6999e51f3f31,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -1209,39 +1189,59 @@ x,,x,,,,,,,,x,,,x,,,LGB: BFD50/200 Potenzielle Erosionsgefaehrdung durch Wasser 
 ,x,x,,,,,,x,,,x,,,,,Soziale Einrichtungen RLP - Ebene: Frühförderzentren,http://www.daten.rlp.de/dataset/fb895981-fb27-471b-8508-7c022093a318,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: WLF Grundwasser-Flurabstand - Ebene: LGB: WLF Grundwasser-Flurabstand,http://www.daten.rlp.de/dataset/159ef668-01c8-4bec-8a07-9eecebda9039,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 257 in Zermüllen,http://www.daten.rlp.de/dataset/afedde0a-b073-4f26-85d3-a327988dbea2,dl-de-by-1.0,PDF,d
+,,,,,,x,,,,,,,,,,"Datenkompass – Tourismus, Landkreis Bernkastel-Wittlich –",http://www.daten.rlp.de/dataset/d8e35957-4389-4317-82fa-55c2a1bb525e,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2009 - Ebene: DIE LINKE Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 2005 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/3fb18c49-1fe7-4c33-a83b-2e5a4030f124,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,x,,,x,,,,,"Europawahl 2004 - Ebene: FDP, Anteil in % (VG)",http://www.daten.rlp.de/dataset/b4470c16-4dfa-4570-bfd4-5f7ef75f8bf3,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,x,,,,,,,,,,"Datenkompass – Tourismus, Landkreis Cochem-Zell –",http://www.daten.rlp.de/dataset/3914437d-2d81-4604-9c89-25c08ae16411,dl-de-by-1.0,PDF,d
 ,,,,,,,,,,,,,x,,,"Mikrozensus - Erwerbstätige, Wirtschaftsbereiche usw., Geschlecht, Regionen -",http://www.daten.rlp.de/dataset/2940eeb7-9db0-4d69-8c95-d64c13c0b12d,dl-de-by-1.0,HTML,d
 ,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2001 - Ebene: CDU Landesstimmen, Gewinne und Verluste gegenüber Landtagswahl 1996 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/12f2b612-776c-412a-828c-29ae89651b5e,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,LGB: HGW Quecksilber - Ebene: Oberboden,http://www.daten.rlp.de/dataset/16298f5d-da12-43d2-8d40-88d6bd60db45,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,,,x,,,,x,,,,,,,,Betreuungsvereine,http://www.daten.rlp.de/dataset/89bc746a-0a74-4cab-8961-d0e49714bb6e,dl-de-by-1.0,HTML,d
-,,,,x,,,,x,,,,,,,,Betreuungsbehörden,http://www.daten.rlp.de/dataset/102178e9-67d2-48db-b1b6-82ce0c549235,dl-de-by-1.0,HTML,d
-,,,x,,,,,,,,,,,,,Informationsfreiheitsgesetz endlich verabschieden,http://www.daten.rlp.de/dataset/a7c85d72-c6e1-4b69-a2b7-927f9f19c927,dl-de-by-1.0,HTML,d
-,,,x,,,,,,,,,,,,,Protokoll 11. AKIF,http://www.daten.rlp.de/dataset/a68bbfcc-87d9-4706-80e3-c1cb021f320d,dl-de-by-1.0,HTML,d
-,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: G1,http://www.daten.rlp.de/dataset/8bdc98e7-f609-464d-88e9-04b5aab05752,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,LIFG Gesetzestext,http://www.daten.rlp.de/dataset/e42c99f0-644b-4ddf-91a2-ff4b3ca7f80d,dl-de-by-1.0,HTML,d
-,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C8f,http://www.daten.rlp.de/dataset/a41a6378-f065-44e5-8b3b-b876e9baa50a,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,Verwaltungsvorschriften gehören ans Licht der Öffentlichkeit,http://www.daten.rlp.de/dataset/1d35ca2c-aa5f-4d07-88f0-d688ae5e5bc6,dl-de-by-1.0,HTML,d
+,,,,,x,,,,,,,,x,,,Preise - Kaufwerte für baureifes Land -,http://www.daten.rlp.de/dataset/e031b327-61d7-4560-b899-54c3526edb5e,dl-de-by-1.0,"HTML,XLS",d
+,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: MH3,http://www.daten.rlp.de/dataset/877830bc-9cd7-434c-8cdf-23eab897193a,cc-by,"KARTENVIEWER,WMS,HTML",d
+,x,,,,,,,,,,,,,,,"Datenkompass – Erziehung und Bildung, Landkreis Trier-Saarburg –",http://www.daten.rlp.de/dataset/6be39e94-67a0-4e24-8152-0e37227d9951,dl-de-by-1.0,PDF,d
+,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, Landkreis Bernkastel-Wittlich –",http://www.daten.rlp.de/dataset/a525a1ab-6f43-477f-ba17-aef575e6e561,dl-de-by-1.0,PDF,d
+,x,x,,,,,,,,,,,,,,LGB: HGW Blei - Ebene: LGB: HGW Blei,http://www.daten.rlp.de/dataset/dcb9d9d7-b74e-4df6-9b85-ccb33a582d3b,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: GRÜNE Landesstimmen,  Gewinne und Verluste gegenüber  Landtagswahl 2001 in %-Punkten (VG)",http://www.daten.rlp.de/dataset/baadb423-dfec-4e78-8702-b01657571f53,cc-by,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2001 - Ebene: CDU Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/6199ab7f-fc2c-4a87-9986-49f30e0b8775,cc-by,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2005 - Ebene: GRÜNE Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 2002 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/6cdc49d3-b335-4117-be0c-1210b76bbe35,cc-by,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,x,,,x,,,,,Statistik-RP - Ebene: Gemeindedaten,http://www.daten.rlp.de/dataset/98807454-122c-4f1a-b683-5dfd87d8642b,cc-by,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,x,,,x,,,,,"Bevölkerung 2013 - Ebene: Bevölkerung unter 20 Jahre, Veränderung gegenüber 2003 in % (Kreisebene)",http://www.daten.rlp.de/dataset/2a4a1cd5-1fe5-4066-b1a1-fc0fec11d1c8,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Ländliches Verbindungswegenetz RP - Ebene: Verbindungswege Priorität I,http://www.daten.rlp.de/dataset/83ea414e-13fa-4d47-908c-fb4c90607852,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2009 - Ebene: SPD Zweitstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/24a1a7c8-4236-4f07-bf55-5828240bbade,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Verwaltungsgrenzen Rheinland-Pfalz 2014 - Ebene: Kreisebene,http://www.daten.rlp.de/dataset/44adc427-c0a6-402f-96b1-9473a8638dd3,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
+,,,x,,,,,,,,,,,,,Protokoll 18. AKIF,http://www.daten.rlp.de/dataset/f3d51830-c09d-47ef-a66e-bf5709ef55b6,dl-de-by-1.0,HTML,d
+,x,x,,,,,,,,,,,,,,LGB: HGW Mangan - Ebene: LGB: HGW Mangan,http://www.daten.rlp.de/dataset/a4544824-4949-4fc1-bcaa-36f88e3a3a35,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, Landkreis Mainz-Bingen –",http://www.daten.rlp.de/dataset/7926484d-9fd5-436e-84f6-c6bf31526f32,dl-de-by-1.0,PDF,d
+,x,x,,,,,,x,,,x,,,,,"Bundestagswahl 2002 - Ebene: GRÜNE Zweitstimmen, Gewinne und Verluste gegenüber Bundestagswahl 1998 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/86420d8e-a6c4-4096-8d9a-fc9f88d1b48f,cc-by,"KARTENVIEWER,WMS,HTML",d
+x,,,,,,,,,,,,,,,,"Demografischer Wandel - Bevölkerungsvorausberechnung, Landkreis Trier-Saarburg-",http://www.daten.rlp.de/dataset/8541ae4f-d3c4-46bf-9d9d-a16f185918ae,dl-de-by-1.0,PDF,d
+,x,x,,,,,,x,,,x,,,,,"Bevölkerung in der Zukunft - Ebene: Bevölkerung 65 Jahre und älter 2060, Veränderung gegenüber 2010 in %",http://www.daten.rlp.de/dataset/c4b44b44-cd9d-4134-b02a-08201cd82f3a,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,x,,,,,,,,,,,,,Stellungnahme LfDI Enquete Bürgerbeteilgung 09/2012,http://www.daten.rlp.de/dataset/3f4aa8ea-2d8a-44d7-b324-91c25a49fb12,dl-de-by-1.0,HTML,d
+,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: GRÜNE Landesstimmen,  Gewinne und Verluste gegenüber Landtagswahl 2001 in %-Punkten (Kreis)",http://www.daten.rlp.de/dataset/af19d5e7-59b6-4a0f-bac2-b53b1ed045dd,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C21_Aenderung_1Teilaenderung,http://www.daten.rlp.de/dataset/9a84ad8c-2694-4a63-8e01-2c9cfb58baab,cc-by,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2006 - Ebene: Wahlbeteiligung, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/11abfdd1-67ad-416a-a146-507cb87364e3,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,x,,,,,,,,,,,,,Stellungnahme LfDI Enquete Bürgerbeteilgung 10/2012,http://www.daten.rlp.de/dataset/fa69b57c-5fbc-4e1d-9c16-d8ca03df403a,dl-de-by-1.0,HTML,d
+,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Aktuelles/Liste Projektstand--,http://www.daten.rlp.de/dataset/57f13913-a252-4388-80ed-2dbac36439e4,dl-de-by-1.0,PDF,d
+,,x,,,,,,,,,,,,,,Topographische Karte Rheinland-Pfalz 1:25.000,http://www.daten.rlp.de/dataset/928abaea-45e1-4e32-b14f-a47fac67b24d,dl-de-by-nc-1.0,WEBMAPSERVICE,d
+,,,x,,,,,,,,,,,,,Protokoll 13. Sitzung IFK,http://www.daten.rlp.de/dataset/fe09cb37-0e91-4066-ba73-bb530ccf7385,dl-de-by-1.0,PDF,d
+,x,x,,,,,,x,,,x,,,,,"Landtagswahl 2001 - Ebene: Sonstige Landesstimmen, Anteil in % (VG)",http://www.daten.rlp.de/dataset/0d9b5059-d609-4d3c-af0b-93b52ba7fcb9,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,x,,,,,,,,,,,,,Protokoll 21. Sitzung IFK,http://www.daten.rlp.de/dataset/ea8f17bc-420d-491f-9b40-600d258ca2d3,dl-de-by-1.0,HTML,d
+,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der B 49 in Wasserbilligerbrück,http://www.daten.rlp.de/dataset/a34395d7-f430-4881-947f-86ca41cb62ed,dl-de-by-1.0,PDF,d
+,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 61 in Nahebrücke Bingen,http://www.daten.rlp.de/dataset/bea83c75-ec7e-43b7-a5ce-43792830a1be,dl-de-by-1.0,PDF,d
+,,,x,,,,,,,,,,,,,Protokoll 17. Sitzung IFK,http://www.daten.rlp.de/dataset/32124259-07b7-4629-8fbb-5e5fbb697f8e,dl-de-by-1.0,PDF,d
+,,,x,,,,,,,,,,,,,Protokoll 15. Sitzung IFK,http://www.daten.rlp.de/dataset/740c3f5a-0d15-4176-9d2d-5470c0803ceb,dl-de-by-1.0,PDF,d
+,,x,,,,,,,,,,,,,,Straßennetz - Ebene: Kreisstraßen,http://www.daten.rlp.de/dataset/11ab339d-34aa-4909-a7d8-ed10f003b4f8,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,,x,,,,,,,,,,,,,Protokoll 14. AKIF,http://www.daten.rlp.de/dataset/b6848aea-b899-473e-9a8c-7d0a40c322c7,dl-de-by-1.0,HTML,d
-,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Planung/Streckenverlauf --,http://www.daten.rlp.de/dataset/90dae365-df7d-456d-b051-dc20c5eb8461,dl-de-by-1.0,HTML,d
 ,,,,x,,,,x,,,,,,,,Fachkräfte für Suchtprävention,http://www.daten.rlp.de/dataset/d5e150bb-635a-4b40-b24c-a14c047ed647,dl-de-by-1.0,HTML,d
 ,,,,x,,,,x,,,,,,,,Schuldnerberatung in der Suchtberatung,http://www.daten.rlp.de/dataset/d4e41eba-e2cf-44e1-be74-83e0fad72411,dl-de-by-1.0,HTML,d
-,,,x,,,,,,,,,,,,,Protokoll 12. AKIF,http://www.daten.rlp.de/dataset/157d282f-ca01-4ed9-aff6-4136aa95a4ea,dl-de-by-1.0,HTML,d
-,,,,,x,,,,x,,,,,,,B 50 Hochmoselübergang -- Visualisierung/Hunsrück --,http://www.daten.rlp.de/dataset/9827b62e-b8fe-4cde-9159-91046bf5d009,dl-de-by-1.0,HTML,d
-,,x,,,,,,,,,,,,,,Topographische Karte Rheinland-Pfalz 1:100.000,http://www.daten.rlp.de/dataset/462d0347-2da5-47e3-bfd3-e3af384f626d,dl-de-by-nc-1.0,WEBMAPSERVICE,d
-,x,x,,,,,,x,,,x,,,,,"Europawahl 2009 - Ebene: CDU, Anteil in % (Kreis)",http://www.daten.rlp.de/dataset/c967b4a1-adaf-4256-9e92-523b4c8eb1d1,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,,x,,,,x,,,,,,,,Schuldnerberatungsstellen,http://www.daten.rlp.de/dataset/abfe3004-4bc7-4be8-b7cc-ef91a4ab8f1d,dl-de-by-1.0,HTML,d
-,x,x,,,,,,,,,,,,,,"LGB: WLF Wärmeentzugsleistung - Ebene: Mögliche Wärmeentzugsleistung, 1800 Betriebstunden, wenn trocken",http://www.daten.rlp.de/dataset/3789a876-e191-47f6-8800-8046582f2eb3,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,,x,,,,,,,,,,,,,Transparenz in Parlamenten,http://www.daten.rlp.de/dataset/7aff74b2-71b0-4db0-bf5a-db88ddd11eb5,dl-de-by-1.0,HTML,d
-,,,,,,,x,x,,,,,,,,Jugendmanifest rlp,http://www.daten.rlp.de/dataset/22158779-a762-46e1-8171-4759c7c85772,dl-de-by-1.0,PDF,d
-,x,x,,,,,,,,,,,,,,LGB: Geotourismus - Ebene: Kulturhistorisches_Ziel,http://www.daten.rlp.de/dataset/fc47e9c2-c7c7-4c09-9239-e85088be3354,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: C9g,http://www.daten.rlp.de/dataset/bd5b83aa-8308-412f-9b50-a2fe512c98b9,cc-by,"KARTENVIEWER,WMS,HTML",d
+,,,,,,,,,x,,,,,,,Langzeitzählstelle auf der A 48 in Kannenbäckerland,http://www.daten.rlp.de/dataset/62edac4f-9d4c-4b93-bff0-ff2a5aa8084e,dl-de-by-1.0,PDF,d
+,,,x,,,,,,,,,,,,,Protokoll 18. Sitzung IFK,http://www.daten.rlp.de/dataset/e69a63da-dbc3-406e-9b80-0b304bab6be3,dl-de-by-1.0,PDF,d
+,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: E3,http://www.daten.rlp.de/dataset/a7fc5204-7a57-4671-a1f0-9b7a4405f0dc,cc-by,"KARTENVIEWER,WMS,HTML",d
 ,,,x,,,,,,,,,,,,,Informationsfreiheit bei Betriebs- und Geschäftsgeheimnissen stärken!,http://www.daten.rlp.de/dataset/e2cf6dd7-8aae-45a2-ac47-2cf5428c83f1,dl-de-by-1.0,HTML,d
-,,x,,,,,,,,,,,,,,Luftbilder Rheinland-Pfalz,http://www.daten.rlp.de/dataset/fad9a0b7-9bac-4011-b286-ceb4ee9ac27a,dl-de-by-nc-1.0,WEBMAPSERVICE,d
+,,x,,,,,,,,,,,,,,Festung Ehrenbreitstein - Ebene: Stationen Festungsrundgang,http://www.daten.rlp.de/dataset/f729984d-43f7-48f4-9b2b-8ace701db682,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaft, Landkreis Mainz-Bingen –",http://www.daten.rlp.de/dataset/f20a3d33-c0ad-4f9f-b620-3846d85c0812,dl-de-by-1.0,PDF,d
 ,,,,x,,,,x,,,,,,,,Krankenhäuser,http://www.daten.rlp.de/dataset/e16dc822-e1dc-4532-bc0f-4bd552516560,dl-de-by-1.0,HTML,d
-,,x,,,,,,,,,,,,,,Bebauungspläne Landau - Ebene: WH3,http://www.daten.rlp.de/dataset/ccc522b9-7b02-4f32-ac68-cfce15615d39,cc-by,"KARTENVIEWER,WMS,HTML",d
-,,,,,,,,,,,,,,,x,Transparenz Krankenhaushygiene IFK,http://www.daten.rlp.de/dataset/730d616d-5152-42e9-9aa7-805b81f2836b,dl-de-by-1.0,HTML,d
-,,,,x,,,,x,,,,,,,,Kommunale Behindertenbeiräte,http://www.daten.rlp.de/dataset/9f4596d1-bb37-43fb-a34a-3e3e0cb0ab3e,dl-de-by-1.0,HTML,d
-,,,,,,x,,,,,,,,,,"Datenkompass – Tourismus, kreisfreie Stadt Ludwigshafen a. Rhein –",http://www.daten.rlp.de/dataset/89185795-a010-4e93-9e7d-eb900cf064b9,dl-de-by-1.0,PDF,d
-,,,,,,,,,x,,,,,,,"Langzeitzählstelle auf der A 6 in AS Frankenthal, VQ West",http://www.daten.rlp.de/dataset/51924b15-03d1-469c-bdc8-4f7d7439036b,dl-de-by-1.0,PDF,d
-,,,,,,x,,,,,,,,,,"Datenkompass – Tourismus, Landkreis Bernkastel-Wittlich –",http://www.daten.rlp.de/dataset/d8e35957-4389-4317-82fa-55c2a1bb525e,dl-de-by-1.0,PDF,d
+,,,x,,,,,,,,,,,,,Verträge zwischen Staat und Unternehmen offen legen,http://www.daten.rlp.de/dataset/71e38a4e-3b2b-4e46-b2f9-e0b82e52eea9,dl-de-by-1.0,HTML,d
+,,,,,,,,,x,,,,,,,"Langzeitzählstelle auf der B 9 in AD Ludwigshafen, VQ Süd",http://www.daten.rlp.de/dataset/30829c3e-c2b4-4213-b4e4-38240f3690a8,dl-de-by-1.0,PDF,d
+,,x,,,,,,,,,,,,,,Ländliches Verbindungswegenetz RP - Ebene: Verbindungswege Priorität III,http://www.daten.rlp.de/dataset/83321691-9922-4166-abc9-4cdf52fa917d,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
+,,,,x,,,,x,,,,,,,,Gebärdensprachdolmetscher (Vermittlungsstellen),http://www.daten.rlp.de/dataset/f00684c5-d281-41ab-ad26-72e40c12fbe8,dl-de-by-1.0,HTML,d

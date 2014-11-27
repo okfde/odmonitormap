@@ -3,17 +3,16 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 x,,,,,,,,,,,,x,,,,Einwohnermeldeämter,http://opendata.bonn.de/dataset/einwohnermelde%C3%A4mter,CC0-1.0,"XLSX,CSV",d
 x,x,,,x,x,x,x,x,x,,x,x,x,,,Veranstaltungskalender (Komplettübersicht),http://opendata.bonn.de/dataset/veranstaltungskalender-komplett%C3%BCbersicht,dl-de-by-1.0,JSON,d
 ,,,,,,,x,,,,,,,,,Europawahl 2004,http://opendata.bonn.de/dataset/europawahl-2004,dl-de-by-1.0,XLS,d
-,,,,,,,,,,,,x,,,,Pressemitteilungen Stadt Bonn,http://opendata.bonn.de/dataset/pressemitteilungen-stadt-bonn,dl-de-by-1.0,JSON,d
 ,,,,,,,,,,,,,x,,,Verfügbarkeit ausgewählter Gewerbeflächen,http://opendata.bonn.de/dataset/verf%C3%BCgbarkeit-ausgew%C3%A4hlter-gewerbefl%C3%A4chen,dl-de-by-1.0,CSV,d
+,,,,,,,,,,,,x,,,,Pressemitteilungen Stadt Bonn,http://opendata.bonn.de/dataset/pressemitteilungen-stadt-bonn,dl-de-by-1.0,JSON,d
 ,,,,,,,x,,,,,,,,,"Kommunalwahl 2009 (Bürgermeister, Bezirksvertretung, Rat)",http://opendata.bonn.de/dataset/kommunalwahl-2009-b%C3%BCrgermeister-bezirksvertretung-rat,dl-de-by-1.0,CSV,d
 ,,,,,,,,,,,,x,,,,Eckdaten des Haushaltes 2013 2014,http://opendata.bonn.de/dataset/eckdaten-des-haushaltes-2013-2014,dl-de-by-1.0,PDF,d
 ,,,,,,,,,,,,x,,,,Beteiligungsbericht 2007,http://opendata.bonn.de/dataset/beteiligungsbericht-2007,dl-de-by-1.0,HTML,d
-,,,,,,,,,,,,x,,,,Beteiligungsbericht 2006,http://opendata.bonn.de/dataset/beteiligungsbericht-2006,dl-de-by-1.0,HTML,d
+,,,,,,,,,,,,x,,,,Beteiligungsbericht 2005,http://opendata.bonn.de/dataset/beteiligungsbericht-2005,dl-de-by-1.0,HTML,d
 x,,,,,,,,,,,,,,,,Vornamen von Neugeborenen,http://opendata.bonn.de/dataset/vornamen-von-neugeborenen,dl-de-by-1.0,CSV,d
 x,x,,,,,x,,x,,,,,,,,Stadtbibliothek,http://opendata.bonn.de/dataset/stadtbibliothek,dl-de-by-1.0,HTML,d
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2013,http://opendata.bonn.de/dataset/bundestagswahl-2013,dl-de-by-1.0,CSV,d
 x,,,,,,,,x,,x,,,,,,Fair Trade Einkaufsführer,http://opendata.bonn.de/dataset/fair-trade-einkaufsf%C3%BChrer,dl-de-by-1.0,"PDF,CSV,XLS",d
-,,,,,x,,,,,,,,,,,Immobilienangebote,http://opendata.bonn.de/dataset/immobilienangebote,dl-de-by-1.0,HTML,d
 x,,,,,,,,,,,,,,,,Eintragungen in das Goldene Buch der Stadt Bonn,http://opendata.bonn.de/dataset/eintragungen-das-goldene-buch-der-stadt-bonn,dl-de-by-1.0,DOC,d
 ,,,,,,,,,x,x,,,x,,,Bilder der Stadtwerke Bonn,http://opendata.bonn.de/dataset/bilder-der-stadtwerke-bonn,dl-de-by-1.0,HTML,d
 ,,,,,,x,,,,,,,,,,Beethoven in Bonn,http://opendata.bonn.de/dataset/beethoven-bonn,dl-de-by-1.0,DOCREADER,d
@@ -55,7 +54,7 @@ x,,,,,,,,,,,,,,,,Warnmeldung Feuerwehr,http://opendata.bonn.de/dataset/warnmeldu
 ,,,,,,,,,,,,x,,,,Eckdaten des Haushaltes 2015 2016,http://opendata.bonn.de/dataset/eckdaten-des-haushaltes-2015-2016,dl-de-by-1.0,"PDF,XLS",d
 x,x,,,,,x,,,,,,,,,,Bonner Bilder,http://opendata.bonn.de/dataset/bonner-bilder,dl-de-by-nc-1.0,HTML,d
 ,,,,,,,,,,,,x,,,,Beteiligungsbericht 2009,http://opendata.bonn.de/dataset/beteiligungsbericht-2009,dl-de-by-1.0,HTML,d
-,,,,,,,,,,,,x,,,,Beteiligungsbericht 2005,http://opendata.bonn.de/dataset/beteiligungsbericht-2005,dl-de-by-1.0,HTML,d
+,,,,,,,,,,,,x,,,,Beteiligungsbericht 2006,http://opendata.bonn.de/dataset/beteiligungsbericht-2006,dl-de-by-1.0,HTML,d
 ,,,,,,,x,,,,,,,,,Kommunalwahl 1999,http://opendata.bonn.de/dataset/kommunalwahl-1999,dl-de-by-1.0,XLS,d
 ,,,,,,,,,,,,x,,,,Bewilligung über- und außerplanmäßiger Aufwendungen und Auszahlungen nach § 83 (1) GO NRW bzw. § 85 (1) GO NRW,http://opendata.bonn.de/dataset/bewilligung-%C3%BCber-und-au%C3%9Ferplanm%C3%A4%C3%9Figer-aufwendungen-und-auszahlungen-nach-%C2%A7-83-1-go-nrw-bzw-%C2%A7,dl-de-by-1.0,PDF,d
 ,,,,,x,,,,,,,,,,,Bonn - Das neue Profil,http://opendata.bonn.de/dataset/bonn-das-neue-profil,dl-de-by-1.0,DOCREADER,d
@@ -89,3 +88,4 @@ x,x,,x,x,x,x,x,x,x,x,x,x,x,,,Bürgeranträge gem. § 24 GO NRW,http://opendata.b
 ,,,,,x,,,,,,,,x,,,Strukturwandel - Das Bundesviertel,http://opendata.bonn.de/dataset/strukturwandel-das-bundesviertel,dl-de-by-1.0,DOCREADER,d
 ,,,,,x,,,,x,,,,,,,Kennzahlen Stadtentwässerung,http://opendata.bonn.de/dataset/kennzahlen-stadtentw%C3%A4sserung,dl-de-by-1.0,CSV,d
 ,,,,,,,,,x,,,,,,,Parkhäuser,http://opendata.bonn.de/dataset/parkh%C3%A4user,dl-de-by-nc-1.0,XML,d
+,,,,,x,,,,,,,,,,,Immobilienangebote,http://opendata.bonn.de/dataset/immobilienangebote,dl-de-by-1.0,HTML,d
