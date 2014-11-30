@@ -1,7 +1,5 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,x,,,,,,,,,,,,,,Mürlenbach - Ebene: Umringe der Bebauungspläne von Mürlenbach,http://www.daten.rlp.de/dataset/b4da7c25-290b-47c5-8d76-2f75f7975ba4,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Rockeskyll - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/74f297ec-5bbc-4a59-b9e1-1dae60a77249,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Pelm - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/6de90fa6-1ba4-41fc-bead-9f69b74b2698,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Auberg 2. Änderung,http://www.daten.rlp.de/dataset/35b9db22-52c5-4fd2-9d9a-29829a9c18cf,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Salm - Ebene: Vor der Wehrheck,http://www.daten.rlp.de/dataset/4ee098fe-8e0d-4671-8309-20da2cda7106,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Gerolstein - Ebene: Gerolstein,http://www.daten.rlp.de/dataset/67c5303c-bffc-4bc0-925b-9c591d78d9a0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Hinter dem Acker,http://www.daten.rlp.de/dataset/cdb5738a-2a5f-478a-8cd3-3bda95185623,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -115,6 +113,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Mühlenstraße,http://www.daten.rlp.de/dataset/9862215a-ce84-4a8b-bb21-31083a8b644a,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Pelm - Ebene: Am Sellbüsch,http://www.daten.rlp.de/dataset/4964bfba-e065-4b5f-a140-9bc20fc90fe4,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Brückelchen 5. Änderung,http://www.daten.rlp.de/dataset/83e3773b-237f-4cf2-acc1-f4afcb10271b,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Mürlenbach - Ebene: Umringe der Bebauungspläne von Mürlenbach,http://www.daten.rlp.de/dataset/b4da7c25-290b-47c5-8d76-2f75f7975ba4,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Salm - Ebene: Auf der Schiwigerheck 2. Änderung / 3. Erweiterung,http://www.daten.rlp.de/dataset/9e2e3609-b766-4e31-86ef-4b7f74a75262,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Brückelchen/Waldstraße,http://www.daten.rlp.de/dataset/32d56273-bc14-4dde-80a1-20c3ee90a7ad,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Rindsfuss,http://www.daten.rlp.de/dataset/7fbbcb65-d7fd-4bc8-b34e-e329d127e1bf,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -146,9 +145,11 @@ x,x,x,,x,x,,,x,,x,x,x,x,,,Berlingen - Ebene: Berlingen,http://www.daten.rlp.de/d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Vorderste Dell Ergänzung,http://www.daten.rlp.de/dataset/b8f1a5b1-d9ae-4bf9-9212-18c407ffa7a5,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Auf Scheid,http://www.daten.rlp.de/dataset/e38b80d4-2db0-48fc-a49a-1d3e55c68499,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Densborn - Ebene: Hinter der Kirche 1,http://www.daten.rlp.de/dataset/6ac07194-58be-48cb-8174-dc7852eecf51,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Rockeskyll - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/74f297ec-5bbc-4a59-b9e1-1dae60a77249,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Salm - Ebene: Vor den Rüben,http://www.daten.rlp.de/dataset/ba45876c-c4e5-4c0e-9e80-70d46bbcd23a,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Kopp - Ebene: Auf der Troswies (Neufassung),http://www.daten.rlp.de/dataset/fe6a3376-6fad-4c82-be20-3c54fdc4c2e0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Birresborn - Ebene: Friedhof,http://www.daten.rlp.de/dataset/8fa4fcca-3816-419a-8117-cb6f38413ead,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Pelm - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/6de90fa6-1ba4-41fc-bead-9f69b74b2698,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,"Birresborn - Ebene: Birresborn, Ortsteil Rom",http://www.daten.rlp.de/dataset/23e472e4-6c6b-47a2-ad57-88d36b3fccb1,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Hohenfels-Essingen - Ebene: Umringe der Bebauungspläne von Hohenfels-Essingen,http://www.daten.rlp.de/dataset/131ffec9-b2d2-400b-9f8f-44a16ed183e9,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Birresborn - Ebene: Im Steinreich,http://www.daten.rlp.de/dataset/c538f7b3-8c6c-4676-9b2b-e6dbd33715e0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -164,7 +165,6 @@ x,x,x,,x,x,,,x,,x,x,x,x,,,Berlingen - Ebene: Berlingen,http://www.daten.rlp.de/d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Gerolstein Nord Teilbereich III 1. Änderung,http://www.daten.rlp.de/dataset/6081ff9e-8d71-494e-a149-859b87e18d3f,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Densborn - Ebene: Gewerbegebiet In den Feldern,http://www.daten.rlp.de/dataset/c9bc813f-6d9b-491f-a61d-b9554f169f17,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Auberg 3. Änderung,http://www.daten.rlp.de/dataset/7c2c25a6-1c4b-48d5-998a-e2134f698ad5,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Auberg 2. Änderung,http://www.daten.rlp.de/dataset/35b9db22-52c5-4fd2-9d9a-29829a9c18cf,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Gewerbegebiet Bewingen, 1. Erweiterung 2. Änderung und 2. Erweiterung",http://www.daten.rlp.de/dataset/06cd0b76-53be-46d7-bfeb-478ed606ecff,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Birresborn - Ebene: Umringe der Bebauungspläne von Birresborn,http://www.daten.rlp.de/dataset/651f465f-eae6-4381-b779-15ceb7d0e420,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Birresborn - Ebene: Industriegebiet Auf dem Boden,http://www.daten.rlp.de/dataset/2bb50e65-d0be-4499-a1a4-f8101f3cbc47,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -189,7 +189,6 @@ x,x,x,,x,x,,,x,,x,x,x,x,,,Berlingen - Ebene: Berlingen,http://www.daten.rlp.de/d
 ,x,x,,,,,,,,,,,,,,Mürlenbach - Ebene: Klarstellungs-Ergänzungssatzung Mürlenbach,http://www.daten.rlp.de/dataset/8a796da9-a680-49e3-85cd-c9f6bd0d1b43,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Auf dem Beuert,http://www.daten.rlp.de/dataset/8e6392d4-a3da-42bd-bdb1-e7d5ad3f22e8,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Brückelchen 4. Änderung,http://www.daten.rlp.de/dataset/5f6fa816-2c06-4559-90c1-e5b606d7208a,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Pelm - Ebene: Pelm,http://www.daten.rlp.de/dataset/b82b4812-23fa-47fd-b0ec-7a34cc659fef,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Leutersfeld/Albertinum,http://www.daten.rlp.de/dataset/8dc5162f-c8ae-4a57-9c1d-aee9064b603b,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Birresborn - Ebene: Am Winklerweg,http://www.daten.rlp.de/dataset/a93c2a6f-2f5d-49e5-a984-be91d0e6ae33,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Brückelchen/Waldstraße 2. Änderung,http://www.daten.rlp.de/dataset/80146447-c168-4ee4-842b-87199923e805,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -267,3 +266,4 @@ x,x,x,,x,x,,,x,,x,x,x,x,,,Berlingen - Ebene: Berlingen,http://www.daten.rlp.de/d
 ,x,x,,,,,,,,,,,,,,Kopp - Ebene: Laienweg,http://www.daten.rlp.de/dataset/bc2669b0-d25a-484e-849c-042ac4c221a6,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Duppach - Ebene: Kombinierte Satzungen OG Duppach-Weiermühle,http://www.daten.rlp.de/dataset/9ad1f35c-0c7c-46f2-be13-3178a0fca5d6,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Mürlenbach - Ebene: Auf dem Mühlenpesch,http://www.daten.rlp.de/dataset/1b44df85-d0cd-419b-a163-bdb3cce0f4d5,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Pelm - Ebene: Pelm,http://www.daten.rlp.de/dataset/b82b4812-23fa-47fd-b0ec-7a34cc659fef,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d

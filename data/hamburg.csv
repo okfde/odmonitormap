@@ -1,13 +1,93 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
 ,x,,,x,,,,,,,,x,,,,Bettenauslastung(pflegerisch) inkl. 24 Std-Fälle o. Privat,http://www.hamburg.de/contentblob/1016916/data/fordverw-forderungsarten-bshg.xls,nicht bekannt,XLS,g
 x,,,,,,,,,,,,,,,,"Gestorbene infolge ausgewählter bösartiger Neubildungen nach Geschlecht, Hamburg, 2009",http://www.hamburg.de/contentblob/2481974/data/tab-3-77-2009.xls,nicht bekannt,XLS,g
-,x,,,,,,,,,,,x,,,,"Bericht der Behörde für Schule und Berufsbildung über Zuwendungen in Form von Sponsoring, Spenden und mäzenatischen Schenkungen",http://www.hamburg.de/contentblob/4269360/data/bsb-sponsoringbericht-2-halbjahr-2013.xlsx,nicht bekannt,XLSX,g
 x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2012",http://www.hamburg.de/contentblob/4107546/data/tab-2-3-2012.xls,nicht bekannt,XLS,g
 x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2002",http://www.hamburg.de/contentblob/1333798/data/tab-2-3-2002.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,vorherige Schulen,http://www.hamburg.de/contentblob/2834484/data/vorherige-schulen.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Dickschlamm (09.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-dickschlamm-09-04-2013,dl-de-by-2.0,CSV,d
+,,,,,,,,,,,,,,,x,forward-reference-f8cb65ad-4e37-4a30-8b24-fba76ae285ac,http://suche.transparenz.hamburg.de/dataset/forward-reference-f8cb65ad-4e37-4a30-8b24-fba76ae285ac,nicht bekannt,,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (31.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-31-01-20131,dl-de-by-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Schwebstoffe (31.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-schwebstoffe-31-01-2013,dl-de-by-2.0,CSV,d
+,,,,,x,,,,,,,,,,,Bebauungsplan Wandsbek 55 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wandsbek-55-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Grünkohl (03.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-gruenkohl-03-01-2013,dl-de-by-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Reinwasser (06.06.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-reinwasser-06-06-2013,dl-de-by-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Butter Rollen (04.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-butter-rollen-04-02-2013,dl-de-by-2.0,CSV,d
+x,,,,,,,,,,,,,,,,Gemeindekennziffern - berufliche Schulen,http://www.hamburg.de/contentblob/2836674/data/gemeindekennziffern.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,,,,,,,Bebauungsplan Langenhorn 14 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-langenhorn-14-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Wandsbek 70 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wandsbek-70-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Wellingsbüttel 4 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wellingsbuttel-4-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,,,,,,x,forward-reference-88250b6e-6a1d-4e11-9fef-08e5c467fdb1,http://suche.transparenz.hamburg.de/dataset/forward-reference-88250b6e-6a1d-4e11-9fef-08e5c467fdb1,nicht bekannt,,d
+,x,,,,,,,,,,,,,,,Ausländer_Aussiedler,http://www.hamburg.de/contentblob/349284/data/ex-anteil-auslaendische-schueler.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 39 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-39-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: G & G Gouda 40% (05.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-g-g-gouda-40-05-02-2013,dl-de-by-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Weideschafskeule (15.05.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-weideschafskeule-15-05-2013,dl-de-by-2.0,CSV,d
+,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 16 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-16-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 65 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-65-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Deutsche Butter (04.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-deutsche-butter-04-02-2013,dl-de-by-2.0,CSV,d
+,,,,,x,,,,,,,,,,,Bebauungsplan Uhlenhorst 8 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-uhlenhorst-8-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Volksdorf 7 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-volksdorf-7-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Tonndorf 17-Jenfeld 15 Teil 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-tonndorf-17-jenfeld-15-teil-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Niendorf 20 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-niendorf-20-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Wandsbek 25 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wandsbek-25-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Tafeläpfel Fuji Kiku (17.03.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-tafelaepfel-fuji-kiku-17-03-2014,dl-de-by-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Quelle St . Leonhard (13.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-quelle-st-leonhard-13-01-2014,dl-de-by-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Tageskost (24.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-tageskost-24-01-2013,dl-de-by-2.0,CSV,d
+,,,,,x,,,,,,,,,,,Bebauungsplan Wilhelmsburg 3 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilhelmsburg-3-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 9 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-9-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,,,x,x,,,1. Verbrauchsdaten 2. Dimensionierung 3. Wirtschaftlichkeit Diagramme Berechnungen Grundlagen Grafiken Auswahl_BHKW ...,http://www.hamburg.de/contentblob/2490142/data/bhkwcheck-berechnungsprogramm.xls,nicht bekannt,XLS,b
+x,,,,x,,,,,,,,,,,,"Gestorbene infolge ausgewählter bösartiger Neubildungen nach Geschlecht, Hamburg, 2012",http://www.hamburg.de/contentblob/4107490/data/tab-3-77-2012.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Spaghetti (05.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-spaghetti-05-02-2013,dl-de-by-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Linseneintopf (11.02.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-linseneintopf-11-02-2014,dl-de-by-2.0,CSV,d
+,,x,,,,,,,x,,,,,,,HVV-Haltestellennamen mit Koordinate (Hamburg),http://suche.transparenz.hamburg.de/dataset/hvv-haltestellennamen-mit-koordinate-hamburg,dl-de-by-2.0,"XLSX,HTML,ZIP",d
+,,,,x,,,,,,,,,,,,Tab-3.77-2006,http://www.hamburg.de/contentblob/1336196/data/tab-3-77-2006.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 96 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-96-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Natürliches Mineralwasser Still (03.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-natuerliches-mineralwasser-still-03-01-2013,dl-de-by-2.0,CSV,d
+,,,,,x,,,,,,,,,,,Bebauungsplan Osdorf 14-Lurup 16 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-osdorf-14-lurup-16-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Linsen (25.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-linsen-25-03-2013,dl-de-by-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Milchbrei Butterkeks  Milupa (03.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-milchbrei-butterkeks-milupa-03-01-2014,dl-de-by-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Pfifferlinge (19.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-pfifferlinge-19-03-2013,dl-de-by-2.0,CSV,d
+,x,,,,,,,,,,,,,,,Herbststatistik 2007 bis 2012,http://www.hamburg.de/contentblob/3834480/data/anfaenger-berufsb.xlsx,nicht bekannt,XLSX,g
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rohmilch (04.06.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rohmilch-04-06-2013,dl-de-by-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Leinsaat Blaues Wunder (23.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-leinsaat-blaues-wunder-23-04-2013,dl-de-by-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (05.05.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-05-05-2014,dl-de-by-2.0,CSV,d
+,x,,,,,,,,,,,,,,,allgemeinbildende Schulen » (VND.MS-EXCEL,http://www.hamburg.de/contentblob/2834478/data/staatsangehoerigkeiten.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Tageskost (04.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-tageskost-04-04-2013,dl-de-by-2.0,CSV,d
+,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 8 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-8-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,"Messergebnisse zur Radioaktivität in: Schweinefleisch, Inland (18.02.2014)",http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-schweinefleisch-inland-18-02-2014,dl-de-by-2.0,CSV,d
+,x,,,,,,,,,,,,,,,Herbststatistik 2010,https://www.hamburg.de/contentblob/2879764/data/schulentlassene-allgemeinbild-schulen-2009-10-ex.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Sediment (16.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-sediment-16-04-20132,dl-de-by-2.0,CSV,d
+,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 45 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-45-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Eppendorf 13 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eppendorf-13-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,x,,,,,,,,,,,,,,,Herbststatistik 2011,https://www.hamburg.de/contentblob/3393098/data/absolventen-berufsb.xls,nicht bekannt,XLS,g
+,,,,,,x,,,,,,,,,,Restaurants in Hamburg,http://suche.transparenz.hamburg.de/dataset/restaurants-in-hamburg,dl-de-by-2.0,"HTML,XLS,ZIP",d
+,,,,,,,,,,,,,x,,,Erwerbstätige nach Wirtschaftszweigen,http://metropolregion.hamburg.de/contentblob/3921188/data/tabelle03.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Würzsoße T3Y-38386 (20.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-wuerzsosse-t3y-38386-20-01-2014,dl-de-by-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Jahresabschluss 2007 Kurzfassung,http://www.hamburg.de/contentblob/860984/data/jahresabschluss-2007-kurz.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Brombeerkonfitüre (13.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-brombeerkonfituere-13-01-2014,dl-de-by-2.0,CSV,d
+,x,,,,,,,,,,,,,,,Private berufliche Schulen in Hamburg im Schuljahr 2007-2008,http://www.hamburg.de/contentblob/349210/data/zahl-schueler-berufl-schulen-2007-08-ex.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,,,,,,,Bebauungsplan Lokstedt 58 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lokstedt-58-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Apfelsaft (18.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-apfelsaft-18-03-2013,dl-de-by-2.0,CSV,d
+,,,,,x,,,,,,,,,,,Bebauungsplan Jenfeld 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-jenfeld-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rohmilch (14.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rohmilch-14-01-2013,dl-de-by-2.0,CSV,d
+,,,,,x,,,,,,,,,,,Bebauungsplan Langenhorn 11 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-langenhorn-11-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 61 Blatt 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-61-blatt-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 41-Farmsen-Berne 14 Blatt 3 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-41-farmsen-berne-14-blatt-3-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,x,,,,,,,,,,,,,,,Schuleinzugsgebiet - allgemeinbildende Schulen,http://www.hamburg.de/contentblob/2834468/data/schuleinzugsgebiet.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,"Nichtdeutsche Bevölkerung nach Alter und Geschlecht, Hamburg, 2010",http://www.hamburg.de/contentblob/3064014/data/tab-2-4-2010.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,,,,,,,Bebauungsplan Sülldorf 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-sulldorf-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,x,,,,,,,,,,,,Kapazitätsauslastung 2012 Dekanat Tolasch ohne MKG,http://justiz.hamburg.de/contentblob/4311654/data/bettenstatistik2012xlsx.xlsx,nicht bekannt,XLSX,g
+,,x,,,x,,,,,,,,,,,3D-Stadtmodell Hamburg,http://suche.transparenz.hamburg.de/dataset/3d-stadtmodell-hamburg,dl-de-by-2.0,"HTML,ZIP",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Wilhelmsburg 50 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilhelmsburg-50-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 16 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-16-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Winterhude 18 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-winterhude-18-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Wandsbek 42 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wandsbek-42-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Sojabohnenblätter rosa und gelb (28.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-sojabohnenblaetter-rosa-und-gelb-28-03-2013,dl-de-by-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rohkaffee Guatemala (04.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rohkaffee-guatemala-04-01-2013,dl-de-by-2.0,CSV,d
+,x,,,,,,,,,,,x,,,,"Bericht der Behörde für Schule und Berufsbildung über Zuwendungen in Form von Sponsoring, Spenden und mäzenatischen Schenkungen",http://www.hamburg.de/contentblob/4269360/data/bsb-sponsoringbericht-2-halbjahr-2013.xlsx,nicht bekannt,XLSX,g
 ,,x,,,x,,,,,,,,,,,Baufertigstellungen und Bestand,http://metropolregion.hamburg.de/contentblob/3922352/data/tabelle15.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,Schuljahreserhebung  2013,http://www.hamburg.de/contentblob/4263012/data/as-schulentlassene-2013-excel.xlsx,nicht bekannt,XLSX,g
 ,x,,,,,,,,,,,,x,,,ReBBZ Abteilungsleitungen,http://www.hamburg.de/contentblob/4152942/data/rebbz-abteilungsleitungen.xls,nicht bekannt,XLS,g
+,x,,,,,,,,,,,,,,,Klassenstufen,http://www.hamburg.de/contentblob/2836678/data/klassenstufen.xls,nicht bekannt,XLS,g
 x,,,,x,,,,,,,,,,,,"Gestorbene infolge ausgewählter bösartiger Neubildungen nach Geschlecht, Hamburg, 2002",http://www.hamburg.de/contentblob/1336172/data/tab-3-77-2002.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,allgemeinbildende Schulen » (VND.MS-EXCEL,http://www.hamburg.de/contentblob/2834454/data/herkunftslaender.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,Schuljahreserhebung 2013,http://www.hamburg.de/contentblob/4262840/data/as-beurlaubte-schueler-excel.xlsx,nicht bekannt,XLSX,g
@@ -20,6 +100,7 @@ x,,,,,,,,,,,,,,,,"Vermeidbare Sterbefälle nach ausgewählten Diagnosen und Gesc
 x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2007",http://www.hamburg.de/contentblob/1333814/data/tab-2-3-2007.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,Staatliche Schulen,http://www.hamburg.de/contentblob/348652/data/ex-schuelerprogn-klassenstufe-2006.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,Schüler 2006_07,http://www.hamburg.de/contentblob/349078/data/ex-zahl-kl-schueler-schulform-2006-07.xls,nicht bekannt,XLS,g
+,x,,,,,x,,,,,,,,,,Liste von Einrichtungen,http://www.hamburg.de/contentblob/4255792/data/download-bestandsanalyse.xlsx,nicht bekannt,XLSX,g
 ,,x,,,x,,,,x,,,,,,,Tabelle: Variantengegenüberstellung,http://www.hamburg.de/contentblob/75066/data/verkehr-variantengegenueberstellung-argus-excel-datei.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,Schuljahreserhebungen der Jahre 2009 bis 2013,http://www.hamburg.de/contentblob/4262808/data/as-zeitreihe-sus-nach-schulform-rechtsstatus-excel.xlsx,nicht bekannt,XLSX,g
 ,x,,,,,,,,,,,,,,,Schulabgängerinnen und Schulabgänger aus den staatlichen und nicht staatlichen                                                                               allgemeinbildenden Schulen in Hamburg nach Art des Abschlusses *,http://www.hamburg.de/contentblob/1186368/data/ex-zahl-alle-schulabg-2000-2009.xls,nicht bekannt,XLS,b
@@ -70,7 +151,6 @@ x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2004",http://
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bahrenfeld 30 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bahrenfeld-30-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Bratheringe in würziger Marinade (03.06.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-bratheringe-in-wuerziger-marinade-03-06-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Pauli 19 Neustadt 20 Rotherbaum 17 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-pauli-19-neustadt-20-rotherbaum-17-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Dickschlamm (09.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-dickschlamm-09-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 19 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-19-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wilhelmsburg 9 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilhelmsburg-9-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 30 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-30-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -84,7 +164,6 @@ x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2004",http://
 ,,,,,x,,,,,,,,,,,Bebauungsplan Othmarschen 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-othmarschen-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hummelsbüttel 17 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hummelsbuttel-17-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-d70f9a59-9b1d-4b0f-adc2-00d0005358d8,http://suche.transparenz.hamburg.de/dataset/forward-reference-d70f9a59-9b1d-4b0f-adc2-00d0005358d8,nicht bekannt,,d
-,,,,,,,,,,,,,,,x,forward-reference-f8cb65ad-4e37-4a30-8b24-fba76ae285ac,http://suche.transparenz.hamburg.de/dataset/forward-reference-f8cb65ad-4e37-4a30-8b24-fba76ae285ac,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Horn 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-horn-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Pegel an Binnengewässern,http://suche.transparenz.hamburg.de/dataset/pegel-an-binnengewassern,dl-de-by-2.0,"WMS,WFS,HTML,DATA",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 60 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-60-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -150,7 +229,6 @@ x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2004",http://
 ,,,,,x,,,,,,,,,,,Bebauungsplan Ohlsdorf 18-Wellingsbüttel 11 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-ohlsdorf-18-wellingsbuttel-11-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Borgfelde 7 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-borgfelde-7-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lokstedt30 Eimsbüttel 33 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lokstedt30-eimsbuttel-33-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (31.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-31-01-20131,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 52 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-52-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan HafenCity 8 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hafencity-8-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Städtebauliche Erhaltungsverordnungen,http://suche.transparenz.hamburg.de/dataset/stadtebauliche-erhaltungsverordnungen,dl-de-by-2.0,"WMS,HTML,DATA,ZIP",d
@@ -218,7 +296,6 @@ x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2004",http://
 ,,,,,,,,,,x,,,,,,"Messergebnisse zur Radioaktivität in: Äpfel "" Modi "" (15.04.2013)",http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-aepfel-modi-15-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Conchiglie rigate  Nudeln (13.02.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-conchiglie-rigate-nudeln-13-02-2014,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Möhren Bio (05.06.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-moehren-bio-05-06-2013,dl-de-by-2.0,CSV,d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Schwebstoffe (31.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-schwebstoffe-31-01-2013,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,,,,,,x,forward-reference-cc73dcec-4820-485c-a617-03f0d1103153,http://suche.transparenz.hamburg.de/dataset/forward-reference-cc73dcec-4820-485c-a617-03f0d1103153,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Altona-Nord 10 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-altona-nord-10-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Weißkohl (05.06.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-weisskohl-05-06-2013,dl-de-by-2.0,CSV,d
@@ -260,7 +337,6 @@ x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2004",http://
 ,,,,,x,,,,,,,,,,,Bebauungsplan Jenfeld 9-Rahlstedt 50 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-jenfeld-9-rahlstedt-50-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Farmsen-Berne 29-Tonndorf 28-Wandsbek 68 Blatt 3 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-farmsen-berne-29-tonndorf-28-wandsbek-68-blatt-3-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 70 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-70-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Wandsbek 55 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wandsbek-55-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,x,,,,,,,,,,,,,,Bruchkanten Hamburg,http://suche.transparenz.hamburg.de/dataset/bruchkanten-hamburg,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wilhelmsburg 8 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilhelmsburg-8-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Duvenstedt 6 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-duvenstedt-6-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -289,7 +365,6 @@ x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2004",http://
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 3 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-3-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-612ab4dd-27dc-4684-ac4d-04581cd3743a,http://suche.transparenz.hamburg.de/dataset/forward-reference-612ab4dd-27dc-4684-ac4d-04581cd3743a,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 7 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-7-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Grünkohl (03.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-gruenkohl-03-01-2013,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Royal Gala  Tirol Äpfel (11.03.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-royal-gala-tirol-aepfel-11-03-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 6 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-6-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Barmbek-Sued 11 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-barmbek-sued-11-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -341,7 +416,6 @@ x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2004",http://
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rohkakaobohnen (16.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rohkakaobohnen-16-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Horn 12 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-horn-12-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Farmsen-Berne 31 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-farmsen-berne-31-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Reinwasser (06.06.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-reinwasser-06-06-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wandsbek 73-Tonndorf 32 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wandsbek-73-tonndorf-32-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 12 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-12-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Georg 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-georg-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -425,8 +499,8 @@ x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2004",http://
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Milchbrei Knusper Banane (22.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-milchbrei-knusper-banane-22-01-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Horn 43 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-horn-43-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eidelstedt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eidelstedt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
+x,,,,,,,,,,,,,,,,"Nichtdeutsche Bevölkerung nach Alter und Geschlecht, Hamburg, 2009",http://www.hamburg.de/contentblob/2481952/data/tab-2-4-2009.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Groß Flottbek 11-Osdorf 43 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-gross-flottbek-11-osdorf-43-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Butter Rollen (04.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-butter-rollen-04-02-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Volksdorf 4 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-volksdorf-4-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Marienthal 26 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-marienthal-26-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rissen 35 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rissen-35-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -476,7 +550,6 @@ x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2004",http://
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eidelstedt 63 Schnelsen 78 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eidelstedt-63-schnelsen-78-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Milchbrei Milupa (09.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-milchbrei-milupa-09-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 26 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-26-hamburg,dl-de-by-2.0,"PDF,HTML",d
-x,,,,,,,,,,,,,,,,Gemeindekennziffern - berufliche Schulen,http://www.hamburg.de/contentblob/2836674/data/gemeindekennziffern.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,,x,forward-reference-c96941f4-d339-416c-a4a6-be59bc526c20,http://suche.transparenz.hamburg.de/dataset/forward-reference-c96941f4-d339-416c-a4a6-be59bc526c20,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wohldorf-Ohlstedt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wohldorf-ohlstedt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 33 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-33-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -487,7 +560,6 @@ x,,,,,,,,,,,,,,,,Gemeindekennziffern - berufliche Schulen,http://www.hamburg.de/
 ,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 46 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-46-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-0e8d92c9-72cc-42c3-8701-4f055e1fb644,http://suche.transparenz.hamburg.de/dataset/forward-reference-0e8d92c9-72cc-42c3-8701-4f055e1fb644,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 108 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-108-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Langenhorn 14 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-langenhorn-14-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Poppenbüttel 22 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-poppenbuttel-22-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Gelbschwanzmakrelen (29.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-gelbschwanzmakrelen-29-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rothenburgsort 7 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rothenburgsort-7-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -522,8 +594,6 @@ x,,,,,,,,,,,,,,,,Gemeindekennziffern - berufliche Schulen,http://www.hamburg.de/
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hummelsbüttel 10 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hummelsbuttel-10-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 14 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-14-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,x,x,,,,,,Fluglärmbeschwerden Anzahl und Herkunft 2011,http://suche.transparenz.hamburg.de/dataset/fluglaermbeschwerden-anzahl-und-herkunft-2011,dl-de-by-2.0,XLS,d
-,,,,,x,,,,,,,,,,,Bebauungsplan Wandsbek 70 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wandsbek-70-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Wellingsbüttel 4 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wellingsbuttel-4-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Horn 10 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-horn-10-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 108 Blatt 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-108-blatt-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 71 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-71-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -550,14 +620,12 @@ x,,,,,,,,,,,,,,,,Gemeindekennziffern - berufliche Schulen,http://www.hamburg.de/
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wohldorf-Ohlstedt 12 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wohldorf-ohlstedt-12-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 21 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-21-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-c4f1e7d5-3ac9-4055-b60b-ed65de98dfa5,http://suche.transparenz.hamburg.de/dataset/forward-reference-c4f1e7d5-3ac9-4055-b60b-ed65de98dfa5,nicht bekannt,,d
-,,,,,,,,,,,,,,,x,forward-reference-88250b6e-6a1d-4e11-9fef-08e5c467fdb1,http://suche.transparenz.hamburg.de/dataset/forward-reference-88250b6e-6a1d-4e11-9fef-08e5c467fdb1,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Horn 16 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-horn-16-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,x,x,,,Bürgschaftsregister,http://suche.transparenz.hamburg.de/dataset/buergschaftsregister,dl-de-by-2.0,XLSX,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Orangen Nektar  ja (25.02.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-orangen-nektar-ja-25-02-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 83 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-83-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Veddel 3 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-veddel-3-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bahrenfeld 13 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bahrenfeld-13-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,x,,,,,,,,,,,,,,,Ausländer_Aussiedler,http://www.hamburg.de/contentblob/349284/data/ex-anteil-auslaendische-schueler.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bahrenfeld 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bahrenfeld-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 110 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-110-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Farmsen-Berne 25 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-farmsen-berne-25-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -571,7 +639,6 @@ x,,,,,,,,,,,,,,,,Gemeindekennziffern - berufliche Schulen,http://www.hamburg.de/
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eimsbüttel 22 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eimsbuttel-22-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rissen 6 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rissen-6-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Verdunstungspotential Boden,http://suche.transparenz.hamburg.de/dataset/verdunstungspotential-boden,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 39 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-39-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 51 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-51-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Blankenese 20 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-blankenese-20-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Niendorf 55 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-niendorf-55-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -600,7 +667,6 @@ x,,,,,,,,,,,,,,,,Gemeindekennziffern - berufliche Schulen,http://www.hamburg.de/
 ,,,,,x,,,,,,,,,,,Bebauungsplan Jenfeld 7 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-jenfeld-7-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,x,,,,,,,,,,,,,,Grundwassergleichen min 1996,http://suche.transparenz.hamburg.de/dataset/grundwassergleichen-min-1996,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Altona-Altstadt 34 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-altona-altstadt-34-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: G & G Gouda 40% (05.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-g-g-gouda-40-05-02-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Ohlsdorf 13 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-ohlsdorf-13-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Osdorf 23 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-osdorf-23-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (30.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-30-04-20131,dl-de-by-2.0,CSV,d
@@ -609,7 +675,6 @@ x,,,,,,,,,,,,,,,,Gemeindekennziffern - berufliche Schulen,http://www.hamburg.de/
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Georg 32 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-georg-32-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lokstedt 26 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lokstedt-26-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-a2b97d87-3e0b-469c-97fd-b7329ed13ddd,http://suche.transparenz.hamburg.de/dataset/forward-reference-a2b97d87-3e0b-469c-97fd-b7329ed13ddd,nicht bekannt,,d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Weideschafskeule (15.05.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-weideschafskeule-15-05-2013,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Bodenversiegelung,http://suche.transparenz.hamburg.de/dataset/bodenversiegelung,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Nudeln (05.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-nudeln-05-02-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Osdorf 39 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-osdorf-39-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -628,13 +693,11 @@ x,,,,,,,,,,,,,,,,Gemeindekennziffern - berufliche Schulen,http://www.hamburg.de/
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 44 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-44-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-c1d2b452-2a9a-458f-8dd8-83249b7f1255,http://suche.transparenz.hamburg.de/dataset/forward-reference-c1d2b452-2a9a-458f-8dd8-83249b7f1255,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rissen 31 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rissen-31-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 16 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-16-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wilhelmsburg 81 Blatt 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilhelmsburg-81-blatt-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Duvenstedt 15 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-duvenstedt-15-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hamm-Sued 6 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hamm-sued-6-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bahrenfeld 33 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bahrenfeld-33-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,"Messergebnisse zur Radioaktivität in: Sauce mit Soja, dick (19.02.2014)",http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-sauce-mit-soja-dick-19-02-2014,dl-de-by-2.0,CSV,d
-,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 65 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-65-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Quittengelee Hausfrauenart (03.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-quittengelee-hausfrauenart-03-01-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Niendorf 7 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-niendorf-7-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Reis Cracker (04.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-reis-cracker-04-01-2013,dl-de-by-2.0,CSV,d
@@ -643,7 +706,6 @@ x,,,,,,,,,,,,,,,,Gemeindekennziffern - berufliche Schulen,http://www.hamburg.de/
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lokstedt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lokstedt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Blankenese35-Suelldorf20 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-blankenese35-suelldorf20-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Pauli 38 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-pauli-38-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Deutsche Butter (04.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-deutsche-butter-04-02-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Georg 36 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-georg-36-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bahrenfeld 11 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bahrenfeld-11-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Horn 8 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-horn-8-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -675,7 +737,6 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 48 Blatt 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-48-blatt-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Langenhorn 30 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-langenhorn-30-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Uhlenhorst 8 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-uhlenhorst-8-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 102 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-102-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Winterhude 9 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-winterhude-9-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eppendorf 19 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eppendorf-19-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -699,7 +760,6 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Weisskohl (13.02.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-weisskohl-13-02-2014,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Gemüsereis mit Rindfleisch (25.02.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-gemuesereis-mit-rindfleisch-25-02-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Winterhude 7 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-winterhude-7-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Volksdorf 7 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-volksdorf-7-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Niendorf 76 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-niendorf-76-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Biotopkataster,http://suche.transparenz.hamburg.de/dataset/biotopkataster,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
 ,,,,,,,,,,,,x,,,,Hamburger Beteiligungsbericht,http://suche.transparenz.hamburg.de/dataset/hamburger-beteiligungsbericht,dl-de-by-2.0,HTML,d
@@ -721,21 +781,18 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Nudeln (12.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-nudeln-12-02-20131,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Uhlenhorst 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-uhlenhorst-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Broccoli (15.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-broccoli-15-03-2013,dl-de-by-2.0,CSV,d
-,,,,,x,,,,,,,,,,,Bebauungsplan Tonndorf 17-Jenfeld 15 Teil 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-tonndorf-17-jenfeld-15-teil-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Ottensen 30 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-ottensen-30-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Poppenbüttel 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-poppenbuttel-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wandsbek 12 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wandsbek-12-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 85 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-85-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Niendorf 20 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-niendorf-20-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Steilshoop 6 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-steilshoop-6-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Othmarschen 21 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-othmarschen-21-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Winterhude 37-Alsterdorf 17 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-winterhude-37-alsterdorf-17-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 105 Blatt 3 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-105-blatt-3-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Harvestehude 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-harvestehude-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-fb62769b-c876-4021-be79-f4ab5b2e01c9,http://suche.transparenz.hamburg.de/dataset/forward-reference-fb62769b-c876-4021-be79-f4ab5b2e01c9,nicht bekannt,,d
-,,,,,x,,,,,,,,,,,Bebauungsplan Wandsbek 25 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wandsbek-25-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Tonndorf 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-tonndorf-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rissen 29 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rissen-29-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 39 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-39-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -745,7 +802,6 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 48 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-48-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hummelsbüttel 4-Poppenbüttel 8 Blatt 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hummelsbuttel-4-poppenbuttel-8-blatt-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Othmarschen 17 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-othmarschen-17-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Tafeläpfel Fuji Kiku (17.03.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-tafelaepfel-fuji-kiku-17-03-2014,dl-de-by-2.0,CSV,d
 ,,x,,,,,,,,,,,,,,Digitale Karte 1: 5000 Hamburg,http://suche.transparenz.hamburg.de/dataset/digitale-karte-1-5000-hamburg,dl-de-by-2.0,"WMS,PDF,HTML,ZIP,JPEG",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hummelsbüttel 14 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hummelsbuttel-14-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 59 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-59-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -797,7 +853,6 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,x,,,,,,,,,,,Bebauungsplan Nienstedten 3 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-nienstedten-3-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eidelstedt 36 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eidelstedt-36-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Bodenkunde-Horizonte,http://suche.transparenz.hamburg.de/dataset/bodenkunde-horizonte,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Quelle St . Leonhard (13.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-quelle-st-leonhard-13-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Borgfelde 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-borgfelde-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 27 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-27-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Bancha (27.03.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-bancha-27-03-2014,dl-de-by-2.0,CSV,d
@@ -806,13 +861,11 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,x,,,,,,,,,,,Bebauungsplan Osdorf 17 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-osdorf-17-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eidelstedt 29 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eidelstedt-29-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 61 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-61-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Tageskost (24.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-tageskost-24-01-2013,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Sediment (04.06.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-sediment-04-06-2013,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rindfleisch (04.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rindfleisch-04-02-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rissen 19 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rissen-19-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,x,,,,,,,,,,,,Krankenhäuser Hamburg,http://suche.transparenz.hamburg.de/dataset/krankenhauser-hamburg,dl-de-by-2.0,"WMS,WFS,HTML,DATA",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 68 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-68-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Wilhelmsburg 3 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilhelmsburg-3-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Osdorf 38 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-osdorf-38-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Blankenese 4 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-blankenese-4-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Sülldorf 14-Iserbrook 12 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-sulldorf-14-iserbrook-12-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -884,7 +937,6 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,x,,,,,,,,,,,Bebauungsplan Jenfeld 25 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-jenfeld-25-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Alsterdorf 8 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-alsterdorf-8-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Barmbek-Sued 31 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-barmbek-sued-31-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 9 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-9-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Groß-Borstel 7 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-gross-borstel-7-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Landschaftsprogramm Hamburg,http://suche.transparenz.hamburg.de/dataset/landschaftsprogramm-hamburg,dl-de-by-2.0,"ZIP,WMS,HTML,PDF,WFS,DATA",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 38 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-38-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -923,8 +975,8 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wilhelmsburg 25 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilhelmsburg-25-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 63 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-63-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Würzsoße/Sojasauce AO14 (03.02.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-wuerzsosse-sojasauce-ao14-03-02-2014,dl-de-by-2.0,CSV,d
+x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2003",http://www.hamburg.de/contentblob/1333802/data/tab-2-3-2003.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,,x,forward-reference-b202032d-cfd3-46fa-aa25-5b473954da76,http://suche.transparenz.hamburg.de/dataset/forward-reference-b202032d-cfd3-46fa-aa25-5b473954da76,nicht bekannt,,d
-,,,,,,,,,,,,x,x,,,1. Verbrauchsdaten 2. Dimensionierung 3. Wirtschaftlichkeit Diagramme Berechnungen Grundlagen Grafiken Auswahl_BHKW ...,http://www.hamburg.de/contentblob/2490142/data/bhkwcheck-berechnungsprogramm.xls,nicht bekannt,XLS,b
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 21 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-21-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Faulschlamm (09.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-faulschlamm-09-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Marienthal 27 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-marienthal-27-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -955,7 +1007,6 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Soja Teriyakisauce (13.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-soja-teriyakisauce-13-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Farmsen-Berne 34 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-farmsen-berne-34-hamburg,dl-de-by-2.0,"PDF,HTML",d
-x,,,,x,,,,,,,,,,,,"Gestorbene infolge ausgewählter bösartiger Neubildungen nach Geschlecht, Hamburg, 2012",http://www.hamburg.de/contentblob/4107490/data/tab-3-77-2012.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 50 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-50-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Georg 37 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-georg-37-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Osdorf 4-Groß Flottbek 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-osdorf-4-gross-flottbek-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -992,7 +1043,6 @@ x,,,,x,,,,,,,,,,,,"Gestorbene infolge ausgewählter bösartiger Neubildungen nac
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hummelsbüttel 4-Poppenbüttel 8 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hummelsbuttel-4-poppenbuttel-8-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 90 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-90-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Horn 34 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-horn-34-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Spaghetti (05.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-spaghetti-05-02-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Horn 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-horn-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-e69d36d2-b06d-40b2-a949-71b1b00d92ea,http://suche.transparenz.hamburg.de/dataset/forward-reference-e69d36d2-b06d-40b2-a949-71b1b00d92ea,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Uhlenhorst 15 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-uhlenhorst-15-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1006,11 +1056,9 @@ x,,,,x,,,,,,,,,,,,"Gestorbene infolge ausgewählter bösartiger Neubildungen nac
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Essig für Sushireis ( A069) (02.04.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-essig-fuer-sushireis-a069-02-04-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 100 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-100-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hamburg-Altstadt 39-HafenCity 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hamburg-altstadt-39-hafencity-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Linseneintopf (11.02.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-linseneintopf-11-02-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 46 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-46-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-5fd8af78-255f-4ccf-910c-4cdae9ccd61c,http://suche.transparenz.hamburg.de/dataset/forward-reference-5fd8af78-255f-4ccf-910c-4cdae9ccd61c,nicht bekannt,,d
-,,x,,,,,,,x,,,,,,,HVV-Haltestellennamen mit Koordinate (Hamburg),http://suche.transparenz.hamburg.de/dataset/hvv-haltestellennamen-mit-koordinate-hamburg,dl-de-by-2.0,"XLSX,HTML,ZIP",d
 ,,,,,,,,,,x,,,,,,"Messergebnisse zur Radioaktivität in: Mehrfruchtnektar, Apfel-Kirsch (21.03.2014)",http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-mehrfruchtnektar-apfel-kirsch-21-03-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 33 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-33-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 43 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-43-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1034,7 +1082,6 @@ x,,,,x,,,,,,,,,,,,"Gestorbene infolge ausgewählter bösartiger Neubildungen nac
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Erdbeeren (15.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-erdbeeren-15-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Iserbrook 3-Osdorf 15 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-iserbrook-3-osdorf-15-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Barmbek-Sued 24 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-barmbek-sued-24-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,x,,,,,,,,,,,,Tab-3.77-2006,http://www.hamburg.de/contentblob/1336196/data/tab-3-77-2006.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Nienstedten 14 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-nienstedten-14-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lemsahl-Mellingstedt 4 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lemsahl-mellingstedt-4-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lokstedt 44 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lokstedt-44-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1097,7 +1144,6 @@ x,,,,x,,,,,,,,,,,,"Gestorbene infolge ausgewählter bösartiger Neubildungen nac
 ,,,,,x,,,,,,,,,,,Bebauungsplan Fuhlsbüttel 9 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-fuhlsbuttel-9-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Poppenbüttel 25 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-poppenbuttel-25-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 92 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-92-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 96 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-96-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lokstedt 28 Niendorf 46 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lokstedt-28-niendorf-46-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 42 Blatt 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-42-blatt-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rohwasser (06.06.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rohwasser-06-06-2013,dl-de-by-2.0,CSV,d
@@ -1109,7 +1155,6 @@ x,,,,x,,,,,,,,,,,,"Gestorbene infolge ausgewählter bösartiger Neubildungen nac
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wandsbek 56 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wandsbek-56-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Bratheringe in feinwürziger Marinade (03.06.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-bratheringe-in-feinwuerziger-marinade-03-06-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eidelstedt 40 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eidelstedt-40-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Natürliches Mineralwasser Still (03.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-natuerliches-mineralwasser-still-03-01-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Nienstedten 11-Osdorf 9-Iserbrook 11 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-nienstedten-11-osdorf-9-iserbrook-11-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Langenhorn 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-langenhorn-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 74 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-74-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1145,7 +1190,6 @@ x,,,,x,,,,,,,,,,,,"Gestorbene infolge ausgewählter bösartiger Neubildungen nac
 ,,,,,,,,,,,,,,,x,forward-reference-303d6b1a-d363-41cd-bdb2-f7e72b65b02d,http://suche.transparenz.hamburg.de/dataset/forward-reference-303d6b1a-d363-41cd-bdb2-f7e72b65b02d,nicht bekannt,,d
 ,,,,,,,,,,,,,,,x,forward-reference-5ed79c34-603e-45f3-a18c-5b62a86b815b,http://suche.transparenz.hamburg.de/dataset/forward-reference-5ed79c34-603e-45f3-a18c-5b62a86b815b,nicht bekannt,,d
 ,,x,,,,,,,,,,,,,,Digitale Orthophotos 20cm Hamburg,http://suche.transparenz.hamburg.de/dataset/digitale-orthophotos-20cm-hamburg,dl-de-by-2.0,"WMS,HTML,ZIP",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Osdorf 14-Lurup 16 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-osdorf-14-lurup-16-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-1e9dbe18-5328-4127-bd4f-3832c0bf0e96,http://suche.transparenz.hamburg.de/dataset/forward-reference-1e9dbe18-5328-4127-bd4f-3832c0bf0e96,nicht bekannt,,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rohkakaobohnen (16.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rohkakaobohnen-16-01-20143,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rohkakaobohnen (16.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rohkakaobohnen-16-01-20142,dl-de-by-2.0,CSV,d
@@ -1166,7 +1210,6 @@ x,,,,x,,,,,,,,,,,,"Gestorbene infolge ausgewählter bösartiger Neubildungen nac
 ,,,,,x,,,,,,,,,,,Bebauungsplan Poppenbüttel 28 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-poppenbuttel-28-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Horn 35 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-horn-35-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Tiefseescallops (27.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-tiefseescallops-27-01-2014,dl-de-by-2.0,CSV,d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Linsen (25.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-linsen-25-03-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Steilshoop 5 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-steilshoop-5-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-740c1f4a-505d-4588-835d-98605bd42814,http://suche.transparenz.hamburg.de/dataset/forward-reference-740c1f4a-505d-4588-835d-98605bd42814,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wilstorf 17 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilstorf-17-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1194,7 +1237,6 @@ x,,,,x,,,,,,,,,,,,"Gestorbene infolge ausgewählter bösartiger Neubildungen nac
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lemsahl-Mellingstedt 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lemsahl-mellingstedt-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
 x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dataset/alkis-adressen-hamburg,dl-de-by-2.0,"WMS,HTML,DATA,ZIP",d
 ,,x,,,,,,,,,,,,,,Geologische Karte Quartärbasis 1:50 000,http://suche.transparenz.hamburg.de/dataset/geologische-karte-quartarbasis-1-50-000,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Milchbrei Butterkeks  Milupa (03.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-milchbrei-butterkeks-milupa-03-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wellingsbüttel 6 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wellingsbuttel-6-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Marienthal 4 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-marienthal-4-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Pauli 34 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-pauli-34-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1206,7 +1248,6 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,,,,,,,,,,,x,Wohnungsbauflächenpotentiale,http://suche.transparenz.hamburg.de/dataset/wohnungsbauflachenpotentiale,cc-zero,"WMS,HTML,DATA",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 27 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-27-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Altona-Nord 4 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-altona-nord-4-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Pfifferlinge (19.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-pfifferlinge-19-03-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Jenfeld 23 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-jenfeld-23-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Georg 26 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-georg-26-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Ohlsdorf 6 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-ohlsdorf-6-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1238,7 +1279,6 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,x,,,,,,,,,,,,,,Geologische Karte 1:50 000,http://suche.transparenz.hamburg.de/dataset/geologische-karte-1-50-000,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wilhelmsburg 48 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilhelmsburg-48-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Marienthal 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-marienthal-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,x,,,,,,,,,,,,,,,Herbststatistik 2007 bis 2012,http://www.hamburg.de/contentblob/3834480/data/anfaenger-berufsb.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Tageskost (06.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-tageskost-06-02-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Niendorf 83 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-niendorf-83-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Tageskost (26.02.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-tageskost-26-02-2014,dl-de-by-2.0,CSV,d
@@ -1296,7 +1336,6 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 58 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-58-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Pauli 24 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-pauli-24-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rissen 10 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rissen-10-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rohmilch (04.06.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rohmilch-04-06-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Niendorf 44 Teil 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-niendorf-44-teil-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wohldorf-Ohlstedt 12 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wohldorf-ohlstedt-12-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Iserbrook 20-Osdorf 18 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-iserbrook-20-osdorf-18-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1347,7 +1386,6 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eidelstedt 12 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eidelstedt-12-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,x,,,,,,,,,,,,,Geschäftsanfall der Gerichte und Staatsanwaltschaften 2010 - 2013,http://suche.transparenz.hamburg.de/dataset/geschaeftsanfall-der-gerichte-und-staatsanwaltschaften-2010-2013,dl-de-by-2.0,XLSX,d
 ,,,,,,,,,,x,,,,,,Lärmkarten Hamburg (§47c BlmSchG),http://suche.transparenz.hamburg.de/dataset/larmkarten-hamburg-47c-blmschg,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Leinsaat Blaues Wunder (23.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-leinsaat-blaues-wunder-23-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: GAZI Joghurt (16.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-gazi-joghurt-16-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hohenfelde 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hohenfelde-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wellingsbüttel 15 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wellingsbuttel-15-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1356,6 +1394,7 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Sencha Grin Tee (27.03.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-sencha-grin-tee-27-03-2014,dl-de-by-2.0,CSV,d
 ,,,,,,,,,x,,,,,,,Baustellen Hamburg,http://suche.transparenz.hamburg.de/dataset/baustellen-hamburg,dl-de-by-2.0,"WMS,WFS,HTML,DATA",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Langenhorn 62 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-langenhorn-62-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 55 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-55-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Ausgleichsflächen gemäß Bundesnaturschutzgesetz (Kompensationsverzeichnis),http://suche.transparenz.hamburg.de/dataset/ausgleichsflachen-gemass-bundesnaturschutzgesetz-kompensationsverzeichnis,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Emsland Quelle Classic (13.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-emsland-quelle-classic-13-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Niendorf 70 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-niendorf-70-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1375,6 +1414,7 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,x,,,,,,,,,,,Bebauungsplan Finkenwerder 12 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-finkenwerder-12-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Harvestehude 10 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-harvestehude-10-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Tonndorf 26 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-tonndorf-26-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Ottensen 49 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-ottensen-49-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eidelstedt 16 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eidelstedt-16-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Schutzgebiet Nationalpark Hamburgisches Wattenmeer,http://suche.transparenz.hamburg.de/dataset/schutzgebiet-nationalpark-hamburgisches-wattenmeer,dl-de-by-2.0,"WMS,WFS,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Jenfeld 3 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-jenfeld-3-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1481,10 +1521,10 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,x,,,,,,,,,,,Bebauungsplan Volksdorf 20-Bergstedt 21 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-volksdorf-20-bergstedt-21-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: halbierte Kichererbsen (28.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-halbierte-kichererbsen-28-03-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rotherbaum 15 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rotherbaum-15-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: gerö. Kaffee Duce Diamantina (20.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-geroe-kaffee-duce-diamantina-20-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Hamburger Wohnlagenverzeichnis,http://suche.transparenz.hamburg.de/dataset/hamburger-wohnlagenverzeichnis,dl-de-by-2.0,"HTML,DATA",d
 ,,,,,,,,,,,,,,,x,forward-reference-188d0461-0231-450c-87e6-3e6ea3ac2f13,http://suche.transparenz.hamburg.de/dataset/forward-reference-188d0461-0231-450c-87e6-3e6ea3ac2f13,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hoheluft-Ost 5-Eppendorf 16 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hoheluft-ost-5-eppendorf-16-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (05.05.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-05-05-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hamburg-Altstadt 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hamburg-altstadt-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 4 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-4-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 63 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-63-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1494,6 +1534,7 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,x,,,,,,,,,,,Fertiggestellte Wohnungsbauprojekte,http://suche.transparenz.hamburg.de/dataset/fertiggestellte-wohnungsbauprojekte,dl-de-by-2.0,"WMS,WFS,HTML,DATA",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 11 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-11-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Harvestehude 13 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-harvestehude-13-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Abwasser (14.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-abwasser-14-01-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rotherbaum 23 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rotherbaum-23-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wohldorf-Ohlstedt 17 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wohldorf-ohlstedt-17-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Niendorf 27 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-niendorf-27-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1505,13 +1546,13 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,x,,,,,,,,,,,Bebauungsplan Altona-Altstadt 21 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-altona-altstadt-21-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,x,,,,,,,,,,,,,,Geologische Karte 1:5 000,http://suche.transparenz.hamburg.de/dataset/geologische-karte-1-5-000,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
 ,,,,,,,,,,,,,,,x,forward-reference-ea684b59-1112-45f4-be8d-5eb2d014ce21,http://suche.transparenz.hamburg.de/dataset/forward-reference-ea684b59-1112-45f4-be8d-5eb2d014ce21,nicht bekannt,,d
+,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 127 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-127-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eidelstedt 50 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eidelstedt-50-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 18 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-18-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 58 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-58-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Langenhorn 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-langenhorn-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Neustadt 36 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-neustadt-36-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 8 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-8-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,x,,,,,,,,,,,,,,,allgemeinbildende Schulen » (VND.MS-EXCEL,http://www.hamburg.de/contentblob/2834478/data/staatsangehoerigkeiten.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eidelstedt 17 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eidelstedt-17-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wilhelmsburg 64 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilhelmsburg-64-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hamburg-Altstadt 4 Neustadt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hamburg-altstadt-4-neustadt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1549,6 +1590,7 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,,,,,,,,,,,x,forward-reference-67ac4bc6-c871-4eab-8a53-4ff4c8a7c6ba,http://suche.transparenz.hamburg.de/dataset/forward-reference-67ac4bc6-c871-4eab-8a53-4ff4c8a7c6ba,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 114-Farmsen-Berne 32 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-114-farmsen-berne-32-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 37 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-37-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 18 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-18-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wohldorf-Ohlstedt 13 Blatt 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wohldorf-ohlstedt-13-blatt-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,x,,,,,,,,x,,,,,,Oberflächennahe Geothermische Karte Hamburg,http://suche.transparenz.hamburg.de/dataset/oberflachennahe-geothermische-karte-hamburg,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: getr.Pfifferlinge (03.02.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-getr-pfifferlinge-03-02-2014,dl-de-by-2.0,CSV,d
@@ -1577,7 +1619,6 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 105 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-105-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Niendorf 59 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-niendorf-59-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Winterhude 31 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-winterhude-31-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Tageskost (04.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-tageskost-04-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Borgfelde 8 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-borgfelde-8-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rindfleisch (24.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rindfleisch-24-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: getrocknete Pfifferlinge (06.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-getrocknete-pfifferlinge-06-02-2013,dl-de-by-2.0,CSV,d
@@ -1606,7 +1647,6 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Brown Rice Malt Candy (15.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-brown-rice-malt-candy-15-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rindfleisch Ausland (14.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rindfleisch-ausland-14-03-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Langenhorn 72 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-langenhorn-72-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 8 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-8-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Poppenbüttel 32 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-poppenbuttel-32-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Niendorf 29 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-niendorf-29-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Altona-Altstadt 33 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-altona-altstadt-33-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1623,11 +1663,9 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 39 Blatt 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-39-blatt-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eidelstedt 11 / Schnelsen 50 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eidelstedt-11-schnelsen-50-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 4-Barmbek-Nord 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-4-barmbek-nord-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,"Messergebnisse zur Radioaktivität in: Schweinefleisch, Inland (18.02.2014)",http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-schweinefleisch-inland-18-02-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Langenhorn 18 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-langenhorn-18-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Chinakohl (13.02.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-chinakohl-13-02-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 91 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-91-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,x,,,,,,,,,,,,,,,Herbststatistik 2010,https://www.hamburg.de/contentblob/2879764/data/schulentlassene-allgemeinbild-schulen-2009-10-ex.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Neustadt 37 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-neustadt-37-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wilstorf 19 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilstorf-19-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Dinkelgrieß (18.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-dinkelgriess-18-03-2013,dl-de-by-2.0,CSV,d
@@ -1672,9 +1710,9 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,x,,,,,,,,,,,Bebauungsplan Barmbek-Nord 3 Bramfeld 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-barmbek-nord-3-bramfeld-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Winterhude 13 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-winterhude-13-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Nienstedten 18-Othmarschen 39 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-nienstedten-18-othmarschen-39-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,,,x,,,,Konzernbilanz und Ergebnisrechnung 2007 - hamburg.de ...,http://www.hamburg.de/contentblob/2056680/data/konzernabschluss-2008-langfassung.xls,nicht bekannt,XLS,b
 ,,,,,,,,,,,,,,,x,forward-reference-5e7f5ddf-dbe4-48dc-a192-0250caeca03f,http://suche.transparenz.hamburg.de/dataset/forward-reference-5e7f5ddf-dbe4-48dc-a192-0250caeca03f,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wandsbek 6 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wandsbek-6-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Sediment (16.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-sediment-16-04-20132,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Blankenese 25 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-blankenese-25-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wilhelmsburg 66 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilhelmsburg-66-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Georg 21 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-georg-21-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1723,6 +1761,7 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bergstedt 13 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bergstedt-13-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Altona-Nord 16 - Altona-Altstadt 45 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-altona-nord-16-altona-altstadt-45-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,x,,,,,,,,,,Karte Hamburg ist grün - Plätze,http://suche.transparenz.hamburg.de/dataset/karte-hamburg-ist-grun-platze,dl-de-by-2.0,"WMS,WFS,HTML,DATA",d
+,,x,,,x,,,,,,,,,,,"Kurzübersicht » (VND.MS-EXCEL, 37,5 KB)",http://www.hamburg.de/contentblob/4099982/data/kurzuebersicht.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Sülldorf 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-sulldorf-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,"Messergebnisse zur Radioaktivität in: Schweinefleisch, Ausland (14.01.2014)",http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-schweinefleisch-ausland-14-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 34 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-34-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1731,7 +1770,6 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,x,,,,,,,,,,,Bebauungsplan Altona-Nord 17 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-altona-nord-17-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Altona-Altstadt 46 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-altona-altstadt-46-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Steilshoop 3 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-steilshoop-3-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 45 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-45-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Ottensen 10 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-ottensen-10-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 52 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-52-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Georg 14 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-georg-14-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1740,7 +1778,6 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 51/Lokstedt 51 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-51-lokstedt-51-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Groß Flottbek 13 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-gross-flottbek-13-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Winterhude 45 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-winterhude-45-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Eppendorf 13 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eppendorf-13-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bodenrichtwerte für Hamburg,http://suche.transparenz.hamburg.de/dataset/bodenrichtwerte-fur-hamburg,dl-de-by-2.0,"WMS,PDF,CSV,DATA,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Tonndorf 27 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-tonndorf-27-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hummelsbüttel 7 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hummelsbuttel-7-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1749,21 +1786,18 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,,,,,,,,,,,x,forward-reference-8ce83eae-6c5d-4875-9dc5-e211efc0016e,http://suche.transparenz.hamburg.de/dataset/forward-reference-8ce83eae-6c5d-4875-9dc5-e211efc0016e,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 35 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-35-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eimsbüttel 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eimsbuttel-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,x,,,,,,,,,,,,,,,Herbststatistik 2011,https://www.hamburg.de/contentblob/3393098/data/absolventen-berufsb.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Barmbek-Nord 9 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-barmbek-nord-9-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 52 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-52-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,x,,,,,,x,,,,,,Orientierende NO2-Messungen im Hamburger Hafen und bei den Kreuzfahrtterminals 2012-Juli 2014 (Datentabelle),http://suche.transparenz.hamburg.de/dataset/orientierende-no2-messungen-im-hamburger-hafen-und-bei-den-kreuzfahrtterminals-2012-juli-2014-d,dl-de-by-2.0,XLSX,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Tonndorf 16-Jenfeld 10 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-tonndorf-16-jenfeld-10-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Pauli 39 Neustadt 38 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-pauli-39-neustadt-38-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Barmbek-Süd 23 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-barmbek-sud-23-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,x,,,,,,,,,,Restaurants in Hamburg,http://suche.transparenz.hamburg.de/dataset/restaurants-in-hamburg,dl-de-by-2.0,"HTML,XLS,ZIP",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 12 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-12-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-1071e00d-b804-4596-8447-64aaecb31bf0,http://suche.transparenz.hamburg.de/dataset/forward-reference-1071e00d-b804-4596-8447-64aaecb31bf0,nicht bekannt,,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Orangensaft (06.05.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-orangensaft-06-05-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wilhelmsburg 28 Kleiner Grasbrook Blatt 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilhelmsburg-28-kleiner-grasbrook-blatt-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rissen 26 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rissen-26-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Denkmalkartierung Hamburg,http://suche.transparenz.hamburg.de/dataset/denkmalkartierung-hamburg,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
-,,,,,,,,,,,,,x,,,Erwerbstätige nach Wirtschaftszweigen,http://metropolregion.hamburg.de/contentblob/3921188/data/tabelle03.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,x,,,,,,Naturschutzgebiete in Hamburg,http://suche.transparenz.hamburg.de/dataset/naturschutzgebiete-in-hamburg,dl-de-by-2.0,"WMS,WFS,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Finkenwerder 15 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-finkenwerder-15-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-99833148-5d42-4232-9879-e4e2ee5afa75,http://suche.transparenz.hamburg.de/dataset/forward-reference-99833148-5d42-4232-9879-e4e2ee5afa75,nicht bekannt,,d
@@ -1782,16 +1816,13 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,x,,,,,,,,,,,Bebauungsplan Groß-Borstel 18 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-gross-borstel-18-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Poppenbüttel 42 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-poppenbuttel-42-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 49 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-49-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Würzsoße T3Y-38386 (20.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-wuerzsosse-t3y-38386-20-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rotbarschfilet (14.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rotbarschfilet-14-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 50 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-50-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Osdorf 32 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-osdorf-32-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 45 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-45-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Barmbek-Nord 17 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-barmbek-nord-17-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,,,x,,,,Jahresabschluss 2007 Kurzfassung,http://www.hamburg.de/contentblob/860984/data/jahresabschluss-2007-kurz.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,,x,forward-reference-51e1aa47-fb40-498c-8a09-64bbbde8d8b3,http://suche.transparenz.hamburg.de/dataset/forward-reference-51e1aa47-fb40-498c-8a09-64bbbde8d8b3,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Barmbek-Nord 24 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-barmbek-nord-24-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Brombeerkonfitüre (13.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-brombeerkonfituere-13-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 20 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-20-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Jenfeld 14 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-jenfeld-14-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Winterhude 20 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-winterhude-20-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1806,51 +1837,33 @@ x,,x,,,,,,,,,,,,,,ALKIS Adressen Hamburg,http://suche.transparenz.hamburg.de/dat
 ,,,,,,,,,,,,,,,x,forward-reference-6f251d83-6e09-4cbf-ad73-fb4e6b3abb77,http://suche.transparenz.hamburg.de/dataset/forward-reference-6f251d83-6e09-4cbf-ad73-fb4e6b3abb77,nicht bekannt,,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (30.06.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-30-06-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 19 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-19-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,x,,,,,,,,,,,,,,,Private berufliche Schulen in Hamburg im Schuljahr 2007-2008,http://www.hamburg.de/contentblob/349210/data/zahl-schueler-berufl-schulen-2007-08-ex.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Asche aus Holzbriketts (10.06.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-asche-aus-holzbriketts-10-06-2013,dl-de-by-2.0,CSV,d
-,,,,,x,,,,,,,,,,,Bebauungsplan Lokstedt 58 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lokstedt-58-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 111 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-111-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Apfelsaft (18.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-apfelsaft-18-03-2013,dl-de-by-2.0,CSV,d
-,,,,,x,,,,,,,,,,,Bebauungsplan Jenfeld 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-jenfeld-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Schwebstoffe (31.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-schwebstoffe-31-01-2014,dl-de-by-2.0,CSV,d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rohmilch (14.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rohmilch-14-01-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Marienthal 18 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-marienthal-18-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Langenhorn 11 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-langenhorn-11-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Alnatura Karotten m. Brokkoli Dinkelnudeln (28.05.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-alnatura-karotten-m-brokkoli-dinkelnudeln-28-05-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Farmsen-Berne 3-Bramfeld 29 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-farmsen-berne-3-bramfeld-29-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 61 Blatt 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-61-blatt-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Hagebutten Konfitüre extra (13.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-hagebutten-konfituere-extra-13-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Leinsaat (23.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-leinsaat-23-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Magermilchpulver (23.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-magermilchpulver-23-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 14 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-14-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 72 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-72-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Bramfeld 41-Farmsen-Berne 14 Blatt 3 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bramfeld-41-farmsen-berne-14-blatt-3-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,x,,,,,,,,,,,,,,,Schuleinzugsgebiet - allgemeinbildende Schulen,http://www.hamburg.de/contentblob/2834468/data/schuleinzugsgebiet.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (31.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-31-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Sediment (17.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-sediment-17-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Volksdorf 26 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-volksdorf-26-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Niendorf 33 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-niendorf-33-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 4 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-4-hamburg,dl-de-by-2.0,"PDF,HTML",d
-x,,,,,,,,,,,,,,,,"Nichtdeutsche Bevölkerung nach Alter und Geschlecht, Hamburg, 2010",http://www.hamburg.de/contentblob/3064014/data/tab-2-4-2010.xls,nicht bekannt,XLS,g
 ,,x,,,,,,,,,,,,,,ATKIS Digitales Basis Landschaftsmodell Hamburg,http://suche.transparenz.hamburg.de/dataset/atkis-digitales-basis-landschaftsmodell-hamburg,dl-de-by-2.0,"WMS,HTML,DATA,ZIP",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: grüner Tee (16.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-gruener-tee-16-01-2013,dl-de-by-2.0,CSV,d
-,,,,,x,,,,,,,,,,,Bebauungsplan Sülldorf 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-sulldorf-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,x,,,,,,,,,,,,Kapazitätsauslastung 2012 Dekanat Tolasch ohne MKG,http://justiz.hamburg.de/contentblob/4311654/data/bettenstatistik2012xlsx.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Jap. Mayonnaise (08.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-jap-mayonnaise-08-02-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 5 Blatt 1 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-5-blatt-1-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,x,,,x,,,,,,,,,,,3D-Stadtmodell Hamburg,http://suche.transparenz.hamburg.de/dataset/3d-stadtmodell-hamburg,dl-de-by-2.0,"HTML,ZIP",d
 ,,,,,,,,,,x,,,,,,"Messergebnisse zur Radioaktivität in: Schweinefleisch, Ausland (15.01.2014)",http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-schweinefleisch-ausland-15-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Winterhude 8 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-winterhude-8-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Wilhelmsburg 50 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilhelmsburg-50-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 16 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-16-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Winterhude 18 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-winterhude-18-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Wandsbek 42 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wandsbek-42-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 41 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-41-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,x,,,,Erläuterungen und Hinweise zum Ausfüllen des Rechnungsblattes zum Zahlungsantrag (ELER) nach Art. 3 der Verordnung (EG) Nr. 1975/2006,http://www.hamburg.de/contentblob/1010154/data/rechnungsblatt-eler.xls,nicht bekannt,XLS,b
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Sojabohnenblätter rosa und gelb (28.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-sojabohnenblaetter-rosa-und-gelb-28-03-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rissen 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rissen-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rohkaffee Guatemala (04.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rohkaffee-guatemala-04-01-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 62 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-62-hamburg,dl-de-by-2.0,"PDF,HTML",d
+x,,,,x,,,,,,,,,,,,"Sterblichkeit Krankheiten des Kreislaufsystems nach Geschlecht, Hamburg, im Zeitvergleich",http://www.hamburg.de/contentblob/3599850/data/tab-3-90-2012.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Duvenstedt 11 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-duvenstedt-11-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Weideschaf Keule (08.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-weideschaf-keule-08-01-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Flächennutzungsplan Hamburg,http://suche.transparenz.hamburg.de/dataset/flachennutzungsplan-hamburg,dl-de-by-2.0,"WMS,WFS,HTML,ZIP",d
@@ -1858,45 +1871,33 @@ x,,,,,,,,,,,,,,,,"Nichtdeutsche Bevölkerung nach Alter und Geschlecht, Hamburg,
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Sediment (16.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-sediment-16-04-20131,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Wilhelmsburg 17 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-wilhelmsburg-17-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 10 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-10-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,x,,,,,,,,,,,,,,,Klassenstufen,http://www.hamburg.de/contentblob/2836678/data/klassenstufen.xls,nicht bekannt,XLS,g
-,x,,,,,x,,,,,,,,,,Liste von Einrichtungen,http://www.hamburg.de/contentblob/4255792/data/download-bestandsanalyse.xlsx,nicht bekannt,XLSX,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 15 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-15-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,x,,,,,,,,,,,,,,,"Hamburger Schulstatistik im Überblick - Schulen, Klassen, Schülerinnen und Schüler in Hamburg - Schuljar 2006-07",https://www.hamburg.de/contentblob/348706/data/ex-schulstatistik-ueberblick-2006-07.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,Anzahl der Hamburger allgemeinbildenden und berufsbildenden Schulen (Organisationseinheiten) und Schülerzahlen im Schuljahr 2012/13,http://www.hamburg.de/contentblob/3834218/data/schulen-und-sch.xlsx,nicht bekannt,XLSX,b
 x,,,,,,,,,,,,,,,,"Gestorbene infolge vorsätzlicher Selbstbeschädigung (Suizidsterbefälle) nach Alter und Geschlecht, Hamburg, 2010",http://www.hamburg.de/contentblob/3064076/data/tab-3-88-2010.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,x,,,Sozialversicherungspflichtig Beschäftigte Ausländer nach,http://metropolregion.hamburg.de/contentblob/3921196/data/tabelle05.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,"Nichtdeutsche Bevölkerung nach Alter und Geschlecht, Hamburg, 2009",http://www.hamburg.de/contentblob/2481952/data/tab-2-4-2009.xls,nicht bekannt,XLS,g
 x,,,,x,,,,,,,,,,,,"Krankenhausfälle (Wohnort Hamburg) nach Alter und Geschlecht, 2000",http://www.hamburg.de/contentblob/1334018/data/tab-3-25-2000.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rissen 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rissen-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,x,,,,,,,,,,,,,,,staatl + nst Schulen2005,http://www.hamburg.de/contentblob/349008/data/ex-vergleich-schuelerzahlen-2006-07.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2003",http://www.hamburg.de/contentblob/1333802/data/tab-2-3-2003.xls,nicht bekannt,XLS,g
 x,,,,x,,,,,,,,,,,,Vollstationäre Krankenhausfälle (Wohnort Hamburg); 2007,http://www.hamburg.de/contentblob/1336090/data/tab-3-25-2007.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,Schulabgängerinnen und Schulabgänger aus Hamburger allgemein bildenden Schulen im Schuljahr 2006/ 07,http://www.hamburg.de/contentblob/1161900/data/ex-zahl-schulabgaenger-2006-07.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (28.02.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-28-02-2014,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Faulschlamm (11.04.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-faulschlamm-11-04-2014,dl-de-by-2.0,CSV,d
-,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 55 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-55-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Ottensen 49 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-ottensen-49-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rohmilch (01.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rohmilch-01-03-2013,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Sediment (04.06.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-sediment-04-06-20131,dl-de-by-2.0,CSV,d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: gerö. Kaffee Duce Diamantina (20.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-geroe-kaffee-duce-diamantina-20-01-2014,dl-de-by-2.0,CSV,d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Abwasser (14.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-abwasser-14-01-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Alsterdorf 16 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-alsterdorf-16-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 127 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-127-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 18 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-18-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 44 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-44-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Billstedt 16 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-billstedt-16-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Reinwasser (12.06.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-reinwasser-12-06-2013,dl-de-by-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Konzernbilanz und Ergebnisrechnung 2007 - hamburg.de ...,http://www.hamburg.de/contentblob/2056680/data/konzernabschluss-2008-langfassung.xls,nicht bekannt,XLS,b
 x,,,,,,,,,,,,,,,,"Vermeidbare Sterbefälle nach ausgewählten Diagnosen und Geschlecht, Hamburg, 2003",http://www.hamburg.de/contentblob/1333838/data/tab-3-13-2003.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,,,,,,,"Kurzübersicht » (VND.MS-EXCEL, 37,5 KB)",http://www.hamburg.de/contentblob/4099982/data/kurzuebersicht.xls,nicht bekannt,XLS,g
 x,,,,x,,,,,,,,,,,,Vollstationäre Krankenhausfälle (Wohnort Hamburg); 2006,http://www.hamburg.de/contentblob/1336020/data/tab-3-25-2006.xls,nicht bekannt,XLS,g
-x,,,,x,,,,,,,,,,,,"Sterblichkeit Krankheiten des Kreislaufsystems nach Geschlecht, Hamburg, im Zeitvergleich",http://www.hamburg.de/contentblob/3599850/data/tab-3-90-2012.xls,nicht bekannt,XLS,g
 x,,,,,,,,,,,,,,,,Wanderungen nach Herkunfts- und Zielgebieten,http://metropolregion.hamburg.de/contentblob/3921186/data/tabelle02.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Kalbfleisch Inland (06.03.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-kalbfleisch-inland-06-03-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rothenburgsort 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rothenburgsort-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,x,,,,,,,,,,,,,,,"Schülerinnen und Schüler in Hamburger allgemeinbildenden Schulen im Schuljahr 2010/11 differenziert nach Staatsbürgerschaft, Schulform und Schulstufe",http://www.hamburg.de/contentblob/2084102/data/schueler-nicht-deutsch-schulstufen-ex.xls,nicht bekannt,XLS,b
 ,,,,,,,,,,x,,,,,,"Messergebnisse zur Radioaktivität in: Geflügelfleisch, Inland (06.03.2014)",http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-gefluegelfleisch-inland-06-03-2014,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Soyabohnenpaste  ( H 019 u. H 020) (13.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-soyabohnenpaste-h-019-u-h-020-13-01-2014,dl-de-by-2.0,CSV,d
+,,,,,x,,,,,,,,,,,Bebauungsplan Fuhlsbüttel 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-fuhlsbuttel-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,,,,,,x,forward-reference-34769dc9-4dc8-4984-87e0-4adc7b63d5d1,http://suche.transparenz.hamburg.de/dataset/forward-reference-34769dc9-4dc8-4984-87e0-4adc7b63d5d1,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Othmarschen 4 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-othmarschen-4-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Farmsen-Berne 15 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-farmsen-berne-15-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -1984,16 +1985,19 @@ x,,,,x,,,,,,,,,,,,"Gestorbene infolge vorsätzlicher Selbstbeschädigung (Suizid
 ,,,,,,,,,,,,x,,,,Schulstammdaten und Schülerzahlen der Hamburger Schulen,http://suche.transparenz.hamburg.de/dataset/schulstammdaten-und-schulerzahlen-der-hamburger-schulen,dl-de-by-2.0,"WMS,WFS,HTML",d
 ,x,,,,,,,,,,,,,,,Schuljahreserhebung  2013,http://www.hamburg.de/contentblob/4262894/data/bs-schuelerzahl-in-hamburger-staatl-berufl-schulen-in-2013-14-excel.xlsx,nicht bekannt,XLSX,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lurup 10 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lurup-10-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Roggen (18.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-roggen-18-03-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Ohlsdorf 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-ohlsdorf-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eidelstedt 61 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eidelstedt-61-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,x,,,,,,,,,,,,,,,SJ 2007Schüler_Klassen_jeSchule,https://www.hamburg.de/contentblob/1159860/data/ex-zahl-schulen-2007-08.xls,nicht bekannt,XLS,g
 x,,,,,,,,,,,,,,,,"Bevölkerung nach Alter und Geschlecht, Hamburg, 2005",http://www.hamburg.de/contentblob/1333810/data/tab-2-3-2005.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Lokstedt 40 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-lokstedt-40-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Groß-Borstel 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-gross-borstel-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
 x,,,,,,,,,,,,,,x,,Staatenverzeichnis,http://www.hamburg.de/contentblob/2837050/data/staaten.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 23 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-23-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Nienstedten 17-Osdorf 42 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-nienstedten-17-osdorf-42-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Finkenwerder 32 Blatt 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-finkenwerder-32-blatt-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hohenfelde 6 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hohenfelde-6-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Red Beans (22.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-red-beans-22-01-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Jenfeld 18 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-jenfeld-18-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Kaffee Brazil mild (20.01.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-kaffee-brazil-mild-20-01-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Harvestehude 9 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-harvestehude-9-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -2010,6 +2014,7 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (30.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-30-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Hausmacher Eiernudeln (19.02.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-hausmacher-eiernudeln-19-02-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Osdorf 30 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-osdorf-30-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Tageskost (19.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-tageskost-19-03-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 21 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-21-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Groß Flottbek 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-gross-flottbek-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Paprika grün (19.03.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-paprika-gruen-19-03-2014,dl-de-by-2.0,CSV,d
@@ -2032,9 +2037,11 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,x,,,,,,,,,,,Bebauungsplan Osdorf 28 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-osdorf-28-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Osterhasen (06.03.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-osterhasen-06-03-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eimsbüttel 27 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eimsbuttel-27-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Hamburg-Altstadt 26 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hamburg-altstadt-26-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eimsbüttel 36 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eimsbuttel-36-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Georg 40 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-georg-40-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Volksdorf 11-Rahlstedt 37 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-volksdorf-11-rahlstedt-37-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (17.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-17-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Othmarschen 27 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-othmarschen-27-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Poppenbüttel 20-Sasel 12 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-poppenbuttel-20-sasel-12-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Eidelstedt 8 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-eidelstedt-8-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -2049,6 +2056,7 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 76 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-76-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hamburg-Altstadt 18 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hamburg-altstadt-18-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Kokucha Grüntee (27.03.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-kokucha-gruentee-27-03-2014,dl-de-by-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Maismix (19.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-maismix-19-02-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan St.Pauli 41 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-st-pauli-41-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,"Messergebnisse zur Radioaktivität in: Schokolade ""Grosse Ostermischung"" (20.03.2013)",http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-schokolade-grosse-ostermischung-20-03-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Klostertor 6 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-klostertor-6-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -2097,7 +2105,9 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,x,,,,,,,,,,,Bebauungsplan Ottensen 39 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-ottensen-39-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Ohlsdorf 12 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-ohlsdorf-12-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Bahrenfeld 32 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-bahrenfeld-32-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 9 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-9-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Kirschen (28.05.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-kirschen-28-05-2013,dl-de-by-2.0,CSV,d
+,,,,,x,,,,,,,,,,,Bebauungsplan Barmbek-Nord 36 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-barmbek-nord-36-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Ananassaft (20.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-ananassaft-20-03-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 58 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-58-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rissen 8 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rissen-8-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -2106,6 +2116,7 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hummelsbüttel 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hummelsbuttel-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Osdorf 2 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-osdorf-2-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 72 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-72-hamburg,dl-de-by-2.0,"PDF,HTML",d
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (31.07.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-31-07-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Nienstedten 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-nienstedten-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Rohmilch (04.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-rohmilch-04-02-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Schnelsen 84 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-schnelsen-84-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -2123,8 +2134,10 @@ x,,,,,x,,,x,,,,,,,,Sozialmonitoring Integrierte Stadtteilentwicklung Bericht 201
 ,,,,,x,,,,,,,,,,,Bebauungsplan Neustadt 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-neustadt-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Niendorf 4 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-niendorf-4-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,x,,,,,,,,,,,,,,,"Zeitreihe: Schülerverteilung an Hamburger allgemeinbildenden Schulen in den Jahrgangsstufen 1, 5, 7 und 11",http://www.hamburg.de/contentblob/3393088/data/zeitreihe.xlsx,nicht bekannt,XLSX,g
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (02.06.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-02-06-2014,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Horn 38 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-horn-38-hamburg,dl-de-by-2.0,"PDF,HTML",d
 x,,,,x,,,,,,,,,,,,"Gestorbene infolge vorsätzlicher Selbstbeschädigung (Suizidsterbefälle) nach Alter und Geschlecht, Hamburg, 2012",http://www.hamburg.de/contentblob/4107488/data/tab-3-88-2012.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Sojasoße Case 0001-0006 (08.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-sojasosse-case-0001-0006-08-04-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Barmbek-Sued 26 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-barmbek-sued-26-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Rahlstedt 84 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-rahlstedt-84-hamburg,dl-de-by-2.0,"PDF,HTML",d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Hammerbrook 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hammerbrook-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
@@ -2165,17 +2178,4 @@ x,,,,,,,,,,,,,,,,"Vermeidbare Sterbefälle nach ausgewählten Diagnosen und Gesc
 ,,x,,,x,,,,,,,,,,,Verzeichnis von Straßen,http://www.hamburg.de/Dibis/BeFi-Links/38846.1.xls,nicht bekannt,XLS,b
 ,x,,,,,,,,,,,,,,,Schulentlassene des Schuljahres 2010/11 aus Hamburger allgemeinbildenden Schulen1),http://www.hamburg.de/contentblob/3393096/data/schulentlassene-allgb.xls,nicht bekannt,XLS,b
 ,,,,,,,,,,,,x,,,,Rechner - Zuschuss zu den ungedeckten KdU bei BAB/ABG,http://www.hamburg.de/contentblob/1245236/data/fa-sgbii-22-7-kdu-schueler-rechner-zuschuss.xls,nicht bekannt,XLS,b
-,,,,,x,,,,,,,,,,,Bebauungsplan Fuhlsbüttel 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-fuhlsbuttel-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Roggen (18.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-roggen-18-03-2013,dl-de-by-2.0,CSV,d
-,,,,,x,,,,,,,,,,,Bebauungsplan Groß-Borstel 5 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-gross-borstel-5-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Red Beans (22.01.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-red-beans-22-01-2013,dl-de-by-2.0,CSV,d
 ,,,,,x,,,,,,,,,,,Bebauungsplan Othmarschen 7 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-othmarschen-7-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Tageskost (19.03.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-tageskost-19-03-2013,dl-de-by-2.0,CSV,d
-,,,,,x,,,,,,,,,,,Bebauungsplan Hamburg-Altstadt 26 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-hamburg-altstadt-26-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (17.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-17-04-2013,dl-de-by-2.0,CSV,d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Maismix (19.02.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-maismix-19-02-2013,dl-de-by-2.0,CSV,d
-,,,,,x,,,,,,,,,,,Bebauungsplan Stellingen 9 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-stellingen-9-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,x,,,,,,,,,,,Bebauungsplan Barmbek-Nord 36 Hamburg,http://suche.transparenz.hamburg.de/dataset/bebauungsplan-barmbek-nord-36-hamburg,dl-de-by-2.0,"PDF,HTML",d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (31.07.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-31-07-2014,dl-de-by-2.0,CSV,d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Oberflächenwasser (02.06.2014),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-oberflaechenwasser-02-06-2014,dl-de-by-2.0,CSV,d
-,,,,,,,,,,x,,,,,,Messergebnisse zur Radioaktivität in: Sojasoße Case 0001-0006 (08.04.2013),http://suche.transparenz.hamburg.de/dataset/messergebnisse-zur-radioaktivitaet-in-sojasosse-case-0001-0006-08-04-2013,dl-de-by-2.0,CSV,d
