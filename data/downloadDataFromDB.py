@@ -36,7 +36,8 @@ try:
         row['Lat'] = result['latitude']
         row['Lon'] = result['longitude']
         row['modified'] = result['last_updated']
-
+        
+        #Where did the data come from?
         sources = ('m','d','c','b','g')
         
         for source in sources:
@@ -50,6 +51,10 @@ try:
             csources.append(res['originating_portal'])
         row['catalog-sources'] = metautils.arraytocsv(csources)
             
+        #How much of it is open?
+        cur.execute('select count (open)::double precision/(select count (*) from data where city like %s and accepted = %s)::double precision as result from data where open = %s and city like %s and accepted = %s', (row['kurzname'], True, True, row['kurzname'], True))        
+        row['percentopen'] = cur.fetchall()[0]['result']
+
         rows.append(row)
         
         print 'Writing ' + row['kurzname'] + '.csv...'
