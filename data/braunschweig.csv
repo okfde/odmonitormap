@@ -1,30 +1,30 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,x,,,,,,,,,,,,,,Open GeoData Stadtplan Braunschweig 1:20.000,https://www.govdata.de/daten/-/details/67b0308b-9d36-4953-b1f7-e73ae1a21d27,dl-de-by-2.0,TIFF,d
-,,x,,,,,,,,,,,,,,Open GeoData Regionalkarte Braunschweig 1:100.000,https://www.govdata.de/daten/-/details/273b1405-0386-4836-b670-d92d6901cc9b,dl-de-by-2.0,TIFF,d
-,,x,,,,,,,,,,,,,,Luftbilder - Digitale Orthofotos der Stadt Braunschweig aus dem Bildflug 2008,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=e7bc0518-39c7-463e-a6c1-3e02d28425a5,other-closed,TIFF,d
-,,,,,,,,,,,,,x,,,Kleingärten im Bereich der Stadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=c969649d-1a40-4f7e-9315-e075a19a4901,other-closed,,d
-x,,,,,,,,,,,,,,,,Seniorenbegegnungsstätten in der Stadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=779104ea-c14b-471d-9516-d7a4c7712348,other-closed,,d
-,,x,,,,,,,,,,,,,,Cityservice,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=8c8b8843-1a21-46e5-892c-40a0099b5f23,other-closed,,d
-,,x,,,,,,,,,,,,,,Open GeoData Stadtkarte Braunschweig 1:5.000,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=2e492039-2dfa-4c52-a86f-3141375ab6e0,other-closed,,d
-,,x,,,,,,,,,,,,,,Bevölkerung mit Migrationshintergrund in Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=2b6630a3-09f3-4f1f-8ac7-21055c7eb1bf,other-closed,,d
+,,x,,,,,,,,,,,,,,Open GeoData Stadtkarten Braunschweig 1:5.000,https://www.govdata.de/daten/-/details/c1e68356-cfbd-4b77-9478-32df8b2b9e26,dl-de-by-2.0,TIFF,d
+,,x,,,,,,,,,,,,,,Höheninformationen - aus der Laserscanbefliegung der Stadt Braunschweig 2003,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=fd45be99-89ca-4a8d-8568-ff0d522ddef1,other-closed,"TIFF,ASCII",d
+,,,,,,,,,,x,,,,,,Biotoptypen im Bereich der Stadt Braunschweig (Datenserie),http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=783c78c8-5c53-4c98-889d-bb18193e3799,other-closed,,d
+,,x,,,,,,,,,,,,,,Luftbilder - Digitale Orthofotos der Stadt Braunschweig aus dem Bildflug 2005,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=e1f2bf62-a573-4636-a979-d78389d41d15,other-closed,TIFF,d
+,,,,,,,,,,,,,,,x,CSW-Schnittstelle Geoportal Niedersachsen,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=89c8a477-5339-4bcb-9730-a58bc0c0ad9c,nicht bekannt,,d
+,,,,,,,,,,,,,,,x,CSW-Schnittstelle Geoportal.DE,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=b1a2c469-9d06-4aff-889f-9e5bcbd77e32,nicht bekannt,,d
+,,,,,,,,,x,,,,,,,Parkangebote und aktuelle Parksituation in der Innenstadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=307e88fc-8944-4bb0-96a1-c59ff82437f4,other-closed,,d
+,,,,,,,,,,x,,,,,,Ausgleichs- und Ersatzflächen des Kompensationsflächenkatasters,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=eff0f750-dc5a-46fa-a0ae-4c4b669ea7e4,other-closed,,d
+x,,,,,,,,,,,,,,,,Bevölkerungsprognose der Stadt Braunschweig 2012 - 2030,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=b4eef10c-f02b-470f-98f7-ffc6836ada84,other-closed,,d
 ,,x,,,,,,,,,,,,,,Bebauungsplankataster,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=acc13d8a-eaf7-41aa-8d72-eaed321a0227,other-closed,,d
 ,,,,,,,,,,,,x,,,,Metadatenkatalog der Stadt Braunschweig,https://www.govdata.de/daten/-/details/722ede8a-2177-4658-bc8c-67cb635dace0,dl-de-by-2.0,"APPLICATION,XML",d
 ,,x,,,,,,,,,,,,,,Open GeoData Braunschweig - Freies Kartenmaterial und weitere Geodaten im Internet,https://www.govdata.de/daten/-/details/0d3d0e1e-344e-4a74-8a64-a5acd34ea7eb,dl-de-by-2.0,MULT,d
-,,x,,,,,,,,,,,,,,Open GeoData Stadtkarten Braunschweig 1:5.000,https://www.govdata.de/daten/-/details/c1e68356-cfbd-4b77-9478-32df8b2b9e26,dl-de-by-2.0,TIFF,d
+,,x,,,,,,,,,,,,,,Open GeoData Stadtplan Braunschweig 1:20.000,https://www.govdata.de/daten/-/details/67b0308b-9d36-4953-b1f7-e73ae1a21d27,dl-de-by-2.0,TIFF,d
 ,,,,,,x,,,,,,,,,,"Open GeoData Wege, Routen, Rundgänge zu Sehenswürdigkeiten und Naherholungsgebiete der Stadt Braunschweig",https://www.govdata.de/daten/-/details/186d6f9d-0c7a-4de6-8c05-06b63a043ce4,dl-de-by-2.0,"GPX,KML",d
 ,,x,,,,,,,,,,,,,,Open GeoData Liste der Braunschweiger Straßennamen,https://www.govdata.de/daten/-/details/09fa61de-34af-4cad-a5e5-e9ac0ca1ce15,dl-de-by-2.0,TXT,d
+,,x,,,,,,,,,,,,,,Open GeoData Regionalkarte Braunschweig 1:100.000,https://www.govdata.de/daten/-/details/273b1405-0386-4836-b670-d92d6901cc9b,dl-de-by-2.0,TIFF,d
 ,,x,,,,,,,,,,,,,,Open GeoData Stadtübersichtskarte Braunschweig 1:40.000,https://www.govdata.de/daten/-/details/34a034e9-4194-459d-b9cc-df7f6742cc6e,dl-de-by-2.0,TIFF,d
 ,,x,,,,,,,,,,,,,,Bewertung bebauter Grundstücke im Stadtgebiet Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=60167db3-c6e1-4cab-92ad-23cd365ba3ad,other-closed,,d
-,,x,,,,,,,,,,,,,,Höheninformationen - aus der Laserscanbefliegung der Stadt Braunschweig 2003,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=fd45be99-89ca-4a8d-8568-ff0d522ddef1,other-closed,"TIFF,ASCII",d
 ,,x,,,,,,,,,,,,,,Flächennutzungsplan der Stadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=02caf86f-4e10-4ab5-8bc5-77452c0bcdbc,other-closed,"PDF,Papierkarte",d
 ,,x,,,,,,,,,,,,,,Spielplatzplan,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=b719c9fe-9038-4f5b-8d04-1958adbf07e5,other-closed,Papierkarte,d
 ,,x,,,,,,,,,,,,,,Schulen in Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=f4aca0e3-b268-4aba-ae07-67b69b73bce7,other-closed,,d
-,,,,,,,,,,x,,,,,,Biotoptypen im Bereich der Stadt Braunschweig (Datenserie),http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=783c78c8-5c53-4c98-889d-bb18193e3799,other-closed,,d
 ,,,,,,,,,,x,,,,,,Landschaftsrahmenplan Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=538b3bdb-e7f7-4d93-b3e8-fc92086ff178,other-closed,,d
 ,,x,,,,,,,,,,,,,,Höheninformationen aus Laserscanbefliegungen im Bereich der Stadt Braunschweig (Datenserie),http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=3c37eef8-8a3a-4538-b56f-4dcf63261d8a,other-closed,"DGM,DOM,DGM,DOM",d
 ,,x,,,,,,,,,,,,,,Luftbilder - Digitale Orthofotos der Stadt Braunschweig aus dem Bildflug 1998,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=188e8f3a-0871-45fb-b313-48264cdb33d6,other-closed,"TIFF,JPG",d
 ,,x,,,,,,,,,,,,,,Geoportal FRISBI,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=fbf9ca85-d0e1-4682-89c9-ed65cdacf08d,other-closed,,d
-,,x,,,,,,,,,,,,,,Luftbilder - Digitale Orthofotos der Stadt Braunschweig aus dem Bildflug 2005,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=e1f2bf62-a573-4636-a979-d78389d41d15,other-closed,TIFF,d
+,,x,,,,,,,,,,,,,,Luftbilder - Digitale Orthofotos der Stadt Braunschweig aus dem Bildflug 2008,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=e7bc0518-39c7-463e-a6c1-3e02d28425a5,other-closed,TIFF,d
 ,,x,,,,,,,,,,,,,,Luftbilder - Digitale Orthofotos der Stadt Braunschweig aus dem Bildflug 2001,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=6a5e884a-71b1-4754-a79d-d781bd0fe525,other-closed,TIFF,d
 ,,x,,,,,,,,,,,,,,Luftbilder - Digitale Orthofotos der Stadt Braunschweig aus dem Bildflug 2011,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=b4691f5a-5aec-4475-a3dc-8ce43cd38c5f,other-closed,TIFF,d
 ,,x,,,,,,,,,,,,,,Stadtgrundkarte (Raumbezugsebene 1) ,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=5a383fc9-9ce3-48b7-b53b-13e5ff975e1a,other-closed,"TIFF,SHAPE,DXF",d
@@ -37,8 +37,6 @@ x,,,,,,,,,,,,,,,,Seniorenbegegnungsstätten in der Stadt Braunschweig,http://geo
 ,,x,,,,,,,,,,,,,,BLIK - Braunschweiger Leit- und Informationssystem für Kultur,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=724b0b87-c09b-4398-ada0-8419fa120244,other-closed,,d
 ,,x,,,,,,,,,,,,,,Siedlungsentwicklung Wohnbaugebiete,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=5eaf21ad-6816-4b2c-978a-8af8e5336d27,other-closed,"PDF,Papierkarte",d
 ,,x,,,,,,,,,,,,,,Spielplätze im Bereich der Stadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=2a39ead9-6c3d-4390-be56-c37fe6a87812,other-closed,"PDF,Papierkarte",d
-,,,,,,,,,,,,,,,x,CSW-Schnittstelle Geoportal Niedersachsen,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=89c8a477-5339-4bcb-9730-a58bc0c0ad9c,nicht bekannt,,d
-,,,,,,,,,,,,,,,x,CSW-Schnittstelle Geoportal.DE,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=b1a2c469-9d06-4aff-889f-9e5bcbd77e32,nicht bekannt,,d
 ,,,,,,,,,,,,,,,x,GISU Katalog,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=19fe252e-5a50-4744-9dea-6f6cfa6cce98,other-closed,,d
 ,,,,,,,,,,x,,,,,,Natur- und Landschaftsschutz,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=4956dc09-c8d6-43e7-bb49-63c592c3a84c,other-closed,"PDF,Karte",d
 ,,x,,,,,,,,,,,,,,Bewertung von Eigentumswohnungen im Stadtgebiet BS,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=e1e33616-3ea4-4f20-810f-5bb15b219da4,other-closed,,d
@@ -81,6 +79,7 @@ x,,,,,,,,,,,,,,,,Seniorenbegegnungsstätten in der Stadt Braunschweig,http://geo
 ,,,,,,,,,x,,,,,,,Straßenreinigungskataster,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=e6b560b9-1740-47cb-8cda-b8fb8874baf9,other-closed,,d
 ,,,,,,,,,,x,,,,,,Altablagerungen im Stadtgebiet Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=cf762c5e-b522-43e3-9416-6b1ecde1f013,other-closed,PDF,d
 ,,,,x,,,,,x,x,,,,,,Lage der Hydranten im Stadtgebiet Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=f759d661-be10-4dac-8811-17f3f3fbe5f9,other-closed,,d
+,,,,,,,,,,,,,x,,,Kleingärten im Bereich der Stadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=c969649d-1a40-4f7e-9315-e075a19a4901,other-closed,,d
 ,,x,,,,,,,,,,,,,,Luftbilder - Digitale Orthofotos der Stadt Braunschweig (Datenserie),http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=8084de44-173a-46d8-bc8d-3029c50d826d,other-closed,TIFF,d
 x,,,,,,,,,,,,,,,,Kindertagesstätten im Bereich der Stadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=8e1506c5-88a2-4993-9902-e39224721d1e,other-closed,,d
 ,,,,,,,,,,x,,,,,,Karte möglicher Boden- und Grundwasserbelastungen in Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=9f451b19-650e-4ad8-9ef8-b2011e8bbde9,other-closed,PDF,d
@@ -88,7 +87,6 @@ x,,,,,,,,,,,,,,,,Kindertagesstätten im Bereich der Stadt Braunschweig,http://ge
 ,,,,,,,,,,x,,,,,,Artenschutzkonzept,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=8f8c7924-18b4-4a26-b88c-f85a84676754,other-closed,,d
 ,,,,x,,,,,,,,,,,,Wohnen im Alter,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=7d8e7fbf-20ec-481b-ab13-bca68313eb7b,other-closed,,d
 ,,,,,,,,,x,,,,,,,Fußgänger-Leitsystem der Stadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=adbf4399-27ef-4b3b-a489-355f5a1bd1ae,other-closed,,d
-,,,,,,,,,x,,,,,,,Parkangebote und aktuelle Parksituation in der Innenstadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=307e88fc-8944-4bb0-96a1-c59ff82437f4,other-closed,,d
 ,,,,,,,,,x,,,,,,,Aktuelle Verkehrssituation,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=b60cf3cf-e47f-4957-ae9c-55721bb79884,other-closed,,d
 ,,x,,,,,,,,,,,,,,Statistisches Jahrbuch,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=abc9d2ef-49f5-46e2-8e5d-ec405df115b3,other-closed,,d
 ,,,,,,,,,x,,,,,,,Masterplan Ringgleis,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=9c6c4073-99e7-4bb8-aec6-804da430412e,other-closed,,d
@@ -107,12 +105,13 @@ x,,,,,,,,,,,,,,,,Disc-Golf-Parcours Braunschweig-Westpark,http://geoportal.braun
 ,,,,x,,,,,,,,,,,,Kartenübersicht der Hundestationen in Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=1a28db12-8634-4f1d-9ee2-593851014659,other-closed,,d
 ,,,,,,,,,,x,,,,,,Lärmkartierung - Lärmminderungsplanung im Bereich der Stadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=b05ce66b-1065-4fd6-bc01-3233b934b7a3,other-closed,,d
 ,,,,,,,,,x,,,,,,,Verkehrsentwicklungsplan,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=6a42f9c2-e18f-4ad1-8043-142b9fc10d5e,other-closed,,d
+x,,,,,,,,,,,,,,,,Seniorenbegegnungsstätten in der Stadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=779104ea-c14b-471d-9516-d7a4c7712348,other-closed,,d
 x,,,,,,,,,,,,,,,,Kinder- und Jugendfreizeiteinrichtungen,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=9995abd5-b29f-483f-a153-17288dfabd88,other-closed,,d
 ,,,,,,,,,,x,,,,,,Baumkataster der Stadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=0f999d3c-b0ca-47d9-b149-ecca634f8a17,other-closed,Papierkarte,d
 ,,,,,,,,,,x,,,,,,Überwachungsberichte über Altdeponien im Bereich der Stadt Braunschweig (Datenserie),http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=35fc9c0c-55b0-4137-92e7-bc047e6b639f,other-closed,PDF,d
+,,x,,,,,,,,,,,,,,Cityservice,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=8c8b8843-1a21-46e5-892c-40a0099b5f23,other-closed,,d
 ,,,,,x,,,,,,,,,,,Innenstadtspielfährte,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=3a081946-2c33-427d-8002-964fffc30773,other-closed,,d
 ,,,,,x,,,,,,,,,,,Straßenbilder,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=b6dc4ef4-5cfd-4313-9ed0-2a1b05de8141,other-closed,,d
-,,,,,,,,,,x,,,,,,Ausgleichs- und Ersatzflächen des Kompensationsflächenkatasters,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=eff0f750-dc5a-46fa-a0ae-4c4b669ea7e4,other-closed,,d
 ,,x,,,,,,,,,,,,,,Open GeoData Liste der Braunschweiger Straßennamen,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=95443f91-b198-493b-ae78-e4953d0b791c,other-closed,,d
 ,,x,,,,,,,,,,,,,,Open GeoData Braunschweig - Freies Kartenmaterial und weitere Geodaten im Internet (Datenserie),http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=e2402a04-aa17-4394-94bb-11453cd8f5a7,other-closed,,d
 ,,,,x,,,,,,,,,,,,Ambulante Dienste im Bereich der Stadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=21402275-2440-4a5a-9e9c-0a5336b17126,other-closed,,d
@@ -128,7 +127,6 @@ x,,,,,,,,,,,,,,,,Kinder- und Jugendfreizeiteinrichtungen,http://geoportal.brauns
 ,,,,,,,,,,,,,x,,,Kleingartenkataster,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=683112ee-240e-453b-9918-abb6e3868228,other-closed,,d
 ,,x,,,,,,,,,,,,,,Übersichtskarte Web Map Service RBE_3_4_MK,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=60b70da3-84ab-4d9d-ba02-83ea397a5a09,other-closed,,d
 x,,,,,,,,,,,,,,,,Altersstrukturen in Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=470227f1-8651-4aad-ad1a-419795b8be00,other-closed,,d
-x,,,,,,,,,,,,,,,,Bevölkerungsprognose der Stadt Braunschweig 2012 - 2030,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=b4eef10c-f02b-470f-98f7-ffc6836ada84,other-closed,,d
 ,,,,,,,,,,x,,,,,,Luftreinhalte- und Aktionsplan,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=9e38a377-1776-4a45-b8d6-187c5b6f9545,other-closed,,d
 ,,,,,,,,,,x,,,,,,Überschwemmungsgebiet Wabe und Mittelriede,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=b2011336-b871-4118-8f34-e3b5cdd531f6,other-closed,,d
 ,,,,,,,,,,x,,,,,,Überschwemmungsgebiet der Schunter,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=c0887450-d9d2-41d3-b158-c1071796f127,other-closed,,d
@@ -147,11 +145,13 @@ x,,,,,,,,,,,,,,,,Bevölkerungsentwicklung in Braunschweig,http://geoportal.braun
 ,,x,,,,,,,,,,,,,,Baulandkataster,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=ee67de4b-cf74-49e7-a4b4-598c1efd2769,other-closed,,d
 ,,,,,,,,,,x,,,,,,Solarkataster der Stadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=2cc42b5e-6de0-41b6-86b5-2a1530f5fa44,other-closed,,d
 ,,,,,,,,,,x,,,,,,Lärmaktionsplan - Lärmminderungsplanung,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=022888f0-731a-4bf7-9887-22dc80c4bb39,other-closed,,d
+,,x,,,,,,,,,,,,,,Open GeoData Stadtkarte Braunschweig 1:5.000,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=2e492039-2dfa-4c52-a86f-3141375ab6e0,other-closed,,d
 ,,x,,,,,,,,,,,,,,Open GeoData Stadtübersichtskarte Braunschweig 1:40.000,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=dd7e505a-9f32-4109-9f9b-b9ac5bbcd0a2,other-closed,,d
 ,,x,,,,,,,,,,,,,,"Open GeoData Wege, Routen, Rundgänge zu Sehenswürdigkeiten und Naherholungsgebiete der Stadt Braunschweig",http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=6be487f5-2bcb-4857-a7ba-6914fcd6f74a,other-closed,,d
 ,,,,,,,,,,x,,,,,,Amphibienschutz,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=7860883c-0923-462b-aa32-aa435da91a04,other-closed,,d
 ,,x,,,,,,,,,,,,,,Braunschweig-APP,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=704f0324-4c7d-42e3-949d-d47efb128245,other-closed,,d
 ,,x,,,,,,,,,,,,,,Wahlatlas der Stadt Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=5f0cd69f-ba03-4b60-910f-1c8de9606585,other-closed,,d
+,,x,,,,,,,,,,,,,,Bevölkerung mit Migrationshintergrund in Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=2b6630a3-09f3-4f1f-8ac7-21055c7eb1bf,other-closed,,d
 ,,,,,x,,,,,,,,,,,Braunschweigs Brücken,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=d06a04a4-d599-4426-ab31-810e96d379ea,other-closed,,d
 ,,,,x,,,,,,,,,,,,Qualität der Badegewässer in Braunschweig,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=27915814-a0e3-4672-89c1-6b9f0e1bd7fd,other-closed,,d
 ,,x,,,,,,,,,,,,,,Ausgelegte Bebauungspläne,http://geoportal.braunschweig.de/terraCatalog/Query/ShowCSWInfo.do;?fileIdentifier=5ee4a0fe-8f53-431d-a9e8-1761b01fa3ac,other-closed,,d

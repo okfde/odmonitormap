@@ -1,13 +1,5 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,x,,,,,,,,,,,,,,Pelm - Ebene: Pelm,http://www.daten.rlp.de/dataset/b82b4812-23fa-47fd-b0ec-7a34cc659fef,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Rockeskyll - Ebene: Am Kalkofen,http://www.daten.rlp.de/dataset/9a400baf-1647-43a5-a9b5-05c322d2ad3d,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Gerolstein - Ebene: Gerolstein,http://www.daten.rlp.de/dataset/67c5303c-bffc-4bc0-925b-9c591d78d9a0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Berlingen - Ebene: Im Hostert 1. Änderung,http://www.daten.rlp.de/dataset/b2fd5ea8-b8d1-48bb-bbe0-d86d1c26a47d,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Gewerbegebiet Bewingen, 1. Erweiterung 1. Änderung und Erweiterung",http://www.daten.rlp.de/dataset/40df4934-48f9-4124-81b4-1b01602e13af,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Innenbereichssatzung Gerolstein-Oos,http://www.daten.rlp.de/dataset/027fe247-ad25-41c8-8bb4-8944a0c57ca1,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Mürlenbach - Ebene: Umringe der Bebauungspläne von Mürlenbach,http://www.daten.rlp.de/dataset/b4da7c25-290b-47c5-8d76-2f75f7975ba4,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Duppach - Ebene: Duppach,http://www.daten.rlp.de/dataset/2c5cfa77-dea3-42fb-b764-9d0919fbef15,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Gerolstein Nord Teilbereich III 1. Änderung,http://www.daten.rlp.de/dataset/6081ff9e-8d71-494e-a149-859b87e18d3f,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Neroth - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/e0c513db-5483-48b6-943a-f6a62f13af22,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Auf der Bockleber – Aufhebung,http://www.daten.rlp.de/dataset/5020ccda-1da5-4b73-aca5-aef9e10350d4,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Birresborn - Ebene: Ortslage Birresborn – kombinierte Satzungen,http://www.daten.rlp.de/dataset/6fa0c613-908d-4a83-aa60-ac66d890c6bf,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Rockeskyll - Ebene: Am Acker 1. Änderung,http://www.daten.rlp.de/dataset/8b2603a1-99ba-4b2d-af79-bf5935efb741,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -27,6 +19,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Mürlenbach - Ebene: Klarstellungs-Ergänzungssatzung Mürlenbach,http://www.daten.rlp.de/dataset/8a796da9-a680-49e3-85cd-c9f6bd0d1b43,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Auf dem Beuert,http://www.daten.rlp.de/dataset/8e6392d4-a3da-42bd-bdb1-e7d5ad3f22e8,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Brückelchen 4. Änderung,http://www.daten.rlp.de/dataset/5f6fa816-2c06-4559-90c1-e5b606d7208a,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Pelm - Ebene: Pelm,http://www.daten.rlp.de/dataset/b82b4812-23fa-47fd-b0ec-7a34cc659fef,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Leutersfeld/Albertinum,http://www.daten.rlp.de/dataset/8dc5162f-c8ae-4a57-9c1d-aee9064b603b,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Birresborn - Ebene: Am Winklerweg,http://www.daten.rlp.de/dataset/a93c2a6f-2f5d-49e5-a984-be91d0e6ae33,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Brückelchen/Waldstraße 2. Änderung,http://www.daten.rlp.de/dataset/80146447-c168-4ee4-842b-87199923e805,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -79,6 +72,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Gerolstein Nord Teilbereich II,http://www.daten.rlp.de/dataset/464431d3-8861-458d-b5c7-7c71770c0ad2,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Auf der Tröth,http://www.daten.rlp.de/dataset/681fce78-5b25-4eba-a0dc-72c2c5796c9d,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Lindenstraße,http://www.daten.rlp.de/dataset/4f6656de-0903-46be-9831-21e7e138ce79,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Rockeskyll - Ebene: Am Kalkofen,http://www.daten.rlp.de/dataset/9a400baf-1647-43a5-a9b5-05c322d2ad3d,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Pelm - Ebene: Ortslage Pelm – kombinierte Satzungen,http://www.daten.rlp.de/dataset/70c9fc7a-cede-4c42-9efe-583b42d1abd0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: In der Joch,http://www.daten.rlp.de/dataset/ad214041-8e83-4a2c-afb2-d2809970e845,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Densborn - Ebene: In Hanert 4. Änderung und Erweiterung,http://www.daten.rlp.de/dataset/93d5eebf-88c5-4df3-a237-f6501e28160d,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -104,10 +98,12 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Duppach - Ebene: Kombinierte Satzungen OG Duppach-Weiermühle,http://www.daten.rlp.de/dataset/9ad1f35c-0c7c-46f2-be13-3178a0fca5d6,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Mürlenbach - Ebene: Auf dem Mühlenpesch,http://www.daten.rlp.de/dataset/1b44df85-d0cd-419b-a163-bdb3cce0f4d5,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Salm - Ebene: Vor der Wehrheck,http://www.daten.rlp.de/dataset/4ee098fe-8e0d-4671-8309-20da2cda7106,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Gerolstein - Ebene: Gerolstein,http://www.daten.rlp.de/dataset/67c5303c-bffc-4bc0-925b-9c591d78d9a0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Hinter dem Acker,http://www.daten.rlp.de/dataset/cdb5738a-2a5f-478a-8cd3-3bda95185623,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Lissinger Straße West 1. Änderung,http://www.daten.rlp.de/dataset/fab9b84b-b578-4a17-ab94-cc6df75f3a1e,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Densborn - Ebene: In Hanert 2. Änderung,http://www.daten.rlp.de/dataset/e755961d-7e3a-4ca8-a0b2-21bb3d647af0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Auf Kleinspesch,http://www.daten.rlp.de/dataset/bd14fe3b-2d66-4b24-ad59-6723a66468b8,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Berlingen - Ebene: Im Hostert 1. Änderung,http://www.daten.rlp.de/dataset/b2fd5ea8-b8d1-48bb-bbe0-d86d1c26a47d,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Birresborn - Ebene: Auf der Schlack - Steinreich – Änderung vereinfachte Abänderung,http://www.daten.rlp.de/dataset/70c6c94a-8c87-4dfd-9dbc-a8de837c8343,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Mürlenbach - Ebene: Mürlenbach,http://www.daten.rlp.de/dataset/b645fcb5-b3c4-4a7d-ad09-adf0c9e32648,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Auf der Ram Änderung,http://www.daten.rlp.de/dataset/9e0474f9-ff6a-4124-b6ed-9eb0299934f8,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -130,6 +126,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Gerolstein Nord Teilbereich I,http://www.daten.rlp.de/dataset/1a497375-de8a-429e-ad86-2172d983e8a9,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Sarresdorfer Straße West, nördl. Tei",http://www.daten.rlp.de/dataset/6da9c15e-8f84-4207-9806-ff6977391370,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Neroth - Ebene: In Föhren - Aufhebung,http://www.daten.rlp.de/dataset/85a469c0-57ef-45c2-a647-4a26d9ab705c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Gewerbegebiet Bewingen, 1. Erweiterung 1. Änderung und Erweiterung",http://www.daten.rlp.de/dataset/40df4934-48f9-4124-81b4-1b01602e13af,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Kalkofsborn 2. Änderung,http://www.daten.rlp.de/dataset/3764f617-4e24-4c77-8ec9-e84079920998,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: An Sengheck,http://www.daten.rlp.de/dataset/f4ef3c77-4f52-45ce-9065-af0cb769007f,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Densborn - Ebene: BPlan K 28 - Ortsdurchfahrt Densborn Meisburger Straße,http://www.daten.rlp.de/dataset/cf21655d-dbbb-442d-aef2-8a5323553a48,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -143,6 +140,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Berlingen - Ebene: Im Hostert,http://www.daten.rlp.de/dataset/18b71ed3-54f5-4285-be4c-724e06041954,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Abrundungssatzung Gerolstein-Lissingen, Oberdorf Teilaufhebung",http://www.daten.rlp.de/dataset/7b864884-e1ab-4656-a4af-95d9bfc06fb0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Ferienhausgebiet Hillenseifen Erweiterung,http://www.daten.rlp.de/dataset/1c4d04e4-3418-4aec-921c-54de8c33912d,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Innenbereichssatzung Gerolstein-Oos,http://www.daten.rlp.de/dataset/027fe247-ad25-41c8-8bb4-8944a0c57ca1,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Kopp - Ebene: Umringe der Bebauungspläne von Kopp,http://www.daten.rlp.de/dataset/735f3070-baa9-4c89-9a43-4818aaa6730c,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Salm - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/c7b2d389-a17e-42c4-85db-4d6130fe1020,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Mürlenbach - Ebene: An der Remelsbach 3. Änderung,http://www.daten.rlp.de/dataset/b6af3f6c-f6be-4047-b229-ff29b54025e8,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -203,7 +201,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Neroth - Ebene: Neroth,http://www.daten.rlp.de/dataset/ed021b71-ebb4-4642-a297-6f1966288a2e,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Mürlenbach - Ebene: An der Remelsbach,http://www.daten.rlp.de/dataset/8b25b4b7-60b3-466e-a3c9-20c7de5086a4,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Kalenborn-Scheuern - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/bf423e4b-52a6-4df3-afe1-f92527dda3d0,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Neroth - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/e0c513db-5483-48b6-943a-f6a62f13af22,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Densborn - Ebene: Auf dem Hahnenberg,http://www.daten.rlp.de/dataset/4817c94f-39f7-4ce8-8595-8b4540e68a60,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Hofacker, 1. Erweiterung",http://www.daten.rlp.de/dataset/d6b36d8c-6c62-461a-9ae1-2809c3ec56e3,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Sanierungsgebiet I, 1. vorgezogenes Verfahren Rondell Änderung und Ergänzung",http://www.daten.rlp.de/dataset/90c08085-be91-44e2-8070-7e8d7208def9,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -212,6 +209,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Mühlenstraße,http://www.daten.rlp.de/dataset/9862215a-ce84-4a8b-bb21-31083a8b644a,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Pelm - Ebene: Am Sellbüsch,http://www.daten.rlp.de/dataset/4964bfba-e065-4b5f-a140-9bc20fc90fe4,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Brückelchen 5. Änderung,http://www.daten.rlp.de/dataset/83e3773b-237f-4cf2-acc1-f4afcb10271b,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Mürlenbach - Ebene: Umringe der Bebauungspläne von Mürlenbach,http://www.daten.rlp.de/dataset/b4da7c25-290b-47c5-8d76-2f75f7975ba4,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Salm - Ebene: Auf der Schiwigerheck 2. Änderung / 3. Erweiterung,http://www.daten.rlp.de/dataset/9e2e3609-b766-4e31-86ef-4b7f74a75262,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Brückelchen/Waldstraße,http://www.daten.rlp.de/dataset/32d56273-bc14-4dde-80a1-20c3ee90a7ad,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Rindsfuss,http://www.daten.rlp.de/dataset/7fbbcb65-d7fd-4bc8-b34e-e329d127e1bf,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -231,6 +229,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 x,x,x,,x,x,,,x,,x,x,x,x,,,Berlingen - Ebene: Berlingen,http://www.daten.rlp.de/dataset/ab09e40f-d563-4456-9631-244b7654ad5f,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Berlingen - Ebene: In der Beuß und Auf dem Wehr,http://www.daten.rlp.de/dataset/827361a3-ca32-46f9-b833-62ebf5eac23b,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Kalkofsborn,http://www.daten.rlp.de/dataset/310d546b-8fd7-44b8-9efe-710a43b7698f,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Duppach - Ebene: Duppach,http://www.daten.rlp.de/dataset/2c5cfa77-dea3-42fb-b764-9d0919fbef15,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Ferienhausgebiet Hillenseifen 1. Änderung,http://www.daten.rlp.de/dataset/2ede2a43-e796-4065-ab8b-646ef78d8dce,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Auf dem Sand 1. Erweiterung,http://www.daten.rlp.de/dataset/87fee0c1-0ed9-44fa-a4b3-ddcd8bc6796f,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Birresborn - Ebene: In der Kehrt 3. Änderung,http://www.daten.rlp.de/dataset/b4020f5d-8231-4644-acfc-487daedf6568,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -259,6 +258,7 @@ x,x,x,,x,x,,,x,,x,x,x,x,,,Berlingen - Ebene: Berlingen,http://www.daten.rlp.de/d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Brückelchen 1. Änderung,http://www.daten.rlp.de/dataset/7fe58241-8e1f-4440-99ce-ec31bcf19ad5,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Gerolstein - Ebene: Abrundungssatzung Gerolstein-Lissingen, Oberdorf",http://www.daten.rlp.de/dataset/07fa8934-d869-4efa-aa4e-070ad58b8af1,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Lehnenbachtal 1. Änderung,http://www.daten.rlp.de/dataset/0722e2dc-e692-4539-81c8-b31638e944f4,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Gerolstein Nord Teilbereich III 1. Änderung,http://www.daten.rlp.de/dataset/6081ff9e-8d71-494e-a149-859b87e18d3f,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Densborn - Ebene: Gewerbegebiet In den Feldern,http://www.daten.rlp.de/dataset/c9bc813f-6d9b-491f-a61d-b9554f169f17,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Auberg 3. Änderung,http://www.daten.rlp.de/dataset/7c2c25a6-1c4b-48d5-998a-e2134f698ad5,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gerolstein - Ebene: Am Auberg 2. Änderung,http://www.daten.rlp.de/dataset/35b9db22-52c5-4fd2-9d9a-29829a9c18cf,dl-de-by-nc-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
