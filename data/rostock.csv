@@ -128,6 +128,7 @@ x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2009,http://www.opendata-hro.de/dataset/
 ,,,,,,x,,,,,,,,,,theater.xlsx,https://geo.sv.rostock.de/download/opendata/theater/theater.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,,,,,,,,touristeninformation.xlsx,https://geo.sv.rostock.de/download/opendata/touristeninformation/touristeninformation.xlsx,nicht bekannt,XLSX,g
 ,,x,,,x,,,,,,,,,,,ortsbeiratsbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/ortsbeiratsbereiche/ortsbeiratsbereiche.xlsx,nicht bekannt,XLSX,g
+,x,,,,,x,,,,,,,,,,bibliotheken.xlsx,https://geo.sv.rostock.de/download/opendata/bibliotheken/bibliotheken.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,,,,,,,,begegnungszentren.xlsx,https://geo.sv.rostock.de/download/opendata/begegnungszentren/begegnungszentren.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,,,,,,,,brunnen.xlsx,https://geo.sv.rostock.de/download/opendata/brunnen/brunnen.xlsx,nicht bekannt,XLSX,g
 ,,x,,,x,,,,,,,,,,,statistische_bezirke.xlsx,https://geo.sv.rostock.de/download/opendata/statistische_bezirke/statistische_bezirke.xlsx,nicht bekannt,XLSX,g
@@ -136,7 +137,6 @@ x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2009,http://www.opendata-hro.de/dataset/
 ,,x,,,x,,,,,,,,,,,gemeindeflaeche.xlsx,https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,,,,,,,,museen_galerien.xlsx,https://geo.sv.rostock.de/download/opendata/museen_galerien/museen_galerien.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,,,,,,x,,,,polizeidienststellen.xlsx,https://geo.sv.rostock.de/download/opendata/polizeidienststellen/polizeidienststellen.xlsx,nicht bekannt,XLSX,g
-,x,,,,,x,,,,,,,,,,bibliotheken.xlsx,https://geo.sv.rostock.de/download/opendata/bibliotheken/bibliotheken.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,,x,,,,,,,,tagespflegeeinrichtungen.xlsx,https://geo.sv.rostock.de/download/opendata/tagespflegeeinrichtungen/tagespflegeeinrichtungen.xlsx,nicht bekannt,XLSX,g
 ,,,,,x,,,,,x,,,,,,trinkwasserschutzzonen.xlsx,https://geo.sv.rostock.de/download/opendata/trinkwasserschutzzonen/trinkwasserschutzzonen.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,,,,,,,,kinos.xlsx,https://geo.sv.rostock.de/download/opendata/kinos/kinos.xlsx,nicht bekannt,XLSX,g

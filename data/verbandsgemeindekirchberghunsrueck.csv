@@ -1,12 +1,10 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,x,,,,,,,,,,,,,,Nieder Kostenz - Ebene: Umringe der Bebauungspläne von Nieder Kostenz,http://www.daten.rlp.de/dataset/b8c25e7b-f8c7-4773-8b0a-4fdc4ca7c2ed,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Niedersohren - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/3cf42adc-95c7-481e-8804-b586ff5c1598,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Brunkenstein 1. Änderung,http://www.daten.rlp.de/dataset/574ced69-d1a9-4f87-9897-7bb2e68ff5e5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Brunkenstein,http://www.daten.rlp.de/dataset/c190ca17-7ec5-4b8a-ad72-7946f300a36e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Nieder Kostenz - Ebene: Unter dem Mühlenweg,http://www.daten.rlp.de/dataset/d90aaa39-520a-4619-a447-2be68a51c340,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Woppenroth - Ebene: Umringe der Bebauungspläne von Woppenroth,http://www.daten.rlp.de/dataset/537c773e-dccd-4f8c-b9fe-c45bd14b4cfe,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Dill - Ebene: Auf Beckersacker 1. Änderung,http://www.daten.rlp.de/dataset/1e1dbc88-18d0-4e30-b87e-3d584e9f8d54,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Womrath - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/b06d130c-ae14-4922-903f-36f15d50e723,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Henau - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/291fcdb4-c2d0-41ce-a366-f032416a73ff,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Laufersweiler - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/6cdf0eaf-19b2-4b8b-8d88-be3174d530f5,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Gehlweiler - Ebene: Umringe der Bebauungspläne von Gehlweiler,http://www.daten.rlp.de/dataset/476b9923-4e39-4883-9a58-f153761f415e,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Womrath - Ebene: Umringe der Bebauungspläne von Womrath,http://www.daten.rlp.de/dataset/7d7d78d3-ee0e-42a1-a78e-37fdd927167a,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Auf der Taubenacht 2. Änderung,http://www.daten.rlp.de/dataset/8df5b8af-8ae4-4ced-b877-93051f5d2b23,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Sohren - Ebene: Im Grund 1. Änderung,http://www.daten.rlp.de/dataset/743d7d4a-f706-48c8-9788-eb22044a39c5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Niederweiler - Ebene: Auf`m Rech,http://www.daten.rlp.de/dataset/346e38e3-f8cb-447c-9fdc-346db7809187,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Dickenschied - Ebene: Auf der Länger II,http://www.daten.rlp.de/dataset/92c57fe7-5365-4c56-a2f3-94004815e509,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -16,6 +14,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Niedersohren - Ebene: Jenseits der Bach 1. Änderung,http://www.daten.rlp.de/dataset/44510b11-86bc-4965-aaf0-416f7fc63f6c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Dickenschied - Ebene: Auf der Länger I,http://www.daten.rlp.de/dataset/cdb5c29d-4cb8-418a-86fa-42519159f5e9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Lautzenhausen - Ebene: Umringe der Bebauungspläne von Lautzenhausen,http://www.daten.rlp.de/dataset/b1036a65-58ea-46c2-9c87-1446ae666dcc,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Nieder Kostenz - Ebene: Umringe der Bebauungspläne von Nieder Kostenz,http://www.daten.rlp.de/dataset/b8c25e7b-f8c7-4773-8b0a-4fdc4ca7c2ed,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Schlierschied - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/4818ae18-36ec-4864-91d8-f649e1bf6c33,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Unzenberg - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/e3532ae1-02bd-4fa3-9bae-ef0f49f8ec1a,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Niedersohren - Ebene: Im Langenacker,http://www.daten.rlp.de/dataset/bd16b7a7-6c57-466c-bccd-611362ffe813,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -62,6 +61,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Raversbeuren - Ebene: Umringe der Bebauungspläne von Raversbeuren,http://www.daten.rlp.de/dataset/6f6baff0-4201-49ec-bb78-e890b3891b9d,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Ober Kostenz - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/d11d6ce9-fdfd-4e8a-ba1d-4652577c0f85,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Reckershausen - Ebene: Auf dem Mohr,http://www.daten.rlp.de/dataset/018927f2-ad14-402f-9949-a2f0c2ab3f82,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Niedersohren - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/3cf42adc-95c7-481e-8804-b586ff5c1598,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gemünden - Ebene: Abrundungssatzung Panzweiler Straße,http://www.daten.rlp.de/dataset/b8ca3bc7-9089-4677-85bb-2276e5cddd63,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Heinzenbach - Ebene: Hambuch II,http://www.daten.rlp.de/dataset/40c5e160-7f58-4677-a842-f5f73c360cdf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Rohrbach - Ebene: Baugebiet in Flur 1, 11 und 12",http://www.daten.rlp.de/dataset/9b726b1f-b0c3-4f73-b4df-75cce08cdfd8,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -70,6 +70,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Hirschfeld (Hunsrück) - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/8c42f65d-cfba-4e7a-90ca-f63f1d45a4f2,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Niedersohren - Ebene: Im Unart II,http://www.daten.rlp.de/dataset/7f76776c-d126-45ae-a1fc-5cd494243414,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Lautzenhausen - Ebene: Wassergall 1. Änderung,http://www.daten.rlp.de/dataset/a08ab7df-fb7a-4913-b03a-a2a95d1b2862,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Brunkenstein 1. Änderung,http://www.daten.rlp.de/dataset/574ced69-d1a9-4f87-9897-7bb2e68ff5e5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Wahlenau - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/1734bb85-ef15-48d1-a2e3-003b05a9cc40,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Auf dem Erdbüchelchen,http://www.daten.rlp.de/dataset/eab7f2be-6ad1-49ab-9942-5de7d6d67215,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Raversbeuren - Ebene: In den Kirchgärten II,http://www.daten.rlp.de/dataset/2f7a8afc-58de-4d76-8a86-a0916e214cdc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -88,14 +89,12 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Bärenbach - Ebene: Im Heidefeld,http://www.daten.rlp.de/dataset/c3d99947-182a-4ed6-93f3-d3d0a29ee145,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Gemünden - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/ad5833af-627f-4d64-8234-a862bdbcfa4a,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gemünden - Ebene: Kappesflur 1. Änderung,http://www.daten.rlp.de/dataset/172c90be-51fe-43d6-8205-bb225f8d90e4,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Dill - Ebene: Auf Beckersacker 1. Änderung,http://www.daten.rlp.de/dataset/1e1dbc88-18d0-4e30-b87e-3d584e9f8d54,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Maitzborn - Ebene: Im Brühl,http://www.daten.rlp.de/dataset/8f6d7bc3-5c5f-4a32-a3bf-34597374dcea,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Lautzenhausen - Ebene: Unterdorf I,http://www.daten.rlp.de/dataset/e80a87f5-0c63-4536-af77-9fcb5bbebe89,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gemünden - Ebene: Auf Ehren 4. Änderung,http://www.daten.rlp.de/dataset/7aaba3e4-5c39-454b-9072-a6f8e24a1be1,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Bärenbach - Ebene: Umringe der Bebauungspläne von Bärenbach,http://www.daten.rlp.de/dataset/414c535e-0def-452f-8b9e-7067b4da741d,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gemünden - Ebene: Im Bangert 1. Änderung,http://www.daten.rlp.de/dataset/782c215a-c950-4caa-9608-c6e992a54043,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Woppenroth - Ebene: Baugebiet in Flur 3 und 4 (Im Steitz) 1. Änderung,http://www.daten.rlp.de/dataset/bf98b484-94ff-4a79-994d-daeeadc9fbbc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Womrath - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/b06d130c-ae14-4922-903f-36f15d50e723,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Rohrbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/43191524-8b9e-48aa-b2f1-06975212a55c,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Lindenschied - Ebene: Umringe der Bebauungspläne von Lindenschied,http://www.daten.rlp.de/dataset/05dbfa65-3637-443d-94d4-7dc0adfe6e37,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gemünden - Ebene: In den Birken 2. Änderung,http://www.daten.rlp.de/dataset/84fac457-cf17-4591-be3f-d5499416c306,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -110,6 +109,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Niedersohren - Ebene: Perweid / Beim Kohlhauf 1. Änderung,http://www.daten.rlp.de/dataset/725ed614-dc29-43ab-bfdb-0aa7c8769684,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Woppenroth - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/ba54bcf7-02fb-4a91-815c-d4fca66fb1d6,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Heinzenbach - Ebene: Flur 3 u. 5 1. Änderung,http://www.daten.rlp.de/dataset/bfe17628-760d-4073-9817-579339818019,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Brunkenstein,http://www.daten.rlp.de/dataset/c190ca17-7ec5-4b8a-ad72-7946f300a36e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Unzenberg - Ebene: Hambucher Weg 2. Änderung,http://www.daten.rlp.de/dataset/729e7f57-7d68-4522-b2be-a0a690b31290,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Heinzenbach - Ebene: Zwischen den Fallerswegen,http://www.daten.rlp.de/dataset/d71543f2-63e4-48cc-89f2-565d8945ba5a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Henau - Ebene: Umringe der Bebauungspläne von Henau,http://www.daten.rlp.de/dataset/00cc536c-eb86-4ebb-9f25-502cde6ccd0a,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -120,6 +120,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Niedersohren - Ebene: Umringe der Bebauungspläne von Niedersohren,http://www.daten.rlp.de/dataset/05b365a1-0f5a-4607-86d1-a8050d8066b1,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Unzenberg - Ebene: Hambucher Weg,http://www.daten.rlp.de/dataset/fbf47916-339d-4823-b78e-a6d735df529c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Belg - Ebene: Umringe der Bebauungspläne von Belg,http://www.daten.rlp.de/dataset/9bacad4c-1ffc-463a-88fc-d6f835c6f679,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Nieder Kostenz - Ebene: Unter dem Mühlenweg,http://www.daten.rlp.de/dataset/d90aaa39-520a-4619-a447-2be68a51c340,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Kludenbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/4291dd32-f211-4938-94dc-b4840faa2b6c,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Auf dem Erdbüchelchen 1. Änderung,http://www.daten.rlp.de/dataset/eb35069c-6e4e-428a-bda1-cf9a2198b812,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Rödern - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/85e406ac-afd2-4beb-939a-17102a6498be,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -137,8 +138,8 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Niedersohren - Ebene: Jenseits der Bach,http://www.daten.rlp.de/dataset/4b57d82c-6a32-4e21-8978-0cbec188af24,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Sohren - Ebene: Unterst Anspann,http://www.daten.rlp.de/dataset/30fae3a5-463a-4131-a0b9-9e83b742d05e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Dickenschied - Ebene: Umringe der Bebauungspläne von Dickenschied,http://www.daten.rlp.de/dataset/a04de56f-2e65-456f-9819-99ca08cf2cc3,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Henau - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/291fcdb4-c2d0-41ce-a366-f032416a73ff,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Woppenroth - Ebene: Kappesfelder,http://www.daten.rlp.de/dataset/fb8fd267-9b0a-482f-acfc-5ea1177a407a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Woppenroth - Ebene: Umringe der Bebauungspläne von Woppenroth,http://www.daten.rlp.de/dataset/537c773e-dccd-4f8c-b9fe-c45bd14b4cfe,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Lautzenhausen - Ebene: Oberdorf,http://www.daten.rlp.de/dataset/177ad731-aa87-42d3-bf9f-e7674d9d5fac,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Auf der Taubenacht 5. Änderung,http://www.daten.rlp.de/dataset/1ecb35ef-f4f5-43b0-8901-a70d3fb9a862,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Dickenschied - Ebene: Herschgrund,http://www.daten.rlp.de/dataset/846de67e-c1bd-45a2-a33d-d7b1132d3d6e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -175,7 +176,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Auf der Taubenacht 9. Änderung,http://www.daten.rlp.de/dataset/9319fa7c-c00c-44d2-9e53-0db30529f276,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Niederweiler - Ebene: Ergänzungssatzung An der K74,http://www.daten.rlp.de/dataset/6dd3476e-4bbc-4cb4-ba95-920c97662dd4,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Dickenschied - Ebene: An der Mühle,http://www.daten.rlp.de/dataset/e6c76589-6b9b-4ab5-b32c-74121a3df925,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Laufersweiler - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/6cdf0eaf-19b2-4b8b-8d88-be3174d530f5,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Heinzenbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/ca68bef1-294a-4fc7-a5d9-b9239f0823d9,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Gehlweiler - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/da6273ab-d455-4f83-8f3a-fd600394e985,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Kappel - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/08e6ca8b-0fa5-42ee-a6b8-dba983ca414e,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -209,7 +209,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Dickenschied - Ebene: Auf der Länger IV,http://www.daten.rlp.de/dataset/fd499cec-a7ae-47a2-ae91-d9cc279922a0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Unzenberg - Ebene: Hambucher Weg 1. Änderung,http://www.daten.rlp.de/dataset/3ea647c3-ed40-4a6a-939e-c2e4a251b9ae,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Reckershausen - Ebene: Im Brühl,http://www.daten.rlp.de/dataset/b64ae320-a86d-4ce5-827f-3726403ffce5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Büchenbeuren - Ebene: Auf der Taubenacht 2. Änderung,http://www.daten.rlp.de/dataset/8df5b8af-8ae4-4ced-b877-93051f5d2b23,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Womrath - Ebene: Umringe der Bebauungspläne von Womrath,http://www.daten.rlp.de/dataset/7d7d78d3-ee0e-42a1-a78e-37fdd927167a,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Schlierschied - Ebene: Auf der Struth,http://www.daten.rlp.de/dataset/e67a21ac-44a8-44f4-9d19-4632a130aaaa,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gemünden - Ebene: In den Birken 1. Änderung,http://www.daten.rlp.de/dataset/ee782045-4f3d-4270-83e4-79981c82486b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Dill - Ebene: Golfplatz Annahof,http://www.daten.rlp.de/dataset/8e5f9747-3947-41b5-9bb6-9c8d6b586b04,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d

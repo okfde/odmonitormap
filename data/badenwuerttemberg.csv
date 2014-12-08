@@ -1,15 +1,9 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,,,,,,,,,,x,,,Digital Natives,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=38,other-closed,PDF,d
-,,,,,,,,,,,,,x,,,"Erwerbstätigkeitsstruktur, 2002-2009",http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=35,CC BY 3.0 DE,PDF,d
-,,,,,,,,,,,,x,,,,Fahndungsbericht,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=32,other-closed,PDF,d
-,,x,,,,,,,,,,,,,,Flächenerhebung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=65,CC BY 3.0 DE,XLS,d
-,,x,,,,,,,,,,,,,,Flächenerhebung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=66,CC BY 3.0 DE,XLS,d
-,,x,,,,,,,,,,,,,,Flächenerhebung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=70,CC BY 3.0 DE,XLS,d
-,,,,,,,,,,,,x,,,,Korruptionskriminalität,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=31,other-closed,PDF,d
+,x,,,,,,,,,,,,,,,Zweiter Bildungsbericht,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=23,other-closed,PDF,d
+,,,,,x,,,,,,,,,,,Wohngebäude- und Wohnungsbestand,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=56,CC BY 3.0 DE,CSV,d
 ,,,,,x,,,,,,,,,,,Wohngebäude- und Wohnungsbestand,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=57,CC BY 3.0 DE,CSV,d
 ,,,,,x,,,,,,,,,,,Wohngebäude- und Wohnungsbestand,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=58,CC BY 3.0 DE,CSV,d
 ,,,,,,,,,,,,x,,,,Zukunftsinvestitionsprogramm,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=21,other-closed,PDF,d
-,x,,,,,,,,,,,,,,,Zweiter Bildungsbericht,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=23,other-closed,PDF,d
 ,,,,,,,,,,,,x,,,,Abgeordnete im 15. Landtag,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=28,other-closed,CSV,d
 ,,,,,,,,,,,,,x,,,Agrarstrukturdaten,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=37,other-closed,XLS,d
 ,,,,,,,,,,,,,x,,,Akademikeranteil an den Beschäftigten,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=36,CC BY 3.0 DE,HTML,d
@@ -24,11 +18,17 @@ x,,,,,,,,,,,,,,,,Bevölkerung,http://opendata.service-bw.de/Seiten/offenedatende
 x,,,,,,,,,,,,,,,,Bevölkerung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=52,CC BY 3.0 DE,CSV,d
 x,,,,,,,,,,,,,,,,Bevölkerung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=53,CC BY 3.0 DE,CSV,d
 x,,,,,,,,,,,,,,,,Bevölkerung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=54,CC BY 3.0 DE,CSV,d
+,,,,,,,,,,,,,x,,,Digital Natives,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=38,other-closed,PDF,d
+,,,,,,,,,,,,,x,,,"Erwerbstätigkeitsstruktur, 2002-2009",http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=35,CC BY 3.0 DE,PDF,d
+,,,,,,,,,,,,x,,,,Fahndungsbericht,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=32,other-closed,PDF,d
+,,x,,,,,,,,,,,,,,Flächenerhebung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=65,CC BY 3.0 DE,XLS,d
 ,,x,,,,,,,,,,,,,,Flächenerhebung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=69,CC BY 3.0 DE,XLS,d
 ,,x,,,,,,,,,,,,,,Flächenerhebung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=64,CC BY 3.0 DE,XLS,d
 ,,x,,,,,,,,,,,,,,Flächenerhebung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=68,CC BY 3.0 DE,XLS,d
 ,,x,,,,,,,,,,,,,,Flächenerhebung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=63,CC BY 3.0 DE,XLS,d
 ,,x,,,,,,,,,,,,,,Flächenerhebung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=67,CC BY 3.0 DE,XLS,d
+,,x,,,,,,,,,,,,,,Flächenerhebung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=66,CC BY 3.0 DE,XLS,d
+,,x,,,,,,,,,,,,,,Flächenerhebung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=70,CC BY 3.0 DE,XLS,d
 ,,,,,,,,,,x,,,,,,Funkwellen-Messprojekt 2009,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=85,CC BY-NC-SA 3.0 DE,XLS,d
 ,,,,,,,,,,,,x,,,,Gemeinden und ihre Einnahmen,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=20,other-closed,PDF,d
 ,x,,,,,,,,,,,,,,,"Gymnasium-Zeugnisnoten G8/G9, 1. Halbjahr, Schuljahr 2010/2011",http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=24,other-closed,PDF,d
@@ -56,6 +56,7 @@ x,,,,,,,,,,,,,,,,Bevölkerung,http://opendata.service-bw.de/Seiten/offenedatende
 ,,,,,x,,,,,,,,,,,Kaufwerte für Bauland,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=61,CC BY 3.0 DE,CSV,d
 ,,,,,x,,,,,,,,,,,Kaufwerte für Bauland,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=62,CC BY 3.0 DE,CSV,d
 x,,,,,,,,,,,,,,,,Kindertagesbetreuung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=76,CC BY 3.0 DE,CSV,d
+,,,,,,,,,,,,x,,,,Korruptionskriminalität,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=31,other-closed,PDF,d
 ,,,,,,,,,,,,x,,,,Kreiswahlleiterinnen und -leiter zur Landtagswahl,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=15,other-closed,PDF,d
 ,,x,,,,,,,,,,,,,,Maps4BW,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=86,CC BY 3.0 DE,,d
 x,,,,,,,,,,,,,,,,Personal in Tageseinrichtungen,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=77,CC BY 3.0 DE,CSV,d
@@ -77,4 +78,3 @@ x,,,,,,,,,,,,,,,,Tageseinrichtungen für Kinder,http://opendata.service-bw.de/Se
 ,,,,,,,,,x,,,,,,,Verkehrsmonitoring Kreisstraßen,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=19,other-closed,PDF,d
 ,,,,,,,,,x,,,,,,,Verkehrsmonitoring Landesstraßen,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=18,other-closed,PDF,d
 ,,,,,x,,,,,,,,,,,Wohngebäude- und Wohnungsbestand,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=55,CC BY 3.0 DE,CSV,d
-,,,,,x,,,,,,,,,,,Wohngebäude- und Wohnungsbestand,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=56,CC BY 3.0 DE,CSV,d

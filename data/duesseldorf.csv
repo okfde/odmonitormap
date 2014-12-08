@@ -6,8 +6,9 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,,,,,,x,,,,,,,,,Gesamte Wahlergebniss,http://www.duesseldorf.de/wahlen/download/bw09_endergebnis_gesamt.xls,nicht bekannt,XLS,b
 ,,x,,,x,,,,,,,,,,,Friedhof Hassels,http://www.duesseldorf.de/stadtgruen/friedhof/hassels.shtml,nicht bekannt,KMZ,b
 ,,x,,,x,,,,,,,,,,,Elbroichpark,http://www.duesseldorf.de/stadtgruen/park/elbroichpark.shtml,nicht bekannt,KMZ,b
-,,x,,,x,,,,,,,,,,,3D-Stadtmodell,http://www.duesseldorf.de/umweltamt/download/abfall/container_google.kmz,nicht bekannt,KML,b
 ,,,,,,,x,,,,,,,,,Gewählte Bewerber in den Stadtbezirken,http://www.duesseldorf.de/wahlen/download/kw09_amtl_erg_in_stadtbez_bewerber.xls,nicht bekannt,XLS,b
+,,x,,,x,,,,,,,,,,,3D-Stadtmodell,http://www.duesseldorf.de/umweltamt/download/abfall/container_google.kmz,nicht bekannt,KML,b
+,,,,,,,x,,,,,,,,,Direkt in den Rat gewählte Bewerber,https://www.duesseldorf.de/wahlen/download/kw09_amtl_erg_in_rat_bewerber.xls,nicht bekannt,XLS,g
 ,,,,,,,x,,,,,,,,,Endgültige Ergebnisse der Bundestagswahl in Düsseldorf am 22. September 2013 - Zweitstimmen,http://www.duesseldorf.de/wahlen/download/bw_2013_stadtteile_zweitstimmen.xls,nicht bekannt,XLS,b
 ,,x,,,x,,,,,,,,,,,Nordpark,http://www.duesseldorf.de/stadtgruen/park/nordpark/index.shtml,nicht bekannt,KMZ,b
 ,,x,,,x,,,,,,,,,,,Friedhof Heerdt,http://www.duesseldorf.de/stadtgruen/friedhof/heerdt.shtml,nicht bekannt,KMZ,b
@@ -27,7 +28,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,,,,,,x,,,,,,,,,Bezirksvertreterwahl 2009,http://www.duesseldorf.de/wahlen/download/kw09_amtl_erg_bv.xls,nicht bekannt,XLS,b
 x,,,,,,,x,,,,,,,,,Wahlstimmen nach Stimmbezirken,http://www.duesseldorf.de/lw2012/download/zweitstimme_gesamtstadt.csv,nicht bekannt,CSV,b
 ,,x,,,x,,,,,,,,,,,Schlosspark Benrath,http://www.duesseldorf.de/stadtgruen/park/schlosspark_benrath/index.shtml,nicht bekannt,KMZ,b
-,,,,,,,x,,,,,,,,,Direkt in den Rat gewählte Bewerber,https://www.duesseldorf.de/wahlen/download/kw09_amtl_erg_in_rat_bewerber.xls,nicht bekannt,XLS,g
 ,,,,,,x,,,,,,,,,,Heinrich Heine Gesamtschule Jahresterminplan 2010-11,http://schulen.duesseldorf.de/ge-grafreckestr/pics_hhg/Terminplan_2010-11_Vers._10_08_30.xls,nicht bekannt,XLS,g
 ,,x,,,x,,,,,,,,,,,Rheinpark Golzheim,http://www.duesseldorf.de/stadtgruen/park/rheinpark_golzheim/index.shtml,nicht bekannt,KMZ,b
 ,,x,,,x,,,,,,,,,,,Routenverlauf 2,http://www.duesseldorf.de/verkehrsmanagement/google_earth/routenverlauf2.kmz,nicht bekannt,KMZ,b
