@@ -1,12 +1,12 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+,,x,,,,,,,,,,,,,,Flächenerhebung Regierungsbezirk Stuttgart,https://www.govdata.de/daten/-/details/c755bb29-ac72-4b46-8150-7e85bbf08f85,nicht bekannt,"XLS,PDF",d
 ,,,,,,,x,,,,,,,,,Ergebnisse der Regionalwahlen in Stuttgart seit 1994,https://service.stuttgart.de/lhs-services/komunis/index.php?uid=99&objectid=18873,nicht bekannt,XLS,m
 ,,,,,,x,,,,,,,,,,,http://service.stuttgart.de/lhs-services/komunis/documents/953_1_Messen_und_Ausstellungen.XLS,nicht bekannt,XLS,b
+,x,,,,,,,,,,,,,,,Übergänge aus Klassenstufe 4 auf weiterführende Schulen in Stuttgart seit 1989 - Stadt Stuttgart,http://stuttgart.de/item/show/305805/1/publ/13620,nicht bekannt,XLS,c
 ,,,,,,x,,,,,,,,,,Besucher der Mineralbäder seit 1980 - Stadt Stuttgart,http://www.stuttgart.de/item/show/305805/1/publ/13769,nicht bekannt,XLS,c
-,,x,,,,,,,,,,,,,,Flächenerhebung Regierungsbezirk Stuttgart,https://www.govdata.de/daten/-/details/c755bb29-ac72-4b46-8150-7e85bbf08f85,nicht bekannt,"XLS,PDF",d
 ,,x,,,x,,,,,,,,,,,Straßennetz in Stuttgart seit 1980 nach Art und Länge - Stadt Stuttgart,http://stuttgart.de/item/show/305805/1/publ/13690,nicht bekannt,XLS,c
 ,,,,,,x,,,,,,x,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDRedSystem.nsf/3773c106d8cc9a76c1256ad900302205/8ebf58bb240e68b0c1257968006341c7/$FILE/ATTM3R0G.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,x,,,Arbeitslose und gemeldete Stellen in Stuttgart seit 1980  - Eckdaten der Arbeitsmarktstatistik - Monatsdaten u. Jahresdurchschnitt - Stadt Stuttgart,http://www.stuttgart.de/item/show/143890/1/publ/13699,nicht bekannt,XLS,c
-,x,,,,,,,,,,,,,,,Übergänge aus Klassenstufe 4 auf weiterführende Schulen in Stuttgart seit 1989 - Stadt Stuttgart,http://stuttgart.de/item/show/305805/1/publ/13620,nicht bekannt,XLS,c
 ,,,,,,,,,,,,,x,x,,,http://www.domino1.stuttgart.de/web/ksd/KSDRedSystem.nsf/3773c106d8cc9a76c1256ad900302205/67187540e1e3ff92c1257ab600630aa8/$FILE/Anl%204_Streichungen.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,x,,x,,,http://www.domino1.stuttgart.de/grat/cdu.nsf/520dd28abcee19ad41256717006476ce/412567210029d4cbc1256bf10034be14/$FILE/150%202002%20Anh%202.xls,nicht bekannt,XLS,g
 x,,,,,,,,,,,,,,,,"Haushalte, Familien mit Kindern in Stuttgart seit 1992 nach der Zahl der Kinder - Stadt Stuttgart",http://www.stuttgart.de/item/show/305805/1/publ/13811,nicht bekannt,XLS,c
@@ -25,15 +25,17 @@ x,,,,,,,,,,,,,,,,Einwohnerbilanz in Stuttgart seit 2007 nach Stadtbezirken - Sta
 x,,,,,,,,,,,,,,,,Altersquotienten in Stuttgart seit 1986 - Stadt Stuttgart,http://www.stuttgart.de/item/show/305805/1/publ/13568,nicht bekannt,XLS,c
 x,,,,,,,,,,,,,,,,,http://service.stuttgart.de/lhs-services/komunis/documents/794_1.XLS,nicht bekannt,XLS,b
 x,,,,,,,,,,,,,,,,Einäscherungen und Bestattungen durch das Garten- und Friedhofsamt in Stuttgart seit 1980 - Stadt Stuttgart,http://stuttgart.de/item/show/305805/1/publ/13534,nicht bekannt,XLS,c
+,,,,,x,,,,,,x,,,,,,http://www.domino1.stuttgart.de/web/ksd/ksdredsystem.nsf/72557906d85ac74c412569e5005d382f/fec2870317ed8a57c12577eb004d058a/$FILE/Anlage%207%20Geb%C3%BChrenvergleich.xls,nicht bekannt,XLS,g
 ,,x,,,x,,,,,,,,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/4bfa74b97857fe65c1257a2c0047a3a5/$FILE/120611_Anlage%201.xls,nicht bekannt,XLS,g
 x,,,,,,,,,,,,,,,,Einwohner in Stuttgart seit 1986 nach Religionszugehörigkeit - Stadt Stuttgart,http://www.stuttgart.de/item/show/143890/1/publ/13720,nicht bekannt,XLS,c
-,,,,,x,,,,,,x,,,,,,http://www.domino1.stuttgart.de/web/ksd/ksdredsystem.nsf/72557906d85ac74c412569e5005d382f/fec2870317ed8a57c12577eb004d058a/$FILE/Anlage%207%20Geb%C3%BChrenvergleich.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,,,,,,,,"http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/550bbbc858e3c8c9c1257aa200318617/$FILE/Jahresabschluss%202011,%20Anlage%207a.xls",nicht bekannt,XLS,g
 ,,,,,,,,,,x,,,,,,Grafiken-Klimaelemente-1951-1980,"http://www.stadtklima-stuttgart.de/index.php?id=992,127,0,0,1,0",nicht bekannt,XLS,m
 ,,,,,,,,,,,,,,x,,,http://www.domino1.stuttgart.de/web/ksd/ksdarchiv.nsf/9d028a5982ae6885c12571df0041ba4a/ba277ef5f26dfe0cc125765d0032be7a/$FILE/F%C3%BChrungskr%C3%A4fte%20gesamt%20zum%2031-12-2005%20Anlage1.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,,,Beherbergungsgewerbe im Großstadtvergleich seit 1997 - Stadt Stuttgart,http://stuttgart.de/item/show/305805/1/publ/13441,nicht bekannt,XLS,c
-,,,,,,,,,,,,x,x,,,,http://www.domino1.stuttgart.de/web/ksd/KSDRedSystem.nsf/dc5e48bde54b0b2941256a6f0036f408/66e245dd53b05bb4c1257966003715f4/$FILE/Anlage%205_Seite%203.xls,nicht bekannt,XLS,g
 x,,,,,,,,,,,,,,,,Natürliche Bevölkerungsbewegung in Stuttgart seit 1950 - Stadt Stuttgart,http://www.stuttgart.de/item/show/305805/1/publ/13723,nicht bekannt,XLS,c
+,,,,,,,x,,,,,,,,,Gewählte Stuttgarter Abgeordnete für den Landtag von Baden-Württemberg seit 1952 - Stadt Stuttgart,http://stuttgart.de/item/show/305805/1/publ/13516,nicht bekannt,XLS,c
+,,,,,x,,,,,,,,,,,,"http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/550bbbc858e3c8c9c1257aa200318617/$FILE/Jahresabschluss%202011,%20Anlage%207a.xls",nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/3773c106d8cc9a76c1256ad900302205/36c36dd4177ff14ac125796800633ff7/$FILE/Mittelverwendung%20Budget%20Bezirksbeir%C3%A4te%202010.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,x,,,,http://www.domino1.stuttgart.de/web/ksd/KSDRedSystem.nsf/dc5e48bde54b0b2941256a6f0036f408/66e245dd53b05bb4c1257966003715f4/$FILE/Anlage%205_Seite%203.xls,nicht bekannt,XLS,g
 x,,,,,,,,,,,,,,,,"Fortgeschriebene Einwohnerzahlen in Stuttgart 2012 nach Geschlecht, Staatsangehörigkeit, Veränderungen zum Monat des Vorjahres und Stadtbezirken  - Monatsdaten - Stadt Stuttgart",http://www.stuttgart.de/item/show/305805/1/publ/20704,nicht bekannt,XLS,c
 ,,,,,,x,,,,,,,,,,Museen und museumsähnliche Einrichtungen in Stuttgart seit 1980 - Stadt Stuttgart,http://stuttgart.de/item/show/148492/1/publ/13734,nicht bekannt,XLS,c
 ,,,,,x,,,,,,,x,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/c9a43caf7b53f50bc125792f0031944e/$FILE/AWS%20Jahresprg.%20f%C3%BCr%202012_2013.xls,nicht bekannt,XLS,g
@@ -45,7 +47,6 @@ x,,,,,,,,,,,,,,,,Einwohner in Stuttgart seit 2006 nach Migrationshintergrund und
 ,,,,,,,x,,,,,,,,,Vergangene Landtagswahlen - Stadt Stuttgart,http://stuttgart.de/item/show/133894,nicht bekannt,XLS,c
 ,,x,,,x,,,,,,,,,,,"Bestand an Wohnungen in Wohn-, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1980 nach Anzahl der Wohnräume (Wohnungsgröße) - Stadt Stuttgart",http://www.stuttgart.de/item/show/305805/1/publ/13664,nicht bekannt,XLS,c
 ,,x,,,x,,,x,,,,,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDRedSystem.nsf/3773c106d8cc9a76c1256ad900302205/3484d94490037523c1257a8b00317f9b/$FILE/Anlage%205_zu%20GRDrs%20672_2012.xls,nicht bekannt,XLS,b
-,,,,,,,x,,,,,,,,,Gewählte Stuttgarter Abgeordnete für den Landtag von Baden-Württemberg seit 1952 - Stadt Stuttgart,http://stuttgart.de/item/show/305805/1/publ/13516,nicht bekannt,XLS,c
 ,x,,,,,,,,,,,,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/8865b00afe761af8c1257a830047a820/$FILE/Anlage%202%20zu%20GRDrs%20583-2012.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDRedsystem.nsf/72557906d85ac74c412569e5005d382f/e397957dbc165f60c12578cc0047affc/$FILE/Anlage%202%20zur%20GRDrs%20549-2011.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,x,,,,,http://www.domino1.stuttgart.de/web/ksd/ksdredsystem.nsf/72557906d85ac74c412569e5005d382f/6ed385591355ccd1c12577f400370c8a/$FILE/Anlage%202%20B%C3%BCrgerhaus%20M%C3%B6hringen.xls,nicht bekannt,XLS,g
@@ -90,7 +91,7 @@ x,,,,,,,,,,,,,,,,Einwohnerbilanz in Stuttgart seit 1950 - Stadt Stuttgart,http:/
 ,x,,,,,x,,,,,,,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDRedSystem.nsf/3773c106d8cc9a76c1256ad900302205/6c3abbbed9fd20dfc125793600478d40/$FILE/Anlage%204%20GRDrs%20743%20KZ%20Fr%C3%BChjahr%20Sommer%202011.xls,nicht bekannt,XLS,g
 ,,,,,,,,x,,,,,,,,Regelleistungsempfänger nach dem Asylbewerberleistungsgesetz in Stuttgart seit 1994 nach ausgewählten Merkmalen - Stadt Stuttgart,http://www.stuttgart.de/item/show/143890/1/publ/13779,nicht bekannt,XLS,c
 ,x,,,,,x,,,,,,,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDRedSystem.nsf/72557906d85ac74c412569e5005d382f/773eb1bea51437dcc12576ef0062fe85/$FILE/Anlage%204%20Geb%C3%BChrenordnung%20Musikschule%20ab%201.%20August%202010.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/3773c106d8cc9a76c1256ad900302205/36c36dd4177ff14ac125796800633ff7/$FILE/Mittelverwendung%20Budget%20Bezirksbeir%C3%A4te%202010.xls,nicht bekannt,XLS,g
+,,,x,,,,,,,,,,,x,,,http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/0136789018a64377c1257a8500478f27/$FILE/ATT8048Z.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,x,x,,,,http://www.domino1.stuttgart.de/web/ksd/ksdredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/f4ae8d46f41142b1c12577dc00370c5e/$FILE/Anlage%202%20zur%20GRDrs%20750%20(Verl%C3%A4ngerung%20Vermerke).xls,nicht bekannt,XLS,g
 ,,,,,,,x,,,,,x,,,,,http://service.stuttgart.de/lhs-services/komunis/documents/977_1.XLS,nicht bekannt,XLS,b
 ,x,,,,,,x,,,,,,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDRedSystem.nsf/3773c106d8cc9a76c1256ad900302205/eefdfffff08a5654c12579680063395f/$FILE/%C3%9CbersichtAntr%C3%A4geAusbauSchulsozialarbeit.xls,nicht bekannt,XLS,g
@@ -113,6 +114,7 @@ x,,,,,,,,,,,,,,,,Haushalte in Stuttgart seit 1992 nach der Zahl der Personen - S
 ,,,,,x,,,,,,,,,,,"Strom-, Erdgas- und Wasserpreise in Stuttgart seit 1980 - Stadt Stuttgart",http://www.stuttgart.de/item/show/305805/1/publ/13754,nicht bekannt,XLS,c
 ,,,,,,,,,,,,,x,,,Arbeitslose in Stuttgart seit 1980 nach Geschlecht und Altersgruppen - Stadt Stuttgart,http://www.stuttgart.de/item/show/143890/1/publ/13650,nicht bekannt,XLS,c
 ,,,,,,,,x,,,,,,,,Empfänger von Regelleistungen nach dem Asylbewerberleistungsgesetz im regionalen Vergleich seit 1996 - Stadt Stuttgart,http://stuttgart.de/item/show/305805/1/publ/16466,nicht bekannt,XLS,c
+,,,,,,x,,,,,,,,,,Mitglieder Stuttgarter Sportvereine seit 1995 nach Sportarten und ausgewählten Altersgruppen - Stadt Stuttgart,http://www.stuttgart.de/item/show/305805/1/publ/13536,nicht bekannt,XLS,c
 ,,,,,,,,,,,,,x,,,Arbeitslose in Stuttgart seit 1980 nach ausgewählten Herkunftsländern - Stadt Stuttgart,http://www.stuttgart.de/item/show/143890/1/publ/13649,nicht bekannt,XLS,c
 ,,,,,,,,,,,,,x,,,Verarbeitendes Gewerbe und Bauhauptgewerbe im Großstadtvergleich seit 1997 - Stadt Stuttgart,http://www.stuttgart.de/item/show/305805/1/publ/13458,nicht bekannt,XLS,c
 ,,x,,,x,,,,,,,,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDRedSystem.nsf/72557906d85ac74c412569e5005d382f/2f61028f739383d5c125789c0031a00d/$FILE/110415%20Baubeschreibung%20M%C3%BChlbachhof_BA%20ge%C3%A4ndert.xls,nicht bekannt,XLS,g
@@ -146,7 +148,6 @@ x,,,,,,,,,,,,,,,,Schwerbehinderte Menschen in Stuttgart seit 1986 nach der Ursac
 ,,,,,,,,,,,,,,x,,,http://www.domino1.stuttgart.de/web/ksd/ksdarchiv.nsf/9d028a5982ae6885c12571df0041ba4a/f97a3fff23b09d47c125765d0032be3d/$FILE/Befristete%20AV%20%C3%9Cbersicht.xls,nicht bekannt,XLS,g
 ,,x,,,x,,,,,,,,,,,"Baufertigstellungen von Wohnungen in neu errichteten Wohngebäuden, Nichtwohngebäuden und Wohnheimen in Stuttgart seit 1995 nach Stadtbezirken - Stadt Stuttgart",http://stuttgart.de/item/show/305805/1/publ/13460,nicht bekannt,XLS,c
 x,,,,,,,,,,,,,,,,Bevölkerungsbestand und Bevölkerungsbewegungen der ausländischen Bevölkerung in ausgewählten Großstädten seit 1995 (Amtliche Bevölkerungsfortschreibung) - Stadt Stuttgart,http://stuttgart.de/item/show/305805/1/publ/13354,nicht bekannt,XLS,c
-,,,x,,,,,,,,,,,x,,,http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/0136789018a64377c1257a8500478f27/$FILE/ATT8048Z.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,x,,x,,,"http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/a79a0bb75f70a731c12577bb004795d3/$FILE/Jahresabschluss%202009,%20Anlage%203.xls",nicht bekannt,XLS,g
 ,,,,,x,,,,,,,x,,,,,"http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/a79a0bb75f70a731c12577bb004795d3/$FILE/Jahresabschluss%202009,%20Anlage%206.xls",nicht bekannt,XLS,g
 ,,,,,,,,,,,,x,x,,,,http://www.domino1.stuttgart.de/web/ksd/ksdredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/e55aeec01e58b4b1c12577f10062fe91/$FILE/Anlage%201a%20zur%20GRDrs%20750%20Erg%C3%A4nzung%20(Schaffungen).xls,nicht bekannt,XLS,g
@@ -223,7 +224,6 @@ x,,,,,,,,,,,,,,,,Einwohner in Stuttgart seit 1986 nach Staatsangehörigkeit und 
 ,,x,,,x,,,,,,,,x,,,,http://service.stuttgart.de/lhs-services/komunis/documents/236_1.XLS,nicht bekannt,XLS,b
 ,,x,,,x,,,,x,,,,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/90c763081a2a9b56c12577f3004d05bb/$FILE/Investitionsfolgekosten_Querspange.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,x,x,,,,http://www.domino1.stuttgart.de/web/ksd/ksdredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/f4ae8d46f41142b1c12577dc00370c5e/$FILE/Anlage%204%20zur%20GRDrs%20750%20(Streichungen).xls,nicht bekannt,XLS,g
-,,,,,,x,,,,,,,,,,Mitglieder Stuttgarter Sportvereine seit 1995 nach Sportarten und ausgewählten Altersgruppen - Stadt Stuttgart,http://www.stuttgart.de/item/show/305805/1/publ/13536,nicht bekannt,XLS,c
 x,,,,,,,,,,,,,,,,Haushalte in Stuttgart seit 1992 nach der Zahl der Personen und Stadtbezirken - Stadt Stuttgart,http://www.stuttgart.de/item/show/143890/1/publ/13480,nicht bekannt,XLS,c
 x,,,,,,,,,,,,,,,,Geburten und Sterbefälle seit 1996 nach Staatsangehörigkeit - Monatsdaten - Stadt Stuttgart,http://www.stuttgart.de/item/show/305805/1/publ/13527,nicht bekannt,XLS,c
 ,x,,,,,,,,,,,,,,,Kurse und Einzelveranstaltungen an der Volkshochschule Stuttgart seit 1996 nach Programmbereichen und Fachgebieten - Stadt Stuttgart,http://www.stuttgart.de/item/show/305805/1/publ/13521,nicht bekannt,XLS,c
@@ -245,14 +245,14 @@ x,,,,,,,,,,,,,,,,Eheschließungen in Stuttgart seit 1980 nach Staatsangehörigke
 ,,x,,,x,,,,,,,,,,,Baufertigstellungen neu errichteter Wohngebäude nach Anzahl der Wohnungen und Wohnheime (Gebäudegröße) in Stuttgart seit 1980 - Stadt Stuttgart,http://stuttgart.de/item/show/305805/1/publ/13665,nicht bekannt,XLS,c
 ,,x,,,x,,,,,,,,,x,,,http://www.domino1.stuttgart.de/web/ksd/KSDRedSystem.nsf/72557906d85ac74c412569e5005d382f/33808b5425d1a2b9c1257a1400478c4a/$FILE/120525_Angebotswertung_Anlage-1.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,x,x,,,,"http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/550bbbc858e3c8c9c1257aa200318617/$FILE/Jahresabschluss%202011,%20Anlage%205a.xls",nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/5495bc01fb6d5152c12579fb00478518/$FILE/304_2012_Anlage.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,,x,,,Arbeitslosigkeit im Großstadtvergleich seit 1992 - Stadt Stuttgart,http://www.stuttgart.de/item/show/143890/1/publ/13455,nicht bekannt,XLS,c
-,,,,,,,,,,x,,,,,,Feinstaubbelastungen in Stuttgart an Silvester 1998 - 2008,http://www.stadtklima-stuttgart.de/index.php?luft_service_download,nicht bekannt,XLS,m
 x,,,,,,,,,,,,,,,,Bevölkerung nach Altersgruppen der ausländischen Bevölkerung in ausgewählten Großstädten seit 1995 (Amtliche Bevölkerungsfortschreibung) - Stadt Stuttgart,http://www.stuttgart.de/item/show/305805/1/publ/13356,nicht bekannt,XLS,c
 ,,,,,,,,,,,,,x,,,Sozialversicherungspflichtig Beschäftigte am Arbeitsort in ausgewählten Großstädten seit 1995 - Stadt Stuttgart,http://www.stuttgart.de/item/show/305805/1/publ/13379,nicht bekannt,XLS,c
 ,,,,,x,,,,,,,,,,,Aufkommen an Wertstoffen und Grün- und Bioabfällen in Stuttgart seit 1990 - Stadt Stuttgart,http://www.stuttgart.de/item/show/143890/1/publ/15969,nicht bekannt,XLS,c
 x,,,,,,,,,,,,,,,,Schwerbehinderte Menschen in Stuttgart seit 1981 nach dem Grad der Behinderung - Stadt Stuttgart,http://stuttgart.de/item/show/305805/1/publ/13686,nicht bekannt,XLS,c
 ,,,,,,,,,,,,x,,,,Realsteueraufkommen und Steuereinnahmen im Haushalt der Landeshauptstadt Stuttgart seit 1980 - Stadt Stuttgart,http://www.stuttgart.de/item/show/182252/1/publ/13757,nicht bekannt,XLS,c
+,,,,,,,,,,,,x,,,,,http://www.domino1.stuttgart.de/web/ksd/KSDredsystem.nsf/dc5e48bde54b0b2941256a6f0036f408/5495bc01fb6d5152c12579fb00478518/$FILE/304_2012_Anlage.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,,x,,,Arbeitslosigkeit im Großstadtvergleich seit 1992 - Stadt Stuttgart,http://www.stuttgart.de/item/show/143890/1/publ/13455,nicht bekannt,XLS,c
+,,,,,,,,,,x,,,,,,Feinstaubbelastungen in Stuttgart an Silvester 1998 - 2008,http://www.stadtklima-stuttgart.de/index.php?luft_service_download,nicht bekannt,XLS,m
 ,x,,,,,,,,,,,,,,,"Zuschüsse, Eigeneinnahmen und Ausgaben der Volkshochschule Stuttgart seit 1980 - Stadt Stuttgart",http://stuttgart.de/item/show/305805/1/publ/13541,nicht bekannt,XLS,c
 ,x,,,,,,,,,,,,,,,"Belegungen, Kurse und Dozenten an der Volkshochschule Stuttgart seit 1950 - Stadt Stuttgart",http://www.stuttgart.de/item/show/305805/1/publ/13632,nicht bekannt,XLS,c
 ,,,,,,,,,,,,,x,,,Arbeitslosigkeit im regionalen Vergleich seit 1997 - Stadt Stuttgart,http://www.stuttgart.de/item/show/143890/1/publ/13444,nicht bekannt,XLS,c
