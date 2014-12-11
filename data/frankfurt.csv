@@ -1,31 +1,31 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,,x,,,,x,,,,,,,Stadtgebiet Fläche,http://www.offenedaten.frankfurt.de/dataset/stadtgebietflaeche,dl-de-by-1.0,"PDF,JSON,TXT,XLS,CSV",d
-,,,,,,,,,,,,,x,,,Beschäftigte,http://www.offenedaten.frankfurt.de/dataset/wirtschaft,dl-de-by-1.0,"PDF,JSON,XLS",d
-x,,,,,,,,,,,,,,,,Bevölkerungsbewegungen Stadtteile,http://www.offenedaten.frankfurt.de/dataset/bevoelkerungsbewegung,dl-de-by-1.0,"PDF,JSON,TXT,XLS,CSV",d
-,,,,,x,,,,,,,,,,,Wohnumfeld - Öffentlicher Raum,http://www.offenedaten.frankfurt.de/dataset/bauen-wohnen,dl-de-by-1.0,"PDF,JSON,XLS",d
-,,,,,,,x,,,,,,,,,Stadtverordnetenwahl,http://www.offenedaten.frankfurt.de/dataset/wahlen,dl-de-by-1.0,"PDF,JSON,XLS",d
-,,,,,,,,,,,,,,,x,WMS Luftbild 2012,http://www.offenedaten.frankfurt.de/dataset/wms-luftbild-2012,dl-de-by-1.0,LINK,d
-,,,,,,,,,,,,,,,x,Haushalte in Stadtteilen,http://www.offenedaten.frankfurt.de/dataset/haushalte,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,x,,,,x,,,,,x,,,Ärztedichte und Sozialleistungen,http://www.offenedaten.frankfurt.de/dataset/gesundheit-soziales,dl-de-by-1.0,"PDF,JSON,XLS",d
+,,,,,x,,,,x,,,,,,,Stadtgebiet Fläche,http://www.offenedaten.frankfurt.de/dataset/stadtgebietflaeche,dl-de-by-1.0,"PDF,JSON,TXT,XLS,CSV",d
+,,,,,,,x,,,,,,,,,Bundestagswahlen,http://www.offenedaten.frankfurt.de/dataset/bundestagswahlen,dl-de-by-1.0,"PDF,JSON,XLS",d
+x,,,,,,,,,,,,,x,,,Arbeitsmarkt,http://www.offenedaten.frankfurt.de/dataset/arbeitsmarkt,dl-de-by-1.0,"PDF,JSON,XLS",d
+x,,,,,,,,,,,,,,,,Bevölkerungsstruktur,http://www.offenedaten.frankfurt.de/dataset/bevoelkerung,dl-de-by-1.0,"PDF,JSON,TXT,XLS,CSV",d
+,,,,,x,,,,,,,,,,,Bauen und Wohnen,http://www.offenedaten.frankfurt.de/dataset/stadtteilprofile-bauen-wohnen,dl-de-by-1.0,"PDF,JSON,XLS",d
+,,,,,,,,,,,,,x,,,Beschäftigte,http://www.offenedaten.frankfurt.de/dataset/wirtschaft,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,,,x,,,,,,,,Kindertageseinrichtungen,http://www.offenedaten.frankfurt.de/dataset/bildung,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,,,,,,,x,,,,Steuereinnahmen und Schuldenstand,http://www.offenedaten.frankfurt.de/dataset/offentliche-finanzen,dl-de-by-1.0,"PDF,JSON,XLS",d
+x,,,,,,,,,,,,,,,,Bevölkerungsbewegungen Stadtteile,http://www.offenedaten.frankfurt.de/dataset/bevoelkerungsbewegung,dl-de-by-1.0,"PDF,JSON,TXT,XLS,CSV",d
+,,,,,x,,,,,,,,,,,Wohnumfeld - Öffentlicher Raum,http://www.offenedaten.frankfurt.de/dataset/bauen-wohnen,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,,x,,,,,,,,,Kommunalwahlen Hessen,http://www.offenedaten.frankfurt.de/dataset/kommunalwahlen,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,x,,,,,,,,,,,,,,Hauskoordinaten der Stadtgrundkarte Frankfurt,http://www.offenedaten.frankfurt.de/dataset/hauskoordinaten-franfurt,dl-de-by-1.0,"PDF,TXT,CSV",d
 ,,,,,,,,,,,,,,,x,WMS Stadtkarten 2012 (farbig),http://www.offenedaten.frankfurt.de/dataset/wms-stadtkarten-2012-farbig,dl-de-by-1.0,LINK,d
 ,,,,,,,,,,,,,x,,,Arbeitsmarkt Wirtschaft,http://www.offenedaten.frankfurt.de/dataset/arbeitsmarkt-wirtschaft,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,,,,,,,,,,x,Arbeitsmarkt,http://www.offenedaten.frankfurt.de/dataset/rheinmain-arbeitsmarkt,dl-de-by-1.0,"PDF,JSON,XLS",d
-,,,,,,,x,,,,,,,,,Bundestagswahlen,http://www.offenedaten.frankfurt.de/dataset/bundestagswahlen,dl-de-by-1.0,"PDF,JSON,XLS",d
-x,,,,,,,,,,,,,x,,,Arbeitsmarkt,http://www.offenedaten.frankfurt.de/dataset/arbeitsmarkt,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,x,,,,,,,,,,,,,,,Bildungswege,http://www.offenedaten.frankfurt.de/dataset/bil,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,,,,,,,,,,x,Wohnfläche,http://www.offenedaten.frankfurt.de/dataset/wohnen,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,x,,,,x,,,,,x,,,Niedergelassene Kassenärzte,http://www.offenedaten.frankfurt.de/dataset/gesundheit,dl-de-by-1.0,"PDF,JSON,XLS",d
 x,,,,,,,,,,,,,,,,Bevölkerung Region Rhein Main,http://www.offenedaten.frankfurt.de/dataset/rheinmain-bevolkerung,dl-de-by-1.0,"PDF,JSON,XLS",d
-x,,,,,,,,,,,,,,,,Bevölkerungsstruktur,http://www.offenedaten.frankfurt.de/dataset/bevoelkerung,dl-de-by-1.0,"PDF,JSON,TXT,XLS,CSV",d
 x,,,,,,,,,,,,,,,,Vornamensstatistik von 2000 bis 2014,http://www.offenedaten.frankfurt.de/dataset/vornamensstatistik-von-2000-bis-2014,dl-de-by-1.0,"PDF,XLS",d
 ,,,,,,,,,,,,,,,x,Sozialleistungen und Grundsicherung,http://www.offenedaten.frankfurt.de/dataset/soziales,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,,,x,,,,,,,,Kindertageseinrichtungen Besuchsquote,http://www.offenedaten.frankfurt.de/dataset/stadtteilprofile-bildung,dl-de-by-1.0,"PDF,JSON,XLS",d
-,,,,,x,,,,,,,,,,,Bauen und Wohnen,http://www.offenedaten.frankfurt.de/dataset/stadtteilprofile-bauen-wohnen,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,x,,,,,,,,,,Tourismus - Gäste aus dem Ausland,http://www.offenedaten.frankfurt.de/dataset/tourismus,dl-de-by-1.0,"PDF,JSON,XLS",d
+,,,,,,,x,,,,,,,,,Stadtverordnetenwahl,http://www.offenedaten.frankfurt.de/dataset/wahlen,dl-de-by-1.0,"PDF,JSON,XLS",d
+,,,,,,,,,,,,,,,x,WMS Luftbild 2012,http://www.offenedaten.frankfurt.de/dataset/wms-luftbild-2012,dl-de-by-1.0,LINK,d
+,,,,,,,,,,,,,,,x,Haushalte in Stadtteilen,http://www.offenedaten.frankfurt.de/dataset/haushalte,dl-de-by-1.0,"PDF,JSON,XLS",d
 x,,,,,,,,,,,,,,,,Bevölkerung Stadtteile,http://www.offenedaten.frankfurt.de/dataset/stadtteilprofile-bevoelkerung,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,,,,,,,,,,x,WMS Stadtkarten 2012 (Graustufen),http://www.offenedaten.frankfurt.de/dataset/wms-stadtkarten-2012-graustufen,dl-de-by-1.0,LINK,d
 x,x,x,,x,x,,x,,,,,,x,,,Daten Stadtteilprofile,http://www.frankfurt.de/sixcms/detail.php?id=11800621&_ffmpar%5B_id_eltern%5D=2811,nicht bekannt,XLS,m

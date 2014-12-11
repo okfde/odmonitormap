@@ -124,11 +124,11 @@ x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Staatsangehörigke
 x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Wohnungsstatus 2011,http://www.moers.de/C1257221003C7526/html/EC7B6ED6F009ED38C1257B0F00322570?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,x,,,,,,,,,,Abmeldungen nach Instrumenten in der Moerser Musikschule 2012,http://www.moers.de/C1257221003C7526/html/291B41562BA976D8C1257C750051780B?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Zugriffsstatistiken von moers.de für April 2014,http://www.moers.de/C1257221003C7526/html/4298B1D13CFA5DFFC1257CED002EF936?OpenDocument,dl-de-zero-2.0,ZIP,d
-,,,,,,,,,,x,,,,,,Blumenampel,http://www.moers.de/c125722e0057acf2/files/blumenampel.json/$file/blumenampel.json?openelement,nicht bekannt,JSON,b
 ,x,,,,,,,,,,,,,,,Geschichtsstation,http://www.moers.de/c125722e0057acf2/files/geschichtsstation.kml/$file/geschichtsstation.kml?openelement,nicht bekannt,KML,b
+,,,,,,x,,,,,,,,,,Moers - Radwandern,http://www.moers.de/C12572210040545A/html/AEE2394426094672C125727D00498F98?openDocument=,nicht bekannt,GPX,c
+,,,,,,,,,,x,,,,,,Blumenampel,http://www.moers.de/c125722e0057acf2/files/blumenampel.json/$file/blumenampel.json?openelement,nicht bekannt,JSON,b
 ,,,,,,,x,,,,,,,,,Wahlverzeichnis 2009 Kommunalwahl,http://www.moers.de/c125722e0057acf2/files/kw_2009_08_30.csv/$file/kw_2009_08_30.csv?openelement,nicht bekannt,CSV,b
 ,,x,,,x,,,,,,,,,,,Spielplätze,http://www.moers.de/c125722e0057acf2/files/spielplatz.json/$file/spielplatz.json?openelement,nicht bekannt,JSON,b
-,,,,,,x,,,,,,,,,,Moers - Radwandern,http://www.moers.de/C12572210040545A/html/AEE2394426094672C125727D00498F98?openDocument=,nicht bekannt,GPX,c
 ,,,,,,,x,,,,,x,,,,Zuwendungen Fraktionen - Geldwerte Leistungen Teil B Entwurf,http://download.moers.de/Schule%20und%20Open%20Data/Haushaltsplan%20entwurf%202014/Word_Excel/Zuwendungen%20Fraktionen%20-%20%20Geldwerte%20Leistungen%20Teil%20B%20Entwurf.xls,nicht bekannt,XLS,g
 ,,x,,,x,,,,,,,,,,,Strassenraster 2012,http://www.moers.de/c125722e0057acf2/files/strassenraster_2012_12.csv/$file/strassenraster_2012_12.csv?openelement,nicht bekannt,CSV,b
 ,,,,,,,x,,,,,,,,,Wahlverzeichnis 2012 Landtagswahl,http://www.moers.de/c125722e0057acf2/files/lw_2012.csv/$file/lw_2012.csv?openelement,nicht bekannt,CSV,b
