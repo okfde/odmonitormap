@@ -1,4 +1,19 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+,,,,,,,x,,,,,,,,,Bundestagswahl vom 27.9.2009 in Bonn,http://www2.bonn.de/statistik/dl/wahl/bw/Bundestagswahl20090927.xls,nicht bekannt,XLS,g
+,,,,,,,x,,,,,,,,,Kommunalwahl vom 30.08.2009 in Bonn,http://www2.bonn.de/statistik/dl/wahl/kw/Kommunalwahl2009Ergebnis.xls,nicht bekannt,XLS,g
+,,,,,,,x,,,,,,,,,Ergebnisse der Landtagswahl NRW vom 09.05.2010 in Bonn,http://www2.bonn.de/statistik/dl/wahl/lw/Landtagswahl2010Ergebnis.xls,nicht bekannt,XLS,g
+,,,,,,,x,,,,,,,,,Bundestagswahl vom 22.9.2013 in Bonn,http://www2.bonn.de/statistik/dl/wahl/bw/Bundestagswahl20130922.xlsx,nicht bekannt,XLSX,g
+,,,,,,,x,,,,,,,,,Landtagswahl NRW vom 13.05.2012 in Bonn,http://www2.bonn.de/statistik/dl/wahl/lw/Landtagswahl2012Ergebnis.xls,nicht bekannt,XLS,g
+,,,,,,,x,,,,,,,,,Europawahl vom 27.9.2009 in Bonn,http://www2.bonn.de/statistik/dl/wahl/eu/Europawahl20090607.xls,nicht bekannt,XLS,g
+,,,,,,,x,,,,,,,,,Bundestagswahl vom 27.9.2009 in Bonn,http://www2.bonn.de/statistik/dl/wahl/bw/BuW2009_StiB2013_.xls,nicht bekannt,XLS,g
+,,,,,,,x,,,,,,,,,Kommunalwahl 2009 (Rat),http://opendata.bonn.de/dataset/kommunalwahl-2009-rat,dl-de-by 1.0,CSV,d
+,,,,,,,,,,,,,,x,,Bürgeranliegen online,http://opendata.bonn.de/dataset/b%C3%BCrgeranliegen-online,dl-de-by 1.0,JSON,d
+,,,,,,,x,,,,,,,,,Kommunalwahl 2014 (Bezirksvertretung),http://opendata.bonn.de/dataset/kommunalwahl-2014-bezirksvertretung,dl-de-by 1.0,CSV,d
+,,,,,,,,,,,,,,x,,Pressemitteilungen (Listenübersicht),http://opendata.bonn.de/dataset/pressemitteilungen-listen%C3%BCbersicht,dl-de-by 1.0,JSON,d
+,,,,,,,,,,,,,,x,,Pressemitteilungen (Detailansicht),http://opendata.bonn.de/dataset/pressemitteilungen-detailansicht,dl-de-by 1.0,JSON,d
+,,,,,,,x,,,,,,,,,Kommunalwahl 2009 (Bezirksvertretung),http://opendata.bonn.de/dataset/kommunalwahl-2009-bezirksvertretung,dl-de-by 1.0,CSV/DATA,d
+,,,,,,,x,,,,,,,,,Kommunalwahl 2009 (Bürgermeister),http://opendata.bonn.de/dataset/kommunalwahl-2009-b%C3%BCrgermeister,dl-de-by 1.0,CSV,d
+,,,,,,,x,,,,,,,,,Kommunalwahl 2014 (Rat),http://opendata.bonn.de/dataset/kommunalwahl-2014-rat,dl-de-by 1.0,CSV,d
 ,,,,,x,,,,,x,,x,,,,Energieberichte,http://opendata.bonn.de/dataset/energieberichte,dl-de-by-1.0,"DOC,PDF",d
 x,,,,,,,,,,,,x,,,,Einwohnermeldeämter,http://opendata.bonn.de/dataset/einwohnermelde%C3%A4mter,CC0-1.0,"XLSX,CSV",d
 x,,,,,,,,,,,,,,,,Bevölkerungsentwicklung,http://opendata.bonn.de/dataset/bev%C3%B6lkerungsentwicklung,dl-de-by-1.0,"CSV,HTML",d
@@ -17,6 +32,8 @@ x,x,,,,,x,,x,,,,,,,,Stadtbibliothek,http://opendata.bonn.de/dataset/stadtbibliot
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2013,http://opendata.bonn.de/dataset/bundestagswahl-2013,dl-de-by-1.0,CSV,d
 x,,,,,,,,x,,x,,,,,,Fair Trade Einkaufsführer,http://opendata.bonn.de/dataset/fair-trade-einkaufsf%C3%BChrer,dl-de-by-1.0,"PDF,CSV,XLS",d
 ,,,,,,,,,,,,x,,,,Sachstandsbericht Anliegen.Bonn.de,http://opendata.bonn.de/dataset/sachstandsbericht-anliegenbonnde,dl-de-by-1.0,PDF,d
+,,,,,,,,,,,,x,,,,Haushaltssatzungen,http://opendata.bonn.de/dataset/haushaltssatzungen,dl-de-by-1.0,PDF,d
+x,x,,x,x,x,x,x,x,x,x,x,x,x,,,Bürgeranträge gem. § 24 GO NRW,http://opendata.bonn.de/dataset/b%C3%BCrgerantr%C3%A4ge-gem-%C2%A7-24-go-nrw,dl-de-by-1.0,HTML,d
 x,,,,,,,,,,,,,,,,Eintragungen in das Goldene Buch der Stadt Bonn,http://opendata.bonn.de/dataset/eintragungen-das-goldene-buch-der-stadt-bonn,dl-de-by-1.0,DOC,d
 ,,,,,,,,,x,x,,,x,,,Bilder der Stadtwerke Bonn,http://opendata.bonn.de/dataset/bilder-der-stadtwerke-bonn,dl-de-by-1.0,HTML,d
 ,,,,,,x,,,,,,,,,,Beethoven in Bonn,http://opendata.bonn.de/dataset/beethoven-bonn,dl-de-by-1.0,DOCREADER,d
@@ -67,7 +84,6 @@ x,x,,,,,x,,x,,,,x,,,,Bürgerdialog zum Haushalt 2015 2016,http://opendata.bonn.d
 ,,,,,,,,,,,,x,,,,OGD Cockpit,http://opendata.bonn.de/dataset/ogd-cockpit,dl-de-by-1.0,"JSON,RDF,CSV,RSS",d
 ,,,,,,,,,,x,,x,,,,Vierteljahresberichte der bonnorange AöR,http://opendata.bonn.de/dataset/vierteljahresberichte-der-bonnorange-a%C3%B6r,dl-de-by-1.0,PDF,d
 ,,,,,,,,,,,,,x,,,Kennzahlen Ansiedlungs- und Investitionsvorhaben,http://opendata.bonn.de/dataset/kennzahlen-ansiedlungs-und-investitionsvorhaben,dl-de-by-1.0,CSV,d
-,,,,,,,,,,,,x,,,,Haushaltssatzungen,http://opendata.bonn.de/dataset/haushaltssatzungen,dl-de-by-1.0,PDF,d
 ,,,,,,,,,,,,x,,,,Beteiligungsbericht 2012,http://opendata.bonn.de/dataset/beteiligungsbericht-2012,dl-de-by-1.0,HTML,d
 ,,,,,,,,,,,,,x,,,Kennzahlen vermietete Büroflächen,http://opendata.bonn.de/dataset/kennzahlen-vermietete-b%C3%BCrofl%C3%A4chen,dl-de-by-1.0,"CSV,XLS",d
 ,,,,,,,,,,x,,x,,,,Sitzungen des Verwaltungsrates bonnorange AöR,http://opendata.bonn.de/dataset/sitzungen-des-verwaltungsrates-bonnorange-a%C3%B6r,dl-de-by-1.0,HTML,d
@@ -88,7 +104,6 @@ x,,,,,,,,x,,,,,,,,Bonn in Zahlen,http://opendata.bonn.de/dataset/bonn-zahlen,dl-
 ,,,,,,,,,,,,x,,,,Leitlinien Open Government Data Bonn,http://opendata.bonn.de/dataset/leitlinien-open-government-data-bonn,dl-de-by-1.0,"XML,DOC,RTF,PDF",d
 ,x,,,,,,,,,,,,,,,Kultur in Bonn,http://opendata.bonn.de/dataset/kultur-bonn,dl-de-by-1.0,DOCREADER,d
 ,,,,,,,,,,,,x,,,,Haushaltssicherungskonzept 2015-2024,http://opendata.bonn.de/dataset/haushaltssicherungskonzept-2015-2024,dl-de-by-1.0,"DOC,PDF,XLSX",d
-x,x,,x,x,x,x,x,x,x,x,x,x,x,,,Bürgeranträge gem. § 24 GO NRW,http://opendata.bonn.de/dataset/b%C3%BCrgerantr%C3%A4ge-gem-%C2%A7-24-go-nrw,dl-de-by-1.0,HTML,d
 ,,,,,,,,,,,,x,,,,Vorschlagslisten Konsolidierung Haushalt 2015/2016,http://opendata.bonn.de/dataset/vorschlagslisten-konsolidierung-haushalt-20152016,dl-de-by-1.0,PDF,d
 ,,,,,x,,,,,,,,x,,,Strukturwandel - Das Bundesviertel,http://opendata.bonn.de/dataset/strukturwandel-das-bundesviertel,dl-de-by-1.0,DOCREADER,d
 ,,,,,x,,,,x,,,,,,,Kennzahlen Stadtentwässerung,http://opendata.bonn.de/dataset/kennzahlen-stadtentw%C3%A4sserung,dl-de-by-1.0,CSV,d
