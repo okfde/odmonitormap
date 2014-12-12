@@ -1,8 +1,14 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+x,,,,,,,,,,,,,,,,Bevölkerung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=54,CC BY 3.0 DE,CSV,d
+,,,,,,,,,,x,,,,,,Funkwellen-Messprojekt 2009,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=85,CC BY-NC-SA 3.0 DE,XLS,d
+,x,,,,,,,,,,,,,,,"Gymnasium-Zeugnisnoten G8/G9, 1. Halbjahr, Schuljahr 2010/2011",http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=24,other-closed,PDF,d
+,,,,,,,,,,,,x,,,,Haushaltsdaten,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=78,CC BY 3.0 DE,XLS,d
+,,,,,,,,,,,,x,,,,Haushaltsdaten,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=79,CC BY 3.0 DE,XLS,d
+,,,,,,,,,,,,x,,,,Haushaltsdaten,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=80,CC BY 3.0 DE,XLS,d
+,x,,,,,,,,,,,,,,,"Allgemeinbildende Schulen, Schuljahr 2000/2001",http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=72,CC BY 3.0 DE,CSV,d
 x,,,,,,,,,,,,,,,,Bevölkerung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=51,CC BY 3.0 DE,CSV,d
 x,,,,,,,,,,,,,,,,Bevölkerung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=52,CC BY 3.0 DE,CSV,d
 x,,,,,,,,,,,,,,,,Bevölkerung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=53,CC BY 3.0 DE,CSV,d
-x,,,,,,,,,,,,,,,,Bevölkerung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=54,CC BY 3.0 DE,CSV,d
 ,,,,,,,,,,,,,x,,,Digital Natives,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=38,other-closed,PDF,d
 ,,,,,,,,,,,,,x,,,"Erwerbstätigkeitsstruktur, 2002-2009",http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=35,CC BY 3.0 DE,PDF,d
 ,,,,,,,,,,,,x,,,,Fahndungsbericht,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=32,other-closed,PDF,d
@@ -20,12 +26,7 @@ x,,,,,,,,,,,,,,,,Tageseinrichtungen für Kinder,http://opendata.service-bw.de/Se
 ,,x,,,,,,,,,,,,,,Flächenerhebung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=66,CC BY 3.0 DE,XLS,d
 ,,x,,,,,,,,,,,,,,Flächenerhebung,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=70,CC BY 3.0 DE,XLS,d
 ,,,,,x,,,,,,,,,,,Wohngebäude- und Wohnungsbestand,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=55,CC BY 3.0 DE,CSV,d
-,,,,,,,,,,x,,,,,,Funkwellen-Messprojekt 2009,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=85,CC BY-NC-SA 3.0 DE,XLS,d
 ,,,,,,,,,,,,x,,,,Gemeinden und ihre Einnahmen,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=20,other-closed,PDF,d
-,x,,,,,,,,,,,,,,,"Gymnasium-Zeugnisnoten G8/G9, 1. Halbjahr, Schuljahr 2010/2011",http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=24,other-closed,PDF,d
-,,,,,,,,,,,,x,,,,Haushaltsdaten,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=78,CC BY 3.0 DE,XLS,d
-,,,,,,,,,,,,x,,,,Haushaltsdaten,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=79,CC BY 3.0 DE,XLS,d
-,,,,,,,,,,,,x,,,,Haushaltsdaten,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=80,CC BY 3.0 DE,XLS,d
 ,,,,,,,,,,,,x,,,,Haushaltsdaten,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=81,CC BY 3.0 DE,XLS,d
 ,,,,,,,,,,,,x,,,,Haushaltsdaten,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=82,CC BY 3.0 DE,XLS,d
 ,,,,,,,,,,,,x,,,,Haushaltsdaten,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=93,CC BY 3.0 DE,XLS,d
@@ -52,7 +53,6 @@ x,,,,,,,,,,,,,,,,Kindertagesbetreuung,http://opendata.service-bw.de/Seiten/offen
 ,,,,,,,,,,,,,x,,,Akademikeranteil an den Beschäftigten,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=36,CC BY 3.0 DE,HTML,d
 ,x,,,,,,,,,,,,,,,"Allgemeinbildende Schulen, Schuljahr 1995/1996",http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=71,CC BY 3.0 DE,CSV,d
 ,,,,,,,,,,,,x,,,,Kreiswahlleiterinnen und -leiter zur Landtagswahl,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=15,other-closed,PDF,d
-,x,,,,,,,,,,,,,,,"Allgemeinbildende Schulen, Schuljahr 2000/2001",http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=72,CC BY 3.0 DE,CSV,d
 ,x,,,,,,,,,,,,,,,"Allgemeinbildende Schulen, Schuljahr 2005/2006",http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=73,CC BY 3.0 DE,CSV,d
 ,x,,,,,,,,,,,,,,,"Allgemeinbildende Schulen, Schuljahr 2010/2011",http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=25,CC BY 3.0 DE,PDF,d
 ,,x,,,,,,,,,,,,,,Maps4BW,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=86,CC BY 3.0 DE,,d
@@ -77,6 +77,7 @@ x,,,,,,,,,,,,,,,,Personal in Tageseinrichtungen,http://opendata.service-bw.de/Se
 ,,,,,x,,,,,,,,,,,Wohngebäude- und Wohnungsbestand,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=58,CC BY 3.0 DE,CSV,d
 ,,,,,,,,,,,,x,,,,Zukunftsinvestitionsprogramm,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=21,other-closed,PDF,d
 ,x,,,,,,,,,,,,,,,Zweiter Bildungsbericht,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=23,other-closed,PDF,d
+,,,,,,,,,,,,x,,,,Korruptionskriminalität,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=31,other-closed,PDF,d
 ,x,,,,,,,,,,,,,,,Raumbelegungsplan,"http://www.km-bw.de/SEMINAR-WEINGARTEN,Lde/Startseite/Ausbildung/Vorbereitungsdienst+Technische+Lehreranwaerter_innen+_gew_",nicht bekannt,XLS,c
 ,,,x,,,,,,,,,,,,,Mail-Adressenlisteder Amtsgerichte,"http://www.jum.baden-wuerttemberg.de/pb/,Lde/Startseite/SERVICE/Das+Schoeffenamt",nicht bekannt,XLS,c
 ,x,,,,,,,,,,,,,,,"Liste der 50 zusätzlichen Eingangsklassen an den Beruflichen Gymnasien (Vorschlagsliste des Kultusministeriums, ausschlaggebend sind die entsprechenden Anträge der Schulträger und die Bewerberlage vor Ort)","http://www.km-bw.de/,Lde/778061/?LISTPAGE=777557",nicht bekannt,XLS,c
@@ -97,6 +98,5 @@ x,,,,,,,,,,,,,,,,XLSMB2. Gleichstellungsatlas Tabellen Kreisdaten [,http://www.s
 ,x,,,,,,,,,,,,,,,Link,"http://www.km-bw.de/LIS,Lde/Startseite/Bewegungsfreundliche+Schule/WSB_Multiplikatoren_innen",nicht bekannt,XLS,c
 ,x,,,,,,,,,,,,,,,"OECD: Participation rate in continuing education and training during one year for 25 to 64-year-olds, by level of education, type of training and gender","http://www.km-bw.de/,Lde/772517",nicht bekannt,XLS,c
 ,x,,,,,,,,,,,,,,,Ausbildungsschulen.xlsx,"http://www.km-bw.de/SEMINAR-LAUPHEIM,Lde/Download+_+Formulare",nicht bekannt,XLS,c
-,,,,,,,,,,,,x,,,,Korruptionskriminalität,http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=31,other-closed,PDF,d
 ,x,,,,,x,,,,,,,,,,Ergebnisse,"http://www.km-bw.de/LIS,Lde/Ergebnisse",nicht bekannt,XLS,c
 ,x,,,,,,,,,,,,,,,Download Ausbildungsschulen,"http://www.km-bw.de/SEMINAR-LAUPHEIM,Lde/Liste+der+Ausbildungsschulen",nicht bekannt,XLS,c

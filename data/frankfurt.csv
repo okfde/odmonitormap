@@ -1,4 +1,5 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+,,,,,x,,,,,,,,,,,Wohnumfeld - Öffentlicher Raum,http://www.offenedaten.frankfurt.de/dataset/bauen-wohnen,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,,,,,,,,,,x,WMS Luftbild 2012,http://www.offenedaten.frankfurt.de/dataset/wms-luftbild-2012,dl-de-by-1.0,LINK,d
 ,,,,x,,,,x,,,,,x,,,Ärztedichte und Sozialleistungen,http://www.offenedaten.frankfurt.de/dataset/gesundheit-soziales,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,x,,,,x,,,,,,,Stadtgebiet Fläche,http://www.offenedaten.frankfurt.de/dataset/stadtgebietflaeche,dl-de-by-1.0,"PDF,JSON,TXT,XLS,CSV",d
@@ -6,7 +7,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,,,,,,,x,,,,,,,,Kindertageseinrichtungen,http://www.offenedaten.frankfurt.de/dataset/bildung,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,,,,,,,x,,,,Steuereinnahmen und Schuldenstand,http://www.offenedaten.frankfurt.de/dataset/offentliche-finanzen,dl-de-by-1.0,"PDF,JSON,XLS",d
 x,,,,,,,,,,,,,,,,Bevölkerungsbewegungen Stadtteile,http://www.offenedaten.frankfurt.de/dataset/bevoelkerungsbewegung,dl-de-by-1.0,"PDF,JSON,TXT,XLS,CSV",d
-,,,,,x,,,,,,,,,,,Wohnumfeld - Öffentlicher Raum,http://www.offenedaten.frankfurt.de/dataset/bauen-wohnen,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,,x,,,,,,,,,Kommunalwahlen Hessen,http://www.offenedaten.frankfurt.de/dataset/kommunalwahlen,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,x,,,,,,,,,,,,,,Hauskoordinaten der Stadtgrundkarte Frankfurt,http://www.offenedaten.frankfurt.de/dataset/hauskoordinaten-franfurt,dl-de-by-1.0,"PDF,TXT,CSV",d
 ,,,,,,,,,,,,,,,x,WMS Stadtkarten 2012 (farbig),http://www.offenedaten.frankfurt.de/dataset/wms-stadtkarten-2012-farbig,dl-de-by-1.0,LINK,d

@@ -1,4 +1,11 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+,,,,,x,,,,,x,,,,,,Brunnen und Teichfontänen,http://offenedaten-koeln.de/dataset/brunnen-und-teichfontänen,cc-by,CSV,d
+,,x,,,,,,,x,,,,,,,Behindertenparkplätze in Köln,http://offenedaten-koeln.de/dataset/behindertenparkplätze-köln,cc-by,"JSON,KMZ",d
+,,,,,,,,,,,,,,x,,Termine Schulen - bildung.koeln.de,http://www.bildung.koeln.de/materialbibliothek/download/termine_schulen.xls?idx=7d348102154af906593bf08c6a2f1764,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,,http://www.bildung.koeln.de/imperia/md/content/schule/infotage_berufskollegs_13_14.xls,nicht bekannt,XLS,b
+,,,,,,,,,,,,,,x,,Veranstaltungen Doppelabitur 2013,http://www.bildung.koeln.de/materialbibliothek/download/veranstaltungen_doppelabitur2013_okt.xls?idx=482596333f449c5e14965e3860a417a2,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,Infotage Berufskollegs,http://www.bildung.koeln.de/imperia/md/content/schule/infotage_berufskollegs_13_14.xls?PHPSESSID=26140286daa5e3278999a755df248213,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,Verzeichnis von Sonderdrucken Separata W,http://www.uni.koeln.de/jur-fak/instroem/docs/Sonderdrucke.xls,nicht bekannt,XLS,g
 ,,,,,,,x,,,,,,,,,Bundestagswahl8-Stadtbezirk,http://offenedaten-koeln.de/dataset/bundestagswahl8-stadtbezirk,cc-by,CSV,d
 ,,x,,,,,,,x,,,,,,,Baustellen in Köln,http://offenedaten-koeln.de/dataset/baustellen-köln,cc-by,"JSON,KMZ",d
 ,,x,,,,,,,,,,,,,,Strassenknoten,http://offenedaten-koeln.de/dataset/strassenknoten,cc-by,"XML,KMZ,ZIP",d
@@ -131,24 +138,19 @@ x,,,,,,,,,,,,,,,,Ausländer nach Herkunftsländern,http://offenedaten-koeln.de/d
 ,,x,,,,,,,,x,,,,,,Wertstoff-Center in Köln,http://offenedaten-koeln.de/dataset/wertstoff-center-köln,cc-by,XML,d
 ,,,,,,,x,,,,,,,,,Wahlvorschlaege_Koeln_Wahlkreis_93_bis_101,http://offenedaten-koeln.de/dataset/wahlvorschlaegekoelnwahlkreis93bis101,cc-by,CSV,d
 ,,x,,,,,,,,x,,,,,,Betriebshöfe in Köln,http://offenedaten-koeln.de/dataset/betriebshöfe-köln,cc-by,XML,d
-,,,,,x,,,,,x,,,,,,Brunnen und Teichfontänen,http://offenedaten-koeln.de/dataset/brunnen-und-teichfontänen,cc-by,CSV,d
 ,,,,,,,x,,,,,,,,,Wettbewerb - Teilnahmebedingungen,http://offenedaten-koeln.de/dataset/wettbewerb-teilnahmebedingungen,cc-by,PDF,d
 ,,,,,,,,,,x,,,x,,,Energiebericht Köln,http://offenedaten-koeln.de/dataset/energiebericht-köln,cc-by,CSV,d
 ,,,,,,,,,x,,,,,,,Parkhausbelegung,http://offenedaten-koeln.de/dataset/parkhausbelegung,cc-by,JSON,d
-,,x,,,,,,,x,,,,,,,Behindertenparkplätze in Köln,http://offenedaten-koeln.de/dataset/behindertenparkplätze-köln,cc-by,"JSON,KMZ",d
 ,,x,,,x,x,,,,,,,,,,Rosenmontagszug,http://stadtplan.koeln.de/stadtplan/client/veedelszoech.html,nicht bekannt,KML,c
 ,,,,,,,,,,,,,,x,,,http://www.bildung.koeln.de/imperia/md/content/veranstaltungen/workshops_lernfest_2014.xlsx,nicht bekannt,XLSX,b
 ,,,,,,,,,,,,,,x,,Grundschulen,http://www.bildung.koeln.de/materialbibliothek/download/grundschulen.xls?idx=d0a81ed7c4700c2cd9247fa17db10e83,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Schultermine 2012-2013,http://www.bildung.koeln.de/materialbibliothek/download/schultermine_2012-2013.xlsx?idx=4943f43449184db7a7ed935ea8ff5dd1&PHPSESSID=68251bdf0fe1ebfc61562ea960ebd36f,nicht bekannt,XLSX,g
 ,,,,,,,,,,,,,,x,,Realschulen,http://www.bildung.koeln.de/materialbibliothek/download/realschulen.xls?idx=c1dc2731596853b2366be986aa5d4555,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Gymnasien,http://www.bildung.koeln.de/materialbibliothek/download/gymnasien.xls?idx=e44e83eeda14c281368533ffbe7756e4&PHPSESSID=6c60f1e2fb6916572f2cd9011c73b0e4,nicht bekannt,XLS,g
-,,,,,,,,,,,,,,x,,Termine Schulen - bildung.koeln.de,http://www.bildung.koeln.de/materialbibliothek/download/termine_schulen.xls?idx=7d348102154af906593bf08c6a2f1764,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,,http://www.bildung.koeln.de/materialbibliothek/download/termine_nach_schultyp.xls?idx=74bedad72f2d288b14c22a8cc4fdfb10,nicht bekannt,XLS,b
-,,,,,,,,,,,,,,x,,,http://www.bildung.koeln.de/imperia/md/content/schule/infotage_berufskollegs_13_14.xls,nicht bekannt,XLS,b
 ,,,,,,,,,,,,,,x,,Übersicht Anbieter Alphabetisierungskurse,http://www.bildung.koeln.de/materialbibliothek/download/Ubersicht_anbieter_alpha-kurse.xls?idx=8d98f3dde74ca5eb4ae213e0887bdaa8,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Andere Schulformen,http://www.bildung.koeln.de/materialbibliothek/download/andere_schulformen.xls?idx=633b3790f7748792e27550e321689a4a,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Workshops Lernfest 2014,http://www.bildung.koeln.de/imperia/md/content/veranstaltungen/workshops_lernfest_2014.xlsx?PHPSESSID=030bab16e330ea375cc529091d77e0cf,nicht bekannt,XLSX,g
-,,,,,,,,,,,,,,x,,Veranstaltungen Doppelabitur 2013,http://www.bildung.koeln.de/materialbibliothek/download/veranstaltungen_doppelabitur2013_okt.xls?idx=482596333f449c5e14965e3860a417a2,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Übersicht Schulregion Mülheim 2014-04-08,http://www.bildung.koeln.de/imperia/md/content/selbst_schule/muelheim/_bersicht_schulregion_m_lheim_2014_04_08.xlsx?PHPSESSID=7d7d0cc1c4579fbe6cdd1ce6e201cf55,nicht bekannt,XLSX,g
 ,,,,,,,,,,,,,,x,,Infotage Andere Schulformen,http://www.bildung.koeln.de/imperia/md/content/schule/infotage_andere_schulformen.xls?PHPSESSID=65b85dd152d03badf4d51559226355e5,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Veranstaltungen Doppelabitur,http://www.bildung.koeln.de/materialbibliothek/download/veranstaltungen_doppelabitur.xls?idx=e0088a94915958058e98ff6be2d84db5&PHPSESSID=6b4c88f4322165f2a4e5741469154dd4,nicht bekannt,XLS,g
@@ -156,8 +158,6 @@ x,,,,,,,,,,,,,,,,Ausländer nach Herkunftsländern,http://offenedaten-koeln.de/d
 ,,,,,,,,,,,,,,x,,Termine Schulen nach Schultyp - Bildung.koeln.de,http://www.bildung.koeln.de/materialbibliothek/download/termine_nach_schultyp.xls?idx=74bedad72f2d288b14c22a8cc4fdfb10&PHPSESSID=097e5831134b01bf85919619a0a9f29e,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,,http://www.bildung.koeln.de/materialbibliothek/download/veranstaltungen_doppelabitur.xls?idx=e0088a94915958058e98ff6be2d84db5,nicht bekannt,XLS,b
 ,,,,,,,,,,,,,,x,,Hauptschulen,http://www.bildung.koeln.de/materialbibliothek/download/hauptschulen.xls?idx=6eb344ddaa90795dc0e4318d82edd7d9&PHPSESSID=4ea1d7ae6182d879fde0bb5d1c92dc05,nicht bekannt,XLS,g
-,,,,,,,,,,,,,,x,,Infotage Berufskollegs,http://www.bildung.koeln.de/imperia/md/content/schule/infotage_berufskollegs_13_14.xls?PHPSESSID=26140286daa5e3278999a755df248213,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Gesamtschulen,http://www.bildung.koeln.de/materialbibliothek/download/gesamtschulen.xls?idx=683148b1f4d80451a42336cc36781bcf,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Verzeichnis von Sonderdrucken Separata A,http://www.uni.koeln.de/jur-fak/instroem/docs/Sonderdrucke%20Av.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,,,x,,Verzeichnis von Sonderdrucken Separata W,http://www.uni.koeln.de/jur-fak/instroem/docs/Sonderdrucke.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,,,x,,Berufskollegs,http://www.bildung.koeln.de/materialbibliothek/download/berufskollegs.xls?idx=9774b82a5656216a50eeb5d4b3a5388c,nicht bekannt,XLS,g

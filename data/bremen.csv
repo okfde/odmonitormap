@@ -18,12 +18,25 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,,,,,,,,,,,x,,x,,bersicht Vortragtermine WV14ES 2014 für Website.xls (1.2,http://www.polizei.bremen.de/sixcms/media.php/13/%DCbersicht%20Vortragtermine%20WV14ES%202014%20f%FCr%20Website.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,x,,x,,Tabelle1,http://www.hfoev.bremen.de/sixcms/media.php/13/Seminarplanung%202009.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,x,,,,Personalhauptkosten2013,http://www.finanzen.bremen.de/sixcms/media.php/13/Kosten%20eines%20Arbeitsplatzes%202013.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,Personalhauptkosten2011,http://www.finanzen.bremen.de/sixcms/media.php/13/Kosten%20eines%20Arbeitsplatzes%202012%20(Anlagen%202012).13483.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,x,,,,Arbeitsplatzkosten,http://finanzen.bremen.de/sixcms/media.php/13/Anlagen%202011.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,x,,,,Arbeitsplatzkosten,http://www.finanzen.bremen.de/sixcms/media.php/13/Personal-Arbeitsplatzkosten_Berechnungschema%202011.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,x,,,,www.finanzen.bremen.de,http://www.finanzen.bremen.de/sixcms/media.php/13/Kosten%20eines%20Arbeitsplatzes%202012%20%28Anlagen%202012%29.13483.xls,nicht bekannt,XLS,b
 ,,,,,,,,,,,,x,,,,www.finanzen.bremen.de,http://www.finanzen.bremen.de/sixcms/media.php/13/Anlagen%202011.xls,nicht bekannt,XLS,b
+,,,,,,,,,,,,x,,,,Personalhauptkosten2011,http://www.finanzen.bremen.de/sixcms/media.php/13/Kosten%20eines%20Arbeitsplatzes%202012%20(Anlagen%202012).13483.xls,nicht bekannt,XLS,g
 x,,,,,,,,,,,,,,,,Wanderungen von Ausländern über Gemeindegrenzen der Stadt Bremen nach Geschlecht und Staatsangehörigkeitsgruppen,http://daten.bremen.de/de/datensatz/bremen236.c.4421.de,cc-by,CSV,d
+,,x,,,x,,,,,,,,,,,Strassenverzeichnis_Bremen,http://www.statistik.bremen.de/sixcms/detail.php?gsid=bremen65.c.11520.de,nicht bekannt,XLS,c
+,,,,,,x,,,,,,,,,,Kursplan-Universum-Gym-07,http://www.finanzen.bremen.de/sixcms/detail.php?gsid=bremen53.c.26771.de,nicht bekannt,XLS,c
+,,,x,,,,,,,,,,,,,,http://www.justiz.bremen.de/sixcms/detail.php?gsid=bremen51.c.2196.de,nicht bekannt,XLS,c
+,,,x,,,,,,,,,,,x,,IFG-Antrag Ansprechpersonen,http://www.kogis.bremen.de/sixcms/detail.php?gsid=bremen64.c.22989.de,nicht bekannt,XLS,c
+,,,,,,,,,,x,,,,,,"1995 (xls, 59 KB)",http://www.umwelt.bremen.de/sixcms/media.php/13/h95.xls,nicht bekannt,XLS,g
+x,,,,,,,x,,,,,,,,,"(gültig ab 01.11.2012) - Excel (xls, 60 KB)",https://ssl2.bremen.de/osci/sixcms/media.php/13/Aufenthaltsstatus.xls,nicht bekannt,XLS,g
+,x,,,,,,,,,,,,,,,511.joomla.schule.bremen.de,http://511.joomla.schule.bremen.de/images/stories/jahrgangsteams/2013_jahresarbeitsplan8.xls,nicht bekannt,XLS,b
+,x,,,,,,,,,,,,,,,www.lis.bremen.de,http://www.lis.bremen.de/sixcms/media.php/13/Links%20Sek%20I_II.xls,nicht bekannt,XLS,b
+,,,,,,,,,,,,,,x,,"xls, 7 KB",http://daten.flora.bremen.de/sixcms/media.php/13/test.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,Tabelle1,http://www.wirtschaft.bremen.de/sixcms/media.php/13/Messebeteiligungen%20Stand%2009-03.xls,nicht bekannt,XLS,g
+,x,,,,,,,,,,,,,,,Bildungsmonitor-2013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/bildungsmonitor-2013-38555262,CC-BY-ND 3.0,CSV,c
+,x,,,,,,,,,,,,,,,Studierendenzahlen-Hochschulen-2012-2013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/anzahl-der-studierenden-an-den-bremischen-hochschulen-40247342,CC-BY-ND 3.0,CSV,c
+,x,,,,,,,,,,,,,,,Laendervergleich-DFG-Drittmittel-2010,http://www.bremen.de/bremen-kompakt/bk-visualisierung/eingeworbene-dfg-mittel-35802726,CC-BY-ND 3.0,CSV,c
 ,,,,x,,,,x,,,,,,,,Pflegeeinrichtungen in Bremen,http://daten.bremen.de/de/datensatz/bremen236.c.8196.de,cc-by,XML,d
 ,,,,,,,x,,,,,,,,,Bundestagswahl (Zweitstimmen),http://daten.bremen.de/de/datensatz/bremen236.c.4430.de,cc-by,CSV,d
 x,,,,,,,,,,,,,,,,"Bevölkerung nach Geschlecht, Staatsangehörigkeit und Altersgruppen",http://daten.bremen.de/de/datensatz/bremen236.c.4415.de,cc-by,CSV,d
@@ -169,15 +182,12 @@ x,,,,,,,,,,,,,,,,Vornamen (TOP 100 ) in Bremen 2007,http://daten.bremen.de/de/da
 ,x,,,,,,,,,,,,,,,Internet-Angebote Grundschulen,http://www.lis.bremen.de/sixcms/detail.php?gsid=bremen56.c.32091.de,nicht bekannt,XLS,c
 ,x,,,,,,,,,,,,,,,StudienanfaengerInnenquote-2000-2012,http://www.bremen.de/bremen-kompakt/bk-visualisierung/studienanfngerinnenquote-im-bundesland-bremen-40247389,CC-BY-ND 3.0,CSV,c
 ,x,,,,,,,,,,,,,,,Laendervergleich-Wanderungssaldo-Studienanfaenger-2011,http://www.bremen.de/bremen-kompakt/bk-visualisierung/wanderungssaldo-der-studienanfngerinnen-35802702,CC-BY-ND 3.0,CSV,c
-,,x,,,x,,,,,,,,,,,Strassenverzeichnis_Bremen,http://www.statistik.bremen.de/sixcms/detail.php?gsid=bremen65.c.11520.de,nicht bekannt,XLS,c
-,,,,,,x,,,,,,,,,,Kursplan-Universum-Gym-07,http://www.finanzen.bremen.de/sixcms/detail.php?gsid=bremen53.c.26771.de,nicht bekannt,XLS,c
+,,,,,,,,,,,,,,x,,open_data_sfbwg,http://www.bildung.bremen.de/sixcms/detail.php?gsid=bremen117.c.5194.de,CC-BY 3.0,ZIP,c
 ,,,,,,,,,,x,,,,,,"1998 (xls, 62 KB)",http://www.umwelt.bremen.de/sixcms/media.php/13/h98.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,x,,,,x,,www.umwelt.bremen.de,http://www.umwelt.bremen.de/sixcms/media.php/13/HG_Daten_2012.xls,nicht bekannt,XLS,b
 ,x,,,,,,,,,,,,,,,Schulen,http://www.bildung.bremen.de/sixcms/detail.php?gsid=bremen117.c.3714.de,nicht bekannt,XLS,c
 ,,x,,,x,,,,,,,,,,,,Nicht moeglich kann aber nachtraeglich ermittelt werden,nicht bekannt,WMS,c
-,,,x,,,,,,,,,,,,,,http://www.justiz.bremen.de/sixcms/detail.php?gsid=bremen51.c.2196.de,nicht bekannt,XLS,c
 ,,,,,,,,,,x,,,,,,,http://www.umwelt.bremen.de/de/detail.php?gsid=bremen179.c.5507.de,nicht bekannt,XLS,c
-,,,x,,,,,,,,,,,x,,IFG-Antrag Ansprechpersonen,http://www.kogis.bremen.de/sixcms/detail.php?gsid=bremen64.c.22989.de,nicht bekannt,XLS,c
 ,,,,,,,,,,x,,,,,,Untersuchungen Brunnen 16 und Umfeld,http://umwelt.bremen.de/de/detail.php?gsid=bremen179.c.18198.de,nicht bekannt,XLS,c
 ,,,,,,,,,,,,x,,,,Genereller Kriterienkatalog 4.1,http://www.finanzen.bremen.de/sixcms/detail.php?gsid=bremen53.c.9837.de,nicht bekannt,"ZIP,XML",c
 ,,,,,,,,,,,,,x,,,Erwärbstätigkeit und Arbeitsmarkt im Land Bremen,http://www.statistik.bremen.de/sixcms/detail.php?gsid=bremen65.c.1857.de,nicht bekannt,XLS,c
@@ -190,22 +200,14 @@ x,,,,,,,,,,,,,,,,Vornamen (TOP 100 ) in Bremen 2007,http://daten.bremen.de/de/da
 ,x,,,,,,,,,,,,,,,511.joomla.schule.bremen.de,http://511.joomla.schule.bremen.de/images/stories/jahrgangsteams/2013_jahresarbeitsplan5.xls,nicht bekannt,XLS,b
 ,x,,,,,,,,,,,,,,,www.lis.bremen.de,http://www.lis.bremen.de/sixcms/media.php/13/Auswertungsuebersicht.xls,nicht bekannt,XLS,b
 ,x,,,,,,,,,,,,,,,Softwarekatalog_Praesenzbestand_Dezember_2011A,http://www.lis.bremen.de/sixcms/media.php/13/Softwarekatalog_Praesenzbestand_Dezember_2011A.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,"1995 (xls, 59 KB)",http://www.umwelt.bremen.de/sixcms/media.php/13/h95.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,511.joomla.schule.bremen.de,http://511.joomla.schule.bremen.de/images/stories/jahrgangsteams/2013_jahresarbeitsplan7.xls,nicht bekannt,XLS,b
-x,,,,,,,x,,,,,,,,,"(gültig ab 01.11.2012) - Excel (xls, 60 KB)",https://ssl2.bremen.de/osci/sixcms/media.php/13/Aufenthaltsstatus.xls,nicht bekannt,XLS,g
-,x,,,,,,,,,,,,,,,511.joomla.schule.bremen.de,http://511.joomla.schule.bremen.de/images/stories/jahrgangsteams/2013_jahresarbeitsplan8.xls,nicht bekannt,XLS,b
 ,x,,,,,,,,,,,,,,,Software_fuer_Bremer_Schulen_Dezember_2011A.xls,http://www.lis.bremen.de/sixcms/media.php/13/Software_fuer_Bremer_Schulen_Dezember_2011A.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,Fortbildungsprogramm 2011,https://ssl.bremen.de/hfoev/sixcms/media.php/13/Fortbildungsprogramm+Kurz%FCbersicht+2012.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,x,,,,,,"2011 (xls, 43.5 KB)",http://www.umwelt.bremen.de/sixcms/media.php/13/HG_Daten_2011(2).xls,nicht bekannt,XLS,g
 ,,,,,,,,,x,,,,,,,www.bauumwelt.bremen.de,http://www.bauumwelt.bremen.de/sixcms/media.php/13/130325_E04_Ergebnistabelle%20Stra%DFenraumvertr%E4glichkeit.xlsx,nicht bekannt,XLSX,b
 ,,,,,,,x,,,,,,,,,Datensatz Amtliches Straßenverzeichnis der Stadt Bremen,http://daten.flora.bremen.de/sixcms/media.php/13/Strassenverzeichnis_Bremen_2011-11-01.xls,nicht bekannt,XLS,g
-,x,,,,,,,,,,,,,,,www.lis.bremen.de,http://www.lis.bremen.de/sixcms/media.php/13/Links%20Sek%20I_II.xls,nicht bekannt,XLS,b
-,,,,,,,,,,,,,,x,,"xls, 7 KB",http://daten.flora.bremen.de/sixcms/media.php/13/test.xls,nicht bekannt,XLS,g
 ,x,,,,,,,,,,,,,,,sm_2011.xls,http://www.bildung.bremen.de/sixcms/media.php/13/sm_2011.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,,,x,,Tabelle1,http://www.wirtschaft.bremen.de/sixcms/media.php/13/Messebeteiligungen%20Stand%2009-03.xls,nicht bekannt,XLS,g
-,x,,,,,,,,,,,,,,,Bildungsmonitor-2013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/bildungsmonitor-2013-38555262,CC-BY-ND 3.0,CSV,c
 ,x,,,,,,,,,,,,,,,Foerdermittel-Exzellenzinitiative-2012-ambitioniert-und-agil,http://www.bremen.de/bremen-kompakt/bk-visualisierung/frdermittel-der-exzellenzinitiative-35802705,CC-BY-ND 3.0,CSV,c
-,x,,,,,,,,,,,,,,,Studierendenzahlen-Hochschulen-2012-2013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/anzahl-der-studierenden-an-den-bremischen-hochschulen-40247342,CC-BY-ND 3.0,CSV,c
 ,x,,,,,,,,,,,,,,,ErstabsolventInnenquote-2004-2011,http://www.bremen.de/bremen-kompakt/bk-visualisierung/erstabsolventinnenquote-im-bundesland-bremen-40247358,CC-BY-ND 3.0,CSV,c
 ,,x,,,x,,,,,,,,,,,Staedtevergleich-Erholungsflaeche-2011,http://www.bremen.de/bremen-kompakt/bk-visualisierung/erholungsflaeche-je-einwohnerin-35802722,CC-BY-ND 3.0,CSV,c
 ,,,,,,x,,,,,,,,,,Bremer-Philharmoniker-Zuwachs-Abonnentenzahlen-2005-2013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/abonnentenzahlen-der-bremer-philharmoniker-35802720,CC-BY-ND 3.0,CSV,c
@@ -215,7 +217,6 @@ x,,,,,,,,x,,,,,,,,Armutsgefaehrdungsquoten-Staedte-2012,http://www.bremen.de/bre
 ,,,,,,,,,,,,,x,,,Laendervergleich-Exportquote-2012,http://www.bremen.de/bremen-kompakt/bk-visualisierung/exportquoten-der-bundeslnder-35802709,CC-BY-ND 3.0,CSV,c
 ,,,,,,,,,,,,,x,,,Beschaeftigte-Wirtschaftszweige-112013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/wirtschaftszweige-im-land-bremen-35802707,CC-BY-ND 3.0,CSV,c
 ,,,,,,,,,,,,,x,,,Wachstumsraten-Haefen-Nordrange,http://www.bremen.de/bremen-kompakt/bk-visualisierung/wachstumsraten-der-hfen-an-der-nordrange-35802724,CC-BY-ND 3.0,CSV,c
-,x,,,,,,,,,,,,,,,Laendervergleich-DFG-Drittmittel-2010,http://www.bremen.de/bremen-kompakt/bk-visualisierung/eingeworbene-dfg-mittel-35802726,CC-BY-ND 3.0,CSV,c
 ,,,,,,,,,,,,,x,,,Betriebe-Beschaeftigte-Innovationscluster-2011,http://www.bremen.de/bremen-kompakt/bk-visualisierung/betriebe-und-beschftigte-der-luft-und-raumfahrtstandorte-35802706,CC-BY-ND 3.0,CSV,c
 ,,,,,,,,,,,,,x,,,Laendervergleich-Veraenderungsrate-BIP-und-Erwerbstaetigkeit-2011-2012,http://www.bremen.de/bremen-kompakt/bk-visualisierung/vernderungsrate-des-bip-und-der-erwerbsttigkeit--35802708,CC-BY-ND 3.0,CSV,c
 ,,,,,,,,,x,,,,,,,Staedtevergleich-Europa-Radverkehrsanteile-2013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/bremen-die-fahrradstadt-35802725,CC-BY-ND 3.0,CSV,c
@@ -233,7 +234,6 @@ x,x,x,,,x,,,x,x,,,,x,,,Stadtteil Mitte - Bremen Kleinräumig,http://www.statisti
 ,,,,,,,,,,,,,x,,,Laendervergleich-Bruttoloehne-je-Arbeitnehmer-Deutschland100-2012,http://www.bremen.de/bremen-kompakt/bk-visualisierung/bruttolhne-und-gehlter-je-arbeitnehmerin-35802728,CC-BY-ND 3.0,CSV,c
 ,,,,,,,,,,,,,x,,,Windenergie-Installierte-Leistung-2000-2013,http://www.bremen.de/bremen-kompakt/bk-visualisierung/windenergie-im-land-bremen-35802762,CC-BY-ND 3.0,CSV,c
 x,,,,,,,,,,,,,,,,"Bevölkerung nach Migrationsstatus, Geschlecht und Altersgruppen",http://daten.bremen.de/de/datensatz/bremen236.c.4416.de,cc-by,CSV,d
-,,,,,,,,,,,,,,x,,open_data_sfbwg,http://www.bildung.bremen.de/sixcms/detail.php?gsid=bremen117.c.5194.de,CC-BY 3.0,ZIP,c
 ,x,,,,,,,,,,,,,,,Schuldatei,http://www.statistik.bremen.de/sixcms/detail.php?gsid=bremen65.c.1865.de,nicht bekannt,XLS,c
 ,,,,,,x,,,,,,,,,,Teilnehmer-Samba-Karneval-2014,http://www.bremen.de/bremen-kompakt/bk-visualisierung/29-bremer-samba-karneval-39962151,CC-BY-ND 3.0,CSV,c
 ,,,,,,,,,,x,,,,,,,http://www.umwelt.bremen.de/de/detail.php?gsid=bremen179.c.3400.de,nicht bekannt,XLS,c

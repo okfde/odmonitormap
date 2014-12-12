@@ -1,4 +1,7 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+,,,,,,,,,,,,x,,,,DWL Orte Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=ba3ace60-4d2e-4694-47f7-326b01ab6252,nicht bekannt,,d
+,,,,,,,,,,x,,,,,,Brachflächen Diepholz Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=bf67c68c-678d-4f92-9759-f25e11ddb21e,nicht bekannt,,d
+,,,,,,,,,x,,,,,,,Strassenwidmung Stadt Sulingen,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=6a63e324-3a35-4f76-8a8d-79974d97cc16,nicht bekannt,,d
 ,,,,,,,,x,,,,,,,,Hospizdienste Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=ba3ace60-4d2e-4694-47f7-326b01ab6234,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Fachkarte Vorrangstandorte für Windenergiegewinnung Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=e3a16369-9d31-4212-ad43-aeea5eff42aa,nicht bekannt,,d
 ,,x,,,,,,,,,,,,,,ATKIS Basis-DLM25 Landkreis Vechta,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=59814c05-c5da-4172-82bd-3b530329c733,nicht bekannt,,d
@@ -294,7 +297,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,,,,,,,,,x,,,,,,Niederschlagswasserbeseitigung Einleitungsstellen Landkreis Diepholz (Südkreis),http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=152d8320-8037-48df-b2d0-b777fba33193,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Flächennutzungsplan Stadt Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=a76eb3c6-95ee-48db-b008-86e443d2df6e,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Kanalkataster Samtgemeinde Barnstorf,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=80f00913-7495-445e-972a-8639c589d84a,nicht bekannt,,d
-,,,,,,,,,,,,x,,,,DWL Orte Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=ba3ace60-4d2e-4694-47f7-326b01ab6252,nicht bekannt,,d
 ,,,,,,,,,,,,x,,,,Gemeindegrenzen Reg.-Bez. Weser-Ems,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=ba3ace60-4d2e-4694-47f7-326b01ab6271,nicht bekannt,,d
 ,,,,,,,,,,x,,,,,,Niederschlagswasserbeseitigung Einzugsflächen Landkreis Diepholz (Südkreis),http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=50418dc6-5c29-4359-968b-a27465fce166,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Kanalkataster Stadt Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=e26160b6-70af-4a83-a422-b587e775d88c,nicht bekannt,,d
@@ -364,7 +366,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,,,,x,,,,,,,,,,,Bodenrichtwerte Bauland Landkreis Diepholz 2013,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=e779aa4c-2153-419f-9843-b33e34d56723,nicht bekannt,,d
 ,,,,,,,,,,x,,,,,,Verdachtsflächen Diepholz Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=f018956c-8974-4ca1-8268-66aa48f853a8,nicht bekannt,,d
 ,,,,,,,,,,x,,,,,,Verdachtsflächen Barnstorf Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=2fce81cb-9748-4919-8f34-c980a33a1736,nicht bekannt,,d
-,,,,,,,,,,x,,,,,,Brachflächen Diepholz Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=bf67c68c-678d-4f92-9759-f25e11ddb21e,nicht bekannt,,d
 ,,,,,,,,,,x,,,,,,Brachflächen Barnstorf Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=8e58d99d-77a8-49db-83b6-1a9d17b3ff8d,nicht bekannt,,d
 ,,,,,,,,,,x,,,,,,Verdachtsflächen Bruchhausen-Vilsen Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=05e5d3aa-6606-45c2-a013-55ede1062aff,nicht bekannt,,d
 ,,,,,,,,,,x,,,,,,Brachflächen Bruchhausen-Vilsen Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=13c9f53d-90e6-4185-9bce-ed1441dc334c,nicht bekannt,,d
@@ -396,7 +397,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,,,,,,,,,x,,,,,,Altablagerungen Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=ba3ace60-4d2e-4694-47f7-326b01ab62165,nicht bekannt,,d
 ,,,,,,,,,,x,,,,,,Altlastenverdachtsflächen nach Bergrecht Sulingen Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=290e70c1-0640-440a-9feb-95415262a83c,nicht bekannt,,d
 ,,,,,x,,,,,,,,,,,Flächennutzungsplan Stadt Sulingen,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=e243e960-bdcf-437d-9a55-3c9f3c62a4ad,nicht bekannt,,d
-,,,,,,,,,x,,,,,,,Strassenwidmung Stadt Sulingen,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=6a63e324-3a35-4f76-8a8d-79974d97cc16,nicht bekannt,,d
 ,,x,,,,,,,,,,,,,,Flurstücke Landkreis Diepholz Katasteramtsbezirk Sulingen,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=ba3ace60-4d2e-4694-44f7-326b01ab622,nicht bekannt,,d
 ,,,,,,,,,,x,,,,,,Landschaftsschutzgebiete Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=ba3ace60-4d2e-4694-47f7-326b01ab6287,nicht bekannt,,d
 ,,,,,,,,,,x,,,,,,Windkraftanlagen Landkreis Diepholz,http://gdi.diepholz.de/geodatensuche/Query/ShowCSWInfo.do;?fileIdentifier=ba3ace60-4d2e-4694-47f7-326b01ab62204,nicht bekannt,,d

@@ -1,11 +1,17 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,,,x,,,,,,,,,,Osten,http://www.ulm.de/sixcms/media.php/29/Osten.xls,nicht bekannt,XLS,g
-,,,,,,x,,,,,,,,,,Eselsberg,http://www.ulm.de/sixcms/media.php/29/Eselsberg.xls,nicht bekannt,XLS,g
 ,,,,,,x,,,,,,,,,,Grimmelfingen,http://www.ulm.de/sixcms/media.php/29/Grimmelfingen.xls,nicht bekannt,XLS,g
 ,,x,,,x,,,,,,,,,,,Gefahrenbäume 2010,http://www.ulm.de/sixcms/media.php/29/F%E4llliste%202010.xls,nicht bekannt,XLS,g
+,,,,,,x,,,,,,,,,,Osten,http://www.ulm.de/sixcms/media.php/29/Osten.xls,nicht bekannt,XLS,g
 ,,x,,,x,,,,,,,,,,,,http://www.ulm.de/sixcms/media.php/29/Ortschaften.xls,nicht bekannt,XLS,b
 ,,,,,,x,,,,,,,,,,Böfingen,http://www.ulm.de/sixcms/media.php/29/B%F6fingen.xls,nicht bekannt,XLS,g
 ,,,,,,,,,,,,x,,,,GM,http://www.ulm.de/sixcms/media.php/29/Eckwerte%202006%20.xls,nicht bekannt,XLS,g
+,,,,,,x,,,,,,,,,,Eselsberg,http://www.ulm.de/sixcms/media.php/29/Eselsberg.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,,,,,,,Bau- und Wohnungswesen Statistisches Jahrbuch 2013,http://daten.ulm.de/datenkatalog/metadaten/bau-und-wohnungswesen-statistisches-jahrbuch-2013,CC BY 3.0 DE,"XLS,XLSX",d
+,,,,,,,x,,,,,x,,,,"Wahlergebnisse, Gemeinderat und Personalstand Stadtverwaltung Statistisches Jahrbuch 2012",http://daten.ulm.de/datenkatalog/metadaten/wahlen-gemeinderat-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
+,,,,,,x,,,,,,,,,,Wiblingen,http://www.ulm.de/sixcms/media.php/29/Wiblingen.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,x,,x,,,Tabelle1,http://www.ulm.de/sixcms/media.php/29/Marktaussteller.xls,nicht bekannt,XLS,g
+,x,,,,,,,,,,,,,,,Wie sehe ich mein Schulgebäude,http://www.fgs.schule.ulm.de/files/wie_sehe_ich_mein_schulgebaude-_ausgefullt_09-10.xls,nicht bekannt,XLS,g
+,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/or2014/Goe-Do/OR_vorl_Ergebnis.xlsx,nicht bekannt,XLSX,b
 ,,,,,,x,,,,,,,,,,Spiel- und Bolzplatzflächen in den Stadtteilen der Stadt Ulm,http://daten.ulm.de/daten/single/spiel-und-bolzplatzflächen-den-stadtteilen-der-stadt-ulm,CC BY 3.0 DE,CSV,d
 ,,,,,,,,,x,,,,,,,Parkhäuser und P+R Stadt Ulm,http://daten.ulm.de/daten/single/parkhaeuser,CC BY 3.0 DE,SHAPE,d
 ,,,,,,,,,,x,,,,,,Landschaftsschutzgebiete der Stadt Ulm,http://daten.ulm.de/daten/single/landschaftsschutzgebiete_ulm,CC BY 3.0 DE,ORACLE,d
@@ -36,7 +42,6 @@ x,,,,,,,,,,,,,,,,Ulm und Umland - Kennzahlen Statistisches Jahrbuch 2013,http://
 ,,,,,,x,,,,,,,,,,Spielplätze mit Trainingsgeräten für Senioren,http://daten.ulm.de/daten/single/spielplaetze-seniorentrainingsgeraete,CC BY 3.0 DE,SHAPE,d
 ,,,,,,,x,,,,,,,,,Wahlkreis 291 Ulm - Karte der Gemeinden,http://daten.ulm.de/daten/single/karte-der-wahlkreis291,CC BY 3.0 DE,PDF,d
 ,,,,,,,,x,,,,,,,,Sozialindikatoren Sozialraum Wiblingen der Stadt Ulm,http://daten.ulm.de/datenkatalog/SOZR_sozialraumindikatoren_wiblingen,CC BY 3.0 DE,"XLS,XLSX",d
-,,,,,x,,,,,,,,,,,Bau- und Wohnungswesen Statistisches Jahrbuch 2013,http://daten.ulm.de/datenkatalog/metadaten/bau-und-wohnungswesen-statistisches-jahrbuch-2013,CC BY 3.0 DE,"XLS,XLSX",d
 x,,,,,,,,,,,,,,,,Vornamensstatistik der Stadt Ulm,http://daten.ulm.de/datenkatalog/metadaten/vornamensstatistik,CC BY 3.0 DE,CSV,d
 ,,,,,,x,,,,,,,,,,Schwimmbäder und Badeseen Stadt Ulm,http://daten.ulm.de/daten/single/baeder-seen,CC BY 3.0 DE,SHAPE,d
 x,,,,,,,,,,,,,,,,"Vorausrechnungsgebiete der Stadt Ulm, generalisiert",http://daten.ulm.de/daten/single/vorausrechnungsgebiete,CC BY 3.0 DE,SHAPE,d
@@ -88,20 +93,17 @@ x,,,,,,,,,,,,,,,,Städtevergleich BW - Kennzahlen Statistisches Jahrbuch 2013,ht
 ,,,,,,,,,,x,,,,,,Naturschutzgebiete der Stadt Ulm,http://daten.ulm.de/datenkatalog/metadaten/naturschutzgebiete-der-stadt-ulm,CC BY 3.0 DE,ORACLE,d
 ,,,,,,,,,,x,x,,x,,,Landwirtschaftsdaten Statistisches Jahrbuch 2012,http://daten.ulm.de/datenkatalog/metadaten/landwirtschaft-jahrbuch2012,CC BY 3.0 DE,"XLS,XLSX",d
 ,x,,,,,,,,,,,,,,,Schulstandorte Stadt Ulm,http://daten.ulm.de/daten/single/schulstandorte,CC BY 3.0 DE,SHAPE,d
-,,,,,,,x,,,,,x,,,,"Wahlergebnisse, Gemeinderat und Personalstand Stadtverwaltung Statistisches Jahrbuch 2012",http://daten.ulm.de/datenkatalog/metadaten/wahlen-gemeinderat-statistisches-jahrbuch-2012,CC BY 3.0 DE,"XLS,XLSX",d
 ,x,,,,,,,,,,,,,,,Musikschulstandorte Stadt Ulm,http://daten.ulm.de/daten/single/musikschulstandorte,CC BY 3.0 DE,SHAPE,d
 ,x,,,,,,,,,,,,,,,"Stadtbibliothek, Fahrbibliotheken Stadt Ulm",http://daten.ulm.de/daten/single/stadtbibliothek,CC BY 3.0 DE,SHAPE,d
 ,x,,,,,,,,,,,,,,,Musikschulstandorte Stadt Ulm (Karte),http://daten.ulm.de/daten/single/musikschulstandorte-karte,CC BY-NC-ND 3.0 DE,SHAPE,d
 ,,,,,,,,x,,,,,,,,Sozialindikatoren Sozialraum West der Stadt Ulm,http://daten.ulm.de/daten/single/sozialindikatoren-sozialraum-west-der-stadt-ulm,CC BY 3.0 DE,"XLS,XLSX",d
 ,,x,,,x,x,,,,,,,,,,"gpx und kml-Dateien (ZIP, 3 KB)","http://www.ulm.de/leben_in_ulm/ulmer_grillplaetze_fuer_gps_geraete_und_handys_zum_download.115290.3076,3665.htm",nicht bekannt,ZIP,c
-,,,,,,x,,,,,,,,,,Wiblingen,http://www.ulm.de/sixcms/media.php/29/Wiblingen.xls,nicht bekannt,XLS,g
 ,,,,,,,x,,,,,,,,,amtliches Endergebnis (xlsx),http://www.wahl.ulm.de/or2014/Eggingen/or2014egg.html,nicht bekannt,XLS,c
 ,,,,,,,x,,,,,,,,,Zweitstimmenergebnis Wahlabend (xls),http://www.wahl.ulm.de/bt2013/Zweit/bt2013zweit.html,nicht bekannt,XLS,c
 ,,,,,,,x,,,,,,,,,Ergebnis Wahlabend (xlsx),http://www.wahl.ulm.de/eu2014/html/eu2014.html,nicht bekannt,XLS,c
 ,,,,,,,x,,,,,,,,,amtliches Endergebnis (xlsx),http://www.wahl.ulm.de/gr2014/html/gr2014.html,nicht bekannt,XLS,c
 ,,,,,,,x,,,,,,,,,Erststimmenergebnis Wahlabend (xls),http://www.wahl.ulm.de/bt2013/Erst/bt2013erst.html,nicht bekannt,XLS,c
 ,x,,,,,,,,,,,,,,,Elternfragebogen?,http://www.fgs.schule.ulm.de/selbst-evaluation.html,nicht bekannt,XLS,c
-,,,,,,,,,,,x,,x,,,Tabelle1,http://www.ulm.de/sixcms/media.php/29/Marktaussteller.xls,nicht bekannt,XLS,g
 ,,,,,,x,,,x,,,,,,,Amtliche Radkarte Stadt Ulm,http://daten.ulm.de/daten/single/amtliche-radkarte-stadt-ulm,nicht bekannt,AI,d
 ,,,,,,x,,,x,,,,,,,"Unterwegs in Ulm, die 60 Ulmer Spazierwege",http://daten.ulm.de/datenkatalog/metadaten/unterwegs-in-ulm,nicht bekannt,AI,d
 ,,,,,x,,,,,,,,,,,Bebauungsplanbereiche,http://daten.ulm.de/daten/single/bplanbereiche,nicht bekannt,SHAPE,d
@@ -121,7 +123,6 @@ x,,,,,,,,,,,,,,,,Städtevergleich BW - Kennzahlen Statistisches Jahrbuch 2013,ht
 ,,x,,,,,,,,,,,,,,stadtplaene.ulm.de - Kartenviewer für amtliche Stadtkarten der Stadt Ulm,http://daten.ulm.de/daten/single/stadtplaeneulmde-kartenviewer-für-amtliche-stadtkarten-der-stadt-ulm,nicht bekannt,TIFF,d
 ,,x,,,,,,,,,,,,,,Automatisierte Liegenschaftskarte (ALK),http://daten.ulm.de/daten/single/automatisierte-liegenschaftskarte-alk,nicht bekannt,ORACLE,d
 ,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/or2014/Einsingen/OR_vorl_Ergebnis.xlsx,nicht bekannt,XLSX,b
-,x,,,,,,,,,,,,,,,Wie sehe ich mein Schulgebäude,http://www.fgs.schule.ulm.de/files/wie_sehe_ich_mein_schulgebaude-_ausgefullt_09-10.xls,nicht bekannt,XLS,g
 ,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/bt2013/Erst/Erststimme_Wahlabend.xls,nicht bekannt,XLS,b
 ,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/or2014/Ermingen/OR_vorl_Ergebnis.xlsx,nicht bekannt,XLSX,b
 ,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/or2014/Eggingen/OR_vorl_Ergebnis.xlsx,nicht bekannt,XLSX,b
@@ -135,7 +136,6 @@ x,,,,,,,,,,,,,,,,Städtevergleich BW - Kennzahlen Statistisches Jahrbuch 2013,ht
 ,,,,,,,x,,,,,,,,,vorläufiges Zweitstimmenergebnis Wahlabend (xls),http://www.wahl.ulm.de/bt2013/Presse/Zweitstimme_Wahlabend.xls,nicht bekannt,XLS,g
 ,,,,,,,x,,,,,,,,,Ergebnis Wahlabend (xlsx),http://www.wahl.ulm.de/eu2014/html/EU_vorl_Ergebnis.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/or2014/Maehringen/OR_vorl_Ergebnis.xlsx,nicht bekannt,XLSX,b
-,,,,,,,x,,,,,,,,,,http://www.wahl.ulm.de/or2014/Goe-Do/OR_vorl_Ergebnis.xlsx,nicht bekannt,XLSX,b
 ,,,,,,x,,,,,,,,,,Ulmer Höhenweg,http://daten.ulm.de/daten/single/ulmer-hoehenweg,CC BY 3.0 DE,SHAPE,d
 ,,,,,,,,x,,,,,,,,Sozialindikatoren Sozialraum Mitte/Ost der Stadt Ulm,http://daten.ulm.de/daten/single/sozialindikatoren-sozialraum-mitteost-der-stadt-ulm,CC BY 3.0 DE,"XLS,XLSX",d
 ,,x,,,x,,,,x,,,,,,,Haltepunkte als komprimierte KML-Datei (.kmz),http://www.ulmapi.de,CC-BY-SA 3.0,KMZ,c

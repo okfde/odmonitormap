@@ -1,15 +1,21 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
 ,,,,,x,,,,,x,,,,,,trinkwasserschutzzonen.xlsx,https://geo.sv.rostock.de/download/opendata/trinkwasserschutzzonen/trinkwasserschutzzonen.xlsx,nicht bekannt,XLSX,g
-,,,,,,x,,,,,,,,,,museen_galerien.xlsx,https://geo.sv.rostock.de/download/opendata/museen_galerien/museen_galerien.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,,,,,,,,brunnen.xlsx,https://geo.sv.rostock.de/download/opendata/brunnen/brunnen.xlsx,nicht bekannt,XLSX,g
 ,,x,,,x,,,,,,,,,,,ortsbeiratsbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/ortsbeiratsbereiche/ortsbeiratsbereiche.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,,,,,,,,sehenswuerdigkeiten.xlsx,https://geo.sv.rostock.de/download/opendata/sehenswuerdigkeiten/sehenswuerdigkeiten.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,,,,,,,,touristeninformation.xlsx,https://geo.sv.rostock.de/download/opendata/touristeninformation/touristeninformation.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,,,,,,x,,,,feuerwachen.xlsx,https://geo.sv.rostock.de/download/opendata/feuerwachen/feuerwachen.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,,,,,,,,musikclubs.xlsx,https://geo.sv.rostock.de/download/opendata/musikclubs/musikclubs.xlsx,nicht bekannt,XLSX,g
+,,,,,,x,,,,,,,,,,museen_galerien.xlsx,https://geo.sv.rostock.de/download/opendata/museen_galerien/museen_galerien.xlsx,nicht bekannt,XLSX,g
 ,,x,,,x,,,,,,,,,,,stadtbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/stadtbereiche/stadtbereiche.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,,,,,,x,,,,rettungswachen.xlsx,https://geo.sv.rostock.de/download/opendata/rettungswachen/rettungswachen.xlsx,nicht bekannt,XLSX,g
+,,,,,,x,,,,,,,,,,denkmale.xlsx,https://geo.sv.rostock.de/download/opendata/denkmale/denkmale.xlsx,nicht bekannt,XLSX,g
 ,x,,,,,x,,,,,,,,,,musik_tanzschulen.xlsx,https://geo.sv.rostock.de/download/opendata/musik_tanzschulen/musik_tanzschulen.xlsx,nicht bekannt,XLSX,g
+,,,,,,x,,,,,,,,,,sporthallen.xlsx,https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.xlsx,nicht bekannt,XLSX,g
+,,,,,,,,,x,,,,,,,parkmoeglichkeiten.xlsx,https://geo.sv.rostock.de/download/opendata/parkmoeglichkeiten/parkmoeglichkeiten.xlsx,nicht bekannt,XLSX,g
+,,,,,,x,,,x,,,,,,,reisebusterminals.xlsx,https://geo.sv.rostock.de/download/opendata/reisebusterminals/reisebusterminals.xlsx,nicht bekannt,XLSX,g
+,,,,,,x,,,,,,,,,,kinos.xlsx,https://geo.sv.rostock.de/download/opendata/kinos/kinos.xlsx,nicht bekannt,XLSX,g
+,,x,,,x,,,,,,,,,,,statistische_bezirke.xlsx,https://geo.sv.rostock.de/download/opendata/statistische_bezirke/statistische_bezirke.xlsx,nicht bekannt,XLSX,g
 ,,x,,,,,,,,,,x,,,,Statistische Blöcke,http://www.opendata-hro.de/dataset/1d163996-5ed7-488d-8d8e-11910a3c99c2,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,x,,,,,,,,x,,,,,,Sturmflut Ostsee,http://www.opendata-hro.de/dataset/79fc3386-6677-4af2-a9ef-5346225bc794,odc-by,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,,,,,,,,x,,,,,,,Reisebusparkplätze,http://www.opendata-hro.de/dataset/3cf4bc27-0769-48a2-aa46-95cccc4c80b5,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
@@ -135,17 +141,11 @@ x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2009,http://www.opendata-hro.de/dataset/
 ,x,,,,,x,,,,,,,,,,bibliotheken.xlsx,https://geo.sv.rostock.de/download/opendata/bibliotheken/bibliotheken.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,,,,,,,,theater.xlsx,https://geo.sv.rostock.de/download/opendata/theater/theater.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,,x,,,,,,,,"Liste der Tagespflegepersonen, Stand 12.12.2013",http://rathaus.rostock.de/sixcms/detail.php?_sid1=rostock_01.c.260.de&_sid2=rostock_01.c.267.de&_sid3=&_sid4=&_sid5=&id=35490,nicht bekannt,XLS,c
-,,,,,,x,,,,,,,,,,denkmale.xlsx,https://geo.sv.rostock.de/download/opendata/denkmale/denkmale.xlsx,nicht bekannt,XLSX,g
-,,,,,,x,,,,,,,,,,sporthallen.xlsx,https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.xlsx,nicht bekannt,XLSX,g
-,,,,,,,,,x,,,,,,,parkmoeglichkeiten.xlsx,https://geo.sv.rostock.de/download/opendata/parkmoeglichkeiten/parkmoeglichkeiten.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,,,x,,,,,,,faehranleger.xlsx,https://geo.sv.rostock.de/download/opendata/faehranleger/faehranleger.xlsx,nicht bekannt,XLSX,g
 ,,,,,x,,,,x,,,,,,,tankstellen.xlsx,https://geo.sv.rostock.de/download/opendata/tankstellen/tankstellen.xlsx,nicht bekannt,XLSX,g
 ,,,,,x,,,,,,,,,,,recyclinghoefe.xlsx,https://geo.sv.rostock.de/download/opendata/recyclinghoefe/recyclinghoefe.xlsx,nicht bekannt,XLSX,g
-,,,,,,x,,,x,,,,,,,reisebusterminals.xlsx,https://geo.sv.rostock.de/download/opendata/reisebusterminals/reisebusterminals.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,,,,,,,,begegnungszentren.xlsx,https://geo.sv.rostock.de/download/opendata/begegnungszentren/begegnungszentren.xlsx,nicht bekannt,XLSX,g
-,,,,,,x,,,,,,,,,,kinos.xlsx,https://geo.sv.rostock.de/download/opendata/kinos/kinos.xlsx,nicht bekannt,XLSX,g
 ,,x,,,x,,,,,,,,,,,gemeindeflaeche.xlsx,https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.xlsx,nicht bekannt,XLSX,g
-,,x,,,x,,,,,,,,,,,statistische_bezirke.xlsx,https://geo.sv.rostock.de/download/opendata/statistische_bezirke/statistische_bezirke.xlsx,nicht bekannt,XLSX,g
 ,,x,,,x,,,,,,,,,,,ortsteile.xlsx,https://geo.sv.rostock.de/download/opendata/ortsteile/ortsteile.xlsx,nicht bekannt,XLSX,g
 ,,x,,,x,,,,,,,,,,,ortsamtsbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/ortsamtsbereiche/ortsamtsbereiche.xlsx,nicht bekannt,XLSX,g
 ,,,,,,,,x,,,,,,,,tagespflegeeinrichtungen.xlsx,https://geo.sv.rostock.de/download/opendata/tagespflegeeinrichtungen/tagespflegeeinrichtungen.xlsx,nicht bekannt,XLSX,g
