@@ -1,16 +1,17 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,x,,,,,,,,,,,,,,Oberwesel - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/730020a7-ad31-4792-a1b7-aefb1d42ba20,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Oberwesel - Ebene: Oberwesel,http://www.daten.rlp.de/dataset/e6f73014-2197-4be3-8fb7-3b2a7acf80e1,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Perscheid - Ebene: Ergänzungssatzung Römerstraße,http://www.daten.rlp.de/dataset/dcd05916-a0d3-46e8-99da-a892944f966d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: Gegenüber der Loreley,http://www.daten.rlp.de/dataset/ce94b695-5c7d-4feb-b54a-369920dffeb7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Oberwesel - Ebene: Wohnpark Schlossfeld,http://www.daten.rlp.de/dataset/1713a49c-74c5-4246-9ccf-f8dfcdfc63e4,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Damscheid - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/ca4fb073-83b2-4e10-b727-e53b3078dcfc,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Wiebelsheim - Ebene: Industriepark Wiebelsheim,http://www.daten.rlp.de/dataset/c43e6d8d-c0ce-4686-8f45-13093b8eb2e3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: Vor dem Schlag 2. Änderung,http://www.daten.rlp.de/dataset/ccfa0113-26ef-4da0-8806-04d0c229a511,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Niederburg - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/dec94aa9-dc90-4096-afbe-4637ad649ba0,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: Gesamtbebauungsplan Biebernheim,http://www.daten.rlp.de/dataset/b83d7636-d743-4bb5-a77c-b69333556b2d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Wiebelsheim - Ebene: Auf dem Schloß,http://www.daten.rlp.de/dataset/695cd616-6c46-4ac4-9955-f6fc73390bc6,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: Gesamtbebauungsplan Biebernheim 3. Änderung,http://www.daten.rlp.de/dataset/c28cb1c2-7e03-4b6b-9a52-510a1d9e7c11,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Laudert - Ebene: Südhang,http://www.daten.rlp.de/dataset/023e6b82-5899-4e9d-8199-189465f39a50,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Laudert - Ebene: Ergänzungssatzung Ober der Mühlwies,http://www.daten.rlp.de/dataset/747f4a91-e042-4b70-8cbd-559f135be2cf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: Gesamtbebauungsplan Biebernheim 3. Änderung,http://www.daten.rlp.de/dataset/c28cb1c2-7e03-4b6b-9a52-510a1d9e7c11,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Oberwesel - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/730020a7-ad31-4792-a1b7-aefb1d42ba20,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Urbar - Ebene: Hinter der Ziegelhütte 3. Änderung,http://www.daten.rlp.de/dataset/d87efc0a-7e78-4b73-b7a2-802ab2ee50a1,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Oberwesel - Ebene: Auf Fasel 1. Änderung,http://www.daten.rlp.de/dataset/8bbeb34b-e1f5-4957-ab78-d33cd720b5e1,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: In der Pfingstwiese 2. Änderung,http://www.daten.rlp.de/dataset/6bfb08b7-4f32-4773-ad21-b707a7621b71,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -50,7 +51,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Laudert - Ebene: Laudert,http://www.daten.rlp.de/dataset/3a3692dc-7662-4653-9675-935247d10a2d,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Wiebelsheim - Ebene: Wiebelsheim,http://www.daten.rlp.de/dataset/f93728b6-e579-4f70-be97-28e23952284a,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: Vor dem Schlag,http://www.daten.rlp.de/dataset/9c1bfcee-4913-48be-948a-801c15aa039f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Damscheid - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/ca4fb073-83b2-4e10-b727-e53b3078dcfc,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Laudert - Ebene: Südhang (2. Bauabschnitt),http://www.daten.rlp.de/dataset/73947197-2cd6-4dd1-9857-813e70e8c647,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: In der Pfingstwiese 3. Änderung,http://www.daten.rlp.de/dataset/3b24eafd-90e1-42bf-b259-ac01cf484bea,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: Hellsgasse,http://www.daten.rlp.de/dataset/3ee6ea2a-6ac7-4b8f-9914-4a1af4e55300,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -59,7 +59,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Damscheid - Ebene: Auf Fahlewies,http://www.daten.rlp.de/dataset/5db5a545-1daf-4a32-adc1-e31160ecb7a9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Perscheid - Ebene: Umringe der Bebauungspläne von Perscheid,http://www.daten.rlp.de/dataset/5bd18329-6183-4bd9-a7a2-c0d402c6e888,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Urbar - Ebene: Hinter der Ziegelhütte,http://www.daten.rlp.de/dataset/e5c03b83-9508-4f6a-9002-f7b68ef89eb1,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Wiebelsheim - Ebene: Industriepark Wiebelsheim,http://www.daten.rlp.de/dataset/c43e6d8d-c0ce-4686-8f45-13093b8eb2e3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Oberwesel - Ebene: Umringe der Bebauungspläne von Oberwesel,http://www.daten.rlp.de/dataset/574697a4-e845-42dd-81ac-0cd9c5d36211,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: Auf dem Hähnchen II,http://www.daten.rlp.de/dataset/4a0852f8-34fb-4fb7-b329-bd8fde35d670,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Oberwesel - Ebene: Auf Fasel 2. Änderung,http://www.daten.rlp.de/dataset/417961ec-ef47-4101-a7aa-0a9a6ff45503,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -98,5 +97,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: In den Kreuzgärten 2. Änderung,http://www.daten.rlp.de/dataset/0ac68513-1c0e-4ab9-8468-e095968edc3c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: In den Kreuzgärten,http://www.daten.rlp.de/dataset/fa5092f2-ad30-4140-b7d6-ae1c73b4fe1e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Oberwesel - Ebene: Reiterhof Gut Schönberg,http://www.daten.rlp.de/dataset/e138695f-569a-45c0-930a-7267cfddee2e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Oberwesel - Ebene: Oberwesel,http://www.daten.rlp.de/dataset/e6f73014-2197-4be3-8fb7-3b2a7acf80e1,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Damscheid - Ebene: Ergänzungssatzung Damscheid,http://www.daten.rlp.de/dataset/7620568e-281d-4ea1-beb9-00cb11e1725f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Oberwesel - Ebene: Auf der Füllwies,http://www.daten.rlp.de/dataset/98b64322-e718-4daa-8208-0786231e10ee,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d

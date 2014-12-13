@@ -1,5 +1,4 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,x,x,,,,,,,,,,,,,,Boppard - Ebene: Oberdorf 2. Änderung,http://www.daten.rlp.de/dataset/97cea3db-2582-48b1-8615-8a8097af8e8e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Boppard - Ebene: Umringe der Bebauungspläne von Boppard,http://www.daten.rlp.de/dataset/8950b70a-0682-4b00-be4f-006c67a71b69,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: Buchholz-Mitte 1. Änderung,http://www.daten.rlp.de/dataset/665439cf-bcc6-49c9-9bf7-e0a07841e29f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: Auf Belgenhöchst,http://www.daten.rlp.de/dataset/13868047-314f-4912-9c77-a855ec980e75,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -9,8 +8,8 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: Zeil 3. Änderung,http://www.daten.rlp.de/dataset/285522bf-47bb-4a97-b7e6-a0337d7f52b5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: Ermeserhahn-Forstdreischen,http://www.daten.rlp.de/dataset/9b2b55bc-3ad2-46b2-9659-f722b03fba03,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: Buchholz-Mitte 5. Änderung,http://www.daten.rlp.de/dataset/fa1d5b2a-6142-4165-b497-25e130621010,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,"Boppard - Ebene: Am Heckenpfad, In der Giebelspitz",http://www.daten.rlp.de/dataset/8e365b01-b6f9-4ebe-829c-0184167e0091,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: Im Bungart,http://www.daten.rlp.de/dataset/94b3d8d0-5293-4d2b-8d5d-d146441702cd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,"Boppard - Ebene: Am Heckenpfad, In der Giebelspitz",http://www.daten.rlp.de/dataset/8e365b01-b6f9-4ebe-829c-0184167e0091,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: Im Buchmorgen,http://www.daten.rlp.de/dataset/2173aca5-4704-4279-910b-f935b253d0bc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: Buchholz-Mitte 4. Änderung,http://www.daten.rlp.de/dataset/afab0f0a-df34-4799-ab56-f06c7f53001d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: Niederhirzenach II,http://www.daten.rlp.de/dataset/cc35b824-2570-4290-8c3a-37f83f4446fd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -93,6 +92,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,,,,,,,,x,,,,,,,"Langzeitzählstelle auf der A 61 in AS Boppard, VQ Nord",http://www.daten.rlp.de/dataset/b9bcc4ed-9ad6-4b0c-957d-726e80c46d83,dl-de-by-1.0,PDF,d
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: Am Schäffersweyer II 2. Änderung,http://www.daten.rlp.de/dataset/cc4844eb-0098-4723-89f6-9ad0f384e881,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: An den Kreuzen,http://www.daten.rlp.de/dataset/35d54a01-e0b7-47b0-85ab-ff12445cbf4a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Boppard - Ebene: Oberdorf 2. Änderung,http://www.daten.rlp.de/dataset/97cea3db-2582-48b1-8615-8a8097af8e8e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: Bladenwiese,http://www.daten.rlp.de/dataset/f66f6e53-5924-4fc9-8fbc-bdf6773fd268,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: Ober-Ermeserhahn-West 2. Änderung,http://www.daten.rlp.de/dataset/920237e7-f4ac-402a-9b35-65d006722ace,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Boppard - Ebene: Bladenwiese 1. Änderung,http://www.daten.rlp.de/dataset/e9edf6fc-c6f7-4e8b-9827-99a72e5ca568,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
