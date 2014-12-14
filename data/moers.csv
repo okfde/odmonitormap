@@ -1,7 +1,12 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+x,,,,,,,,,,,,,,,,Beliebte Vornamen für Neugeborene 2011,http://www.moers.de/C1257221003C7526/html/7D17DBDF5B33CAFDC1257B5C0030622A?OpenDocument,dl-de-zero-2.0,CSV,d
+x,,,,,,,,,,,,,,,,Beliebte Vornamen für Neugeborene 2013,http://www.moers.de/C1257221003C7526/html/17821D658E239C2EC1257C36003D0934?OpenDocument,dl-de-zero-2.0,CSV,d
+,,,,,,,x,,,,,,,,,Wahlbezirke der Stadt Moers. Gliederung für die Kommunalwahl 2014 (Shape-Dateien),http://www.moers.de/C1257221003C7526/html/D731C4E5D1D179C3C1257C070032F1BC?OpenDocument,dl-de-zero-2.0,ZIP,d
+,,x,,,,,,,,,,,,,,Standorte der Blumenampeln,http://www.moers.de/C1257221003C7526/html/861100D840479EADC1257C82004A9CFE?OpenDocument,dl-de-zero-2.0,JSON,d
+,,,,,,,,,,,,,,x,,Übersichtskarte zur Autobahnanbindung von Moers,http://www.moers.de/C1257221003C7526/html/E6C6E5280E148B7EC1257D34004A0277?OpenDocument,dl-de-zero-2.0,TIF,d
+,,,,,,,,,,,,x,,,,Dienstanweisung Social Media,http://www.moers.de/C1257221003C7526/html/9D70FE8154C8C1F3C1257D4800477122?OpenDocument,dl-de-zero-2.0,TXT,d
 ,,x,,,x,,,,,,,,,,,Strassenraster 2012,http://www.moers.de/c125722e0057acf2/files/strassenraster_2012_12.csv/$file/strassenraster_2012_12.csv?openelement,nicht bekannt,CSV,b
 ,,,,,,,x,,,,,x,,,,Zuwendungen Fraktionen - Geldwerte Leistungen Teil B Entwurf,http://download.moers.de/Schule%20und%20Open%20Data/Haushaltsplan%20entwurf%202014/Word_Excel/Zuwendungen%20Fraktionen%20-%20%20Geldwerte%20Leistungen%20Teil%20B%20Entwurf.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,Dienstanweisung Social Media,http://www.moers.de/C1257221003C7526/html/9D70FE8154C8C1F3C1257D4800477122?OpenDocument,dl-de-zero-2.0,TXT,d
 ,,,,,,,x,,,,,,,,,Wahlverzeichnis 2009 Kommunalwahl,http://www.moers.de/c125722e0057acf2/files/kw_2009_08_30.csv/$file/kw_2009_08_30.csv?openelement,nicht bekannt,CSV,b
 ,x,,,,,,,,,,,,,,,Geschichtsstation,http://www.moers.de/c125722e0057acf2/files/geschichtsstation.kml/$file/geschichtsstation.kml?openelement,nicht bekannt,KML,b
 ,,,,,,,,,,x,,,,,,Blumenampel,http://www.moers.de/c125722e0057acf2/files/blumenampel.json/$file/blumenampel.json?openelement,nicht bekannt,JSON,b
@@ -18,7 +23,6 @@ x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Familienstand 2012
 ,,,,,,,,,,,,x,,,,Zugriffsstatistiken von moers.de für Dezember 2013,http://www.moers.de/C1257221003C7526/html/86B851F2C6CB2A90C1257C75004FE86E?OpenDocument,dl-de-zero-2.0,ZIP,d
 ,,,,,,,,,,,,x,,,,Zugriffsstatistiken von moers.de für Mai 2013,http://www.moers.de/C1257221003C7526/html/4F9E79BA68252802C1257B8000299220?OpenDocument,dl-de-zero-2.0,ZIP,d
 ,,,,,,,,,,,,x,,,,Zugriffsstatistiken von moers.de für Juni 2014,http://www.moers.de/C1257221003C7526/html/05EB762055330229C1257D0A003E6914?OpenDocument,dl-de-zero-2.0,ZIP,d
-x,,,,,,,,,,,,,,,,Beliebte Vornamen für Neugeborene 2011,http://www.moers.de/C1257221003C7526/html/7D17DBDF5B33CAFDC1257B5C0030622A?OpenDocument,dl-de-zero-2.0,CSV,d
 x,,,,,,,,,,,,,,,,Frauenanteil in den Sozialatlasbezirken nach Altersstruktur (7 Gruppen) 2012,http://www.moers.de/C1257221003C7526/html/217F36E0D5829F5FC1257B2D002AD72B?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Zugriffsstatistiken von moers.de für März 2013,http://www.moers.de/C1257221003C7526/html/71F7BB5F88C9A45CC1257B4100277483?OpenDocument,dl-de-zero-2.0,ZIP,d
 ,,,,,,,,,,,,x,,,,Internetumfrage 2013,http://www.moers.de/C1257221003C7526/html/2C414C57404C4DC5C1257B1D00314C64?OpenDocument,dl-de-zero-2.0,CSV,d
@@ -39,14 +43,12 @@ x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Altersstruktur (13
 ,,,,,,x,,,,,,,,,,Schüler/innen (gesamt) und gebildete Klassen an den Schulen der Stadt Moers im Schuljahr 2012/13,http://www.moers.de/C1257221003C7526/html/3E2F254DFDA609AFC1257B8800333B41?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,x,,,,,,,,,,Veranstaltungen nach Datum,http://www.moers.de/C1257221003C7526/html/680ACCBD7C34F214C1257B0C004A65F2?OpenDocument,dl-de-zero-2.0,XSP,d
 x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken 2012,http://www.moers.de/C1257221003C7526/html/F1F681BA4F49B6DEC1257B800045961A?OpenDocument,dl-de-zero-2.0,CSV,d
-x,,,,,,,,,,,,,,,,Beliebte Vornamen für Neugeborene 2013,http://www.moers.de/C1257221003C7526/html/17821D658E239C2EC1257C36003D0934?OpenDocument,dl-de-zero-2.0,CSV,d
 x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Staatsangehörigkeit 2012,http://www.moers.de/C1257221003C7526/html/1DB52DF276097B39C1257B2D0029EFA7?OpenDocument,dl-de-zero-2.0,CSV,d
 x,,,,,,,,,,,,,,,,Beliebte Vornamen für Neugeborene 2009,http://www.moers.de/C1257221003C7526/html/7277D86C3481E8F9C1257B5C002F8D98?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,x,,,,,,,,,,Angebotsentwicklung in Unterrichtseinheiten der VHS,http://www.moers.de/C1257221003C7526/html/CE6C549174ED0814C1257C6D004159E7?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,x,,,,,,,,,,Teilnehmerbelegung nach Jahreswochenstunden von 1999 bis 2012,http://www.moers.de/C1257221003C7526/html/8598E181CF3ED35AC1257C7E003172BC?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Zugriffsstatistiken von moers.de für September 2013,http://www.moers.de/C1257221003C7526/html/2D16E3173BDFC52FC1257C19003BF4B9?OpenDocument,dl-de-zero-2.0,ZIP,d
 ,,,,,,,,,,,,x,,,,Zugriffsstatistiken von moers.de für Januar 2013,http://www.moers.de/C1257221003C7526/html/F191251AD640E087C1257B10004AC4DE?OpenDocument,dl-de-zero-2.0,ZIP,d
-,,,,,,,x,,,,,,,,,Wahlbezirke der Stadt Moers. Gliederung für die Kommunalwahl 2014 (Shape-Dateien),http://www.moers.de/C1257221003C7526/html/D731C4E5D1D179C3C1257C070032F1BC?OpenDocument,dl-de-zero-2.0,ZIP,d
 ,,,,,,,,,,,,x,,,,Zugriffsstatistiken von moers.de Juli 2013,http://www.moers.de/C1257221003C7526/html/5231525492889A87C1257BD3002D600A?OpenDocument,dl-de-zero-2.0,ZIP,d
 ,,,,,,,x,,,,,,,,,Wahlergebnis der Landrats- und Kreistagswahlen von 1984 bis 2014 für das Moerser Stadtgebiet,http://www.moers.de/C1257221003C7526/html/83C5550A130037BDC1257CF50036714E?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,x,,,,,,,,,,Sportstätten und Bäder,http://www.moers.de/C1257221003C7526/html/0D817E20A893CE46C1257B12003C6067?OpenDocument,dl-de-zero-2.0,XSP,d
@@ -56,7 +58,6 @@ x,,,,,,,,,,,,,,,,Frauenanteil in den Sozialatlasbezirken nach Altersstruktur (7 
 ,,,,,,x,,,,,,,,,,Schüler/innen (gesamt) und gebildete Klassen an den Schulen der Stadt Moers im Schuljahr 2013/14,http://www.moers.de/C1257221003C7526/html/46AB003378B3EC41C1257C70004E2F4E?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,x,,,,,,,,,,Besucher und Mitwirkende schulfremder Veranstaltungen der Moerser Musikschule,http://www.moers.de/C1257221003C7526/html/C6FDB58491655915C1257C7E002C09F6?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,x,,,,,,,,,,,,,,Wohnplätze,http://www.moers.de/C1257221003C7526/html/F728A1AEE95E9E39C1257B120053DEFC?OpenDocument,dl-de-zero-2.0,"ZIP,PDF,JSON",d
-,,x,,,,,,,,,,,,,,Standorte der Blumenampeln,http://www.moers.de/C1257221003C7526/html/861100D840479EADC1257C82004A9CFE?OpenDocument,dl-de-zero-2.0,JSON,d
 ,,,,,,x,,,,,,,,,,Anzahl der Ausleihen der Bibliothek,http://www.moers.de/C1257221003C7526/html/7E0C9FA18C24B822C1257C200038604D?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,,x,,,,,,,,,Wahlergebnis der Landtagswahlen 1980 - 2012 für das Moerser Stadtgebiet,http://www.moers.de/C1257221003C7526/html/97DA84679F51B49FC1257D4E003BA5E3?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Facebookumfrage 2014,http://www.moers.de/C1257221003C7526/html/DA6E796E232F83EBC1257C98002E9C1E?OpenDocument,dl-de-zero-2.0,CSV,d
@@ -82,7 +83,6 @@ x,,,,,,,,,,,,,,,,Beliebte Vornamen für Neugeborene 2012,http://www.moers.de/C12
 x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Geschlecht 2012,http://www.moers.de/C1257221003C7526/html/10AE3A119E310F4BC1257B2D0028F135?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Internetumfrage 2010,http://www.moers.de/C1257221003C7526/html/75B8650288BCAC0EC1257B1D00345832?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,x,,,,,,,,,,,,,,Spielplätze in Moers,http://www.moers.de/C1257221003C7526/html/B239881271A68EB7C1257C8200602C53?OpenDocument,dl-de-zero-2.0,JSON,d
-,,,,,,,,,,,,,,x,,Übersichtskarte zur Autobahnanbindung von Moers,http://www.moers.de/C1257221003C7526/html/E6C6E5280E148B7EC1257D34004A0277?OpenDocument,dl-de-zero-2.0,TIF,d
 x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Migrationshintergrund 2011,http://www.moers.de/C1257221003C7526/html/2C5514779846D7B3C1257B0F00309C2E?OpenDocument,dl-de-zero-2.0,CSV,d
 x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken 2013,http://www.moers.de/C1257221003C7526/html/B9F7433A94EC202DC1257CA20034B041?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,x,,,,,,,,,,Schulen und Bildungseinrichtungen,http://www.moers.de/C1257221003C7526/html/8D0B93A9D5953BBCC1257B12003C107F?OpenDocument,dl-de-zero-2.0,XSP,d

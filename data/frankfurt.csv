@@ -1,5 +1,4 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,,,,,,,,,,,,x,Frankfurter Stadtteilgrenzen für GIS-Systeme,http://www.offenedaten.frankfurt.de/dataset/frankfurter-stadtteilgrenzen-fur-gis-systeme,dl-de-by-1.0,ZIP,d
 ,,,,x,,,,x,,,,,x,,,Ärztedichte und Sozialleistungen,http://www.offenedaten.frankfurt.de/dataset/gesundheit-soziales,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,x,,,,x,,,,,,,Stadtgebiet Fläche,http://www.offenedaten.frankfurt.de/dataset/stadtgebietflaeche,dl-de-by-1.0,"PDF,JSON,TXT,XLS,CSV",d
 ,,,,,,x,,,,x,,,,,,Grün Gürtel-Rundwanderweg,http://www.offenedaten.frankfurt.de/dataset/grun-gurtel-rundwanderweg,dl-de-by-1.0,GPX,d
@@ -11,6 +10,7 @@ x,,,,,,,,,,,,,,,,Bevölkerungsbewegungen Stadtteile,http://www.offenedaten.frank
 ,,,,,,,x,,,,,,,,,Kommunalwahlen Hessen,http://www.offenedaten.frankfurt.de/dataset/kommunalwahlen,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,x,,,,,,,,,,,,,,Hauskoordinaten der Stadtgrundkarte Frankfurt,http://www.offenedaten.frankfurt.de/dataset/hauskoordinaten-franfurt,dl-de-by-1.0,"PDF,TXT,CSV",d
 ,,,,,,,,,,,,,,,x,WMS Stadtkarten 2012 (farbig),http://www.offenedaten.frankfurt.de/dataset/wms-stadtkarten-2012-farbig,dl-de-by-1.0,LINK,d
+,,,,,,,,,,,,,,,x,Frankfurter Stadtteilgrenzen für GIS-Systeme,http://www.offenedaten.frankfurt.de/dataset/frankfurter-stadtteilgrenzen-fur-gis-systeme,dl-de-by-1.0,ZIP,d
 ,,,,,,,,,,,,,x,,,Arbeitsmarkt Wirtschaft,http://www.offenedaten.frankfurt.de/dataset/arbeitsmarkt-wirtschaft,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,,,,,,,,,,x,Arbeitsmarkt,http://www.offenedaten.frankfurt.de/dataset/rheinmain-arbeitsmarkt,dl-de-by-1.0,"PDF,JSON,XLS",d
 ,,,,,,,x,,,,,,,,,Bundestagswahlen,http://www.offenedaten.frankfurt.de/dataset/bundestagswahlen,dl-de-by-1.0,"PDF,JSON,XLS",d

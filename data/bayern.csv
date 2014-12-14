@@ -1,6 +1,7 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,,,,,,,x,,,x,,,Bodenuntersuchungen bayerischer Böden 2006 bis 2011,"http://opendata.bayern.de/daten/details,ea8a11b8-bf28-4761-90d7-863074bcdea4.html",other-open,,d
 ,,,,,,,,,,x,,,,,,Bodenkarten,"http://opendata.bayern.de/daten/details,b5106dda-8bed-4ba1-92df-cb217c4e9683.html",other-closed,,d
+,,,,,,,,,,x,,,,,,Grundwasserqualität,"http://opendata.bayern.de/daten/details,8f351cd3-fd46-47e1-b051-e32e563a1309.html",other-closed,,d
+,,,,,,,,,,x,,,x,,,Bodenuntersuchungen bayerischer Böden 2006 bis 2011,"http://opendata.bayern.de/daten/details,ea8a11b8-bf28-4761-90d7-863074bcdea4.html",other-open,,d
 ,x,,,,,,,,,,,,,,,Bibliographische Verbunddatenbank B3Kat als Linked Open Data,"http://opendata.bayern.de/daten/details,1d177e00-7463-4c3b-a67f-ff6d056188b2.html",CC0-1.0,,d
 ,,,,,,,,,x,,,x,,,,Verwaltungsatlas - Bayer. Staatsministerium des Innern,"http://opendata.bayern.de/daten/details,8593d873-ba79-436c-8963-334fe7f825e0.html",CC-BY 3.0,,d
 ,x,,,,,x,,,,,,x,,,,"Verwaltungsatlas - Bayer. Staatsministerium für Wissenschaft, Forschung und Kunst","http://opendata.bayern.de/daten/details,f72e10a3-74a0-45e9-9fc3-47948fe67f5c.html",CC-BY 3.0,,d
@@ -13,7 +14,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,,,,,,,,,,,x,,,,Verwaltungsatlas - Bayer. Staatsministerium der Justiz und für Verbraucherschutz,"http://opendata.bayern.de/daten/details,2ad03f64-7b6a-4583-afb5-a88ec6da732b.html",CC-BY 3.0,,d
 ,,,,,,,,,,x,,,,,,Gewässerkundliches Informationssystem: Messdaten Niederschlag,"http://opendata.bayern.de/daten/details,ba820163-d42c-44c8-97a1-84066e62be7d.html",other-closed,,d
 ,,,,,,,,,,x,,,,,,Aktivitätsgehalt von bayerischen Umweltproben,"http://opendata.bayern.de/daten/details,578ec863-2017-474b-91bc-266e6ecc6e9a.html",other-closed,,d
-,,,,,,,,,,x,,,,,,Grundwasserqualität,"http://opendata.bayern.de/daten/details,8f351cd3-fd46-47e1-b051-e32e563a1309.html",other-closed,,d
 ,,,,,,,,,,x,,,,,,EU-Badestellen,"http://opendata.bayern.de/daten/details,305ce0cb-36bc-484e-86ff-20d56ff962a1.html",other-closed,,d
 ,,,,,,,,,,x,,,,,,Gentechnisch veränderte Lebensmittel,"http://opendata.bayern.de/daten/details,c208c76a-c3e6-407a-a26f-e4af09731c5c.html",other-closed,,d
 ,,,,,,,,,,x,,,,,,Geologiekarten,"http://opendata.bayern.de/daten/details,2e8de97f-ab70-4a2a-b77e-4c7c1c79370f.html",other-closed,,d
