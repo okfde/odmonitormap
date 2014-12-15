@@ -1,18 +1,9 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
 ,,,,,,x,,,,,,,,,,brunnen.xlsx,https://geo.sv.rostock.de/download/opendata/brunnen/brunnen.xlsx,nicht bekannt,XLSX,g
-,,,,,x,,,,,x,,,,,,Hundetoiletten,http://www.opendata-hro.de/dataset/d8f701a5-48e8-4995-86e8-42471b878986,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
-,,,,,x,,,,,x,,,,,,Abfallbehälter,http://www.opendata-hro.de/dataset/934ec65d-398b-49d0-9833-9aa713c0ff87,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
+,,,,,x,,,,,x,,,,,,Glascontainer,http://www.opendata-hro.de/dataset/41e083a5-862a-4c9e-abe8-3427ac61b83b,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
+,,,,,x,,,,,x,,,,,,Papiercontainer,http://www.opendata-hro.de/dataset/3d57acf5-d768-497a-81ff-14a77ce59d85,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
 ,,,,,,x,,,,,,,,,,denkmale.xlsx,https://geo.sv.rostock.de/download/opendata/denkmale/denkmale.xlsx,nicht bekannt,XLSX,g
 ,,,,,x,,,,,x,,,,,,trinkwasserschutzzonen.xlsx,https://geo.sv.rostock.de/download/opendata/trinkwasserschutzzonen/trinkwasserschutzzonen.xlsx,nicht bekannt,XLSX,g
-,,x,,,x,,,,,,,,,,,ortsbeiratsbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/ortsbeiratsbereiche/ortsbeiratsbereiche.xlsx,nicht bekannt,XLSX,g
-,,,,,,x,,,,,,,,,,sehenswuerdigkeiten.xlsx,https://geo.sv.rostock.de/download/opendata/sehenswuerdigkeiten/sehenswuerdigkeiten.xlsx,nicht bekannt,XLSX,g
-,,,,,,x,,,,,,,,,,touristeninformation.xlsx,https://geo.sv.rostock.de/download/opendata/touristeninformation/touristeninformation.xlsx,nicht bekannt,XLSX,g
-,,,,,,,,,,,,x,,,,feuerwachen.xlsx,https://geo.sv.rostock.de/download/opendata/feuerwachen/feuerwachen.xlsx,nicht bekannt,XLSX,g
-,,,,,,x,,,,,,,,,,musikclubs.xlsx,https://geo.sv.rostock.de/download/opendata/musikclubs/musikclubs.xlsx,nicht bekannt,XLSX,g
-,,,,,,x,,,,,,,,,,museen_galerien.xlsx,https://geo.sv.rostock.de/download/opendata/museen_galerien/museen_galerien.xlsx,nicht bekannt,XLSX,g
-,,x,,,x,,,,,,,,,,,stadtbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/stadtbereiche/stadtbereiche.xlsx,nicht bekannt,XLSX,g
-,,,,,,,,,,,,x,,,,rettungswachen.xlsx,https://geo.sv.rostock.de/download/opendata/rettungswachen/rettungswachen.xlsx,nicht bekannt,XLSX,g
-,,,,,,,,,x,,,,,,,parkmoeglichkeiten.xlsx,https://geo.sv.rostock.de/download/opendata/parkmoeglichkeiten/parkmoeglichkeiten.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,,,,,,,,kinos.xlsx,https://geo.sv.rostock.de/download/opendata/kinos/kinos.xlsx,nicht bekannt,XLSX,g
 ,,x,,,,,,,,,,x,,,,Statistische Blöcke,http://www.opendata-hro.de/dataset/1d163996-5ed7-488d-8d8e-11910a3c99c2,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,x,,,,,,,,x,,,,,,Sturmflut Ostsee,http://www.opendata-hro.de/dataset/79fc3386-6677-4af2-a9ef-5346225bc794,odc-by,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",d
@@ -66,7 +57,6 @@ x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2006,http://www.opendata-hro.de/dataset/
 ,,,,,x,,,,x,,,,,,,Parkmöglichkeiten,http://www.opendata-hro.de/dataset/220781e3-2e11-4e06-955c-6bf5307973ff,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,x,,,,,,,,,,x,,,,Gemeindefläche,http://www.opendata-hro.de/dataset/fb8903bb-df12-45a7-a7de-5d0f17e2fca2,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,,,x,,,,,,,x,,x,,,Hörgeräteakustiker,http://www.opendata-hro.de/dataset/32cc18e5-80ea-45a0-8c28-c30d04b50f02,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
-,,,,,x,,,,,x,,,,,,Glascontainer,http://www.opendata-hro.de/dataset/41e083a5-862a-4c9e-abe8-3427ac61b83b,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
 ,,,,,x,,,,,,,,,,,Friedhöfe,http://www.opendata-hro.de/dataset/e9fda07a-424b-4e63-8aa1-2c24313b9002,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 x,,,,,,,,x,,,,,,,,Tagespflegeeinrichtungen,http://www.opendata-hro.de/dataset/e5773f72-970e-4337-a133-6a547dce7fa7,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,,,,,,x,,,,,,,Reisebusterminals,http://www.opendata-hro.de/dataset/141c4422-a265-427f-b8b3-208e216f4008,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
@@ -79,10 +69,10 @@ x,,,,,,,,x,,,,,,,,Pflegeeinrichtungen,http://www.opendata-hro.de/dataset/e8d3412
 ,,,,,x,,,,,x,,,,,,Sanierungsgebiet,http://www.opendata-hro.de/dataset/ec4de52b-afd2-483e-9f51-f5ef96440065,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
 ,,,,,,,,,,,x,,x,,,Banken,http://www.opendata-hro.de/dataset/c8d7bc49-0125-4bd9-96ae-5bdef7ab9c49,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2005,http://www.opendata-hro.de/dataset/312bb56d-15b4-4aa0-a1bd-2e867dd95e4a,odc-by,"XLSX,CSV,JSON",d
+,,,,,x,,,,,x,,,,,,Hundetoiletten,http://www.opendata-hro.de/dataset/d8f701a5-48e8-4995-86e8-42471b878986,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
 ,,,,,,x,,,,,,,,,,Feldsportanlagen,http://www.opendata-hro.de/dataset/9b7cbfc5-ffcb-4b51-9227-5bfe46eacc5d,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,x,,,,,,,,,,,,,,,Wissenschaftliche Einrichtungen,http://www.opendata-hro.de/dataset/1b59b3e2-a01a-4b42-9a67-f133f66438c6,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,,x,,,,,,,,,,,Bebauungspläne (Geltungsbereiche),http://www.opendata-hro.de/dataset/b6cadf55-e2e2-4113-9821-e2f2adcae5c1,odc-by,"CSV,XLSX,GEOJSON,SHAPEFILE,KML,GML,WMS",d
-,,,,,x,,,,,x,,,,,,Papiercontainer,http://www.opendata-hro.de/dataset/3d57acf5-d768-497a-81ff-14a77ce59d85,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
 ,,,,x,,,,,,,x,,x,,,Augenoptiker,http://www.opendata-hro.de/dataset/e4344ed2-ca33-4fb7-ab01-3b62fce36a85,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,x,,,,,x,,,,,,,,,,Museen und Galerien,http://www.opendata-hro.de/dataset/b13647f2-617e-40ac-8551-0ae77c9584bf,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,x,,,,,,,,x,,,,,,Naturdenkmale,http://www.opendata-hro.de/dataset/b56d16f0-2be4-40c0-8145-ec0694a142ca,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
@@ -106,6 +96,7 @@ x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2009,http://www.opendata-hro.de/dataset/
 ,,x,,,,,,,,,,x,,,,Offene Regionalkarte Mecklenburg-Vorpommern (ORKa.MV),http://www.opendata-hro.de/dataset/c3c935a0-a8fb-45ec-a4cc-aba211c2d978,cc-by,"TMS,WMS",d
 ,x,,,,,x,,,,,,,,,,Kunst im öffentlichen Raum,http://www.opendata-hro.de/dataset/9f7b6293-9e16-4f26-ac2a-920b20d4d830,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,x,,,,,,,x,,x,,,Sanitätshäuser,http://www.opendata-hro.de/dataset/d338266b-4f94-4cad-ae97-fe350baf8287,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
+,,,,,x,,,,,x,,,,,,Abfallbehälter,http://www.opendata-hro.de/dataset/934ec65d-398b-49d0-9833-9aa713c0ff87,odc-by,"CSV,GEOJSON,KML,GML,WMS",d
 ,,,,,x,,,,,,x,,x,,,Paketautomaten,http://www.opendata-hro.de/dataset/e7dba159-67b0-4956-a2fe-a0af435eecb9,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,,x,,,,,x,,,x,,,Solarpotential 2011,http://www.opendata-hro.de/dataset/9d8d6332-2d39-408a-9cfb-c509961e2c3c,odc-by,"CSV,GEOJSON,SHAPEFILE,KML,GML",d
 ,,,,,,x,,,,,,,,,,Unterkünfte,http://www.opendata-hro.de/dataset/f7e80691-34a5-4921-833d-b852efed871f,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
@@ -134,6 +125,15 @@ x,,,,,,,,,,,,x,,,,Bevölkerungsstruktur 2009,http://www.opendata-hro.de/dataset/
 ,,,,,x,,,,,,,,,,,Leuchten,http://www.opendata-hro.de/dataset/69562564-657b-4761-8a76-a27ac1d5c70a,odc-by,"CSV,XLSX,GEOJSON,KML,GML,WMS",d
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2005,http://www.opendata-hro.de/dataset/d31b7c96-c44a-46d3-87b7-e6275d7637ca,odc-by,"CSV,XLSX,JSON",d
 ,,,,,x,,,,,x,,,x,,,Solarpotential 2013,http://www.opendata-hro.de/dataset/809da8a1-2d6e-4eec-8611-ec27ad57d97d,odc-by,"CSV,GEOJSON,SHAPEFILE,KML,GML,WMS",d
+,,x,,,x,,,,,,,,,,,ortsbeiratsbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/ortsbeiratsbereiche/ortsbeiratsbereiche.xlsx,nicht bekannt,XLSX,g
+,,,,,,x,,,,,,,,,,sehenswuerdigkeiten.xlsx,https://geo.sv.rostock.de/download/opendata/sehenswuerdigkeiten/sehenswuerdigkeiten.xlsx,nicht bekannt,XLSX,g
+,,,,,,x,,,,,,,,,,touristeninformation.xlsx,https://geo.sv.rostock.de/download/opendata/touristeninformation/touristeninformation.xlsx,nicht bekannt,XLSX,g
+,,,,,,,,,,,,x,,,,feuerwachen.xlsx,https://geo.sv.rostock.de/download/opendata/feuerwachen/feuerwachen.xlsx,nicht bekannt,XLSX,g
+,,,,,,x,,,,,,,,,,musikclubs.xlsx,https://geo.sv.rostock.de/download/opendata/musikclubs/musikclubs.xlsx,nicht bekannt,XLSX,g
+,,,,,,x,,,,,,,,,,museen_galerien.xlsx,https://geo.sv.rostock.de/download/opendata/museen_galerien/museen_galerien.xlsx,nicht bekannt,XLSX,g
+,,x,,,x,,,,,,,,,,,stadtbereiche.xlsx,https://geo.sv.rostock.de/download/opendata/stadtbereiche/stadtbereiche.xlsx,nicht bekannt,XLSX,g
+,,,,,,,,,,,,x,,,,rettungswachen.xlsx,https://geo.sv.rostock.de/download/opendata/rettungswachen/rettungswachen.xlsx,nicht bekannt,XLSX,g
+,,,,,,,,,x,,,,,,,parkmoeglichkeiten.xlsx,https://geo.sv.rostock.de/download/opendata/parkmoeglichkeiten/parkmoeglichkeiten.xlsx,nicht bekannt,XLSX,g
 ,x,,,,,x,,,,,,,,,,musik_tanzschulen.xlsx,https://geo.sv.rostock.de/download/opendata/musik_tanzschulen/musik_tanzschulen.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,,,,,,,,sporthallen.xlsx,https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.xlsx,nicht bekannt,XLSX,g
 ,,,,,,x,,,x,,,,,,,reisebusterminals.xlsx,https://geo.sv.rostock.de/download/opendata/reisebusterminals/reisebusterminals.xlsx,nicht bekannt,XLSX,g
