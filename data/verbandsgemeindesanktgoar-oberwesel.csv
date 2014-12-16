@@ -1,6 +1,5 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,x,x,,,,,,,,,,,,,,Niederburg - Ebene: Auf dem Leh,http://www.daten.rlp.de/dataset/2c2648c5-14a7-43b9-8ff6-ecc958a14d44,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Oberwesel - Ebene: Oberwesel,http://www.daten.rlp.de/dataset/e6f73014-2197-4be3-8fb7-3b2a7acf80e1,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Perscheid - Ebene: Umringe der Bebauungspläne von Perscheid,http://www.daten.rlp.de/dataset/5bd18329-6183-4bd9-a7a2-c0d402c6e888,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Perscheid - Ebene: Ergänzungssatzung Römerstraße,http://www.daten.rlp.de/dataset/dcd05916-a0d3-46e8-99da-a892944f966d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: Gegenüber der Loreley,http://www.daten.rlp.de/dataset/ce94b695-5c7d-4feb-b54a-369920dffeb7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Oberwesel - Ebene: Wohnpark Schlossfeld,http://www.daten.rlp.de/dataset/1713a49c-74c5-4246-9ccf-f8dfcdfc63e4,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -58,7 +57,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Perscheid - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/c03bd1c2-c0b1-4b36-9d5d-b53bfcb89bba,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Oberwesel - Ebene: Ergänzungssatzung Chablisstraße,http://www.daten.rlp.de/dataset/af68e5c6-9e97-4f2a-85e6-95f050439a7b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Damscheid - Ebene: Auf Fahlewies,http://www.daten.rlp.de/dataset/5db5a545-1daf-4a32-adc1-e31160ecb7a9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Perscheid - Ebene: Umringe der Bebauungspläne von Perscheid,http://www.daten.rlp.de/dataset/5bd18329-6183-4bd9-a7a2-c0d402c6e888,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Urbar - Ebene: Hinter der Ziegelhütte,http://www.daten.rlp.de/dataset/e5c03b83-9508-4f6a-9002-f7b68ef89eb1,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Wiebelsheim - Ebene: Industriepark Wiebelsheim,http://www.daten.rlp.de/dataset/c43e6d8d-c0ce-4686-8f45-13093b8eb2e3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Oberwesel - Ebene: Umringe der Bebauungspläne von Oberwesel,http://www.daten.rlp.de/dataset/574697a4-e845-42dd-81ac-0cd9c5d36211,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -83,6 +81,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Wiebelsheim - Ebene: Auf der Gaß,http://www.daten.rlp.de/dataset/e0fbabb6-53c7-4d3b-b0f3-e862a2f8f243,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Wiebelsheim - Ebene: Auf der Gaß 1. Änderung,http://www.daten.rlp.de/dataset/01cb6265-54ba-4be6-8630-b09e1f8ed95b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Perscheid - Ebene: Hinter dem kurzen Wieschen 1. Änderung,http://www.daten.rlp.de/dataset/8b15208f-d19b-461a-a825-34fa7dbfbf37,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Niederburg - Ebene: Auf dem Leh,http://www.daten.rlp.de/dataset/2c2648c5-14a7-43b9-8ff6-ecc958a14d44,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Damscheid - Ebene: Im Taubhaus,http://www.daten.rlp.de/dataset/f17c8ac5-9674-40e7-bf13-6ddc5f210fa3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Damscheid - Ebene: Umringe der Bebauungspläne von Damscheid,http://www.daten.rlp.de/dataset/b34bd9e8-efaf-4b26-b3c4-cd01040db462,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Perscheid - Ebene: Hinter dem kurzen Wieschen,http://www.daten.rlp.de/dataset/d2d25814-7689-4c6a-a2d7-e9333529df23,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -98,5 +97,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: In den Kreuzgärten 2. Änderung,http://www.daten.rlp.de/dataset/0ac68513-1c0e-4ab9-8468-e095968edc3c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Sankt Goar - Ebene: In den Kreuzgärten,http://www.daten.rlp.de/dataset/fa5092f2-ad30-4140-b7d6-ae1c73b4fe1e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Oberwesel - Ebene: Reiterhof Gut Schönberg,http://www.daten.rlp.de/dataset/e138695f-569a-45c0-930a-7267cfddee2e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Oberwesel - Ebene: Oberwesel,http://www.daten.rlp.de/dataset/e6f73014-2197-4be3-8fb7-3b2a7acf80e1,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Damscheid - Ebene: Ergänzungssatzung Damscheid,http://www.daten.rlp.de/dataset/7620568e-281d-4ea1-beb9-00cb11e1725f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Oberwesel - Ebene: Auf der Füllwies,http://www.daten.rlp.de/dataset/98b64322-e718-4daa-8208-0786231e10ee,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d

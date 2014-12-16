@@ -1,6 +1,6 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,x,x,,,,,,,,,,,,,,Andernach - Ebene: Einkaufswelt in Andernach,http://www.daten.rlp.de/dataset/c8598c0c-5d97-4806-8c14-b90dfddbafb5,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Andernach - Ebene: Meringstrasse - Neugasse,http://www.daten.rlp.de/dataset/562742b6-104d-4030-966a-dc797c465a59,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Andernach - Ebene: Industriegebiet IV,http://www.daten.rlp.de/dataset/bc5ea8eb-908c-44fe-9ce6-c96f111b4617,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Andernach - Ebene: Stiftshospital und Umgebung,http://www.daten.rlp.de/dataset/fb0aa095-b8e7-4562-80a9-24f4989a87f3,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Antel 2. Planänderung,http://www.daten.rlp.de/dataset/2e269a1d-e056-470b-bc40-ef4e2834ed2f,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Frankenstrasse/Martinsbergstrasse,http://www.daten.rlp.de/dataset/f25f89a0-7044-44ac-abc6-c553bfd4bda3,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Bassenheimerweg,http://www.daten.rlp.de/dataset/4aed17b9-c9ba-492a-83d3-aed6f0ec5c25,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -89,12 +89,10 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: In der Jaugel,http://www.daten.rlp.de/dataset/76fcb480-b756-4b4b-a380-475e482ce8db,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Stadionstrasse,http://www.daten.rlp.de/dataset/5bef3ac5-db4d-4f7e-b64e-bacfb55bdaca,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Andernach - Ebene: Flächennutzungsplan 1. Änderung,http://www.daten.rlp.de/dataset/72aa2251-3f09-4fa1-97d5-55fbfe4b2ad3,dl-de-by-1.0,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Andernach - Ebene: Industriegebiet IV,http://www.daten.rlp.de/dataset/bc5ea8eb-908c-44fe-9ce6-c96f111b4617,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Aktienstrasse - Hasenfänger II,http://www.daten.rlp.de/dataset/1c997f85-d67e-4299-86de-712e5a5f44a3,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Im Mühlstück,http://www.daten.rlp.de/dataset/7a777382-d89d-4b03-a38e-6b4e84a541df,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Industriegebiet I 3. Planänderung,http://www.daten.rlp.de/dataset/b53cc8f9-a570-4ecf-9ef7-99d56637bb5e,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Meringstrasse - Neugasse 3. Änderung,http://www.daten.rlp.de/dataset/dc99624a-1388-4e4d-8e93-c774d5fd5e92,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Andernach - Ebene: Stiftshospital und Umgebung,http://www.daten.rlp.de/dataset/fb0aa095-b8e7-4562-80a9-24f4989a87f3,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Industriegebiet III 1. Änderung,http://www.daten.rlp.de/dataset/ece60512-5da5-4fae-bc23-415cccdb0c07,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Auf der Schmitt 1. Planänderung,http://www.daten.rlp.de/dataset/07e79f09-e1c1-4637-b348-726d0db4ae4d,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Andernach - Ebene: Miesenheimer Streuobstgebiet Blatt 1, Blatt 2",http://www.daten.rlp.de/dataset/8eb3d2ab-ab44-4a69-bf70-f0bedb03c41f,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -126,7 +124,9 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Am unteren Stadtgraben 4. Planänderung,http://www.daten.rlp.de/dataset/f1a4aa8c-5ef2-47c8-8167-528ce338c5bb,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Am unteren Stadtgraben 5. Änderung,http://www.daten.rlp.de/dataset/e7446001-01c6-4e77-be36-14fd7f6891a6,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Rauscherstrasse und Umgebung 1. Planänderung,http://www.daten.rlp.de/dataset/e7dbf62d-e3be-4373-a334-7a07435b46c9,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Andernach - Ebene: Einkaufswelt in Andernach,http://www.daten.rlp.de/dataset/c8598c0c-5d97-4806-8c14-b90dfddbafb5,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Kölner Straße/Kirchhofsweg,http://www.daten.rlp.de/dataset/a07c3073-c715-4f7b-a86f-bfd325923f49,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Andernach - Ebene: Meringstrasse - Neugasse,http://www.daten.rlp.de/dataset/562742b6-104d-4030-966a-dc797c465a59,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Martinsberg I 2. Planänderung,http://www.daten.rlp.de/dataset/52587002-35eb-47fa-814b-710c9af65cf7,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Martinsberg I 4. Änderung,http://www.daten.rlp.de/dataset/7caa32c6-f9c8-4c4f-b7c0-508e3bdba202,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Andernach - Ebene: Industriegebiet V 3. Planänderung,http://www.daten.rlp.de/dataset/4d12c034-37a9-4211-b527-96ee5d27519d,dl-de-by-1.0,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
