@@ -1,7 +1,7 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,x,x,,,,,,,,,,,,,,Kisselbach - Ebene: Auf der Spring,http://www.daten.rlp.de/dataset/95bba5fb-f0bc-4825-bf0e-14787b52c042,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Schnorbach - Ebene: Umringe der Bebauungspläne von Schnorbach,http://www.daten.rlp.de/dataset/e9a1ff8a-4c70-4234-8670-f0961de028e8,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Benzweiler - Ebene: Umringe der Bebauungspläne von Benzweiler,http://www.daten.rlp.de/dataset/88cc60b5-cf0d-4819-aed5-6ad0a304cfef,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Schnorbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/c898603b-b249-43ae-a42b-129f46b75c35,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Kisselbach - Ebene: Auf dem Vogelsang,http://www.daten.rlp.de/dataset/4d85a4f1-0cf7-4724-b574-99e1198902c9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Dichtelbach - Ebene: Am Tiergarten 1. Änderung,http://www.daten.rlp.de/dataset/3a6de19b-9432-4e70-9562-ffc542d6ebfe,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Schnorbach - Ebene: Am Faller 1. Änderung,http://www.daten.rlp.de/dataset/3a42cbdf-1636-4725-a609-1da09926024f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Schnorbach - Ebene: Am Faller,http://www.daten.rlp.de/dataset/6db0e8e3-3a30-4846-a1c1-763dc6975fdf,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -22,8 +22,8 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Argenthal - Ebene: Am Hosterborn I 1. Änderung,http://www.daten.rlp.de/dataset/55664bd1-3f40-4b31-894c-2584456afc38,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Dichtelbach - Ebene: Bachwiese,http://www.daten.rlp.de/dataset/839ab5fd-bb45-4e3b-b64c-66fcdd837d5f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Rheinböllen - Ebene: Am Hockenborn,http://www.daten.rlp.de/dataset/18f97f06-baa3-44bf-888f-1c9568fc5ec8,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Schnorbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/c898603b-b249-43ae-a42b-129f46b75c35,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Dichtelbach - Ebene: Am Tiergarten 3. Änderung,http://www.daten.rlp.de/dataset/ccb7b201-3171-497d-88c4-34d4e65bfe19,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Kisselbach - Ebene: Auf der Spring,http://www.daten.rlp.de/dataset/95bba5fb-f0bc-4825-bf0e-14787b52c042,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Erbach - Ebene: Ergänzungssatzung Rothweg 1. Änderung,http://www.daten.rlp.de/dataset/86df4b56-7310-46b8-80b6-2bac2cd3b896,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Steinbach - Ebene: Abrundungssatzung Steinbach,http://www.daten.rlp.de/dataset/23b1e429-9873-4131-b71f-4a3df8ac0190,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Rheinböllen - Ebene: Oben in der Aspenheck / Auf der Höh 1. Änderung,http://www.daten.rlp.de/dataset/cd577f55-fcb5-4d0d-8628-249848cacaa5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -80,6 +80,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Rheinböllen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/5ce0943d-c746-44fb-9837-c3ee577cd6f7,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Mörschbach - Ebene: Am Metzenweg II,http://www.daten.rlp.de/dataset/a0596818-dbe5-40f9-878d-1839673b0041,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Kisselbach - Ebene: Gartenstraße,http://www.daten.rlp.de/dataset/6d8cb4fc-07b6-4d5a-9bc9-25d164927d37,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Schnorbach - Ebene: Umringe der Bebauungspläne von Schnorbach,http://www.daten.rlp.de/dataset/e9a1ff8a-4c70-4234-8670-f0961de028e8,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Kisselbach - Ebene: Gewerbebetrieb Rheingantz 1. Änderung,http://www.daten.rlp.de/dataset/ed333d93-06b0-4bba-90ff-5eba2a3ef877,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Kisselbach - Ebene: Kisselbach,http://www.daten.rlp.de/dataset/17a8e91d-2795-401f-aa17-9a61d3b0c0b2,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Liebshausen - Ebene: An der Poststraße III,http://www.daten.rlp.de/dataset/a91c9e12-6712-4d48-81a3-ac92dd13c1e3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -116,7 +117,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Argenthal - Ebene: Auf der Heide,http://www.daten.rlp.de/dataset/f9cdcb7f-5b8b-4397-bc3d-f7cbbb8ba3dd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Liebshausen - Ebene: An der Perscheider Straße,http://www.daten.rlp.de/dataset/b15f85b9-3c76-41b4-b61e-20ce023be205,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Rheinböllen - Ebene: Industriepark Soonwald,http://www.daten.rlp.de/dataset/8ea94be6-6f46-42ff-a751-e6e6d7eaa180,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Kisselbach - Ebene: Auf dem Vogelsang,http://www.daten.rlp.de/dataset/4d85a4f1-0cf7-4724-b574-99e1198902c9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Argenthal - Ebene: In den Heidegärten,http://www.daten.rlp.de/dataset/9b2df9b9-3519-4edc-ac4a-1f5093f3e91d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Riesweiler - Ebene: Auf´m Hahnacker, Rechtsplan Teil II",http://www.daten.rlp.de/dataset/3a03092d-9e77-4a03-bb5e-2d32a96e5e1b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Liebshausen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/de41a789-7512-4467-a875-dd69b8c40833,cc-nc,"KARTENVIEWER,WMS,HTML",d

@@ -1,5 +1,6 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,x,x,,,,,,,,,,,,,,Vallendar - Ebene: Auf der Zehn Teilgebiet 1. Änderung,http://www.daten.rlp.de/dataset/d7f1530d-788e-4169-a054-fd0181784856,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Urbar - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/be7e1f25-8ca3-4dbb-86a0-337bc5914529,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Vallendar - Ebene: Umringe der Bebauungspläne von Vallendar,http://www.daten.rlp.de/dataset/e3259a60-461d-47ce-bd60-884a3a191df8,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Urbar - Ebene: Auf dem Sand II,http://www.daten.rlp.de/dataset/b037b48b-91f2-4073-8d94-e3ea43044473,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Urbar - Ebene: Sondergebiet Lernstandort An der Schmelz,http://www.daten.rlp.de/dataset/ac61f7ac-2137-4045-b43f-f52097c37a4d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Niederwerth - Ebene: Ehemalige Kläranlage,http://www.daten.rlp.de/dataset/26f4d342-878f-4e40-9861-3c13a072e4de,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -51,7 +52,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Weitersburg - Ebene: Weitersburg,http://www.daten.rlp.de/dataset/b7b2672c-81e8-4998-9426-96526ac3e9f5,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Vallendar - Ebene: Wohnanlage Schubertstraße 1. Änderung,http://www.daten.rlp.de/dataset/3c9e4c67-135f-413d-b874-f5f5494bd8ee,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Weitersburg - Ebene: Gewerbegebiet Grenzhausener Straße -Teilbereich Ost- 1. Änderung,http://www.daten.rlp.de/dataset/9d5540c4-c2de-409d-8ed5-26948a7d7b82,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Urbar - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/be7e1f25-8ca3-4dbb-86a0-337bc5914529,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,x,,,,,,,,,,,Niederwerth - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/27628595-719f-45c3-b574-e200ef88f1da,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Vallendar - Ebene: Gartenstadt 1. Änderung 4. Änderung,http://www.daten.rlp.de/dataset/664c3d77-0d07-4767-aeb2-abfa7423ce32,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Urbar - Ebene: Gut Besselich 1. Änderung,http://www.daten.rlp.de/dataset/a7a2f07c-6ced-49c1-8e51-ed8c38262197,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -83,7 +83,6 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Vallendar - Ebene: Merbachtal 1. Änderung,http://www.daten.rlp.de/dataset/fa392860-5fb8-4ebd-9151-82c4dea6bbe0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,"Niederwerth - Ebene: Gartenstr., Am Stiel, Brückenstr., Schützenstr., Vogteistr., Am Kloster 1. Änderung 5. Änderung",http://www.daten.rlp.de/dataset/fce18dfe-1bc1-46ff-9cfd-af9eed365dba,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Vallendar - Ebene: Wächterhaus / Hühnerberg,http://www.daten.rlp.de/dataset/3869241e-3a18-45ca-8ca0-01970b6ff0a5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Vallendar - Ebene: Umringe der Bebauungspläne von Vallendar,http://www.daten.rlp.de/dataset/e3259a60-461d-47ce-bd60-884a3a191df8,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Vallendar - Ebene: Wohnanlage Schubertstraße,http://www.daten.rlp.de/dataset/bb6387a4-804a-4a18-b94b-fe80c6da7265,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Vallendar - Ebene: Ortskern Mallendar 1. Änderung 2. Änderung,http://www.daten.rlp.de/dataset/bb559c9d-12e3-4ab9-aae0-070cc5bf3cb5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Vallendar - Ebene: Kirchstraße,http://www.daten.rlp.de/dataset/66875213-9926-4849-8140-3370a913b3fe,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -99,6 +98,7 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Vallendar - Ebene: Flächennutzungspläne,http://www.daten.rlp.de/dataset/9035b6f9-f964-43a0-a2f4-2cd692a0270d,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Niederwerth - Ebene: Umringe der Bebauungspläne von Niederwerth,http://www.daten.rlp.de/dataset/78642e2e-42b7-497e-9515-58e4b532c288,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Niederwerth - Ebene: Im Schnürchen,http://www.daten.rlp.de/dataset/6b60fb0c-e489-4756-8692-3c9f8bf5be86,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Vallendar - Ebene: Auf der Zehn Teilgebiet 1. Änderung,http://www.daten.rlp.de/dataset/d7f1530d-788e-4169-a054-fd0181784856,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Vallendar - Ebene: Stadtkern Vallendar Planbereich 1.1 Nord Berners Brauerei,http://www.daten.rlp.de/dataset/5293da85-03e1-4a83-a817-107ae3fc32b0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Weitersburg - Ebene: Abschnitt II,http://www.daten.rlp.de/dataset/dfe2b2b8-30e8-40c1-8385-787241351a96,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Vallendar - Ebene: Mallendarer Bachtal 1. Änderung,http://www.daten.rlp.de/dataset/78038dfe-2f83-4587-a56a-94cf913f4c4d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
