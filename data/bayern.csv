@@ -1,12 +1,8 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,,,,,,,x,,,x,,,Bodenuntersuchungen bayerischer Böden 2006 bis 2011,"http://opendata.bayern.de/daten/details,ea8a11b8-bf28-4761-90d7-863074bcdea4.html",other-open,,d
 ,,,,,,,,,,,,x,,,,Verwaltungsgrenzen,"http://opendata.bayern.de/daten/details,03634a2b-1d49-4649-b986-7156ad8a2633.html",CC-BY 3.0,,d
-,,,,,x,x,,,x,x,,,,,,Digitale Topographische Karte 1:500000,"http://opendata.bayern.de/daten/details,0db1a0c3-de0d-47df-b70d-96b758615c7d.html",CC-BY 3.0,,d
-,,,,,,x,,,,,,,,,,Freizeitwege,"http://opendata.bayern.de/daten/details,fe15e8f4-bff2-4fb6-82ea-70302be43d05.html",CC-BY 3.0,,d
+,,,,,,,,,,x,,,x,,,Bodenuntersuchungen bayerischer Böden 2006 bis 2011,"http://opendata.bayern.de/daten/details,ea8a11b8-bf28-4761-90d7-863074bcdea4.html",other-open,,d
 ,x,,,,,,,,,,,,,,,Bibliographische Verbunddatenbank B3Kat als Linked Open Data,"http://opendata.bayern.de/daten/details,1d177e00-7463-4c3b-a67f-ff6d056188b2.html",CC0-1.0,,d
 ,,,,,,,,,x,,,x,,,,Verwaltungsatlas - Bayer. Staatsministerium des Innern,"http://opendata.bayern.de/daten/details,8593d873-ba79-436c-8963-334fe7f825e0.html",CC-BY 3.0,,d
-,,,,,,,,,,x,,,,,,Bodenkarten,"http://opendata.bayern.de/daten/details,b5106dda-8bed-4ba1-92df-cb217c4e9683.html",other-closed,,d
-,,,,,x,x,,,,,,,x,,,Digitales Orthophoto 2m Bodenauflösung,"http://opendata.bayern.de/daten/details,db017e0c-99d0-41ea-8ec7-239a356c7593.html",CC-BY 3.0,,d
 ,,,,,,,,,,,,,x,,,Verwaltungsatlas - Sonstige Institutionen in Bayern,"http://opendata.bayern.de/daten/details,a1f838e1-b961-4991-a11e-9c30b1a3f807.html",CC-BY 3.0,,d
 ,,,,,,,,,,,,x,,,,Verwaltungsatlas - Verwaltungsgrenzen - Bayern,"http://opendata.bayern.de/daten/details,5450cab2-1956-450d-8f4b-a6a41c2df63e.html",CC-BY 3.0,,d
 ,,,,,,,,,,,,x,x,,,"Verwaltungsatlas - Bayer. Staatsministerium für Ernährung, Landwirtschaft und Forsten","http://opendata.bayern.de/daten/details,ecef5c60-4d33-48ed-bedb-9562f6d91e1e.html",CC-BY 3.0,,d
@@ -18,24 +14,28 @@ x,,,,,,,,x,,,,x,,,,"Verwaltungsatlas - Bayer. Staatsministerium für Arbeit und 
 ,,,,,,,,,,x,,,,,,Immissionsmessnetz für Radioaktivität (IfR): aktuelle Messwerte,"http://opendata.bayern.de/daten/details,4736fcb5-f4b8-4cb0-8d77-78f17112275d.html",other-closed,,d
 ,,,,,,,,,,x,,,,,,Gewässerkundliches Informationssystem: Messdaten Niederschlag,"http://opendata.bayern.de/daten/details,ba820163-d42c-44c8-97a1-84066e62be7d.html",other-closed,,d
 ,,,,,,,,,,x,,,,,,Aktivitätsgehalt von bayerischen Umweltproben,"http://opendata.bayern.de/daten/details,578ec863-2017-474b-91bc-266e6ecc6e9a.html",other-closed,,d
+,,,,,,,,,,x,,,,,,Bodenkarten,"http://opendata.bayern.de/daten/details,b5106dda-8bed-4ba1-92df-cb217c4e9683.html",other-closed,,d
 ,,,,,,,,,,x,,,,,,EU-Badestellen,"http://opendata.bayern.de/daten/details,305ce0cb-36bc-484e-86ff-20d56ff962a1.html",other-closed,,d
 ,,,,,,,,,,x,,,,,,Grundwasserqualität,"http://opendata.bayern.de/daten/details,8f351cd3-fd46-47e1-b051-e32e563a1309.html",other-closed,,d
 ,,,,,,,,,,x,,,,,,Gentechnisch veränderte Lebensmittel,"http://opendata.bayern.de/daten/details,c208c76a-c3e6-407a-a26f-e4af09731c5c.html",other-closed,,d
 ,,,,,,,,,,x,,,,,,Daten zur Abfallwirtschaft in Bayern,"http://opendata.bayern.de/daten/details,860fec0c-9ca0-4784-aa7e-545782975029.html",other-open,,d
+,,,,,,,,,,,,x,,,,Richtlinien über Zuweisungen des Freistaats Bayern zu kommunalen Baumaßnahmen im kommunalen Finanzausgleich (FA-ZR),"http://opendata.bayern.de/daten/details,78ec7d88-bb8f-4d96-a656-0a4f00c014fb.html",other-open,,d
 x,x,,,,x,x,x,x,x,x,,x,x,,,Statistische Themen in GENESIS-Online Bayern,"http://opendata.bayern.de/daten/details,6958b30f-9a9d-4637-a5ca-b2d0c33ba500.html",other-closed,,d
+,,,,,,,,,,,,,x,,,"Statistische Daten: Aus- und Einfuhr: Land, Jahre","http://opendata.bayern.de/daten/details,56a13beb-ad60-462e-b90b-6965aca66764.html",other-closed,,d
 ,,,,,,,,,,,,,x,,,Statistische Tabellen: Außenhandel,"http://opendata.bayern.de/daten/details,58cde2bf-0865-46d8-b3cc-e4c75964c12c.html",other-closed,,d
 ,,,,,,x,,,,,,,,,,Statistische Tabellen: Monatserhebung im Tourismus,"http://opendata.bayern.de/daten/details,21b89478-8312-41f6-b05a-111377c7f410.html",other-closed,,d
 x,,,,,,,,x,,,,,,,,"Statistische Daten: Lebendgeborene: Gemeinden, Jahre (letzte 6)","http://opendata.bayern.de/daten/details,1036931b-3f4a-4897-ae4c-88e28096f9dc.html",other-closed,,d
 x,,,,,,,,x,,,,,,,,Statistische Tabellen: Statistik der Geburten,"http://opendata.bayern.de/daten/details,f2f49562-4569-492b-b608-99fce1495b16.html",other-closed,,d
 x,,,,,,,,x,,,,,,,,"Statistische Daten: Gestorbene: Gemeinden, Jahre (letzte 6)","http://opendata.bayern.de/daten/details,dfbae7be-a110-44a7-ba9c-759b1f4b2a69.html",other-closed,,d
 x,,,,,,,,x,,,,,,,,"Statistische Daten: Wanderungen über Gemeindegrenzen: Gemeinden, Zuzüge, Fortzüge, Saldo, Jahre (letzten 5)","http://opendata.bayern.de/daten/details,0e771a8f-63a9-4291-8103-598b079386da.html",other-closed,,d
+,,,,,,x,,,,,,,,,,"Statistische Daten: Tourismus (Betriebe m. 9 oder mehr Betten u. Campingplätze): Gemeinden, Ankünfte, Übernachtungen, durchschn. Auslastung, Jahr (ab 2006)","http://opendata.bayern.de/daten/details,e7b3944b-9ea8-4b4b-8fa5-aba0f123573b.html",other-closed,,d
+x,,,,,,,,x,,,,,,,,Statistische Tabellen: Statistik der Sterbefälle,"http://opendata.bayern.de/daten/details,72b3dbe5-68fb-4e99-98e2-fd0c0640d806.html",other-closed,,d
 x,,,,,,,,x,,,,,,,,Statistische Tabellen: Fortschreibung des Bevölkerungsstandes,"http://opendata.bayern.de/daten/details,eaa99b9b-4806-4b9f-ab0a-a42ce43aff83.html",other-closed,,d
 x,,,,,,,,x,,,,,,,,Statistische Tabellen: Wanderungsstatistik,"http://opendata.bayern.de/daten/details,c461434a-e8dc-4fe4-8ba9-b7316d206b99.html",other-closed,,d
 x,,,,,,,,x,,,,,,,,"Statistische Daten: Bevölkerung: Gemeinden, Stichtage (ab 1960, 10er-Schritte)","http://opendata.bayern.de/daten/details,8c05f4fe-4377-4270-9a07-22b1b9afe56a.html",other-closed,,d
 x,,,,,,,,x,,,,,,,,"Statistische Daten: Bevölkerung: Gemeinden, Stichtage (letzten 6)","http://opendata.bayern.de/daten/details,332b7805-41d7-4383-98ac-b5618f327c90.html",other-closed,,d
-,,,,,,x,,,x,,,,,,,Digitale Topographische Karte 1:50000,"http://opendata.bayern.de/daten/details,06953e47-a8f3-497c-9320-e7c920ca5d52.html",other-closed,,d
-,,,,,,,,,,,,x,,,,Richtlinien über Zuweisungen des Freistaats Bayern zu kommunalen Baumaßnahmen im kommunalen Finanzausgleich (FA-ZR),"http://opendata.bayern.de/daten/details,78ec7d88-bb8f-4d96-a656-0a4f00c014fb.html",other-open,,d
-,,,,,,,,,,,,,x,,,"Statistische Daten: Aus- und Einfuhr: Land, Jahre","http://opendata.bayern.de/daten/details,56a13beb-ad60-462e-b90b-6965aca66764.html",other-closed,,d
-,,,,,,x,,,,,,,,,,"Statistische Daten: Tourismus (Betriebe m. 9 oder mehr Betten u. Campingplätze): Gemeinden, Ankünfte, Übernachtungen, durchschn. Auslastung, Jahr (ab 2006)","http://opendata.bayern.de/daten/details,e7b3944b-9ea8-4b4b-8fa5-aba0f123573b.html",other-closed,,d
-x,,,,,,,,x,,,,,,,,Statistische Tabellen: Statistik der Sterbefälle,"http://opendata.bayern.de/daten/details,72b3dbe5-68fb-4e99-98e2-fd0c0640d806.html",other-closed,,d
 ,,,,,x,,,,,,,,,,,Digitales Geländemodell Gitterweite 200 m,"http://opendata.bayern.de/daten/details,1f752169-933e-4413-a75b-eb8837cc65cf.html",CC-BY 3.0,,d
+,,,,,,x,,,x,,,,,,,Digitale Topographische Karte 1:50000,"http://opendata.bayern.de/daten/details,06953e47-a8f3-497c-9320-e7c920ca5d52.html",other-closed,,d
+,,,,,x,x,,,x,x,,,,,,Digitale Topographische Karte 1:500000,"http://opendata.bayern.de/daten/details,0db1a0c3-de0d-47df-b70d-96b758615c7d.html",CC-BY 3.0,,d
+,,,,,,x,,,,,,,,,,Freizeitwege,"http://opendata.bayern.de/daten/details,fe15e8f4-bff2-4fb6-82ea-70302be43d05.html",CC-BY 3.0,,d
+,,,,,x,x,,,,,,,x,,,Digitales Orthophoto 2m Bodenauflösung,"http://opendata.bayern.de/daten/details,db017e0c-99d0-41ea-8ec7-239a356c7593.html",CC-BY 3.0,,d
