@@ -1,4 +1,18 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+,x,,,,,,,,,,,,,,,Geschichtsstation,http://www.moers.de/c125722e0057acf2/files/geschichtsstation.kml/$file/geschichtsstation.kml?openelement,nicht bekannt,KML,b
+,,,,,,x,,,,,,,,,,Vereine,http://www.moers.de/C1257221003C7526/html/11672ADBDB47E3E4C1257B120038BCB3?OpenDocument,dl-de-zero-2.0,XSP,d
+,,,,,,x,,,,,,,,,,Schulen und Bildungseinrichtungen,http://www.moers.de/C1257221003C7526/html/8D0B93A9D5953BBCC1257B12003C107F?OpenDocument,dl-de-zero-2.0,XSP,d
+,,,,,,,x,,,,,,,,,Wahlergebnis der Bundestagswahl 2013 für das Moerser Stadtgebiet,http://www.moers.de/C1257221003C7526/html/C9474A67F1984310C1257C050023D45B?OpenDocument,dl-de-zero-2.0,CSV,d
+x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Wohnungsstatus 2012,http://www.moers.de/C1257221003C7526/html/B55B175FCA9496E1C1257B2D002A5981?OpenDocument,dl-de-zero-2.0,CSV,d
+x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Staatsangehörigkeit 2011,http://www.moers.de/C1257221003C7526/html/82B1B64B20B03956C1257B0F0030EA35?OpenDocument,dl-de-zero-2.0,CSV,d
+x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Wohnungsstatus 2011,http://www.moers.de/C1257221003C7526/html/EC7B6ED6F009ED38C1257B0F00322570?OpenDocument,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,x,,,,,,Blumenampel,http://www.moers.de/c125722e0057acf2/files/blumenampel.json/$file/blumenampel.json?openelement,nicht bekannt,JSON,b
+,,,,,,,x,,,,,,,,,Wahlverzeichnis 2012 Landtagswahl,http://www.moers.de/c125722e0057acf2/files/lw_2012.csv/$file/lw_2012.csv?openelement,nicht bekannt,CSV,b
+,,,,,,x,,,,,,,,,,Moers - Radwandern,http://www.moers.de/C12572210040545A/html/AEE2394426094672C125727D00498F98?openDocument=,nicht bekannt,GPX,c
+,,x,,,x,,,,,,,,,,,Strassenraster 2012,http://www.moers.de/c125722e0057acf2/files/strassenraster_2012_12.csv/$file/strassenraster_2012_12.csv?openelement,nicht bekannt,CSV,b
+,,,,,,,x,,,,,x,,,,Zuwendungen Fraktionen - Geldwerte Leistungen Teil B Entwurf,http://download.moers.de/Schule%20und%20Open%20Data/Haushaltsplan%20entwurf%202014/Word_Excel/Zuwendungen%20Fraktionen%20-%20%20Geldwerte%20Leistungen%20Teil%20B%20Entwurf.xls,nicht bekannt,XLS,g
+,,,,,,,x,,,,,,,,,Wahlverzeichnis 2009 Kommunalwahl,http://www.moers.de/c125722e0057acf2/files/kw_2009_08_30.csv/$file/kw_2009_08_30.csv?openelement,nicht bekannt,CSV,b
+,,x,,,x,,,,,,,,,,,Spielplätze,http://www.moers.de/c125722e0057acf2/files/spielplatz.json/$file/spielplatz.json?openelement,nicht bekannt,JSON,b
 ,,,,,,,,,,,,x,,,,Zugriffsstatistiken von moers.de für August 2014,http://www.moers.de/C1257221003C7526/html/6C3B62F3E09068B2C1257D470025EAB0?OpenDocument,dl-de-zero-2.0,ZIP,d
 ,,,,,,x,,,,,,,,,,Kleingartenvereine,http://www.moers.de/C1257221003C7526/html/47D6D64DCE44FDF6C1257B0F003716C8?OpenDocument,dl-de-zero-2.0,XSP,d
 ,,,,,,,,,,,,x,,,,Zugriffsstatistiken von moers.de für Oktober 2013,http://www.moers.de/C1257221003C7526/html/E9372416F3C5BED8C1257C35002FCCCE?OpenDocument,dl-de-zero-2.0,ZIP,d
@@ -27,7 +41,6 @@ x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Geschlecht 2011,ht
 ,,,,,,x,,,,,,,,,,Bildungsträger,http://www.moers.de/C1257221003C7526/html/3933F03023F7BC37C1257B120048D496?OpenDocument,dl-de-zero-2.0,XSP,d
 ,,,,,,,,,,,,x,,,,Stellenübersicht nach Produktbereichen 2014,http://www.moers.de/C1257221003C7526/html/2AF884662E767A05C1257C980033910F?OpenDocument,dl-de-zero-2.0,CSV,d
 x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Altersstruktur (13 Gruppen) 2011,http://www.moers.de/C1257221003C7526/html/A74DC63BAFC82952C1257B0F002EF262?OpenDocument,dl-de-zero-2.0,CSV,d
-,,,,,,x,,,,,,,,,,Vereine,http://www.moers.de/C1257221003C7526/html/11672ADBDB47E3E4C1257B120038BCB3?OpenDocument,dl-de-zero-2.0,XSP,d
 ,,,,,,,,,,,,x,,,,Telefonbuch der Stadtverwaltung,http://www.moers.de/C1257221003C7526/html/64B726239A5CCADDC1257B0F0033F2BB?OpenDocument,dl-de-zero-2.0,XML,d
 ,,x,,,,,,,,,,,,,,Sozialatlasbezirke,http://www.moers.de/C1257221003C7526/html/C125756100561AE6C1257B120050E59C?OpenDocument,dl-de-zero-2.0,"ZIP,PDF,JSON",d
 ,,,,,,,,,,,,,,x,,Verbände und Gewerkschaften,http://www.moers.de/C1257221003C7526/html/D612D8329494CBB6C1257B12004C2879?OpenDocument,dl-de-zero-2.0,XSP,d
@@ -79,7 +92,6 @@ x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Geschlecht 2012,ht
 ,,,,,,,,,,,,,,x,,Übersichtskarte zur Autobahnanbindung von Moers,http://www.moers.de/C1257221003C7526/html/E6C6E5280E148B7EC1257D34004A0277?OpenDocument,dl-de-zero-2.0,TIF,d
 x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Migrationshintergrund 2011,http://www.moers.de/C1257221003C7526/html/2C5514779846D7B3C1257B0F00309C2E?OpenDocument,dl-de-zero-2.0,CSV,d
 x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken 2013,http://www.moers.de/C1257221003C7526/html/B9F7433A94EC202DC1257CA20034B041?OpenDocument,dl-de-zero-2.0,CSV,d
-,,,,,,x,,,,,,,,,,Schulen und Bildungseinrichtungen,http://www.moers.de/C1257221003C7526/html/8D0B93A9D5953BBCC1257B12003C107F?OpenDocument,dl-de-zero-2.0,XSP,d
 ,,,,,,x,,,,,,,,,,Besucher und Mitwirkende der Veranstaltungen der Moerser Musikschule 2012,http://www.moers.de/C1257221003C7526/html/D43771B07563576DC1257C7E002A7F51?OpenDocument,dl-de-zero-2.0,CSV,d
 x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Religionszugehörigkeit 2012,http://www.moers.de/C1257221003C7526/html/DD9501E24AA68D56C1257B2D0029ABB0?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,x,,,,,,,,,,,,,,Lärmkartierung,http://www.moers.de/C1257221003C7526/html/01E5B98384579590C1257D190045D884?OpenDocument,dl-de-zero-2.0,ZIP,d
@@ -116,19 +128,7 @@ x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Altersstruktur (13
 ,,,,,,,,,,,,x,,,,Zugriffsstatistiken von moers.de für Februar 2013,http://www.moers.de/C1257221003C7526/html/CC2473D000770694C1257B24002C5204?OpenDocument,dl-de-zero-2.0,ZIP,d
 ,,,,,,,x,,,,,,,,,Wahlergebnisse der Bürgermeister- und Stadtratswahlen von 1979 bis 2014 im Moerser Stadtgebiet,http://www.moers.de/C1257221003C7526/html/BCF1A6A0BF7B14D8C1257CF4002E612B?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,x,,,,,,,,,,Zu- und Abgänge verschiedener Medientypen der Bibliothek,http://www.moers.de/C1257221003C7526/html/0D766C57AA9EFE86C1257C1D003AC6F4?OpenDocument,dl-de-zero-2.0,CSV,d
-,,,,,,,x,,,,,,,,,Wahlergebnis der Bundestagswahl 2013 für das Moerser Stadtgebiet,http://www.moers.de/C1257221003C7526/html/C9474A67F1984310C1257C050023D45B?OpenDocument,dl-de-zero-2.0,CSV,d
-x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Wohnungsstatus 2012,http://www.moers.de/C1257221003C7526/html/B55B175FCA9496E1C1257B2D002A5981?OpenDocument,dl-de-zero-2.0,CSV,d
-x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Staatsangehörigkeit 2011,http://www.moers.de/C1257221003C7526/html/82B1B64B20B03956C1257B0F0030EA35?OpenDocument,dl-de-zero-2.0,CSV,d
-x,,,,,,,,,,,,,,,,Bevölkerung in den Sozialatlasbezirken nach Wohnungsstatus 2011,http://www.moers.de/C1257221003C7526/html/EC7B6ED6F009ED38C1257B0F00322570?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,x,,,,,,,,,,Abmeldungen nach Instrumenten in der Moerser Musikschule 2012,http://www.moers.de/C1257221003C7526/html/291B41562BA976D8C1257C750051780B?OpenDocument,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Zugriffsstatistiken von moers.de für April 2014,http://www.moers.de/C1257221003C7526/html/4298B1D13CFA5DFFC1257CED002EF936?OpenDocument,dl-de-zero-2.0,ZIP,d
 ,,,,,,x,,,,,,,,,,Hotels- und Privatunterkünfte,http://www.moers.de/C1257221003C7526/html/EA59EBAB9D6FC156C1257B12003B70ED?OpenDocument,dl-de-zero-2.0,XSP,d
 ,,,,,,,,,,,,,,x,,"Straßenverzeichnis der Stadt Moers nach Stadtteilen, Wohnplätzen und Postleitzahlengebieten (aktuell)",http://www.moers.de/C1257221003C7526/html/258907DFF851B002C1257C890034E7DB?OpenDocument,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,x,,,,,,Blumenampel,http://www.moers.de/c125722e0057acf2/files/blumenampel.json/$file/blumenampel.json?openelement,nicht bekannt,JSON,b
-,x,,,,,,,,,,,,,,,Geschichtsstation,http://www.moers.de/c125722e0057acf2/files/geschichtsstation.kml/$file/geschichtsstation.kml?openelement,nicht bekannt,KML,b
-,,,,,,x,,,,,,,,,,Moers - Radwandern,http://www.moers.de/C12572210040545A/html/AEE2394426094672C125727D00498F98?openDocument=,nicht bekannt,GPX,c
-,,x,,,x,,,,,,,,,,,Strassenraster 2012,http://www.moers.de/c125722e0057acf2/files/strassenraster_2012_12.csv/$file/strassenraster_2012_12.csv?openelement,nicht bekannt,CSV,b
-,,,,,,,x,,,,,x,,,,Zuwendungen Fraktionen - Geldwerte Leistungen Teil B Entwurf,http://download.moers.de/Schule%20und%20Open%20Data/Haushaltsplan%20entwurf%202014/Word_Excel/Zuwendungen%20Fraktionen%20-%20%20Geldwerte%20Leistungen%20Teil%20B%20Entwurf.xls,nicht bekannt,XLS,g
-,,,,,,,x,,,,,,,,,Wahlverzeichnis 2009 Kommunalwahl,http://www.moers.de/c125722e0057acf2/files/kw_2009_08_30.csv/$file/kw_2009_08_30.csv?openelement,nicht bekannt,CSV,b
-,,,,,,,x,,,,,,,,,Wahlverzeichnis 2012 Landtagswahl,http://www.moers.de/c125722e0057acf2/files/lw_2012.csv/$file/lw_2012.csv?openelement,nicht bekannt,CSV,b
-,,x,,,x,,,,,,,,,,,Spielplätze,http://www.moers.de/c125722e0057acf2/files/spielplatz.json/$file/spielplatz.json?openelement,nicht bekannt,JSON,b
