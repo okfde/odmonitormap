@@ -45,7 +45,7 @@ try:
             row['sourced-from-'+source] = cur.fetchone()['counted']
             
         #Find out what/which data portals contributed catalog results
-        cur.execute('SELECT DISTINCT originating_portal FROM data WHERE city LIKE %s AND originating_portal IS NOT NULL AND length(originating_portal)>0', (row['kurzname'],))
+        cur.execute('SELECT DISTINCT originating_portal FROM data WHERE city LIKE %s AND source = %s AND originating_portal IS NOT NULL AND length(originating_portal)>0', (row['kurzname'],'d'))
         csources = []
         for res in cur.fetchall():
             csources.append(res['originating_portal'])
