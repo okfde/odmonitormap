@@ -1,7 +1,4 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,,,,,,,x,,,,,,Bodenkarten,"http://opendata.bayern.de/daten/details,b5106dda-8bed-4ba1-92df-cb217c4e9683.html",other-closed,,d
-,,,,,,,,,,x,,,,,,Gentechnisch veränderte Lebensmittel,"http://opendata.bayern.de/daten/details,c208c76a-c3e6-407a-a26f-e4af09731c5c.html",other-closed,,d
-x,,,,,,,,x,,,,,,,,"Statistische Daten: Lebendgeborene: Gemeinden, Jahre (letzte 6)","http://opendata.bayern.de/daten/details,1036931b-3f4a-4897-ae4c-88e28096f9dc.html",other-closed,,d
 ,,,,,,,,,,x,,,x,,,Bodenuntersuchungen bayerischer Böden 2006 bis 2011,"http://opendata.bayern.de/daten/details,ea8a11b8-bf28-4761-90d7-863074bcdea4.html",other-open,,d
 ,x,,,,,,,,,,,,,,,Bibliographische Verbunddatenbank B3Kat als Linked Open Data,"http://opendata.bayern.de/daten/details,1d177e00-7463-4c3b-a67f-ff6d056188b2.html",CC0-1.0,,d
 ,,,,,,,,,x,,,x,,,,Verwaltungsatlas - Bayer. Staatsministerium des Innern,"http://opendata.bayern.de/daten/details,8593d873-ba79-436c-8963-334fe7f825e0.html",CC-BY 3.0,,d
@@ -39,3 +36,6 @@ x,,,,,,,,x,,,,,,,,"Statistische Daten: Bevölkerung: Gemeinden, Stichtage (letzt
 ,,,,,,,,,,,,x,,,,Verwaltungsgrenzen,"http://opendata.bayern.de/daten/details,03634a2b-1d49-4649-b986-7156ad8a2633.html",CC-BY 3.0,,d
 ,,,,,x,x,,,x,x,,,,,,Digitale Topographische Karte 1:500000,"http://opendata.bayern.de/daten/details,0db1a0c3-de0d-47df-b70d-96b758615c7d.html",CC-BY 3.0,,d
 ,,,,,,x,,,,,,,,,,Freizeitwege,"http://opendata.bayern.de/daten/details,fe15e8f4-bff2-4fb6-82ea-70302be43d05.html",CC-BY 3.0,,d
+,,,,,,,,,,x,,,,,,Bodenkarten,"http://opendata.bayern.de/daten/details,b5106dda-8bed-4ba1-92df-cb217c4e9683.html",other-closed,,d
+,,,,,,,,,,x,,,,,,Gentechnisch veränderte Lebensmittel,"http://opendata.bayern.de/daten/details,c208c76a-c3e6-407a-a26f-e4af09731c5c.html",other-closed,,d
+x,,,,,,,,x,,,,,,,,"Statistische Daten: Lebendgeborene: Gemeinden, Jahre (letzte 6)","http://opendata.bayern.de/daten/details,1036931b-3f4a-4897-ae4c-88e28096f9dc.html",other-closed,,d

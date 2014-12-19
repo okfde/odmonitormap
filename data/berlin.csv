@@ -1,394 +1,4 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,x,,x,,x,,,x,,,,,Liste von Einrichtungen in verschiedenen Stadtteilen,http://www.berlin.de/ba-lichtenberg/freizeit/sport/jfe/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Spezifische CO2-Emissionen verschiedener Energieträger,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t803_04.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Grafiken über jährliche Heizlastverteilungen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/a218_02-3.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Flächenanteile der Grün- und Freiflächen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ta601d04.xls,nicht bekannt,XLS,g
-,,,,x,,,,,x,x,,,,,,Anzahl der in ihren Wohnungen durch Fluglärm belasteten Menschen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t705_12_14.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,,,x,,Mietbare Veranstaltungsräume im Bezirk Lichtenberg,http://www.berlin.de/ba-lichtenberg/wirtschaft/mietraum/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Anteile ausgewählter Nutzungsarten an der bebauten Fläche aller Berliner Bezirke,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ec601_03.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Gebäude-Typen als Nebenstrukturen kategorisiert,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et609_01.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,x,,,,,,,Baustellen 2010-2013,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/__bersicht_stra__enbaustellen_neubau.xls?download.html,nicht bekannt,HTML,b
-,,,,,,,,,,x,,,,,,Radionuklide in Luftstaub aus Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t109e01.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,FK April 2014,http://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/sefinanzen/2014_april_monatsbericht.xls,nicht bekannt,XLS,b
-,,,,,x,,,,,x,,,,,,Adressen von Sonderabfallager,http://www.stadtentwicklung.berlin.de/umwelt/abfallwirtschaft/downloads/bbanlagen1104.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,x,,,,,,,Unterhaltungsmaßnahmen 2013,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/unterhaltungsma__nahmen_2013.xls,nicht bekannt,XLS,b
-,,,,,,,,,,,,x,,,,Berliner Finanzämter,http://www.berlin.de/sen/finanzen/steuern/finanzaemter/index.php/index/all.kml?q=,nicht bekannt,KML,b
-x,,,,,,,,,,,,,,,,Vornamen Mitte,http://www.berlin.de/daten/liste-der-vornamen/Mitte.csv,nicht bekannt,CSV,b
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Allgemeine Morbidität -> Arbeitsunfälle und Berufskrankheiten,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0103229000200400,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.2 - Ausländische Bevölkerung nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_2,cc-by,HTML,d
-,,,,,,,,,,,,x,,,,Haushaltsplan 2013 - Berlin - Offizielles Stadtportal der ...,http://www.berlin.de/imperia/md/content/senatsverwaltungen/finanzen/haushalt/ansatzn2013.xls,nicht bekannt,XLS,b
-,,,,,,x,,,,,,,,,,Berliner Wochen- und Trödelmärkte 2014,http://www.berlin.de/sen/wirtschaft/service/maerkte/wochen-antik/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Übersicht über die Belagsklassen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t102e01.xls,nicht bekannt,XLS,b
-,,,,,,x,,,,,,,,,,Straßenfeste 2013,http://www.berlin.de/sen/wirtschaft/service/maerkte/strassenfeste/strassenfeste2013.csv,nicht bekannt,CSV,b
-,,,,,,,,,,x,,,,,,Wegekoordinaten Weg 18,http://www.stadtentwicklung.berlin.de/umwelt/berlin_move/de/hauptwege/wegekoordinaten/Weg18.kmz,nicht bekannt,KMZ,b
-,,,,,,,,,,x,,,,,,Indexwerte für Blei und Cadmium,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et1031e2.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,x,,Prozentuale Verteilung der einzelnen Klassen der spezifischen Entzugsleistung für 2.400 Betriebsstunden,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t218_05.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,Vornamen Spandau,http://www.berlin.de/daten/liste-der-vornamen/Spandau.csv,nicht bekannt,CSV,b
-,,x,,,x,,,,,,,,,x,,Gruppe Planung und Entwurf - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/planung_und_entwurf.xls?download.html,nicht bekannt,HTML,b
-,,,,,,x,,,,,,,,,,Trödelmärkte 2013,http://www.berlin.de/sen/wirtschaft/service/maerkte/wochen-antik/wochen_troedel2013.csv,nicht bekannt,CSV,b
-,,,,x,,,,,,,,,,,,Liste von verschiedenen Ärzten,https://www.berlin.de/imperia/md/content/baneukoelln/gesplan/gesundheitsamt/neue_kopie_von_kinderaerzte_2013.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Verteilung und Mengen von Langzeit-Niederschlag für 97 Überwachungspunkte in Berlin und Umgebung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et408e01.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,elektrische und magnetische Feldstärken,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et805_04.xls,nicht bekannt,XLS,b
-,,,,,,,,x,,,,x,,,,Personalaustattung nach VOKitaFöG- EKG-,https://www.berlin.de/imperia/md/content/sen-familie/kindertagesbetreuung/persberechnung_ekg.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,Vornamen Reinickendorf,http://www.berlin.de/daten/liste-der-vornamen-2013/reinickendorf.csv,nicht bekannt,CSV,b
-,,,,,x,,,,,,,,,,,Jahresprofil Los 2011 (Berlin) 2. Teil,http://datenregister.berlin.de/dataset/jahresprofil-los-2011-berlin-2-teil,cc-by,XLS,d
-,,,,,,,,,,,,,x,,,"Umsätze im Cluster Kommunikation, Medien, Kulturwirtschaft Berlin 2009",http://datenregister.berlin.de/dataset/umsaetze-cluster-kommunikation-medien-kulturwirtschaft-berlin-2009,cc-by,CSV,d
-,,,,,,x,,,,,,,,,,Anmeldungen - Tag des offenen Denkmals 2008,http://www.stadtentwicklung.berlin.de/denkmal/denkmaltag/download/denkmal-uebersicht_19.5.08.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,,,,,,,Straßenverzeichnis,http://www.berlin.de/imperia/md/content/batempelhofschoeneberg/abtjugfamsport/sonstiges/strassenverzeichnis_jug.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Thesaurierung Tendenz für Cadmium in verschiedenen Pflanzenproben,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et1033e6.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,"Grenz-, Richtwerte und Empfehlungen zur Immission von Stickstoffdioxid in der Luft",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta30301.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Anzahl der Tage mit Wärmebelastung  und prozentualer Anteil an Strahlungstagen als Jahresmittelwert des Zeitraums 1971 – 2000,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t412_06.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Grundwasserförderung nach Nutzern für West-Berlin 1963 - 1996,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/aa21105.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Indikatorartengruppen von Alder Sümpfen (Flade 1994),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et505_02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,Ein-und Ausgaben der Stadt Berlin,http://www.berlin.de/imperia/md/content/senatsverwaltungen/finanzen/haushalt/plan_2012.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,Vornamen Marzahn-Hellersdorf,http://www.berlin.de/daten/liste-der-vornamen/Marzahn-Hellersdorf.csv,nicht bekannt,CSV,b
-x,,,,,x,,,,,x,,,,,,statistische Basis für Map 07.01,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/et701d02.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,Vornamen Neukoeln,http://www.berlin.de/daten/liste-der-vornamen/Neukoelln.csv,nicht bekannt,CSV,b
-,,,,,,,,,,x,,,x,,,Blei- und Cadmiumgehalte von Böden unterschiedlicher Flächennutzung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t1031e03.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Eintrag und Akkumulation von Blei und Cadmium in Böden,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t1031e04.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Entwicklung des Grundwasserstandes an der Meßstelle 1516 im Spandauer Forst,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/a207_03.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,x,,,Stoffgehalte in Kiefernnadeln (1991) in mg/kg,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t307_03.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,x,,,Aufteilung des Stadtgebietes von Berlin auf die Bewertungen für die verschiedenen Bodenfunktionen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/tac112_07.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Gefährdete Biotope in Brandenburg,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t503e02.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Fluktuation der Grundwasserstände an der Messstelle 1516 im Spandauer Forst,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaa207_03.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Grundwasserförderung der Berliner Wasser-Betriebe,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/et211d04.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,Kamerale Monatsdaten August 2013,http://www.berlin.de/imperia/md/content/balichtenberghohenschoenhausen/behoerde/kamerale_monatsdaten_08_2013.xls,nicht bekannt,XLS,b
-,,,,,,,,,,x,,,,,,Entwicklung des Grundwasserstandes an der Meßstelle 1516 im Spandauer Forst,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ab207_03.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Gesteinsklassen mit zugeordneter Wärmeleitfähigkeit und Wärmekapazität,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t218_01.xls,nicht bekannt,XLS,b
-,,x,,,x,,,,,x,,,,,,Entwicklung der Siedlungs-und Verkehrs Sektionen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaa603_01.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Nutzungsverteilung (bei Bauvorrang) über die Bezirke in Hektar und in Prozent,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/tc601_03.xls,nicht bekannt,XLS,b
-x,,,,,,,,,,,,,,,,Vornamen Marzahn-Hellersdorf,http://www.berlin.de/daten/liste-der-vornamen-2013/marzahn-hellersdorf.csv,nicht bekannt,CSV,b
-,,,,,,,x,,,,,,,,,Zuständigkeiten der Landesfamilienkasse,http://www.berlin.de/imperia/md/content/batreptowkoepenick/sepfin/zustaend__fk_0214.xls,nicht bekannt,XLS,g
-,,,,x,,,,,x,x,,,,,,Hauptlärmquellen für Lärmkartierung im Ballungsraum Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et705_01.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Einteilung der Berliner Frei- und Grünflächen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t605e01.xls,nicht bekannt,XLS,g
-,,,,,,x,,,,,,,,,,Liste von Badestellen in Berlin,http://www.berlin.de/badegewaesser/baden-details/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Versiegelung Bodenschutzkategorie,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/aa113_05.xls,nicht bekannt,XLS,g
-,,,,,,x,,,,,,,,,,Anmeldungen - Tag des offenen Denkmals 2008,http://www.stadtentwicklung.berlin.de/denkmal/denkmaltag/download/denkmal-uebersicht_21.5.08.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Die langfristigen mittleren Niederschläge von 97 Überwachungsstationen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/et408d02.xls,nicht bekannt,XLS,b
-x,,,,x,,,,,,x,,,,,,"Anzahl der Personen, die dem Straßenbahn-und U-Bahnlärm in ihren Wohnungen ausgesetzt sind",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et705_06_8.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Flächenanteile der Grün- und Freiflächen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/c601_04.xls,nicht bekannt,XLS,g
-,,,,,,,,,x,x,,,,,,Straßenlänge und Jahresfahrleistung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et701e05.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Grafik über Fläche und Bodenschutzkategorie,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ab113_06.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,x,,,,,,Durchschnittliche Einwohnerdichte pro Flächentyp und Nutzung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t606_01.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,statistische Basis für 03.03 Figur 3. Verschmutzung durch Kraftfahrzeuge,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/et303d03.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Wasserhaushalt und Grundwasserneubildung in Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t217_03.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Bebauung in Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/c607_03a.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Sickerwasser Jahreswerte 1961-1990,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ac213_06.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Grundwasserstand in m ü. NHN und Geländeoberkante,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ad207_02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,x,,Datengrundlage für 01.09 Abb. 4,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/t109d04.xls,nicht bekannt,XLS,g
-x,,,,,,,,,x,x,,,,,,Länge der Straßen mit Überschreitungen des NO2- bzw. PM10-Grenzwertes und Zahl der betroffenen Anwohnerinnen und Anwohner für die Trendentwicklung und bei Umsetzung der Maßnahmenbündel im Jahr 2015,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ac311_02_03.xls,nicht bekannt,XLS,g
-,x,,,,,,,,,,,,,,,Integrierte Sekundarschulen in Charlottenburg,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-integrierte-sekundarschulen/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,,,,,,,,,,,x,,"Einrichtungen in Marzahn-Hellersdorf für Kinder, Jugendliche und deren Familien",http://www.berlin.de/ba-marzahn-hellersdorf/verwaltung/jugend/jugend-termine/index.php/index/all.kml?q=,nicht bekannt,KML,b
-x,,,,,,,,,,,,,,,,Vornamen Treptow-Koepenick,http://www.berlin.de/daten/liste-der-vornamen/Treptow-Koepenick.csv,nicht bekannt,CSV,b
-,,,,,,,,,,x,,,x,,,Alterklassenverteilung Fortsamt Köpenick,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/taa504_11.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,x,,,"Entwicklung der Summe der Erholungsflächen, Ackerland und Wald",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaa603_02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Auf Englisch: Grundwasserstand in m ü. NHN und Geländeoberkante,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ead207_03.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Heizungsarten in Kreuzberg und Prenzlauer Berg,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaa801_08.xls,nicht bekannt,XLS,g
-,,,,,,x,,,,,,,,,,Trödelmärkte 2012,http://www.berlin.de/sen/wirtschaft/service/maerkte/wochen-antik/wochen_troedel2012.csv,nicht bekannt,CSV,b
-,,,,,,,,,,x,,,,,,Grenz- und Richtwerte elektrischer und magnetischer Felder,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t805_03.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,,,,,x,,Gruppe Innere Dienste - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/innere_dienste.xls,nicht bekannt,XLS,b
-,,,,,x,,,,,x,,,,,,Heizungsarten,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/aa801_07.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,,,,,,,Daten über die Spandauer-Damm-Brücke,http://www.stadtentwicklung.berlin.de/aktuell/pressebox/includes/docs/doc387_ueberblick_spandauerdammbruecke.xls,nicht bekannt,XLS,b
-,x,,,,,,,,,,,,,,,Zweiter Bildungsweg Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-zweiter-bildungsweg/index.php/index/all.json?q=,nicht bekannt,JSON,b
-,x,,,,,,,,,,,,,,,Zweiter Bildungsweg - Adressen Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-zweiter-bildungsweg/index.php/index/all.csv?q=,nicht bekannt,CSV,b
-,,,,,,,,,,,,,,x,,Änderungen im Produktkatalog von 2013,http://www.berlin.de/imperia/md/content/bapankow/geschaeftsstelleprodkat/produktkatalog/produkte___nderungs__bersicht_2013_2014.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Verwendete Datengrundlagen und ihr Raumbezug,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t801e03.xls,nicht bekannt,XLS,g
-,,,,,,x,,,,,,,,,,Liste von verschiedenen Veranstaltungen und Straßenfesten 2014,http://www.berlin.de/sen/wirtschaft/service/maerkte/strassenfeste/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,Vornamen Spandau,http://www.berlin.de/daten/liste-der-vornamen-2013/spandau.csv,nicht bekannt,CSV,b
-,,x,,,x,,,,,,,,x,,,notwendige Baumfällungen im Ortsteil Kreuzberg 2014,https://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/abteilungbwi/fbgruenflaechen/2014/f__llistek_februar_2.xls,nicht bekannt,XLS,g
-,,x,,,x,x,,,,,,,,,,Liste von Spielplätzen in Berlin,http://www.berlin.de/imperia/md/content/bareinickendorf/abteilungen/buedord/buergeraemter/spielpl__tze_reinickendorf.xls,nicht bekannt,XLS,g
-,,,,x,x,,,,,x,,,,,,Anzahl der in ihren Wohnungen durch Industrie und Gewerbe belasteten Menschen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta705_10-12.xls,nicht bekannt,XLS,b
-,,,,,,,,,,x,,,,,,Mittlerer Ozon-Tagesgang an BLUME-Stationen an Sommertagen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/aa30607.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,Vornamen Tempelhof-Schoenberg,http://www.berlin.de/daten/liste-der-vornamen-2013/tempelhof-schoeneberg.csv,nicht bekannt,CSV,b
-,,,,,,,,,,,,x,,,,Genderprodukte 2014 mit der Zeitreihe 2007-2014,http://www.berlin.de/imperia/md/content/bapankow/geschaeftsstelleprodkat/produktkatalog/131205_anlage_3a_produktkatalog_2014_neue_nummern.xls,nicht bekannt,XLS,b
-x,,,,,,,,,,x,,,,,,Durchschnittliche Einwohnerdichte pro Flächentyp und Nutzung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/eta606_01.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,x,,,,,Reparaturführer Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/umwelt/umwelt/reparaturfuehrer/index.php/index/all.kml?q=,nicht bekannt,KML,b
-,,,,,,,,,,x,,,,,,"Abkürzungen für Dreck, die in den Figuren 2- 10 benutzt wurden",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et101_07.xls,nicht bekannt,XLS,g
-,,,,,,,,,x,x,,,,,,Wirkung unterschiedlicher Maßnahmen auf die Kfz-Emissionen in Berlin im Vergleich zum Trendszenario 2015 (Werte in Prozent),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ac311_01.xls,nicht bekannt,XLS,b
-x,,,,,,,,,,x,,,,,,Entwicklung der Einwohnerdichte Berlins für ausgewählte Bezirke,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/a606_02.xls,nicht bekannt,XLS,g
-,,,,,,x,,,,,,,,,,Weihnachtsmärkte 2013 nach Bezirken,http://www.berlin.de/sen/wirtschaft/service/maerkte/xmas/xmas2013.csv,nicht bekannt,CSV,b
-,,,,,,x,,,,,,,,,,Berliner Weihnachtsmärkte 2013,http://www.berlin.de/sen/wirtschaft/service/maerkte/xmas/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-x,,,,,,,x,,x,x,,,,,,Die Zahl der Einwohner und Flächengrößen der Lärmschutz -und Planungszonen von den Berliner Flughäfen Tegel und Schönefeld,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/eta706_01.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Grundwasserförderung der Berliner Wasser-Betriebe von 1960 bis 2000,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eba21104.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Anzahl der Berliner Gewässer mit Vorkommen der nachgewiesenen Fischarten,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta208e02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,Berliner Finanzämter,http://www.berlin.de/sen/finanzen/steuern/finanzaemter/index.php/index/all.csv?q=,nicht bekannt,CSV,b
-,,,,x,x,,,,x,x,,,,,,Anzahl der in ihren Wohnungen durch Straßenverkehrslärm aller bewerteten Straßen belasteten Menschen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta705_04-06.xls,nicht bekannt,XLS,b
-,,,,,x,,,,,x,,,,,,"EU-weite Immissionsgrenzwerte und Fristen für Partikel-PM2,5, -PM10 und Stickstoffdioxid",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/tb311_03.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,,x,,,"Anzahl der sozialversicherungspflichtig Beschäftigten im Cluster IKT, Medien, Kreativwirtschaft Berlin 2009",http://datenregister.berlin.de/dataset/anzahl-der-sozialversicherungspflichtig-beschaeftigten-im-cluster-ikt-medien-kreativwirtsc-2009,cc-by,CSV,d
-,,,,,,,,,,x,,,,,,Bewertung der Allgemeine Luftverschmutzung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et307_01.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,x,,,,Regenwasserentwässerung in den Kanalisation,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/eta209_02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Biotoptypen umgeschlüsselte Sekundärdaten,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t508_struktur_bt.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 7.11 - Impfquote bezüglich Poliomyelitis, Tetanus, Diphtherie, Hepatitis B, Haemophilus influenzae b und Pertussis bei Schulanfängern, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_7_11,cc-by,HTML,d
-,,,,x,,,,,x,x,,,,,,"Anzahl der Personen,die Fluglärm in ihren Wohnungen ausgesetzt sind",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et705_12_14.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Gesundheitsmodernisierungsgesetz - GMG/ §264 SGB V -> Hilfen zur Gesundheit / §264 SGB V -> Ausgaben und Einnahmen,http://datenregister.berlin.de/dataset/gsi_inhalt_ts9100199014200503,cc-by,HTML,d
-x,,,,,,,,,,,,,,,,Vornamen Treptow-Koepenick,http://www.berlin.de/daten/liste-der-vornamen-2013/treptow-koepenick.csv,nicht bekannt,CSV,b
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.3 - Bevölkerung nach Alter und Geschlecht, Land, Jahr K",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_3,cc-by,HTML,d
-,,,,,,,,x,,,,,,,,Liste von Kitas,http://www.berlin.de/imperia/md/content/batempelhofschoeneberg/abtjugfamsport/kitab/kitalisteinternetnov2013.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 6.2 - Versorgungsgrad mit an der vertragsärztlichen Tätigkeit teilnehmenden Ärztinnen und Ärzten nach Fachgebieten, Land im Regionalvergleich, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_6_2,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 6.6 - Dialyseplätze (Hämodialyse), Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_6_6,cc-by,HTML,d
-,,,,,,,x,,,,,,,,,Leistungs- und Rückstandsberechnung,http://www.berlin.de/imperia/md/content/sen-familie/finanzielle_hilfen/unterhaltsvorschuss/fachinfo/jug_d_293_leistungs_rueckstandsberechnung.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 4.8 - Body Mass Index (BMI) der erwachsenen Bevölkerung nach Alter, Sozialschicht und Geschlecht, Deutschland/Land, 1998 B(L)",http://datenregister.berlin.de/dataset/gsi_gesindikator_4_8,cc-by,HTML,d
-,,,,,x,,,,,,,,,,,Los_1_2014 (Berlin),http://datenregister.berlin.de/dataset/los_1_2014-berlin,cc-by,XLS,d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Gesundheitszustand von Schulkindern und Jugendlichen,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0200032100200802,cc-by,HTML,d
-,,,,x,,,,,x,x,,,,,,Grenzwerte der 16. BImSchV (Verkehrslärmschutz-Verordnung),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et702_01.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,Kamerale Monatsdaten April 2014,http://www.berlin.de/imperia/md/content/balichtenberghohenschoenhausen/behoerde/kamerale_monatsdaten_april_2014.xls,nicht bekannt,XLS,b
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.9 - Ärztinnen und Ärzte in ambulanten Einrichtungen nach ausgewählten Gebietsbezeichnungen und Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_9,cc-by,HTML,d
-,,,,,,,,x,,,,,,,,Heimaufsicht,http://www.berlin.de/lageso/soziales/heimaufsicht/pruefberichte/index.php/index.kml?einrichtung_name=DOMICIL%20-%20Seniorenpflegeheim%20Gotlindestrasse%20GmbH,nicht bekannt,KML,b
-,,,,,,,,x,,,,,,,,Personalausstattung nach VOKitaFöG,http://www.berlin.de/imperia/md/content/sen-familie/kindertagesbetreuung/persberechnung_allgemein.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Basisbericht GBE Berlin 2006/2007,http://datenregister.berlin.de/dataset/gsi_kontext_tg0101121023200700,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Allgemeine Morbidität -> Pflegebedürftigkeit,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0103241000200400,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Beschäftigte im Gesundheitswesen -> Personal in Pflegeeinrichtungen,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0108219000200400,cc-by,HTML,d
-,,,,,,x,,,,,,,,,,Weihnachtsmärkte,http://www.berlin.de/sen/wirtschaft/service/maerkte/xmas/bb/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Entwicklung der Orthophosphat-Phosphor- und Ammonium-Stickstoff-Konzentration an Meßstellen mit hoher Nährstoffbelastung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t201e01.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.15 - Physiotherapeutinnen/Physiotherapeuten, Masseurinnen/Masseure, med. Bademeisterinnen/Bademeister in ambulanten Einrichtungen nach Geschlecht, Land im Regionalvergleich, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_15,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.47 - Pflegebedürftige nach Alter und Geschlecht, Land, Jahr K",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_47,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin : Basisberichte,http://datenregister.berlin.de/dataset/gsi_inhalt_tb0101000000199100,cc-by,HTML,d
-,,x,,,x,,,,x,x,,,,,,Railway-track gravel was calculated as 100 % impervious.,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/etac102_07.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Statistische Kurzinformationen -> Leistungen nach AsylbLG - Datenüberblick,http://datenregister.berlin.de/dataset/gsi_inhalt_tb0302010014201201,cc-by,HTML,d
-,,,,,x,,,,,,,,,,,Jahresprofil Los 2011 (Berlin) 9. Teil,http://datenregister.berlin.de/dataset/jahresprofil-los-2011-berlin-9-teil,cc-by,XLS,d
-,,,,,,,,,,x,,,,,,Wegekoordinaten Weg 17,http://www.stadtentwicklung.berlin.de/umwelt/berlin_move/de/hauptwege/wegekoordinaten/Weg17.kmz,nicht bekannt,KMZ,b
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 6.11 - Krankenhäuser und Bettenzahl, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_6_11,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.58 - Meldepflichtige Infektionserkrankungen nach dem Infektionsschutzgesetz, nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_58,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.28 - Apothekenpersonal nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_28,cc-by,HTML,d
-,,,,,,x,,,,,,,,,,Sportvereine und Sportangebote in Marzahn,http://www.berlin.de/ba-marzahn-hellersdorf/verwaltung/bildung/sport/sportvereine/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Statistische Kurzinformationen -> Hilfe zur Pflege,http://datenregister.berlin.de/dataset/gsi_inhalt_tb0302010000200707,cc-by,HTML,d
-x,,,,,,,,,,,,,,,,Ausländische Einwohnerinnen und Einwohner in Berlin in LOR-Planungsräumen am 31.12.2007,http://datenregister.berlin.de/dataset/ausl-ndische-einwohnerinnen-und-einwohner-in-berlin-in-lor-planungsr-umen-am-31-12-2007,cc-by,"PDF,CSV",d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 11.6 - DRG-Fallpauschalen: Erlöse und Leistungen, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_11_6,cc-by,HTML,d
-,,,,,,,,,,,x,,,,,Reparaturführer Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/umwelt/umwelt/reparaturfuehrer/index.php/index/all.xls?q,nicht bekannt,XLS,b
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.1 - Sterbefälle nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_1,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 5.6 - Belastung des Trinkwassers mit Nitrat und Pestiziden, Land, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_5_6,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitsrelevante Verhaltensweisen -> Ernährung -> Ernährungsweise,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0104210024200400,cc-by,HTML,d
-x,,,,,,,,,,,,,,,,Vornamen Neukoeln,http://www.berlin.de/daten/liste-der-vornamen-2013/neukoelln.csv,nicht bekannt,CSV,b
-,,,,,,,,,x,x,,,,,,"Tägliche Verkehrsstärke, Streckenlänge und Fahrleistung im Hauptstraßennetz 2005",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/etb701_03.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,,,,,,,BSR Entsorgungsbilanz 2007-2012,http://datenregister.berlin.de/dataset/bsr-entsorgungsbilanz-2007-2012,cc-by,"CSV,TXT",d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin : Spezialberichte -> Einschulungsuntersuchungen,http://datenregister.berlin.de/dataset/gsi_inhalt_tb0201010000200101,cc-by,HTML,d
-,,,,,x,,,,,,,,,,,Jahresprofil Los 2012 (Berlin) 5. Teil,http://datenregister.berlin.de/dataset/jahresprofil-los-2012-berlin-5-teil,cc-by,XLS,d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Bevölkerung und bevölkerungsspezifische Rahmenbedingungen des Gesundheitssystems -> Wirtschaftliche und soziale Lage -> Bildungsstand,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0100212100200400,cc-by,HTML,d
-x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner in Berlin in LOR-Planungsräumen nach Wohndauer am 31.12.2009,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-in-berlin-in-lor-planungsr-umen-nach-wohndauer-am-31-12-2009,cc-by,"PDF,CSV",d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Gesundheitszustand von Vorschulkindern -> Tabakkonsum,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0200061200200601,cc-by,HTML,d
-,,,,,,,,,,,,x,,,,Berliner Finanzämter,http://www.berlin.de/sen/finanzen/steuern/finanzaemter/index.php/index/all.json?q=,nicht bekannt,JSON,b
-,,,,,,,,,x,x,,,,,,Berechnete Konzentrationen des Berliner Hauptverkehrsstraßennetz im Vergleich zu den Referenzwerten der 23. Verordnung des Bundes-Immissionsschutzgesetz,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et310_05.xls,nicht bekannt,XLS,g
-,,,,,,,,,x,x,,,,,,Lärmimmissionen an oberirdischen Schienenwegen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta702_05.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Bioklimatische Belastung der Siedlungsräume,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t411_03.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Quartalsstatistiken zu den Ausgaben und Einnahmen zum Pflegegeldgesetz - PflegeG/ bis 2003,http://datenregister.berlin.de/dataset/gsi_ae_ts7100199014200103,cc-by,HTML,d
-x,,,,,,,,,,,,,,,,Vornamen Tempelhof-Schoenberg,http://www.berlin.de/daten/liste-der-vornamen/Tempelhof-Schoeneberg.csv,nicht bekannt,CSV,b
-x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner in Berlin in LOR-Planungsräumen nach Wohndauer am 31.12.2008,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-in-berlin-in-lor-planungsr-umen-nach-wohndauer-am-31-12-2008,cc-by,"PDF,CSV",d
-,,,,x,,,,,,x,,,,,,"Beziehung zwischen Gefühlter Temperatur, Thermischem Empfinden und Belastungsstufen",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t412_01.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,"Langjährige mittlere Niederschläge (Jahresmittel, Winter- und  Sommerhalbjahresmittel) der 97 Niederschlagsmeßstellen",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/t408d02.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Sozialgesetzbuch II - SGB II/ kommunale Ausgaben -> Grundsicherung (ARGE) -> Ausgaben und Einnahmen,http://datenregister.berlin.de/dataset/gsi_inhalt_ts2100199014200503,cc-by,HTML,d
-,,,,,,,,,,x,,,,,,Temperaturunterschiede in Bezug auf einige Klimastationen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ea404_02.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner in Berlin in LOR-Planungsräumen nach Wohndauer am 31.12.2007,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-in-berlin-in-lor-planungsr-umen-nach-wohndauer-am-31-12-2007,cc-by,"PDF,CSV",d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Beschäftigte im Gesundheitswesen -> Ausgewählte im ambulanten und stationären Bereich tätige Berufsgruppen -> Pflegeberufe und sonstige Gesundheitsdienstberufe,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0108214014200400,cc-by,HTML,d
-x,,,,,,,,,,,,,,,,Vornamen Reinickendorf,http://www.berlin.de/daten/liste-der-vornamen/Reinickendorf.csv,nicht bekannt,CSV,b
-,,,,,,,x,,,,,,,,,Beschlüsse des Bezirksamts Tempelhof,http://www.berlin.de/ba-tempelhof-schoeneberg/politik/ba/beschluss/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,Vornamen Friedrichshain-Kreuzberg,http://www.berlin.de/daten/liste-der-vornamen/Friedrichshain-Kreuzberg.csv,nicht bekannt,CSV,b
-,,,,,,,,,,x,,,,,,Kaltluftmassenströme in der Berliner Bezirke an einem niedrigen Luftwechselwolkenlosen Sommerabend,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et410_02.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,,,,,,,Standardlastprofil Gewerbekunden 2013 (Berlin),http://datenregister.berlin.de/dataset/standardlastprofil-gewerbekunden-2013-berlin,cc-by,XLS,d
-,,,,,x,,,,,,,,,,,Jahresprofil Los 2012 (Berlin) 1. Teil,http://datenregister.berlin.de/dataset/jahresprofil-los-2012-berlin-1-teil,cc-by,XLS,d
-,,,,,,,,,,,,x,,,,Doppelhaushalt 2014/2015,http://datenregister.berlin.de/dataset/doppelhaushalt-2014-2015,cc-by,CSV,d
-,,,,,,,,,,,,x,,,,Haushaltsplan Berlin 2009,http://datenregister.berlin.de/dataset/haushaltsplan-berlin-2009,cc-by,XLS,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Inanspruchnahme von Leistungen der Gesundheitsförderung und der Gesundheitsversorgung -> Inanspruchnahme/Leistungen der Prävention, Gesundheitsförderung und Früherkennung von Krankheiten -> Vorsorgeuntersuchungen",http://datenregister.berlin.de/dataset/gsi_inhalt_tg0107227000200400,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Basisbericht GBE Berlin 2003/2004,http://datenregister.berlin.de/dataset/gsi_kontext_tg0100421024200400,cc-by,HTML,d
-x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen nach Herkunftsgebieten am 31.12.2013,http://datenregister.berlin.de/dataset/einwohner-mit-migrationshintergrund-in-berlin-nach-herkunftsgebieten-am-31-12-2013,cc-by,"PDF,CSV",d
-x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen nach Herkunftsgebieten am 31.12.2012,http://datenregister.berlin.de/dataset/einwohner-mit-migrationshintergrund-in-berlin-nach-herkunftsgebieten-am-31-12-2012,cc-by,"PDF,CSV",d
-,,x,,,x,,,,,x,,,,,,Anteile der Strukturtypen mit überwiegender Wohnnutzung an ihrer Gesamtfläche in Prozent,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/c607_02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,x,,,,,Liste mit verschiedenen Cafes und Lebensmittelläden in Berlin,https://www.berlin.de/imperia/md/content/bamitte/aktuell/liste_legende.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,x,,,,,,,Genehmigungen U-Bahn,http://www.stadtentwicklung.berlin.de/verkehr/dienste/strassen-u-bahn/download/verzeichnis_genehmigungen_u-bahn.xlsx,nicht bekannt,XLSX,g
-,,,,,x,,,,,x,,,,,,"Definition der Anteile zum Wohnen, durch Gewerbe und durch Handel bzw. Dienstleistungen genutzte Fläche pro Nutzungskategorien in Prozent",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t601e01.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Sulfur Dioxide Emissions from Individual Polluter Groups in Berlin 1951-1989,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eab801_10.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,Kamerale Monatsdaten November 2013,http://www.berlin.de/imperia/md/content/balichtenberghohenschoenhausen/behoerde/kamerale_monatsdaten_november_2013.xls,nicht bekannt,XLS,b
-,,,,,,,,,,,,,,x,,"Einrichtungen in Marzahn-Hellersdorf für Kinder, Jugendliche und deren Familien",http://www.berlin.de/ba-marzahn-hellersdorf/verwaltung/jugend/jugend-termine/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,x,,,,,,,,,,,,,,,Gymnasien in Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-gymnasien/index.php/index/all.kml?order=anschrift%20DESC,nicht bekannt,KML,b
-,x,,,,,,,,,,,,,,,Berufsbilende Oberschulen in Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-berufsbildende-oberschulen/index.php/index.kml?order=zusatz%20DESC,nicht bekannt,KML,b
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Einrichtungen des Gesundheitswesens -> Ambulante medizinische Einrichtungen,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0106111100200700,cc-by,HTML,d
-,,,,,x,,,,,,,,,,,Jahresprofil Los 2011 (Berlin) 5. Teil,http://datenregister.berlin.de/dataset/jahresprofil-los-2011-berlin-5-teil,cc-by,XLS,d
-,,,,,,,,,,x,,,,,,"EW pro ha, GFZ und GRZ",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/a609_03.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Gesundheitszustand von Vorschulkindern,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0103245000200700,cc-by,HTML,d
-,,,,,,,,,,x,,,,,,Spezifische Entzugsleistung von bestimmten Klassen von Felsen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et218_02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Bewertung der allgemeinen Immissionsbelastung anhand der Flechtenvegetation,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t307_01.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,Monatsschreibung FrKr 31.3.2014,http://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/sefinanzen/2014_maerz.xls,nicht bekannt,XLS,b
-,,,,,,,,,,x,,,,,,Grenzwerte der 26. BImSchV für ortsfeste Niederfrequenzanlagen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t805_02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Strukturgüte der untersuchten Fließgewässer im Land Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t2061_02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,Haushaltsplan 2012,http://www.berlin.de/imperia/md/content/senatsverwaltungen/finanzen/haushalt/ansatzn2012.xls,nicht bekannt,XLS,b
-,,x,,,x,,,,,x,,,x,,,Flächennutzungen der Planungsräume auf der Grundlage der Nutzungskartierung des Informationssystems Stadt und Umwelt / Umweltatlas,http://www.stadtentwicklung.berlin.de/planen/basisdaten_stadtentwicklung/lor/download/lor_nutzung_ISU5_2010.xls,nicht bekannt,XLS,b
-,,,,,x,,,,,x,,,,,,Regenwasserableitung in die Kanalisation ermittelt aus den Daten des ISU mit dem aktualisierten Programm ABIMO 3.2; Stand der Datengrundlage 6/2012; Auswertung 11/2012,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/tc209_02.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Grundwasserförderung 1913 und 1990 bzw. 1989,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t211e02.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,x,,,Flächenanteile verschiedener Nutzungen an der Gesamtfläche der Bezirke Berlins in Hektar (bei Bauvorrang),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ac601_05.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Verteilung von Grünflächen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ea113_07.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,x,,,,,,Schwefeldioxid-Emissionen aus Einzelverursachergruppen in Berlin 1951 bis 1989,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaa30101.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,"Grundwasserförderung 1913, 1990 bzw. 1989, 1995 und 1999",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/tb21103.xls,nicht bekannt,XLS,g
-,,,,,,,,x,,,,,,,,Kindertagesstätten,http://www.berlin.de/ba-marzahn-hellersdorf/verwaltung/jugend/kita/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Flächennutzung von bestimmten Stadtteilen Berlins,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eac601_06.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Strukturtypen und ihre Nutzungen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta607e02.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,,,,,,,Jahresabschluss 2010,http://datenregister.berlin.de/dataset/jahresabschluss-2010,cc-by,XLS,d
-,,,,,,,,x,,,,,,x,,Telefon-und Mailliste,https://www.berlin.de/imperia/md/content/batreptowkoepenick/sepfin/kindergeldkasse/zustaendigkeit_famkasse.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen nach Herkunftsgebieten am 31.12.2010,http://datenregister.berlin.de/dataset/einwohner-mit-migrationshintergrund-in-berlin-nach-herkunftsgebieten-am-31-12-2010,cc-by,"PDF,CSV",d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Einschulungsuntersuchung Berlin 2006,http://datenregister.berlin.de/dataset/gsi_kontext_tb0201010000200801,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.20 - Arbeitslose (Jahresdurchschnitt) nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_20,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.21 - Arbeitslose (Jahresdurchschnitt) nach Geschlecht, Land im Regionalvergleich, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_21,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.22 - Empfänger von ausgewählten öffentlichen Sozialleistungen nach Alter und Geschlecht, Land, Jahr K",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_22,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.23 - Empfänger von ausgewählten öffentlichen Sozialleistungen nach Geschlecht, Land im Regionalvergleich, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_23,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.24 - Wohngeldempfänger (Haushalte), Land im Regionalvergleich, Jahre L",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_24,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 9.3 - Erteilte Approbationen nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_9_3,cc-by,HTML,d
-,,,,,,,x,,,,,,,,,Bundestagswahl 2009 in Berlin nach Wahlbezirken (Endgültiges Ergebnis),http://datenregister.berlin.de/dataset/bundestagswahl-2009-in-berlin-nach-wahlbezirken-endg-ltiges-ergebnis,cc-by,"PDF,CSV",d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 10.19 - Versichertenstruktur nach Krankenkassen/Krankenversicherungen, Land, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_10_19,cc-by,HTML,d
-,,,,,,,,x,,,,,,,,Liste von verschiedenen Einrichtungen,http://www.berlin.de/lageso/soziales/heimaufsicht/pruefberichte/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,,,x,,,,,,,,,,Strassenfeste,http://www.berlin.de/sen/wirtschaft/service/maerkte/strassenfeste/index.php/index/all.xls?veranstalter=AG%20Rudow%20e.%20V.%2C%20Tel.%3A%200163%2F676%2031%2064%2C%20Fax%3A%20033055%2F212%2091,nicht bekannt,XLS,b
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 10.18 - Mitglieder und mitversicherte Familienangehörige der gesetzlichen Krankenversicherung nach Alter und Geschlecht, Land, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_10_18,cc-by,HTML,d
-,,,,,,,,,x,,,,,,,VBB-Fahrplandaten August bis Oktober 2014,http://datenregister.berlin.de/dataset/vbb-fahrplandaten-august-bis-oktober-2014,cc-by,GTFS,d
-,,,,,x,,,,,,,,,,,Summenlast der Netzverluste 2008 (Berlin),http://datenregister.berlin.de/dataset/summenlast-der-netzverluste-2008-berlin,cc-by,CSV,d
-x,,,,,,,,,,x,,,,,,Einwohnerdichte Berlins im Vergleich mit anderen Städten,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ea606_01.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 10.17 - Krankenversicherungsschutz der Bevölkerung, Land, im Zeitvergleich L",http://datenregister.berlin.de/dataset/gsi_gesindikator_10_17,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 10.16 - Zuzahlungen der privaten Haushalte nach Leistungsbereichen in der gesetzlichen Krankenversicherung, Land, Jahre L",http://datenregister.berlin.de/dataset/gsi_gesindikator_10_16,cc-by,HTML,d
-,,,,,,,,,,x,,,,,,statistische Basis für Map 03.01 Figure 2,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/et301d02.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Mittlere Versiegelungsgrade nach Flächennutzung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/tc102_06.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Gesamttreibstoffverbrauch und CO2-Emissionen in Berlin wichtigsten Heizkraftwerken,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaa801_06.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Grafik über Anzahl der Blöcke und Grünflachenzahl,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/a609_01.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,Beteiligungsdatenbank des Landes Berlin,http://www.berlin.de/sen/finanzen/vermoegen/beteiligungen/beteiligungsdatenbank/index.php/index/all.xls?order=eigenkapital,nicht bekannt,XLS,b
-,,x,,,x,,,,,,,,,,,Straßenverzeichnis der Bauaufsicht,http://www.berlin.de/ba-lichtenberg/buergerservice/baufsicht/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,,,,,x,,,,,,,,Zuständigkeiten Familienkasse - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/sepfin/kindergeldkasse/zustaendigkeit_famkasse.xls,nicht bekannt,XLS,b
-,,,,,,,,,,x,,,,,,Brandenburg Landschaftsschutzgebiete in der Umgebung Berlin (Stand Dez. 2000),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/eta506_09.xls,nicht bekannt,XLS,g
-,x,,,,,,,,,,,,,,,Gymnasien in Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-gymnasien/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Entwicklung der CO2-Emissionen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et807_02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,Haushaltsplan 2010,http://www.berlin.de/imperia/md/content/senatsverwaltungen/finanzen/haushalt/ansatz_2010.xls,nicht bekannt,XLS,b
-,,,,,,,,,x,x,,,,,,"Verkehrsbelastung (DTV), Streckenlänge und Fahrleistung (km/Tag) im Hauptstraßennetz 1998/99",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta701_02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,x,,,Als Naturdenkmale geschützte Findlinge,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/umwelt/natur/findlinge/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,x,,,"Beispiel für die Neuberechnung des Mischungsverhältnisses Forstamt Grunewald, Fortsrevier Dreilinden",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t504_06.xls,nicht bekannt,XLS,g
-,,,,,,x,,,,,,,,x,,Liste der Stolpersteine in Schöneberg,http://www.berlin.de/ba-tempelhof-schoeneberg/derbezirk/simple-search-baukasten/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,x,,,,,,,,,,,,,,,Gymnasien in Charlottenburg-Wilmersdorf,http://datenregister.berlin.de/dataset/simple_search_wwwberlindebacharlottenburgwilmersdorforgschulensuchegymnasien,Siehe Website des Datensatzes,"XML,GJSON,KML,JRSS,JSON,HTML,CSV,XLS,RSS",d
-,,,,,,x,,,,,,,,,,Weihnachtsmärkte 2013,http://www.berlin.de/sen/wirtschaft/service/maerkte/xmas/bb/xmas2013bb.csv,nicht bekannt,CSV,b
-x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen nach Herkunftsgebieten am 31.12.2011,http://datenregister.berlin.de/dataset/einwohnermit-migrationshintergrund-in-berlin-nach-herkunftsgebieten-am-31-12-2011,cc-by,"PDF,CSV",d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext HBSC Studie Berlin 2006,http://datenregister.berlin.de/dataset/gsi_kontext_tb0201020000200802,cc-by,HTML,d
-,,,,,x,,,,,,,,,,,Jahresabschluss 2011,http://datenregister.berlin.de/dataset/jahresabschluss-2011,cc-by,XLS,d
-x,,,,,,,,,,,,,,,,Vornamen Lichtenberg,http://www.berlin.de/daten/liste-der-vornamen/Lichtenberg.csv,nicht bekannt,CSV,b
-,,,,,x,,,,,,,,,,,Summenlast der Netzverluste 2011 (Berlin),http://datenregister.berlin.de/dataset/summenlast-der-netzverluste-2011-berlin,cc-by,CSV,d
-,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Jahresstatistiken zu den Eckzahlen und Zeitreihen zum Landespflegegeldgesetz - LPflGG/ ab 2004,http://datenregister.berlin.de/dataset/gsi_ez_ts4100299000200912,cc-by,HTML,d
-,,,,,x,,,,,,,,,,,Jahresprofil Los 2011 (Berlin) 1. Teil,http://datenregister.berlin.de/dataset/jahresprofil-los-2011-berlin-1-teil,cc-by,XLS,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 6.12 - Krankenhäuser nach Größenklassen, Land, Jahr K",http://datenregister.berlin.de/dataset/gsi_gesindikator_6_12,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Geburtsgeschehen in Berlin 2011,http://datenregister.berlin.de/dataset/gsi_kontext_tb0301010000201301,cc-by,HTML,d
-,,,,,,,,,,,,x,,,,Bezirkshaushaltsplan Friedrichshain-Kreuzberg 2012/2013 fortgeschrieben mit Ergänzungsplan 2013,http://datenregister.berlin.de/dataset/bezirkshaushaltsplan-friedrichshain-kreuzberg-2012-2013-fortgeschrieben-mit-ergungsplan-2013,cc-by,XLS,d
-,,x,,,x,,x,,,,,,,,,Geometrien Abgeordnetenhauswahlkreise für die Bundestagswahl 2013 in Berlin,http://datenregister.berlin.de/dataset/geometrien-abgeordnetenhauswahlkreise-f-r-die-bundestagswahl-2013-in-berlin,cc-by,"KML,KMZ",d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Infektionskrankheiten,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0103252000200400,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 6.19 - Ambulante Pflegeeinrichtungen nach Art, Zahl der Pflegebedürftigen (Größenklassen) und Träger, Land, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_6_19,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Einrichtungen des Gesundheitswesens -> Weitere Einrichtungen des Gesundheitswesens,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0106223015200400,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Einschulungsuntersuchung Berlin 2007/2008,http://datenregister.berlin.de/dataset/gsi_kontext_tb0201010000201101,cc-by,HTML,d
-x,,,,,,,,,,,,,,,,Vornamen Steglitz- Zehlendorf,http://www.berlin.de/daten/liste-der-vornamen/Steglitz-Zehlendorf.csv,nicht bekannt,CSV,b
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin : Diskussionspapiere,http://datenregister.berlin.de/dataset/gsi_inhalt_tb0701030014198603,cc-by,HTML,d
-x,,,,,,,,,,,,,,,,Vornamen Mitte,http://www.berlin.de/daten/liste-der-vornamen-2013/mitte.csv,nicht bekannt,CSV,b
-,,,,,,,,,,x,,,x,,,Baumartenverteilung nach Forstämtern (nach Nebel 1992),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t504_07.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,x,,,Flächenverteilung verschiedener Flächentypen der Gründerzeit in ha,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/t607d04.xls,nicht bekannt,XLS,g
-,,,,,,x,,,,,,,,,,Straßenfeste,http://www.berlin.de/sen/wirtschaft/service/maerkte/strassenfeste/index.php/index/all.csv?q=,nicht bekannt,CSV,b
-,,,,,,,,,,x,,,,,,Übersicht zu den berücksichtigten Einflußgrößen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t408e02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,x,,,Altersklassenstruktur nach Forstämtern,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t504_09.xls,nicht bekannt,XLS,g
-,,,,,,,x,,,,,,,,,BA-Beschlüsse,http://www.berlin.de/ba-treptow-koepenick/politik/ba-beschluesse/simplesearch/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Wert der Biotoptypen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t503e01.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,,,,,,,Summe Einspeisung Mittelspannung 2011 (Berlin),http://datenregister.berlin.de/dataset/summe-einspeisung-mittelspannung-2011-berlin,cc-by,CSV,d
-,,x,,,x,,,,,,,,,x,,Gruppe Ordnungsangelegenheiten - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/ordnungsangelegenheiten.xls?download.html,nicht bekannt,HTML,b
-,,,,,,,,,,x,,,,,,Entwicklung der CO2-Emissionen aller vom Treibhausgas-Emissionshandelsgesetz (TEHG) betroffenen Anlagen in Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t807_02.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Anteile des Gesamtbestands an Grün-und Freiräumen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eta601d04.xls,nicht bekannt,XLS,g
-,,,,x,,,,,x,x,,,,,,Gesamt Grenzen für den Verkehrslärmschutz,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et702_02.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Gesamter Brennstoffeinsatz und CO2-Emissionen in bedeutenden Berliner Heiz- und Heizkraftwerken 2004,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ab801_07.xls,nicht bekannt,XLS,g
-,,,,x,,,,,x,x,,,,,,Darstellung der Hauptlärmquellen  für die Lärmkartierung in Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t705_01.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,x,,,,,,Entwicklung der Einwohnerdichte Berlins für ausgewählte Bezirke,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ah606_02.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,"Res per ha, LBR, FSI",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ea609_02.xls,nicht bekannt,XLS,g
-x,,,,,x,,,,,x,,,,,,Potential für Nutzung von solarthermischer Energie in Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et806_03.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,x,x,,,,,,Von Grenzwertüberschreitungen betroffene Abschnittslängen und  Anwohner im übergeordneten Straßennetz,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta311_05.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Versorgung mit Erholungsflächen des Freiraumtyps wohnungsnahe Grünanlage pro Bezirk,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t605e03.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,wesentliche Merkmale von Bebauungen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ed607_03.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Einteilung der Berliner Frei- und Grünflächen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t605_01.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,x,,,,Kamerale Monatsdaten März 2014,http://www.berlin.de/imperia/md/content/balichtenberghohenschoenhausen/behoerde/kamerale_monatsdaten_m__rz_2014.xls,nicht bekannt,XLS,b
-,,,,,,,,,,x,,,x,,,Beispiel für das Prinzip der Systematik von Böden (nach Bodenkundliche Kartieranleitung 1982),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t101_02.xls,nicht bekannt,XLS,g
-,x,,,,,,,,,,x,,,,,Liste von Schulen,http://www.berlin.de/ba-lichtenberg/freizeit/sport/ja-jsa/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,x,,,Gebiete mit ausschliesslich über 80-jährigen Eichen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et504_08.xls,nicht bekannt,XLS,g
-,,,,,,,,,,,,,x,,,Sprechstunden Kinderärzte Neukölln 2013,http://www.berlin.de/imperia/md/content/baneukoelln/gesplan/gesundheitsamt/neue_kopie_von_kinderaerzte_2013.xls,nicht bekannt,XLS,b
-,,,,,,,,,,,,,x,,,AG Rudow  Kontaktdaten Mitglieder 2006,http://www.berlin.de/imperia/md/content/baneukoelln/wirtschaftsfoerderung/agrudow_mitgliederliste.xls,nicht bekannt,XLS,b
-,,x,,,x,,,,,x,,,x,,,Flächenanteile in Berliner Stadtbezirken,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ta601d03.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Durchschnittszahlen von Geschosse,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ea609_04.xls,nicht bekannt,XLS,b
-,,x,,,x,,,,,x,,,,,,Bebauungen im historischen Rückblick,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ed607_06.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,x,,,,,,Bevölkerungsentwicklung in bestimmten Stadtteilen in Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaj606_02.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Grafik über den Wasserablauf durch die Berliner Wasserbetriebe von 1989 bis 2005,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ete212_09.xls,nicht bekannt,XLS,g
-,x,,,,,,,,,,,,,,,Zweiter Bildungsweg - Adressen Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-zweiter-bildungsweg/index.php/index/all.xls?q=,nicht bekannt,XLS,b
-,,x,,,x,,,,x,,,,,,,Sonderprogramm 2013,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/sonderprogramm_2013.xls,nicht bekannt,XLS,b
-,,x,,,x,,,,x,,,,,,,Unterhaltungsmaßnahmen 2014,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/unterhaltungsma__nahmen_2014.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,,,,,x,,Gruppe Regiekolonne - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/regiekolonne.xls?download.html,nicht bekannt,HTML,b
-,,x,,,x,,,,,,,,,x,,Gruppe Grundstücksangelegenheiten - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/gruppe_grundst__cksangelegenheiten.xls,nicht bekannt,XLS,b
-,,x,,,x,,,,,,,,,,,Straßenverzeichnis der Stadtplanung im Bezirk Lichtenberg,http://www.berlin.de/ba-lichtenberg/buergerservice/stadtplanung/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Landschaftsschutzgebiete Brandenburgs im Berliner Umland (Stand März 1995),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t506e07.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Mittelwerte des Dampfdrucks und der relativen Luftfeuchte in 2 m Höhe von Juni bis September,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/a404_03.xls,nicht bekannt,XLS,b
-,,,,,,,,,,x,,,,,,Naturschutzgebiete Brandenburgs im Berliner Umland (Stand März 1995),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et506e06.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen am 31.12.2013,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-mit-migrationshintergrund-in-berlin-in-lor-planungsr-umen-am-31-12-2013,cc-by,"PDF,CSV",d
-x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen am 31.12.2012,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-mit-migrationshintergrund-in-berlin-in-lor-planungsr-umen-am-31-12-2012,cc-by,"PDF,CSV",d
-,,,,,x,,,,,x,,,,,,Rohwasserförderung der Berliner Wasserbetriebe 1989 - 2009,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/tl212_12.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Flächenanteile der Grün- und Freiflächen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/tb601d04.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen am 31.12.2011,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-mit-migrationshintergrund-in-berlin-in-lor-planungsr-umen-am-31-12-2011,cc-by,"PDF,CSV",d
-,,,,,x,,,,,x,,,,,,Rohwasserförderung der Berliner Wasserbetriebe 1989 - 2003,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/td212_09.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen am 31.12.2010,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-mit-migrationshintergrund-in-berlin-in-lor-planungsr-umen-am-31-12-2010,cc-by,"PDF,CSV",d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Bevölkerung und bevölkerungsspezifische Rahmenbedingungen des Gesundheitssystems -> Wirtschaftliche und soziale Lage -> Erwerbstätigkeit und Einkommen,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0102216000200400,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.51 - Lebendgeborene nach Geburtsgewicht, Land im Regionalvergleich, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_51,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.56 - Häufigste Todesursachen von Säuglingen, darunter plötzlicher Kindstod, nach Geschlecht, Land, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_56,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.57 - Befunde bei Einschulungsuntersuchungen nach Geschlecht, Land, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_57,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.54 - Säuglingssterblichkeit im ersten Lebensjahr je 1 000 Lebendgeborene, Land im Regionalvergleich, 3-Jahres-Mittelwerte L",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_54,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 6.10 - Gesundheitseinrichtungen für Suchtkranke, Land, Jahre L",http://datenregister.berlin.de/dataset/gsi_gesindikator_6_10,cc-by,HTML,d
-,,,,,x,,,,,x,,,,,,Regenwasserableitung in die Kanalisation - Einzugsgebiete und Abflüsse,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t209_02.xls,nicht bekannt,XLS,b
-,,x,,,x,,,,,x,,,,,,Flächenverteilung in bestimmten Bezirken,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/et102d02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,x,,,Flächenanteile für die Bewertung der Wirksamkeit von Böden in der Erfüllung ihrer natürlichen Bodenfunktionen und der Archivfunktion,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/etab112_14.xls,nicht bekannt,XLS,g
-,x,,,,,,,,,,,,,,,Gymnasien in Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-gymnasien/index.php/index/all.kml?order=gebaeude_info%20DESC,nicht bekannt,KML,b
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.22 - Hebammen und Entbindungspfleger in ambulanten und stationären Einrichtungen, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_22,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.23 - Personal in Vorsorge- oder Rehabilitationseinrichtungen nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_23,cc-by,HTML,d
-,,,,,,,,,,x,,x,,,,Regenwasserentwässerung in den Kanalisation,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/etb209_02.xls,nicht bekannt,XLS,g
-,,,,,,x,,,,,,,,,,Straßenfeste 2012,http://www.berlin.de/sen/wirtschaft/service/maerkte/strassenfeste/strassenfeste2012.csv,nicht bekannt,CSV,b
-,,,,,,,,,,x,,,,,,"Mittlere Luftwechselrate, Massenstrom und Strömungsgeschwindigkeit des Korridors Wind pro Raster",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et410_05.xls,nicht bekannt,XLS,g
-,,,,x,,,,,x,x,,,,,,"Anzahl der Personen, die Industrielärm in ihren Wohnungen ausgesetzt sind",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et705_09_11.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Rohwasserförderung der Berliner Wasserbetriebe 1989 - 2005 inkl. Wasserwerk Stolpe,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/te212_09.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Mortalitätsrate als Maß zur Gefahr für Höheren Pflanzen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et307_02.xls,nicht bekannt,XLS,g
-x,,,,,,,,,,x,,,,,,Einwohnerdichte Berlins im Vergleich mit anderen Städten,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eag606_01.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Flächenanteile von Sickerwasser- und Grundwasserneubildungsraten,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ab217_02.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,x,,"Daten über Fälle von ""Impervious Coverage Removal""",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et116_02.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.20 - Ausgewähltes medizinisch-therapeutisches Personal in Krankenhäusern nach Berufen und Geschlecht, Land, Jahre L",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_20,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.21 - Ausgewähltes technisch-diagnostisches Personal in Krankenhäusern nach Berufen und Geschlecht, Land, Jahre L",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_21,cc-by,HTML,d
-x,,,,,,,,,,,,,,,,Vornamen Pankow,http://www.berlin.de/daten/liste-der-vornamen/Pankow.csv,nicht bekannt,CSV,b
-,,x,,,x,x,,,,,,,,,,Öffentlich zugängliche Spielplätze in Spandau,http://www.berlin.de/imperia/md/content/baspandau/verwaltung/beauftragte/__ffentlich_zug__ngliche_spielpl__tze_in_spandau_datenbank.xls,nicht bekannt,XLS,b
-,,,,,,,,,,,,x,,,,FK Dezember 2013 Abschluss,http://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/sefinanzen/2013_dezember_abschluss.xls,nicht bekannt,XLS,b
-,,,,,x,,,,,x,,,,,,Nachrüstungstermine für Gasrückführsysteme,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t309_03.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,x,,,,,,Beschreibung der Strukturtypen mit überwiegender Wohnnutzung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/td607_08.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Anteile von Uferfiltrat und Grundwasseranreicherung an der Förderung der Berliner Wasserwerke,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t212e03.xls,nicht bekannt,XLS,g
-,,x,,,x,,,,,,,,,,,Straßenverzeichnis Schiedsbezirke,http://www.berlin.de/imperia/md/content/batreptowkoepenick/buergeramt2/stra__enverzeichnis_alphabetisch.xls,nicht bekannt,XLS,b
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Krankheiten des Kreislaufsystems,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0103284000200400,cc-by,HTML,d
-,,x,,,x,,,,,,,,,x,,Gruppe Aufsicht und Unterhaltung - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/aufsicht_und_unterhaltung.xls?download.html,nicht bekannt,HTML,b
-,,,,x,,,,x,,,,,,,,Liste von Tagespflegestellen,http://www.berlin.de/ba-lichtenberg/buergerservice/familie/tagespflege/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,"Abflussdaten, Sickerwasser- und Grundwasserneubildungshöhen sowie Reduktionsfaktoren RDF in den Teileinzugsgebieten Berlins.",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t217_01.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,"Mittlere Luftaustauschrate, Massenstrom sowie Strömungsgeschwindigkeit des Flurwindes pro Rasterzelle entlang des Streckenabschnittes im Übergangsbereich Grunewald-Wilmersdorf während einer austauscharmen sommerlichen Strahlungswetternacht",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t410_02.xls,nicht bekannt,XLS,g
-,,,,x,,,,,x,x,,,,,,Betroffenenpotentiale in den Gebäuden des übergeordneten Straßennetzes,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t702_04.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,langfristigen Mittelwerte der Abflussbildung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/etb213_04.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,,,,Beschreibung der Mess Umfrage,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et1031e1.xls,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,"Datengrundlage für Entwicklung des Grundwasserstandes seit 1870 an der Messstelle 5140 in Mitte, Charlottenstraße",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/aa207_02.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.27 - Personal im öffentlichen Gesundheitsdienst nach Geschlecht, Land im Regionalvergleich, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_27,cc-by,HTML,d
-,,,,,,x,,,,,,,,,,Berliner und Brandenburger Volks- und Straßenfeste 2014,http://www.berlin.de/sen/wirtschaft/service/maerkte/strassenfeste/index.php/index/all.xls?order=von,nicht bekannt,XLS,b
-,,,,,,,,,,,,x,,,,Haushaltsplan 2011 - Berlin - Offizielles Stadtportal der ...,http://www.berlin.de/imperia/md/content/senatsverwaltungen/finanzen/haushalt/plan_2011.xls,nicht bekannt,XLS,b
-,,,,,,,,,,,,x,,,,Monatsschreibung September 2013,http://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/sefinanzen/monatsschreibung_sept_2013_f__r_internet.xls,nicht bekannt,XLS,b
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.24 - Personal in Pflegeeinrichtungen nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_24,cc-by,HTML,d
-,,,,,,,,,,,,,x,,,notwendige Baumfällungen im Ortsteil Kreuzberg 2013,http://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/abteilungbwi/fbgruenflaechen/aufgaben/f__lllistek__september_1.xls,nicht bekannt,XLS,b
-,,x,,,x,,,,,,,,x,,,notwendige Baumfällungen im Ortsteil Friedrichshain 2014,https://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/abteilungbwi/fbgruenflaechen/2014/febr14_liste2.xls,nicht bekannt,XLS,g
-,,,,,,,,,,x,,,x,,,Als Naturdenkmale geschützte Bäume,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/umwelt/natur/baeume/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,,x,,,,,x,,,,,,Grafik über Rohwasserförderung der Berliner Wasserbetriebe 1989-2010,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/tm212_10.xls,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.25 - Personal in Pflegeeinrichtungen nach Beschäftigungsverhältnis, Tätigkeitsbereich, Berufsabschluss und Geschlecht, Land, Jahr K",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_25,cc-by,HTML,d
-,x,,,,,,,,,,,,,,,Evangelische Schule Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-schulen-in-freier-traegerschaft/index.php/index.kml?schule=Evangelische%20Schule%20Wilmersdorf,nicht bekannt,KML,b
-,,,,x,,,,,,,,,,,,Ärzte im Bezirk Lichtenberg,http://www.berlin.de/ba-lichtenberg/buergerservice/aerzte/index.php/index/all.xls?q=,nicht bekannt,XLS,g
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Beschäftigte im Gesundheitswesen -> Ausgewählte im ambulanten und stationären Bereich tätige Berufsgruppen,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0100822000200400,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.29 - Apothekerinnen/Apotheker sowie sonstiges Apothekenpersonal nach Einrichtungen und Geschlecht, Land, Jahre L",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_29,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Inanspruchnahme von Leistungen der Gesundheitsförderung und der Gesundheitsversorgung -> Inanspruchnahme/Leistungen der ambulanten Versorgung,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0100715100200700,cc-by,HTML,d
-,,,,,,,,,,,,,x,,,Erwerbstätige in Berlin nach Wirtschaftsbereich,http://www.berlin.de/imperia/md/content/sen-wirtschaft/konjunkturdaten/metadaten/b4_erwerbwz.xls,nicht bekannt,XLS,b
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Einschulungsuntersuchung Berlin 2007,http://datenregister.berlin.de/dataset/gsi_kontext_tb0501010000200711,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Spezialberichte -> Sozialhilfeempfängerprognoseverfahren,http://datenregister.berlin.de/dataset/gsi_inhalt_tb0201010014200301,cc-by,HTML,d
-,,x,,,x,,,,,x,,,,,,historischer Verlauf der Blockbebauung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/d607_06.xls,nicht bekannt,XLS,b
-,,,,,,,,,x,x,,,,,,Bestand an Kraftfahrzeugen und Kraftfahrzeuganhängern im Land Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/tb311_01.xls,nicht bekannt,XLS,b
-,,,,,,,,,,,,x,,,,Kamerale Monatsdaten Bezirk Marzahn-Hellersdorf 2013,http://datenregister.berlin.de/dataset/kamerale-monatsdaten-bezirk-marzahn-hellersdorf-2013,cc-by,XLS,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 4.13 - Anteil der Bevölkerung mit sportlicher Betätigung nach Umfang/Woche, Alter, Sozialschicht und Geschlecht, Deutschland/Land, 1998 B(L)",http://datenregister.berlin.de/dataset/gsi_gesindikator_4_13,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 4.11 - Mittlerer täglicher Obst- und Gemüseverzehr (ohne Kartoffeln) in Gramm pro Tag nach Alter, Sozialschicht und Geschlecht, Deutschland, 1998 B",http://datenregister.berlin.de/dataset/gsi_gesindikator_4_11,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 4.10 - Mittlere tägliche Energiezufuhr nach Alter, Sozialschicht und Geschlecht, Deutschland, 1998 B",http://datenregister.berlin.de/dataset/gsi_gesindikator_4_10,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Gesundheitszustand von Schulkindern und Jugendlichen -> Städtevergleich (Schulkinder/Jugendliche),http://datenregister.berlin.de/dataset/gsi_inhalt_tg0200037100200802,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Schwangerschaftskonfliktberatungen Berlin 2012,http://datenregister.berlin.de/dataset/gsi_kontext_tg0500081100201212,cc-by,HTML,d
-,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Quartalsstatistiken zu den Ausgaben und Einnahmen zum Grundsicherungsgesetz - GSiG/ bis 2004,http://datenregister.berlin.de/dataset/gsi_ae_ts8100199014200403,cc-by,HTML,d
 ,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 6.18 - Ambulante und stationäre Pflegeeinrichtungen nach Art der Pflegeeinrichtung bzw. verfügbaren Plätzen, Land im Regionalvergleich, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_6_18,cc-by,HTML,d
 ,,x,,,x,,,,,x,,,x,,,Flächenanteile der Nutzungsarten an der Summe der bebauten Flächen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/c601_02.xls,nicht bekannt,XLS,g
 ,,,,,x,,,,,,,,,,,Standardlastprofil Haushaltskunden 2012 (Berlin),http://datenregister.berlin.de/dataset/standardlastprofil-haushaltskunden-2012-berlin,cc-by,XLS,d
@@ -1130,3 +740,393 @@ x,,,,,,,,,,,,,,,,Bevölkerungszahlen Berlin,http://datenregister.berlin.de/datas
 ,,,,,x,,,,,,,,,,,Summe Einspeisung Hochspannung 2012 (Berlin),http://datenregister.berlin.de/dataset/summe-einspeisung-hochspannung-2012-berlin,cc-by,CSV,d
 ,,,,,x,,,,,,,,,,,Summenlast der Netzverluste 2007 (Berlin),http://datenregister.berlin.de/dataset/summenlast-der-netzverluste-2007-berlin,cc-by,CSV,d
 ,,,,,,,,,,x,,,,,,Kohlenwasserstoff-Emissionen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/t308d01.xls,nicht bekannt,XLS,g
+,,,,x,,x,,x,,,x,,,,,Liste von Einrichtungen in verschiedenen Stadtteilen,http://www.berlin.de/ba-lichtenberg/freizeit/sport/jfe/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Spezifische CO2-Emissionen verschiedener Energieträger,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t803_04.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Grafiken über jährliche Heizlastverteilungen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/a218_02-3.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Flächenanteile der Grün- und Freiflächen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ta601d04.xls,nicht bekannt,XLS,g
+,,,,x,,,,,x,x,,,,,,Anzahl der in ihren Wohnungen durch Fluglärm belasteten Menschen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t705_12_14.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,Mietbare Veranstaltungsräume im Bezirk Lichtenberg,http://www.berlin.de/ba-lichtenberg/wirtschaft/mietraum/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Anteile ausgewählter Nutzungsarten an der bebauten Fläche aller Berliner Bezirke,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ec601_03.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Gebäude-Typen als Nebenstrukturen kategorisiert,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et609_01.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,x,,,,,,,Baustellen 2010-2013,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/__bersicht_stra__enbaustellen_neubau.xls?download.html,nicht bekannt,HTML,b
+,,,,,,,,,,x,,,,,,Radionuklide in Luftstaub aus Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t109e01.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,FK April 2014,http://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/sefinanzen/2014_april_monatsbericht.xls,nicht bekannt,XLS,b
+,,,,,x,,,,,x,,,,,,Adressen von Sonderabfallager,http://www.stadtentwicklung.berlin.de/umwelt/abfallwirtschaft/downloads/bbanlagen1104.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,x,,,,,,,Unterhaltungsmaßnahmen 2013,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/unterhaltungsma__nahmen_2013.xls,nicht bekannt,XLS,b
+,,,,,,,,,,,,x,,,,Berliner Finanzämter,http://www.berlin.de/sen/finanzen/steuern/finanzaemter/index.php/index/all.kml?q=,nicht bekannt,KML,b
+x,,,,,,,,,,,,,,,,Vornamen Mitte,http://www.berlin.de/daten/liste-der-vornamen/Mitte.csv,nicht bekannt,CSV,b
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Allgemeine Morbidität -> Arbeitsunfälle und Berufskrankheiten,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0103229000200400,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.2 - Ausländische Bevölkerung nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_2,cc-by,HTML,d
+,,,,,,,,,,,,x,,,,Haushaltsplan 2013 - Berlin - Offizielles Stadtportal der ...,http://www.berlin.de/imperia/md/content/senatsverwaltungen/finanzen/haushalt/ansatzn2013.xls,nicht bekannt,XLS,b
+,,,,,,x,,,,,,,,,,Berliner Wochen- und Trödelmärkte 2014,http://www.berlin.de/sen/wirtschaft/service/maerkte/wochen-antik/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Übersicht über die Belagsklassen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t102e01.xls,nicht bekannt,XLS,b
+,,,,,,x,,,,,,,,,,Straßenfeste 2013,http://www.berlin.de/sen/wirtschaft/service/maerkte/strassenfeste/strassenfeste2013.csv,nicht bekannt,CSV,b
+,,,,,,,,,,x,,,,,,Wegekoordinaten Weg 18,http://www.stadtentwicklung.berlin.de/umwelt/berlin_move/de/hauptwege/wegekoordinaten/Weg18.kmz,nicht bekannt,KMZ,b
+,,,,,,,,,,x,,,,,,Indexwerte für Blei und Cadmium,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et1031e2.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,x,,Prozentuale Verteilung der einzelnen Klassen der spezifischen Entzugsleistung für 2.400 Betriebsstunden,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t218_05.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,Vornamen Spandau,http://www.berlin.de/daten/liste-der-vornamen/Spandau.csv,nicht bekannt,CSV,b
+,,x,,,x,,,,,,,,,x,,Gruppe Planung und Entwurf - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/planung_und_entwurf.xls?download.html,nicht bekannt,HTML,b
+,,,,,,x,,,,,,,,,,Trödelmärkte 2013,http://www.berlin.de/sen/wirtschaft/service/maerkte/wochen-antik/wochen_troedel2013.csv,nicht bekannt,CSV,b
+,,,,x,,,,,,,,,,,,Liste von verschiedenen Ärzten,https://www.berlin.de/imperia/md/content/baneukoelln/gesplan/gesundheitsamt/neue_kopie_von_kinderaerzte_2013.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Verteilung und Mengen von Langzeit-Niederschlag für 97 Überwachungspunkte in Berlin und Umgebung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et408e01.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,elektrische und magnetische Feldstärken,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et805_04.xls,nicht bekannt,XLS,b
+,,,,,,,,x,,,,x,,,,Personalaustattung nach VOKitaFöG- EKG-,https://www.berlin.de/imperia/md/content/sen-familie/kindertagesbetreuung/persberechnung_ekg.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,Vornamen Reinickendorf,http://www.berlin.de/daten/liste-der-vornamen-2013/reinickendorf.csv,nicht bekannt,CSV,b
+,,,,,x,,,,,,,,,,,Jahresprofil Los 2011 (Berlin) 2. Teil,http://datenregister.berlin.de/dataset/jahresprofil-los-2011-berlin-2-teil,cc-by,XLS,d
+,,,,,,,,,,,,,x,,,"Umsätze im Cluster Kommunikation, Medien, Kulturwirtschaft Berlin 2009",http://datenregister.berlin.de/dataset/umsaetze-cluster-kommunikation-medien-kulturwirtschaft-berlin-2009,cc-by,CSV,d
+,,,,,,x,,,,,,,,,,Anmeldungen - Tag des offenen Denkmals 2008,http://www.stadtentwicklung.berlin.de/denkmal/denkmaltag/download/denkmal-uebersicht_19.5.08.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,,,,,,,Straßenverzeichnis,http://www.berlin.de/imperia/md/content/batempelhofschoeneberg/abtjugfamsport/sonstiges/strassenverzeichnis_jug.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Thesaurierung Tendenz für Cadmium in verschiedenen Pflanzenproben,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et1033e6.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,"Grenz-, Richtwerte und Empfehlungen zur Immission von Stickstoffdioxid in der Luft",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta30301.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Anzahl der Tage mit Wärmebelastung  und prozentualer Anteil an Strahlungstagen als Jahresmittelwert des Zeitraums 1971 – 2000,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t412_06.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Grundwasserförderung nach Nutzern für West-Berlin 1963 - 1996,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/aa21105.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Indikatorartengruppen von Alder Sümpfen (Flade 1994),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et505_02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,Ein-und Ausgaben der Stadt Berlin,http://www.berlin.de/imperia/md/content/senatsverwaltungen/finanzen/haushalt/plan_2012.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,Vornamen Marzahn-Hellersdorf,http://www.berlin.de/daten/liste-der-vornamen/Marzahn-Hellersdorf.csv,nicht bekannt,CSV,b
+x,,,,,x,,,,,x,,,,,,statistische Basis für Map 07.01,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/et701d02.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,Vornamen Neukoeln,http://www.berlin.de/daten/liste-der-vornamen/Neukoelln.csv,nicht bekannt,CSV,b
+,,,,,,,,,,x,,,x,,,Blei- und Cadmiumgehalte von Böden unterschiedlicher Flächennutzung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t1031e03.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Eintrag und Akkumulation von Blei und Cadmium in Böden,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t1031e04.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Entwicklung des Grundwasserstandes an der Meßstelle 1516 im Spandauer Forst,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/a207_03.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,x,,,Stoffgehalte in Kiefernnadeln (1991) in mg/kg,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t307_03.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,x,,,Aufteilung des Stadtgebietes von Berlin auf die Bewertungen für die verschiedenen Bodenfunktionen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/tac112_07.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Gefährdete Biotope in Brandenburg,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t503e02.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Fluktuation der Grundwasserstände an der Messstelle 1516 im Spandauer Forst,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaa207_03.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Grundwasserförderung der Berliner Wasser-Betriebe,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/et211d04.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,Kamerale Monatsdaten August 2013,http://www.berlin.de/imperia/md/content/balichtenberghohenschoenhausen/behoerde/kamerale_monatsdaten_08_2013.xls,nicht bekannt,XLS,b
+,,,,,,,,,,x,,,,,,Entwicklung des Grundwasserstandes an der Meßstelle 1516 im Spandauer Forst,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ab207_03.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Gesteinsklassen mit zugeordneter Wärmeleitfähigkeit und Wärmekapazität,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t218_01.xls,nicht bekannt,XLS,b
+,,x,,,x,,,,,x,,,,,,Entwicklung der Siedlungs-und Verkehrs Sektionen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaa603_01.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Nutzungsverteilung (bei Bauvorrang) über die Bezirke in Hektar und in Prozent,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/tc601_03.xls,nicht bekannt,XLS,b
+x,,,,,,,,,,,,,,,,Vornamen Marzahn-Hellersdorf,http://www.berlin.de/daten/liste-der-vornamen-2013/marzahn-hellersdorf.csv,nicht bekannt,CSV,b
+,,,,,,,x,,,,,,,,,Zuständigkeiten der Landesfamilienkasse,http://www.berlin.de/imperia/md/content/batreptowkoepenick/sepfin/zustaend__fk_0214.xls,nicht bekannt,XLS,g
+,,,,x,,,,,x,x,,,,,,Hauptlärmquellen für Lärmkartierung im Ballungsraum Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et705_01.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Einteilung der Berliner Frei- und Grünflächen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t605e01.xls,nicht bekannt,XLS,g
+,,,,,,x,,,,,,,,,,Liste von Badestellen in Berlin,http://www.berlin.de/badegewaesser/baden-details/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Versiegelung Bodenschutzkategorie,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/aa113_05.xls,nicht bekannt,XLS,g
+,,,,,,x,,,,,,,,,,Anmeldungen - Tag des offenen Denkmals 2008,http://www.stadtentwicklung.berlin.de/denkmal/denkmaltag/download/denkmal-uebersicht_21.5.08.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Die langfristigen mittleren Niederschläge von 97 Überwachungsstationen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/et408d02.xls,nicht bekannt,XLS,b
+x,,,,x,,,,,,x,,,,,,"Anzahl der Personen, die dem Straßenbahn-und U-Bahnlärm in ihren Wohnungen ausgesetzt sind",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et705_06_8.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Flächenanteile der Grün- und Freiflächen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/c601_04.xls,nicht bekannt,XLS,g
+,,,,,,,,,x,x,,,,,,Straßenlänge und Jahresfahrleistung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et701e05.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Grafik über Fläche und Bodenschutzkategorie,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ab113_06.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,x,,,,,,Durchschnittliche Einwohnerdichte pro Flächentyp und Nutzung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t606_01.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,statistische Basis für 03.03 Figur 3. Verschmutzung durch Kraftfahrzeuge,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/et303d03.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Wasserhaushalt und Grundwasserneubildung in Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t217_03.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Bebauung in Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/c607_03a.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Sickerwasser Jahreswerte 1961-1990,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ac213_06.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Grundwasserstand in m ü. NHN und Geländeoberkante,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ad207_02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,x,,Datengrundlage für 01.09 Abb. 4,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/t109d04.xls,nicht bekannt,XLS,g
+x,,,,,,,,,x,x,,,,,,Länge der Straßen mit Überschreitungen des NO2- bzw. PM10-Grenzwertes und Zahl der betroffenen Anwohnerinnen und Anwohner für die Trendentwicklung und bei Umsetzung der Maßnahmenbündel im Jahr 2015,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ac311_02_03.xls,nicht bekannt,XLS,g
+,x,,,,,,,,,,,,,,,Integrierte Sekundarschulen in Charlottenburg,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-integrierte-sekundarschulen/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,,,,,,,,,,,x,,"Einrichtungen in Marzahn-Hellersdorf für Kinder, Jugendliche und deren Familien",http://www.berlin.de/ba-marzahn-hellersdorf/verwaltung/jugend/jugend-termine/index.php/index/all.kml?q=,nicht bekannt,KML,b
+x,,,,,,,,,,,,,,,,Vornamen Treptow-Koepenick,http://www.berlin.de/daten/liste-der-vornamen/Treptow-Koepenick.csv,nicht bekannt,CSV,b
+,,,,,,,,,,x,,,x,,,Alterklassenverteilung Fortsamt Köpenick,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/taa504_11.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,x,,,"Entwicklung der Summe der Erholungsflächen, Ackerland und Wald",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaa603_02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Auf Englisch: Grundwasserstand in m ü. NHN und Geländeoberkante,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ead207_03.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Heizungsarten in Kreuzberg und Prenzlauer Berg,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaa801_08.xls,nicht bekannt,XLS,g
+,,,,,,x,,,,,,,,,,Trödelmärkte 2012,http://www.berlin.de/sen/wirtschaft/service/maerkte/wochen-antik/wochen_troedel2012.csv,nicht bekannt,CSV,b
+,,,,,,,,,,x,,,,,,Grenz- und Richtwerte elektrischer und magnetischer Felder,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t805_03.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,,,,,x,,Gruppe Innere Dienste - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/innere_dienste.xls,nicht bekannt,XLS,b
+,,,,,x,,,,,x,,,,,,Heizungsarten,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/aa801_07.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,,,,,,,Daten über die Spandauer-Damm-Brücke,http://www.stadtentwicklung.berlin.de/aktuell/pressebox/includes/docs/doc387_ueberblick_spandauerdammbruecke.xls,nicht bekannt,XLS,b
+,x,,,,,,,,,,,,,,,Zweiter Bildungsweg Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-zweiter-bildungsweg/index.php/index/all.json?q=,nicht bekannt,JSON,b
+,x,,,,,,,,,,,,,,,Zweiter Bildungsweg - Adressen Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-zweiter-bildungsweg/index.php/index/all.csv?q=,nicht bekannt,CSV,b
+,,,,,,,,,,,,,,x,,Änderungen im Produktkatalog von 2013,http://www.berlin.de/imperia/md/content/bapankow/geschaeftsstelleprodkat/produktkatalog/produkte___nderungs__bersicht_2013_2014.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Verwendete Datengrundlagen und ihr Raumbezug,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t801e03.xls,nicht bekannt,XLS,g
+,,,,,,x,,,,,,,,,,Liste von verschiedenen Veranstaltungen und Straßenfesten 2014,http://www.berlin.de/sen/wirtschaft/service/maerkte/strassenfeste/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,Vornamen Spandau,http://www.berlin.de/daten/liste-der-vornamen-2013/spandau.csv,nicht bekannt,CSV,b
+,,x,,,x,,,,,,,,x,,,notwendige Baumfällungen im Ortsteil Kreuzberg 2014,https://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/abteilungbwi/fbgruenflaechen/2014/f__llistek_februar_2.xls,nicht bekannt,XLS,g
+,,x,,,x,x,,,,,,,,,,Liste von Spielplätzen in Berlin,http://www.berlin.de/imperia/md/content/bareinickendorf/abteilungen/buedord/buergeraemter/spielpl__tze_reinickendorf.xls,nicht bekannt,XLS,g
+,,,,x,x,,,,,x,,,,,,Anzahl der in ihren Wohnungen durch Industrie und Gewerbe belasteten Menschen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta705_10-12.xls,nicht bekannt,XLS,b
+,,,,,,,,,,x,,,,,,Mittlerer Ozon-Tagesgang an BLUME-Stationen an Sommertagen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/aa30607.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,Vornamen Tempelhof-Schoenberg,http://www.berlin.de/daten/liste-der-vornamen-2013/tempelhof-schoeneberg.csv,nicht bekannt,CSV,b
+,,,,,,,,,,,,x,,,,Genderprodukte 2014 mit der Zeitreihe 2007-2014,http://www.berlin.de/imperia/md/content/bapankow/geschaeftsstelleprodkat/produktkatalog/131205_anlage_3a_produktkatalog_2014_neue_nummern.xls,nicht bekannt,XLS,b
+x,,,,,,,,,,x,,,,,,Durchschnittliche Einwohnerdichte pro Flächentyp und Nutzung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/eta606_01.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,x,,,,,Reparaturführer Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/umwelt/umwelt/reparaturfuehrer/index.php/index/all.kml?q=,nicht bekannt,KML,b
+,,,,,,,,,,x,,,,,,"Abkürzungen für Dreck, die in den Figuren 2- 10 benutzt wurden",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et101_07.xls,nicht bekannt,XLS,g
+,,,,,,,,,x,x,,,,,,Wirkung unterschiedlicher Maßnahmen auf die Kfz-Emissionen in Berlin im Vergleich zum Trendszenario 2015 (Werte in Prozent),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ac311_01.xls,nicht bekannt,XLS,b
+x,,,,,,,,,,x,,,,,,Entwicklung der Einwohnerdichte Berlins für ausgewählte Bezirke,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/a606_02.xls,nicht bekannt,XLS,g
+,,,,,,x,,,,,,,,,,Weihnachtsmärkte 2013 nach Bezirken,http://www.berlin.de/sen/wirtschaft/service/maerkte/xmas/xmas2013.csv,nicht bekannt,CSV,b
+,,,,,,x,,,,,,,,,,Berliner Weihnachtsmärkte 2013,http://www.berlin.de/sen/wirtschaft/service/maerkte/xmas/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+x,,,,,,,x,,x,x,,,,,,Die Zahl der Einwohner und Flächengrößen der Lärmschutz -und Planungszonen von den Berliner Flughäfen Tegel und Schönefeld,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/eta706_01.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Grundwasserförderung der Berliner Wasser-Betriebe von 1960 bis 2000,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eba21104.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Anzahl der Berliner Gewässer mit Vorkommen der nachgewiesenen Fischarten,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta208e02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,Berliner Finanzämter,http://www.berlin.de/sen/finanzen/steuern/finanzaemter/index.php/index/all.csv?q=,nicht bekannt,CSV,b
+,,,,x,x,,,,x,x,,,,,,Anzahl der in ihren Wohnungen durch Straßenverkehrslärm aller bewerteten Straßen belasteten Menschen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta705_04-06.xls,nicht bekannt,XLS,b
+,,,,,x,,,,,x,,,,,,"EU-weite Immissionsgrenzwerte und Fristen für Partikel-PM2,5, -PM10 und Stickstoffdioxid",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/tb311_03.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,,x,,,"Anzahl der sozialversicherungspflichtig Beschäftigten im Cluster IKT, Medien, Kreativwirtschaft Berlin 2009",http://datenregister.berlin.de/dataset/anzahl-der-sozialversicherungspflichtig-beschaeftigten-im-cluster-ikt-medien-kreativwirtsc-2009,cc-by,CSV,d
+,,,,,,,,,,x,,,,,,Bewertung der Allgemeine Luftverschmutzung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et307_01.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,x,,,,Regenwasserentwässerung in den Kanalisation,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/eta209_02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Biotoptypen umgeschlüsselte Sekundärdaten,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t508_struktur_bt.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 7.11 - Impfquote bezüglich Poliomyelitis, Tetanus, Diphtherie, Hepatitis B, Haemophilus influenzae b und Pertussis bei Schulanfängern, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_7_11,cc-by,HTML,d
+,,,,x,,,,,x,x,,,,,,"Anzahl der Personen,die Fluglärm in ihren Wohnungen ausgesetzt sind",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et705_12_14.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Gesundheitsmodernisierungsgesetz - GMG/ §264 SGB V -> Hilfen zur Gesundheit / §264 SGB V -> Ausgaben und Einnahmen,http://datenregister.berlin.de/dataset/gsi_inhalt_ts9100199014200503,cc-by,HTML,d
+x,,,,,,,,,,,,,,,,Vornamen Treptow-Koepenick,http://www.berlin.de/daten/liste-der-vornamen-2013/treptow-koepenick.csv,nicht bekannt,CSV,b
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.3 - Bevölkerung nach Alter und Geschlecht, Land, Jahr K",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_3,cc-by,HTML,d
+,,,,,,,,x,,,,,,,,Liste von Kitas,http://www.berlin.de/imperia/md/content/batempelhofschoeneberg/abtjugfamsport/kitab/kitalisteinternetnov2013.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 6.2 - Versorgungsgrad mit an der vertragsärztlichen Tätigkeit teilnehmenden Ärztinnen und Ärzten nach Fachgebieten, Land im Regionalvergleich, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_6_2,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 6.6 - Dialyseplätze (Hämodialyse), Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_6_6,cc-by,HTML,d
+,,,,,,,x,,,,,,,,,Leistungs- und Rückstandsberechnung,http://www.berlin.de/imperia/md/content/sen-familie/finanzielle_hilfen/unterhaltsvorschuss/fachinfo/jug_d_293_leistungs_rueckstandsberechnung.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 4.8 - Body Mass Index (BMI) der erwachsenen Bevölkerung nach Alter, Sozialschicht und Geschlecht, Deutschland/Land, 1998 B(L)",http://datenregister.berlin.de/dataset/gsi_gesindikator_4_8,cc-by,HTML,d
+,,,,,x,,,,,,,,,,,Los_1_2014 (Berlin),http://datenregister.berlin.de/dataset/los_1_2014-berlin,cc-by,XLS,d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Gesundheitszustand von Schulkindern und Jugendlichen,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0200032100200802,cc-by,HTML,d
+,,,,x,,,,,x,x,,,,,,Grenzwerte der 16. BImSchV (Verkehrslärmschutz-Verordnung),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et702_01.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,Kamerale Monatsdaten April 2014,http://www.berlin.de/imperia/md/content/balichtenberghohenschoenhausen/behoerde/kamerale_monatsdaten_april_2014.xls,nicht bekannt,XLS,b
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.9 - Ärztinnen und Ärzte in ambulanten Einrichtungen nach ausgewählten Gebietsbezeichnungen und Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_9,cc-by,HTML,d
+,,,,,,,,x,,,,,,,,Heimaufsicht,http://www.berlin.de/lageso/soziales/heimaufsicht/pruefberichte/index.php/index.kml?einrichtung_name=DOMICIL%20-%20Seniorenpflegeheim%20Gotlindestrasse%20GmbH,nicht bekannt,KML,b
+,,,,,,,,x,,,,,,,,Personalausstattung nach VOKitaFöG,http://www.berlin.de/imperia/md/content/sen-familie/kindertagesbetreuung/persberechnung_allgemein.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Basisbericht GBE Berlin 2006/2007,http://datenregister.berlin.de/dataset/gsi_kontext_tg0101121023200700,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Allgemeine Morbidität -> Pflegebedürftigkeit,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0103241000200400,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Beschäftigte im Gesundheitswesen -> Personal in Pflegeeinrichtungen,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0108219000200400,cc-by,HTML,d
+,,,,,,x,,,,,,,,,,Weihnachtsmärkte,http://www.berlin.de/sen/wirtschaft/service/maerkte/xmas/bb/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Entwicklung der Orthophosphat-Phosphor- und Ammonium-Stickstoff-Konzentration an Meßstellen mit hoher Nährstoffbelastung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t201e01.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.15 - Physiotherapeutinnen/Physiotherapeuten, Masseurinnen/Masseure, med. Bademeisterinnen/Bademeister in ambulanten Einrichtungen nach Geschlecht, Land im Regionalvergleich, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_15,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.47 - Pflegebedürftige nach Alter und Geschlecht, Land, Jahr K",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_47,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin : Basisberichte,http://datenregister.berlin.de/dataset/gsi_inhalt_tb0101000000199100,cc-by,HTML,d
+,,x,,,x,,,,x,x,,,,,,Railway-track gravel was calculated as 100 % impervious.,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/etac102_07.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Statistische Kurzinformationen -> Leistungen nach AsylbLG - Datenüberblick,http://datenregister.berlin.de/dataset/gsi_inhalt_tb0302010014201201,cc-by,HTML,d
+,,,,,x,,,,,,,,,,,Jahresprofil Los 2011 (Berlin) 9. Teil,http://datenregister.berlin.de/dataset/jahresprofil-los-2011-berlin-9-teil,cc-by,XLS,d
+,,,,,,,,,,x,,,,,,Wegekoordinaten Weg 17,http://www.stadtentwicklung.berlin.de/umwelt/berlin_move/de/hauptwege/wegekoordinaten/Weg17.kmz,nicht bekannt,KMZ,b
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 6.11 - Krankenhäuser und Bettenzahl, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_6_11,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.58 - Meldepflichtige Infektionserkrankungen nach dem Infektionsschutzgesetz, nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_58,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.28 - Apothekenpersonal nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_28,cc-by,HTML,d
+,,,,,,x,,,,,,,,,,Sportvereine und Sportangebote in Marzahn,http://www.berlin.de/ba-marzahn-hellersdorf/verwaltung/bildung/sport/sportvereine/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Statistische Kurzinformationen -> Hilfe zur Pflege,http://datenregister.berlin.de/dataset/gsi_inhalt_tb0302010000200707,cc-by,HTML,d
+x,,,,,,,,,,,,,,,,Ausländische Einwohnerinnen und Einwohner in Berlin in LOR-Planungsräumen am 31.12.2007,http://datenregister.berlin.de/dataset/ausl-ndische-einwohnerinnen-und-einwohner-in-berlin-in-lor-planungsr-umen-am-31-12-2007,cc-by,"PDF,CSV",d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 11.6 - DRG-Fallpauschalen: Erlöse und Leistungen, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_11_6,cc-by,HTML,d
+,,,,,,,,,,,x,,,,,Reparaturführer Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/umwelt/umwelt/reparaturfuehrer/index.php/index/all.xls?q,nicht bekannt,XLS,b
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.1 - Sterbefälle nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_1,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 5.6 - Belastung des Trinkwassers mit Nitrat und Pestiziden, Land, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_5_6,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitsrelevante Verhaltensweisen -> Ernährung -> Ernährungsweise,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0104210024200400,cc-by,HTML,d
+x,,,,,,,,,,,,,,,,Vornamen Neukoeln,http://www.berlin.de/daten/liste-der-vornamen-2013/neukoelln.csv,nicht bekannt,CSV,b
+,,,,,,,,,x,x,,,,,,"Tägliche Verkehrsstärke, Streckenlänge und Fahrleistung im Hauptstraßennetz 2005",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/etb701_03.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,,,,,,,BSR Entsorgungsbilanz 2007-2012,http://datenregister.berlin.de/dataset/bsr-entsorgungsbilanz-2007-2012,cc-by,"CSV,TXT",d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin : Spezialberichte -> Einschulungsuntersuchungen,http://datenregister.berlin.de/dataset/gsi_inhalt_tb0201010000200101,cc-by,HTML,d
+,,,,,x,,,,,,,,,,,Jahresprofil Los 2012 (Berlin) 5. Teil,http://datenregister.berlin.de/dataset/jahresprofil-los-2012-berlin-5-teil,cc-by,XLS,d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Bevölkerung und bevölkerungsspezifische Rahmenbedingungen des Gesundheitssystems -> Wirtschaftliche und soziale Lage -> Bildungsstand,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0100212100200400,cc-by,HTML,d
+x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner in Berlin in LOR-Planungsräumen nach Wohndauer am 31.12.2009,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-in-berlin-in-lor-planungsr-umen-nach-wohndauer-am-31-12-2009,cc-by,"PDF,CSV",d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Gesundheitszustand von Vorschulkindern -> Tabakkonsum,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0200061200200601,cc-by,HTML,d
+,,,,,,,,,,,,x,,,,Berliner Finanzämter,http://www.berlin.de/sen/finanzen/steuern/finanzaemter/index.php/index/all.json?q=,nicht bekannt,JSON,b
+,,,,,,,,,x,x,,,,,,Berechnete Konzentrationen des Berliner Hauptverkehrsstraßennetz im Vergleich zu den Referenzwerten der 23. Verordnung des Bundes-Immissionsschutzgesetz,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et310_05.xls,nicht bekannt,XLS,g
+,,,,,,,,,x,x,,,,,,Lärmimmissionen an oberirdischen Schienenwegen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta702_05.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Bioklimatische Belastung der Siedlungsräume,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t411_03.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Quartalsstatistiken zu den Ausgaben und Einnahmen zum Pflegegeldgesetz - PflegeG/ bis 2003,http://datenregister.berlin.de/dataset/gsi_ae_ts7100199014200103,cc-by,HTML,d
+x,,,,,,,,,,,,,,,,Vornamen Tempelhof-Schoenberg,http://www.berlin.de/daten/liste-der-vornamen/Tempelhof-Schoeneberg.csv,nicht bekannt,CSV,b
+x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner in Berlin in LOR-Planungsräumen nach Wohndauer am 31.12.2008,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-in-berlin-in-lor-planungsr-umen-nach-wohndauer-am-31-12-2008,cc-by,"PDF,CSV",d
+,,,,x,,,,,,x,,,,,,"Beziehung zwischen Gefühlter Temperatur, Thermischem Empfinden und Belastungsstufen",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t412_01.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,"Langjährige mittlere Niederschläge (Jahresmittel, Winter- und  Sommerhalbjahresmittel) der 97 Niederschlagsmeßstellen",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/t408d02.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Sozialgesetzbuch II - SGB II/ kommunale Ausgaben -> Grundsicherung (ARGE) -> Ausgaben und Einnahmen,http://datenregister.berlin.de/dataset/gsi_inhalt_ts2100199014200503,cc-by,HTML,d
+,,,,,,,,,,x,,,,,,Temperaturunterschiede in Bezug auf einige Klimastationen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ea404_02.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner in Berlin in LOR-Planungsräumen nach Wohndauer am 31.12.2007,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-in-berlin-in-lor-planungsr-umen-nach-wohndauer-am-31-12-2007,cc-by,"PDF,CSV",d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Beschäftigte im Gesundheitswesen -> Ausgewählte im ambulanten und stationären Bereich tätige Berufsgruppen -> Pflegeberufe und sonstige Gesundheitsdienstberufe,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0108214014200400,cc-by,HTML,d
+x,,,,,,,,,,,,,,,,Vornamen Reinickendorf,http://www.berlin.de/daten/liste-der-vornamen/Reinickendorf.csv,nicht bekannt,CSV,b
+,,,,,,,x,,,,,,,,,Beschlüsse des Bezirksamts Tempelhof,http://www.berlin.de/ba-tempelhof-schoeneberg/politik/ba/beschluss/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,Vornamen Friedrichshain-Kreuzberg,http://www.berlin.de/daten/liste-der-vornamen/Friedrichshain-Kreuzberg.csv,nicht bekannt,CSV,b
+,,,,,,,,,,x,,,,,,Kaltluftmassenströme in der Berliner Bezirke an einem niedrigen Luftwechselwolkenlosen Sommerabend,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et410_02.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,,,,,,,Standardlastprofil Gewerbekunden 2013 (Berlin),http://datenregister.berlin.de/dataset/standardlastprofil-gewerbekunden-2013-berlin,cc-by,XLS,d
+,,,,,x,,,,,,,,,,,Jahresprofil Los 2012 (Berlin) 1. Teil,http://datenregister.berlin.de/dataset/jahresprofil-los-2012-berlin-1-teil,cc-by,XLS,d
+,,,,,,,,,,,,x,,,,Doppelhaushalt 2014/2015,http://datenregister.berlin.de/dataset/doppelhaushalt-2014-2015,cc-by,CSV,d
+,,,,,,,,,,,,x,,,,Haushaltsplan Berlin 2009,http://datenregister.berlin.de/dataset/haushaltsplan-berlin-2009,cc-by,XLS,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Inanspruchnahme von Leistungen der Gesundheitsförderung und der Gesundheitsversorgung -> Inanspruchnahme/Leistungen der Prävention, Gesundheitsförderung und Früherkennung von Krankheiten -> Vorsorgeuntersuchungen",http://datenregister.berlin.de/dataset/gsi_inhalt_tg0107227000200400,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Basisbericht GBE Berlin 2003/2004,http://datenregister.berlin.de/dataset/gsi_kontext_tg0100421024200400,cc-by,HTML,d
+x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen nach Herkunftsgebieten am 31.12.2013,http://datenregister.berlin.de/dataset/einwohner-mit-migrationshintergrund-in-berlin-nach-herkunftsgebieten-am-31-12-2013,cc-by,"PDF,CSV",d
+x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen nach Herkunftsgebieten am 31.12.2012,http://datenregister.berlin.de/dataset/einwohner-mit-migrationshintergrund-in-berlin-nach-herkunftsgebieten-am-31-12-2012,cc-by,"PDF,CSV",d
+,,x,,,x,,,,,x,,,,,,Anteile der Strukturtypen mit überwiegender Wohnnutzung an ihrer Gesamtfläche in Prozent,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/c607_02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,x,,,,,Liste mit verschiedenen Cafes und Lebensmittelläden in Berlin,https://www.berlin.de/imperia/md/content/bamitte/aktuell/liste_legende.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,x,,,,,,,Genehmigungen U-Bahn,http://www.stadtentwicklung.berlin.de/verkehr/dienste/strassen-u-bahn/download/verzeichnis_genehmigungen_u-bahn.xlsx,nicht bekannt,XLSX,g
+,,,,,x,,,,,x,,,,,,"Definition der Anteile zum Wohnen, durch Gewerbe und durch Handel bzw. Dienstleistungen genutzte Fläche pro Nutzungskategorien in Prozent",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t601e01.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Sulfur Dioxide Emissions from Individual Polluter Groups in Berlin 1951-1989,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eab801_10.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,Kamerale Monatsdaten November 2013,http://www.berlin.de/imperia/md/content/balichtenberghohenschoenhausen/behoerde/kamerale_monatsdaten_november_2013.xls,nicht bekannt,XLS,b
+,,,,,,,,,,,,,,x,,"Einrichtungen in Marzahn-Hellersdorf für Kinder, Jugendliche und deren Familien",http://www.berlin.de/ba-marzahn-hellersdorf/verwaltung/jugend/jugend-termine/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,x,,,,,,,,,,,,,,,Gymnasien in Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-gymnasien/index.php/index/all.kml?order=anschrift%20DESC,nicht bekannt,KML,b
+,x,,,,,,,,,,,,,,,Berufsbilende Oberschulen in Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-berufsbildende-oberschulen/index.php/index.kml?order=zusatz%20DESC,nicht bekannt,KML,b
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Einrichtungen des Gesundheitswesens -> Ambulante medizinische Einrichtungen,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0106111100200700,cc-by,HTML,d
+,,,,,x,,,,,,,,,,,Jahresprofil Los 2011 (Berlin) 5. Teil,http://datenregister.berlin.de/dataset/jahresprofil-los-2011-berlin-5-teil,cc-by,XLS,d
+,,,,,,,,,,x,,,,,,"EW pro ha, GFZ und GRZ",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/a609_03.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Gesundheitszustand von Vorschulkindern,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0103245000200700,cc-by,HTML,d
+,,,,,,,,,,x,,,,,,Spezifische Entzugsleistung von bestimmten Klassen von Felsen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et218_02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Bewertung der allgemeinen Immissionsbelastung anhand der Flechtenvegetation,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t307_01.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,Monatsschreibung FrKr 31.3.2014,http://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/sefinanzen/2014_maerz.xls,nicht bekannt,XLS,b
+,,,,,,,,,,x,,,,,,Grenzwerte der 26. BImSchV für ortsfeste Niederfrequenzanlagen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t805_02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Strukturgüte der untersuchten Fließgewässer im Land Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t2061_02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,Haushaltsplan 2012,http://www.berlin.de/imperia/md/content/senatsverwaltungen/finanzen/haushalt/ansatzn2012.xls,nicht bekannt,XLS,b
+,,x,,,x,,,,,x,,,x,,,Flächennutzungen der Planungsräume auf der Grundlage der Nutzungskartierung des Informationssystems Stadt und Umwelt / Umweltatlas,http://www.stadtentwicklung.berlin.de/planen/basisdaten_stadtentwicklung/lor/download/lor_nutzung_ISU5_2010.xls,nicht bekannt,XLS,b
+,,,,,x,,,,,x,,,,,,Regenwasserableitung in die Kanalisation ermittelt aus den Daten des ISU mit dem aktualisierten Programm ABIMO 3.2; Stand der Datengrundlage 6/2012; Auswertung 11/2012,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/tc209_02.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Grundwasserförderung 1913 und 1990 bzw. 1989,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t211e02.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,x,,,Flächenanteile verschiedener Nutzungen an der Gesamtfläche der Bezirke Berlins in Hektar (bei Bauvorrang),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ac601_05.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Verteilung von Grünflächen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ea113_07.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,x,,,,,,Schwefeldioxid-Emissionen aus Einzelverursachergruppen in Berlin 1951 bis 1989,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaa30101.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,"Grundwasserförderung 1913, 1990 bzw. 1989, 1995 und 1999",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/tb21103.xls,nicht bekannt,XLS,g
+,,,,,,,,x,,,,,,,,Kindertagesstätten,http://www.berlin.de/ba-marzahn-hellersdorf/verwaltung/jugend/kita/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Flächennutzung von bestimmten Stadtteilen Berlins,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eac601_06.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Strukturtypen und ihre Nutzungen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta607e02.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,,,,,,,Jahresabschluss 2010,http://datenregister.berlin.de/dataset/jahresabschluss-2010,cc-by,XLS,d
+,,,,,,,,x,,,,,,x,,Telefon-und Mailliste,https://www.berlin.de/imperia/md/content/batreptowkoepenick/sepfin/kindergeldkasse/zustaendigkeit_famkasse.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen nach Herkunftsgebieten am 31.12.2010,http://datenregister.berlin.de/dataset/einwohner-mit-migrationshintergrund-in-berlin-nach-herkunftsgebieten-am-31-12-2010,cc-by,"PDF,CSV",d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Einschulungsuntersuchung Berlin 2006,http://datenregister.berlin.de/dataset/gsi_kontext_tb0201010000200801,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.20 - Arbeitslose (Jahresdurchschnitt) nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_20,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.21 - Arbeitslose (Jahresdurchschnitt) nach Geschlecht, Land im Regionalvergleich, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_21,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.22 - Empfänger von ausgewählten öffentlichen Sozialleistungen nach Alter und Geschlecht, Land, Jahr K",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_22,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.23 - Empfänger von ausgewählten öffentlichen Sozialleistungen nach Geschlecht, Land im Regionalvergleich, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_23,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 2.24 - Wohngeldempfänger (Haushalte), Land im Regionalvergleich, Jahre L",http://datenregister.berlin.de/dataset/gsi_gesindikator_2_24,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 9.3 - Erteilte Approbationen nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_9_3,cc-by,HTML,d
+,,,,,,,x,,,,,,,,,Bundestagswahl 2009 in Berlin nach Wahlbezirken (Endgültiges Ergebnis),http://datenregister.berlin.de/dataset/bundestagswahl-2009-in-berlin-nach-wahlbezirken-endg-ltiges-ergebnis,cc-by,"PDF,CSV",d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 10.19 - Versichertenstruktur nach Krankenkassen/Krankenversicherungen, Land, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_10_19,cc-by,HTML,d
+,,,,,,,,x,,,,,,,,Liste von verschiedenen Einrichtungen,http://www.berlin.de/lageso/soziales/heimaufsicht/pruefberichte/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,,,x,,,,,,,,,,Strassenfeste,http://www.berlin.de/sen/wirtschaft/service/maerkte/strassenfeste/index.php/index/all.xls?veranstalter=AG%20Rudow%20e.%20V.%2C%20Tel.%3A%200163%2F676%2031%2064%2C%20Fax%3A%20033055%2F212%2091,nicht bekannt,XLS,b
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 10.18 - Mitglieder und mitversicherte Familienangehörige der gesetzlichen Krankenversicherung nach Alter und Geschlecht, Land, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_10_18,cc-by,HTML,d
+,,,,,,,,,x,,,,,,,VBB-Fahrplandaten August bis Oktober 2014,http://datenregister.berlin.de/dataset/vbb-fahrplandaten-august-bis-oktober-2014,cc-by,GTFS,d
+,,,,,x,,,,,,,,,,,Summenlast der Netzverluste 2008 (Berlin),http://datenregister.berlin.de/dataset/summenlast-der-netzverluste-2008-berlin,cc-by,CSV,d
+x,,,,,,,,,,x,,,,,,Einwohnerdichte Berlins im Vergleich mit anderen Städten,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ea606_01.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 10.17 - Krankenversicherungsschutz der Bevölkerung, Land, im Zeitvergleich L",http://datenregister.berlin.de/dataset/gsi_gesindikator_10_17,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 10.16 - Zuzahlungen der privaten Haushalte nach Leistungsbereichen in der gesetzlichen Krankenversicherung, Land, Jahre L",http://datenregister.berlin.de/dataset/gsi_gesindikator_10_16,cc-by,HTML,d
+,,,,,,,,,,x,,,,,,statistische Basis für Map 03.01 Figure 2,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/et301d02.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Mittlere Versiegelungsgrade nach Flächennutzung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/tc102_06.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Gesamttreibstoffverbrauch und CO2-Emissionen in Berlin wichtigsten Heizkraftwerken,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaa801_06.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Grafik über Anzahl der Blöcke und Grünflachenzahl,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/a609_01.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,Beteiligungsdatenbank des Landes Berlin,http://www.berlin.de/sen/finanzen/vermoegen/beteiligungen/beteiligungsdatenbank/index.php/index/all.xls?order=eigenkapital,nicht bekannt,XLS,b
+,,x,,,x,,,,,,,,,,,Straßenverzeichnis der Bauaufsicht,http://www.berlin.de/ba-lichtenberg/buergerservice/baufsicht/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,,,,,x,,,,,,,,Zuständigkeiten Familienkasse - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/sepfin/kindergeldkasse/zustaendigkeit_famkasse.xls,nicht bekannt,XLS,b
+,,,,,,,,,,x,,,,,,Brandenburg Landschaftsschutzgebiete in der Umgebung Berlin (Stand Dez. 2000),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/eta506_09.xls,nicht bekannt,XLS,g
+,x,,,,,,,,,,,,,,,Gymnasien in Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-gymnasien/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Entwicklung der CO2-Emissionen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et807_02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,Haushaltsplan 2010,http://www.berlin.de/imperia/md/content/senatsverwaltungen/finanzen/haushalt/ansatz_2010.xls,nicht bekannt,XLS,b
+,,,,,,,,,x,x,,,,,,"Verkehrsbelastung (DTV), Streckenlänge und Fahrleistung (km/Tag) im Hauptstraßennetz 1998/99",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta701_02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,x,,,Als Naturdenkmale geschützte Findlinge,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/umwelt/natur/findlinge/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,x,,,"Beispiel für die Neuberechnung des Mischungsverhältnisses Forstamt Grunewald, Fortsrevier Dreilinden",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t504_06.xls,nicht bekannt,XLS,g
+,,,,,,x,,,,,,,,x,,Liste der Stolpersteine in Schöneberg,http://www.berlin.de/ba-tempelhof-schoeneberg/derbezirk/simple-search-baukasten/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,x,,,,,,,,,,,,,,,Gymnasien in Charlottenburg-Wilmersdorf,http://datenregister.berlin.de/dataset/simple_search_wwwberlindebacharlottenburgwilmersdorforgschulensuchegymnasien,Siehe Website des Datensatzes,"XML,GJSON,KML,JRSS,JSON,HTML,CSV,XLS,RSS",d
+,,,,,,x,,,,,,,,,,Weihnachtsmärkte 2013,http://www.berlin.de/sen/wirtschaft/service/maerkte/xmas/bb/xmas2013bb.csv,nicht bekannt,CSV,b
+x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen nach Herkunftsgebieten am 31.12.2011,http://datenregister.berlin.de/dataset/einwohnermit-migrationshintergrund-in-berlin-nach-herkunftsgebieten-am-31-12-2011,cc-by,"PDF,CSV",d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext HBSC Studie Berlin 2006,http://datenregister.berlin.de/dataset/gsi_kontext_tb0201020000200802,cc-by,HTML,d
+,,,,,x,,,,,,,,,,,Jahresabschluss 2011,http://datenregister.berlin.de/dataset/jahresabschluss-2011,cc-by,XLS,d
+x,,,,,,,,,,,,,,,,Vornamen Lichtenberg,http://www.berlin.de/daten/liste-der-vornamen/Lichtenberg.csv,nicht bekannt,CSV,b
+,,,,,x,,,,,,,,,,,Summenlast der Netzverluste 2011 (Berlin),http://datenregister.berlin.de/dataset/summenlast-der-netzverluste-2011-berlin,cc-by,CSV,d
+,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Jahresstatistiken zu den Eckzahlen und Zeitreihen zum Landespflegegeldgesetz - LPflGG/ ab 2004,http://datenregister.berlin.de/dataset/gsi_ez_ts4100299000200912,cc-by,HTML,d
+,,,,,x,,,,,,,,,,,Jahresprofil Los 2011 (Berlin) 1. Teil,http://datenregister.berlin.de/dataset/jahresprofil-los-2011-berlin-1-teil,cc-by,XLS,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 6.12 - Krankenhäuser nach Größenklassen, Land, Jahr K",http://datenregister.berlin.de/dataset/gsi_gesindikator_6_12,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Geburtsgeschehen in Berlin 2011,http://datenregister.berlin.de/dataset/gsi_kontext_tb0301010000201301,cc-by,HTML,d
+,,,,,,,,,,,,x,,,,Bezirkshaushaltsplan Friedrichshain-Kreuzberg 2012/2013 fortgeschrieben mit Ergänzungsplan 2013,http://datenregister.berlin.de/dataset/bezirkshaushaltsplan-friedrichshain-kreuzberg-2012-2013-fortgeschrieben-mit-ergungsplan-2013,cc-by,XLS,d
+,,x,,,x,,x,,,,,,,,,Geometrien Abgeordnetenhauswahlkreise für die Bundestagswahl 2013 in Berlin,http://datenregister.berlin.de/dataset/geometrien-abgeordnetenhauswahlkreise-f-r-die-bundestagswahl-2013-in-berlin,cc-by,"KML,KMZ",d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Infektionskrankheiten,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0103252000200400,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 6.19 - Ambulante Pflegeeinrichtungen nach Art, Zahl der Pflegebedürftigen (Größenklassen) und Träger, Land, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_6_19,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Einrichtungen des Gesundheitswesens -> Weitere Einrichtungen des Gesundheitswesens,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0106223015200400,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Einschulungsuntersuchung Berlin 2007/2008,http://datenregister.berlin.de/dataset/gsi_kontext_tb0201010000201101,cc-by,HTML,d
+x,,,,,,,,,,,,,,,,Vornamen Steglitz- Zehlendorf,http://www.berlin.de/daten/liste-der-vornamen/Steglitz-Zehlendorf.csv,nicht bekannt,CSV,b
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin : Diskussionspapiere,http://datenregister.berlin.de/dataset/gsi_inhalt_tb0701030014198603,cc-by,HTML,d
+x,,,,,,,,,,,,,,,,Vornamen Mitte,http://www.berlin.de/daten/liste-der-vornamen-2013/mitte.csv,nicht bekannt,CSV,b
+,,,,,,,,,,x,,,x,,,Baumartenverteilung nach Forstämtern (nach Nebel 1992),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t504_07.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,x,,,Flächenverteilung verschiedener Flächentypen der Gründerzeit in ha,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/t607d04.xls,nicht bekannt,XLS,g
+,,,,,,x,,,,,,,,,,Straßenfeste,http://www.berlin.de/sen/wirtschaft/service/maerkte/strassenfeste/index.php/index/all.csv?q=,nicht bekannt,CSV,b
+,,,,,,,,,,x,,,,,,Übersicht zu den berücksichtigten Einflußgrößen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t408e02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,x,,,Altersklassenstruktur nach Forstämtern,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t504_09.xls,nicht bekannt,XLS,g
+,,,,,,,x,,,,,,,,,BA-Beschlüsse,http://www.berlin.de/ba-treptow-koepenick/politik/ba-beschluesse/simplesearch/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Wert der Biotoptypen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t503e01.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,,,,,,,Summe Einspeisung Mittelspannung 2011 (Berlin),http://datenregister.berlin.de/dataset/summe-einspeisung-mittelspannung-2011-berlin,cc-by,CSV,d
+,,x,,,x,,,,,,,,,x,,Gruppe Ordnungsangelegenheiten - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/ordnungsangelegenheiten.xls?download.html,nicht bekannt,HTML,b
+,,,,,,,,,,x,,,,,,Entwicklung der CO2-Emissionen aller vom Treibhausgas-Emissionshandelsgesetz (TEHG) betroffenen Anlagen in Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t807_02.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Anteile des Gesamtbestands an Grün-und Freiräumen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eta601d04.xls,nicht bekannt,XLS,g
+,,,,x,,,,,x,x,,,,,,Gesamt Grenzen für den Verkehrslärmschutz,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et702_02.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Gesamter Brennstoffeinsatz und CO2-Emissionen in bedeutenden Berliner Heiz- und Heizkraftwerken 2004,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ab801_07.xls,nicht bekannt,XLS,g
+,,,,x,,,,,x,x,,,,,,Darstellung der Hauptlärmquellen  für die Lärmkartierung in Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t705_01.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,x,,,,,,Entwicklung der Einwohnerdichte Berlins für ausgewählte Bezirke,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ah606_02.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,"Res per ha, LBR, FSI",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ea609_02.xls,nicht bekannt,XLS,g
+x,,,,,x,,,,,x,,,,,,Potential für Nutzung von solarthermischer Energie in Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et806_03.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,x,x,,,,,,Von Grenzwertüberschreitungen betroffene Abschnittslängen und  Anwohner im übergeordneten Straßennetz,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/ta311_05.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Versorgung mit Erholungsflächen des Freiraumtyps wohnungsnahe Grünanlage pro Bezirk,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t605e03.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,wesentliche Merkmale von Bebauungen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ed607_03.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Einteilung der Berliner Frei- und Grünflächen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t605_01.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,Kamerale Monatsdaten März 2014,http://www.berlin.de/imperia/md/content/balichtenberghohenschoenhausen/behoerde/kamerale_monatsdaten_m__rz_2014.xls,nicht bekannt,XLS,b
+,,,,,,,,,,x,,,x,,,Beispiel für das Prinzip der Systematik von Böden (nach Bodenkundliche Kartieranleitung 1982),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t101_02.xls,nicht bekannt,XLS,g
+,x,,,,,,,,,,x,,,,,Liste von Schulen,http://www.berlin.de/ba-lichtenberg/freizeit/sport/ja-jsa/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,x,,,Gebiete mit ausschliesslich über 80-jährigen Eichen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et504_08.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,,x,,,Sprechstunden Kinderärzte Neukölln 2013,http://www.berlin.de/imperia/md/content/baneukoelln/gesplan/gesundheitsamt/neue_kopie_von_kinderaerzte_2013.xls,nicht bekannt,XLS,b
+,,,,,,,,,,,,,x,,,AG Rudow  Kontaktdaten Mitglieder 2006,http://www.berlin.de/imperia/md/content/baneukoelln/wirtschaftsfoerderung/agrudow_mitgliederliste.xls,nicht bekannt,XLS,b
+,,x,,,x,,,,,x,,,x,,,Flächenanteile in Berliner Stadtbezirken,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ta601d03.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Durchschnittszahlen von Geschosse,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ea609_04.xls,nicht bekannt,XLS,b
+,,x,,,x,,,,,x,,,,,,Bebauungen im historischen Rückblick,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ed607_06.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,x,,,,,,Bevölkerungsentwicklung in bestimmten Stadtteilen in Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eaj606_02.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Grafik über den Wasserablauf durch die Berliner Wasserbetriebe von 1989 bis 2005,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ete212_09.xls,nicht bekannt,XLS,g
+,x,,,,,,,,,,,,,,,Zweiter Bildungsweg - Adressen Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-zweiter-bildungsweg/index.php/index/all.xls?q=,nicht bekannt,XLS,b
+,,x,,,x,,,,x,,,,,,,Sonderprogramm 2013,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/sonderprogramm_2013.xls,nicht bekannt,XLS,b
+,,x,,,x,,,,x,,,,,,,Unterhaltungsmaßnahmen 2014,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/unterhaltungsma__nahmen_2014.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,,,,,x,,Gruppe Regiekolonne - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/regiekolonne.xls?download.html,nicht bekannt,HTML,b
+,,x,,,x,,,,,,,,,x,,Gruppe Grundstücksangelegenheiten - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/gruppe_grundst__cksangelegenheiten.xls,nicht bekannt,XLS,b
+,,x,,,x,,,,,,,,,,,Straßenverzeichnis der Stadtplanung im Bezirk Lichtenberg,http://www.berlin.de/ba-lichtenberg/buergerservice/stadtplanung/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Landschaftsschutzgebiete Brandenburgs im Berliner Umland (Stand März 1995),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t506e07.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Mittelwerte des Dampfdrucks und der relativen Luftfeuchte in 2 m Höhe von Juni bis September,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/a404_03.xls,nicht bekannt,XLS,b
+,,,,,,,,,,x,,,,,,Naturschutzgebiete Brandenburgs im Berliner Umland (Stand März 1995),http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et506e06.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen am 31.12.2013,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-mit-migrationshintergrund-in-berlin-in-lor-planungsr-umen-am-31-12-2013,cc-by,"PDF,CSV",d
+x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen am 31.12.2012,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-mit-migrationshintergrund-in-berlin-in-lor-planungsr-umen-am-31-12-2012,cc-by,"PDF,CSV",d
+,,,,,x,,,,,x,,,,,,Rohwasserförderung der Berliner Wasserbetriebe 1989 - 2009,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/tl212_12.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Flächenanteile der Grün- und Freiflächen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/tb601d04.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen am 31.12.2011,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-mit-migrationshintergrund-in-berlin-in-lor-planungsr-umen-am-31-12-2011,cc-by,"PDF,CSV",d
+,,,,,x,,,,,x,,,,,,Rohwasserförderung der Berliner Wasserbetriebe 1989 - 2003,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/td212_09.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,Einwohnerinnen und Einwohner mit Migrationshintergrund in Berlin in LOR-Planungsräumen am 31.12.2010,http://datenregister.berlin.de/dataset/einwohnerinnen-und-einwohner-mit-migrationshintergrund-in-berlin-in-lor-planungsr-umen-am-31-12-2010,cc-by,"PDF,CSV",d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Bevölkerung und bevölkerungsspezifische Rahmenbedingungen des Gesundheitssystems -> Wirtschaftliche und soziale Lage -> Erwerbstätigkeit und Einkommen,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0102216000200400,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.51 - Lebendgeborene nach Geburtsgewicht, Land im Regionalvergleich, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_51,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.56 - Häufigste Todesursachen von Säuglingen, darunter plötzlicher Kindstod, nach Geschlecht, Land, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_56,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.57 - Befunde bei Einschulungsuntersuchungen nach Geschlecht, Land, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_57,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 3.54 - Säuglingssterblichkeit im ersten Lebensjahr je 1 000 Lebendgeborene, Land im Regionalvergleich, 3-Jahres-Mittelwerte L",http://datenregister.berlin.de/dataset/gsi_gesindikator_3_54,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 6.10 - Gesundheitseinrichtungen für Suchtkranke, Land, Jahre L",http://datenregister.berlin.de/dataset/gsi_gesindikator_6_10,cc-by,HTML,d
+,,,,,x,,,,,x,,,,,,Regenwasserableitung in die Kanalisation - Einzugsgebiete und Abflüsse,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t209_02.xls,nicht bekannt,XLS,b
+,,x,,,x,,,,,x,,,,,,Flächenverteilung in bestimmten Bezirken,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/et102d02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,x,,,Flächenanteile für die Bewertung der Wirksamkeit von Böden in der Erfüllung ihrer natürlichen Bodenfunktionen und der Archivfunktion,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/etab112_14.xls,nicht bekannt,XLS,g
+,x,,,,,,,,,,,,,,,Gymnasien in Charlottenburg-Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-gymnasien/index.php/index/all.kml?order=gebaeude_info%20DESC,nicht bekannt,KML,b
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.22 - Hebammen und Entbindungspfleger in ambulanten und stationären Einrichtungen, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_22,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.23 - Personal in Vorsorge- oder Rehabilitationseinrichtungen nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_23,cc-by,HTML,d
+,,,,,,,,,,x,,x,,,,Regenwasserentwässerung in den Kanalisation,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/etb209_02.xls,nicht bekannt,XLS,g
+,,,,,,x,,,,,,,,,,Straßenfeste 2012,http://www.berlin.de/sen/wirtschaft/service/maerkte/strassenfeste/strassenfeste2012.csv,nicht bekannt,CSV,b
+,,,,,,,,,,x,,,,,,"Mittlere Luftwechselrate, Massenstrom und Strömungsgeschwindigkeit des Korridors Wind pro Raster",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et410_05.xls,nicht bekannt,XLS,g
+,,,,x,,,,,x,x,,,,,,"Anzahl der Personen, die Industrielärm in ihren Wohnungen ausgesetzt sind",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et705_09_11.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Rohwasserförderung der Berliner Wasserbetriebe 1989 - 2005 inkl. Wasserwerk Stolpe,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/te212_09.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Mortalitätsrate als Maß zur Gefahr für Höheren Pflanzen,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et307_02.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,x,,,,,,Einwohnerdichte Berlins im Vergleich mit anderen Städten,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/eag606_01.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Flächenanteile von Sickerwasser- und Grundwasserneubildungsraten,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/ab217_02.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,x,,"Daten über Fälle von ""Impervious Coverage Removal""",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et116_02.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.20 - Ausgewähltes medizinisch-therapeutisches Personal in Krankenhäusern nach Berufen und Geschlecht, Land, Jahre L",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_20,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.21 - Ausgewähltes technisch-diagnostisches Personal in Krankenhäusern nach Berufen und Geschlecht, Land, Jahre L",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_21,cc-by,HTML,d
+x,,,,,,,,,,,,,,,,Vornamen Pankow,http://www.berlin.de/daten/liste-der-vornamen/Pankow.csv,nicht bekannt,CSV,b
+,,x,,,x,x,,,,,,,,,,Öffentlich zugängliche Spielplätze in Spandau,http://www.berlin.de/imperia/md/content/baspandau/verwaltung/beauftragte/__ffentlich_zug__ngliche_spielpl__tze_in_spandau_datenbank.xls,nicht bekannt,XLS,b
+,,,,,,,,,,,,x,,,,FK Dezember 2013 Abschluss,http://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/sefinanzen/2013_dezember_abschluss.xls,nicht bekannt,XLS,b
+,,,,,x,,,,,x,,,,,,Nachrüstungstermine für Gasrückführsysteme,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t309_03.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,x,,,,,,Beschreibung der Strukturtypen mit überwiegender Wohnnutzung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/td607_08.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Anteile von Uferfiltrat und Grundwasseranreicherung an der Förderung der Berliner Wasserwerke,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t212e03.xls,nicht bekannt,XLS,g
+,,x,,,x,,,,,,,,,,,Straßenverzeichnis Schiedsbezirke,http://www.berlin.de/imperia/md/content/batreptowkoepenick/buergeramt2/stra__enverzeichnis_alphabetisch.xls,nicht bekannt,XLS,b
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Krankheiten des Kreislaufsystems,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0103284000200400,cc-by,HTML,d
+,,x,,,x,,,,,,,,,x,,Gruppe Aufsicht und Unterhaltung - Ansprechpartner,http://www.berlin.de/imperia/md/content/batreptowkoepenick/bauenundstadtentwicklung/tiefbauamt/aufsicht_und_unterhaltung.xls?download.html,nicht bekannt,HTML,b
+,,,,x,,,,x,,,,,,,,Liste von Tagespflegestellen,http://www.berlin.de/ba-lichtenberg/buergerservice/familie/tagespflege/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,"Abflussdaten, Sickerwasser- und Grundwasserneubildungshöhen sowie Reduktionsfaktoren RDF in den Teileinzugsgebieten Berlins.",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t217_01.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,"Mittlere Luftaustauschrate, Massenstrom sowie Strömungsgeschwindigkeit des Flurwindes pro Rasterzelle entlang des Streckenabschnittes im Übergangsbereich Grunewald-Wilmersdorf während einer austauscharmen sommerlichen Strahlungswetternacht",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t410_02.xls,nicht bekannt,XLS,g
+,,,,x,,,,,x,x,,,,,,Betroffenenpotentiale in den Gebäuden des übergeordneten Straßennetzes,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/t702_04.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,langfristigen Mittelwerte der Abflussbildung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/etb213_04.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,,,,Beschreibung der Mess Umfrage,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/et1031e1.xls,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,"Datengrundlage für Entwicklung des Grundwasserstandes seit 1870 an der Messstelle 5140 in Mitte, Charlottenstraße",http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/aa207_02.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.27 - Personal im öffentlichen Gesundheitsdienst nach Geschlecht, Land im Regionalvergleich, Jahr L",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_27,cc-by,HTML,d
+,,,,,,x,,,,,,,,,,Berliner und Brandenburger Volks- und Straßenfeste 2014,http://www.berlin.de/sen/wirtschaft/service/maerkte/strassenfeste/index.php/index/all.xls?order=von,nicht bekannt,XLS,b
+,,,,,,,,,,,,x,,,,Haushaltsplan 2011 - Berlin - Offizielles Stadtportal der ...,http://www.berlin.de/imperia/md/content/senatsverwaltungen/finanzen/haushalt/plan_2011.xls,nicht bekannt,XLS,b
+,,,,,,,,,,,,x,,,,Monatsschreibung September 2013,http://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/sefinanzen/monatsschreibung_sept_2013_f__r_internet.xls,nicht bekannt,XLS,b
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.24 - Personal in Pflegeeinrichtungen nach Geschlecht, Land, im Zeitvergleich K",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_24,cc-by,HTML,d
+,,,,,,,,,,,,,x,,,notwendige Baumfällungen im Ortsteil Kreuzberg 2013,http://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/abteilungbwi/fbgruenflaechen/aufgaben/f__lllistek__september_1.xls,nicht bekannt,XLS,b
+,,x,,,x,,,,,,,,x,,,notwendige Baumfällungen im Ortsteil Friedrichshain 2014,https://www.berlin.de/imperia/md/content/bafriedrichshain-kreuzberg/abteilungbwi/fbgruenflaechen/2014/febr14_liste2.xls,nicht bekannt,XLS,g
+,,,,,,,,,,x,,,x,,,Als Naturdenkmale geschützte Bäume,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/umwelt/natur/baeume/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,,x,,,,,x,,,,,,Grafik über Rohwasserförderung der Berliner Wasserbetriebe 1989-2010,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/tm212_10.xls,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.25 - Personal in Pflegeeinrichtungen nach Beschäftigungsverhältnis, Tätigkeitsbereich, Berufsabschluss und Geschlecht, Land, Jahr K",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_25,cc-by,HTML,d
+,x,,,,,,,,,,,,,,,Evangelische Schule Wilmersdorf,http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/schulen/suche-schulen-in-freier-traegerschaft/index.php/index.kml?schule=Evangelische%20Schule%20Wilmersdorf,nicht bekannt,KML,b
+,,,,x,,,,,,,,,,,,Ärzte im Bezirk Lichtenberg,http://www.berlin.de/ba-lichtenberg/buergerservice/aerzte/index.php/index/all.xls?q=,nicht bekannt,XLS,g
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Beschäftigte im Gesundheitswesen -> Ausgewählte im ambulanten und stationären Bereich tätige Berufsgruppen,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0100822000200400,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 8.29 - Apothekerinnen/Apotheker sowie sonstiges Apothekenpersonal nach Einrichtungen und Geschlecht, Land, Jahre L",http://datenregister.berlin.de/dataset/gsi_gesindikator_8_29,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Inanspruchnahme von Leistungen der Gesundheitsförderung und der Gesundheitsversorgung -> Inanspruchnahme/Leistungen der ambulanten Versorgung,http://datenregister.berlin.de/dataset/gsi_inhalt_tg0100715100200700,cc-by,HTML,d
+,,,,,,,,,,,,,x,,,Erwerbstätige in Berlin nach Wirtschaftsbereich,http://www.berlin.de/imperia/md/content/sen-wirtschaft/konjunkturdaten/metadaten/b4_erwerbwz.xls,nicht bekannt,XLS,b
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Einschulungsuntersuchung Berlin 2007,http://datenregister.berlin.de/dataset/gsi_kontext_tb0501010000200711,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Spezialberichte -> Sozialhilfeempfängerprognoseverfahren,http://datenregister.berlin.de/dataset/gsi_inhalt_tb0201010014200301,cc-by,HTML,d
+,,x,,,x,,,,,x,,,,,,historischer Verlauf der Blockbebauung,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_abb/d607_06.xls,nicht bekannt,XLS,b
+,,,,,,,,,x,x,,,,,,Bestand an Kraftfahrzeugen und Kraftfahrzeuganhängern im Land Berlin,http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/e_tab/tb311_01.xls,nicht bekannt,XLS,b
+,,,,,,,,,,,,x,,,,Kamerale Monatsdaten Bezirk Marzahn-Hellersdorf 2013,http://datenregister.berlin.de/dataset/kamerale-monatsdaten-bezirk-marzahn-hellersdorf-2013,cc-by,XLS,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 4.13 - Anteil der Bevölkerung mit sportlicher Betätigung nach Umfang/Woche, Alter, Sozialschicht und Geschlecht, Deutschland/Land, 1998 B(L)",http://datenregister.berlin.de/dataset/gsi_gesindikator_4_13,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 4.11 - Mittlerer täglicher Obst- und Gemüseverzehr (ohne Kartoffeln) in Gramm pro Tag nach Alter, Sozialschicht und Geschlecht, Deutschland, 1998 B",http://datenregister.berlin.de/dataset/gsi_gesindikator_4_11,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,"Gesundheitsberichterstattung Berlin: Gesundheitsindikator 4.10 - Mittlere tägliche Energiezufuhr nach Alter, Sozialschicht und Geschlecht, Deutschland, 1998 B",http://datenregister.berlin.de/dataset/gsi_gesindikator_4_10,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Gesundheitszustand der Bevölkerung -> Gesundheitszustand von Schulkindern und Jugendlichen -> Städtevergleich (Schulkinder/Jugendliche),http://datenregister.berlin.de/dataset/gsi_inhalt_tg0200037100200802,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,Gesundheitsberichterstattung Berlin: Kontext Schwangerschaftskonfliktberatungen Berlin 2012,http://datenregister.berlin.de/dataset/gsi_kontext_tg0500081100201212,cc-by,HTML,d
+,,,,x,,,,x,,,,,,,,Sozialstatistisches Berichtswesen Berlin: Quartalsstatistiken zu den Ausgaben und Einnahmen zum Grundsicherungsgesetz - GSiG/ bis 2004,http://datenregister.berlin.de/dataset/gsi_ae_ts8100199014200403,cc-by,HTML,d

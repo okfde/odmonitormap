@@ -1,4 +1,10 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+,,x,,,x,,,,,,,,,,,groesse_gemeindegebiet.csv,http://data.wennigsen.net/2013_02_09_groesse_gemeindegebiet.csv,CC-BY 3.0,CSV,d
+,,,,,x,,,,,,,,,,,Kanalbaubeitraege.csv,http://data.wennigsen.net/2013_02_09_Kanalbaubeitraege.csv,CC-BY 3.0,CSV,d
+,,,,,x,,,,,,,,,,,Abwasserbeseitigung.csv,http://data.wennigsen.net/2013_02_09_Abwasserbeseitigung.csv,CC-BY 3.0,CSV,d
+,,,,,,,,,x,,,,,,,Fahrradstellplaetze.csv,http://data.wennigsen.net/2013_02_09_Fahrradstellplaetze.csv,CC-BY 3.0,CSV,d
+x,,,,,,,,,,,,,,,,einwohner.csv,http://data.wennigsen.net/2013_02_09_einwohner.csv,CC-BY 3.0,CSV,d
+,,,,,,,,,,,,,,x,,Oeffnungszeiten_Standesamt.csv,http://data.wennigsen.net/2013_01_14_Oeffnungszeiten_Standesamt.csv,CC-BY 3.0,CSV,d
 ,,,,,,,,,,,,x,,,,Steuersaetze.csv,http://data.wennigsen.net/2013_02_09_Steuersaetze.csv,CC-BY 3.0,CSV,d
 ,,,,,,,,x,,,,,,,,kindergartengebueren.csv,http://data.wennigsen.net/2013_02_09_kindergartengebueren.csv,CC-BY 3.0,CSV,d
 ,,,,,,,,,,,,x,,,,Schuldenstand.csv,http://data.wennigsen.net/2013_02_09_Schuldenstand.csv,CC-BY 3.0,CSV,d
@@ -24,9 +30,3 @@ x,,,,,,,,,,,,,,,,geburten_sterbefaelle_ehe.csv,http://data.wennigsen.net/2013_02
 ,,,,,,,,,,,,x,,,,Ergebnishaushalt.csv,http://data.wennigsen.net/2013_02_09_Ergebnishaushalt.csv,CC-BY 3.0,CSV,d
 ,,,,,,,,,,,,,,x,,ausweise.csv,http://data.wennigsen.net/2013_02_09_ausweise.csv,CC-BY 3.0,CSV,d
 ,,x,,,x,,,,,,,,,,,oeffentl_geb.csv,http://data.wennigsen.net/2013_02_09_oeffentl_geb.csv,CC-BY 3.0,CSV,d
-,,x,,,x,,,,,,,,,,,groesse_gemeindegebiet.csv,http://data.wennigsen.net/2013_02_09_groesse_gemeindegebiet.csv,CC-BY 3.0,CSV,d
-,,,,,x,,,,,,,,,,,Kanalbaubeitraege.csv,http://data.wennigsen.net/2013_02_09_Kanalbaubeitraege.csv,CC-BY 3.0,CSV,d
-,,,,,x,,,,,,,,,,,Abwasserbeseitigung.csv,http://data.wennigsen.net/2013_02_09_Abwasserbeseitigung.csv,CC-BY 3.0,CSV,d
-,,,,,,,,,x,,,,,,,Fahrradstellplaetze.csv,http://data.wennigsen.net/2013_02_09_Fahrradstellplaetze.csv,CC-BY 3.0,CSV,d
-x,,,,,,,,,,,,,,,,einwohner.csv,http://data.wennigsen.net/2013_02_09_einwohner.csv,CC-BY 3.0,CSV,d
-,,,,,,,,,,,,,,x,,Oeffnungszeiten_Standesamt.csv,http://data.wennigsen.net/2013_01_14_Oeffnungszeiten_Standesamt.csv,CC-BY 3.0,CSV,d
