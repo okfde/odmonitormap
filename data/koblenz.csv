@@ -1,16 +1,4 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L K-Faktor - Ebene: K-Faktor 1:2.000 bis 50.000,http://www.daten.rlp.de/dataset/78cc19be-6840-4f81-b992-e79f61d6d050,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,,,,,x,,,,,,,,,,"Datenkompass – Tourismus, kreisfreie Stadt Koblenz –",http://www.daten.rlp.de/dataset/7098c50f-c99b-4701-8c9a-05ff6d6cbbc0,dl-de-by-1.0,PDF,d
-,,x,,,,,,,,,,,,,,LGB: BFD5 L Feldkapazität - Ebene: Feldkapazität 1:2.000 bis 50.000,http://www.daten.rlp.de/dataset/df6878e6-04e0-4b5b-bdc1-40c62ae5f78c,cc-nc,"KARTENVIEWER,WMS,HTML",d
-x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Bodenart - Ebene: LGB: BFD5 L Bodenart,http://www.daten.rlp.de/dataset/6d433745-67dd-4b13-bf6c-cf58f06a5b78,cc-nc,"KARTENVIEWER,WMS,HTML",d
-x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Familien, kreisfreie Stadt Koblenz –",http://www.daten.rlp.de/dataset/11abf193-2830-4136-8579-956e5b42507d,dl-de-by-1.0,PDF,d
-x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Entstehung - Ebene: LGB: BFD5 L Entstehung,http://www.daten.rlp.de/dataset/a835f035-d87f-4792-969b-56a90bd94670,cc-nc,"KARTENVIEWER,WMS,HTML",d
-x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L nutzbare Feldkapazität - Ebene: nutzbare Feldkapazität 1:2.000 bis 50.000,http://www.daten.rlp.de/dataset/7eab438a-05ac-42e1-bacc-9c333cd12862,cc-nc,"KARTENVIEWER,WMS,HTML",d
-x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Entstehung - Ebene: Entstehung 1:2.000 bis 50.000,http://www.daten.rlp.de/dataset/0f8c1f85-098f-42da-8554-7faf688f6058,cc-nc,"KARTENVIEWER,WMS,HTML",d
-x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Ertragspotential - Ebene: Ertragspotential 1:2.000 bis 50.000,http://www.daten.rlp.de/dataset/5d3f1ed2-23fb-4702-8070-a81d7ee0af31,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,LGB: BFD5 L Feldkapazität - Ebene: LGB: BFD5 L Feldkapazität,http://www.daten.rlp.de/dataset/0e53bf77-af10-41f4-9c5e-4d223e7c279c,cc-nc,"KARTENVIEWER,WMS,HTML",d
-x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Wurzelraum - Ebene: LGB: BFD5 L Wurzelraum,http://www.daten.rlp.de/dataset/0362e559-41b1-4b59-ade0-5b9c0d924336,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, kreisfreie Stadt Koblenz –",http://www.daten.rlp.de/dataset/b3e496ac-dc55-4109-b12d-32a7e0f81678,dl-de-by-1.0,PDF,d
 x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Ackerzahl - Ebene: Ackerzahl 1:2.000 bis 50.000,http://www.daten.rlp.de/dataset/abeef91e-e925-4e62-9c96-79749734e491,cc-nc,"KARTENVIEWER,WMS,HTML",d
 x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Bodenart - Ebene: Bodenart 1:2.000 bis 50.000,http://www.daten.rlp.de/dataset/b36b0dd0-7500-4d61-9f89-dbf2b5b24cf2,cc-nc,"KARTENVIEWER,WMS,HTML",d
 x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Ackerzahl - Ebene: LGB: BFD5 L Ackerzahl,http://www.daten.rlp.de/dataset/598c0ce4-d34e-440d-b081-76f741130bf4,cc-nc,"KARTENVIEWER,WMS,HTML",d
@@ -21,4 +9,16 @@ x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Ertragspotential - Ebene: LGB: BFD5 L Ertragspot
 x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Wurzelraum - Ebene: Durchwurzelbarer Bodenraum 1:2.000 bis 50.000,http://www.daten.rlp.de/dataset/217ff487-4555-4eba-9340-027afdd558dd,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,,,x,,,,x,,,,,,,,"Datenkompass – Soziales und Gesundheit, kreisfreie Stadt Koblenz –",http://www.daten.rlp.de/dataset/61bf1a9d-6756-45e2-abca-6f81076f0ce1,dl-de-by-1.0,PDF,d
 x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L nutzbare Feldkapazität - Ebene: LGB: BFD5 L nutzbare Feldkapazität,http://www.daten.rlp.de/dataset/900be738-79b1-4673-a244-399edbd1811b,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,LGB: BFD5 L Feldkapazität - Ebene: Feldkapazität 1:2.000 bis 50.000,http://www.daten.rlp.de/dataset/df6878e6-04e0-4b5b-bdc1-40c62ae5f78c,cc-nc,"KARTENVIEWER,WMS,HTML",d
+x,,,,,,,,,,,,,,,,"Datenkompass – Bevölkerung und Gebiet, Haushalte und Familien, kreisfreie Stadt Koblenz –",http://www.daten.rlp.de/dataset/11abf193-2830-4136-8579-956e5b42507d,dl-de-by-1.0,PDF,d
+x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Entstehung - Ebene: LGB: BFD5 L Entstehung,http://www.daten.rlp.de/dataset/a835f035-d87f-4792-969b-56a90bd94670,cc-nc,"KARTENVIEWER,WMS,HTML",d
+x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L nutzbare Feldkapazität - Ebene: nutzbare Feldkapazität 1:2.000 bis 50.000,http://www.daten.rlp.de/dataset/7eab438a-05ac-42e1-bacc-9c333cd12862,cc-nc,"KARTENVIEWER,WMS,HTML",d
+x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Ertragspotential - Ebene: Ertragspotential 1:2.000 bis 50.000,http://www.daten.rlp.de/dataset/5d3f1ed2-23fb-4702-8070-a81d7ee0af31,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,LGB: BFD5 L Feldkapazität - Ebene: LGB: BFD5 L Feldkapazität,http://www.daten.rlp.de/dataset/0e53bf77-af10-41f4-9c5e-4d223e7c279c,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,,,,,,,,,,,,x,,,"Datenkompass – Arbeitsmarkt, Erwerbstätigkeit, kreisfreie Stadt Koblenz –",http://www.daten.rlp.de/dataset/b3e496ac-dc55-4109-b12d-32a7e0f81678,dl-de-by-1.0,PDF,d
+x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Entstehung - Ebene: Entstehung 1:2.000 bis 50.000,http://www.daten.rlp.de/dataset/0f8c1f85-098f-42da-8554-7faf688f6058,cc-nc,"KARTENVIEWER,WMS,HTML",d
+x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Wurzelraum - Ebene: LGB: BFD5 L Wurzelraum,http://www.daten.rlp.de/dataset/0362e559-41b1-4b59-ade0-5b9c0d924336,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,,,,,x,,,,,,,,,,"Datenkompass – Tourismus, kreisfreie Stadt Koblenz –",http://www.daten.rlp.de/dataset/7098c50f-c99b-4701-8c9a-05ff6d6cbbc0,dl-de-by-1.0,PDF,d
+x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L Bodenart - Ebene: LGB: BFD5 L Bodenart,http://www.daten.rlp.de/dataset/6d433745-67dd-4b13-bf6c-cf58f06a5b78,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,,,,,,,,,,,,x,,,"Datenkompass – Wirtschaft, kreisfreie Stadt Koblenz –",http://www.daten.rlp.de/dataset/d83a5907-9930-4a73-8cf6-64f6c34890fd,dl-de-by-1.0,PDF,d
+x,,x,,,,,,,,x,,,x,,,LGB: BFD5 L K-Faktor - Ebene: K-Faktor 1:2.000 bis 50.000,http://www.daten.rlp.de/dataset/78cc19be-6840-4f81-b992-e79f61d6d050,cc-nc,"KARTENVIEWER,WMS,HTML",d

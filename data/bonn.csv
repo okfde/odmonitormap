@@ -1,5 +1,5 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,,,,x,,,,,,,,,Kommunalwahl vom 30.08.2009 in Bonn,http://www2.bonn.de/statistik/dl/wahl/kw/Kommunalwahl2009Ergebnis.xls,nicht bekannt,XLS,g
+x,,,,,,,,,,,,,,,,Warnmeldung Feuerwehr,http://opendata.bonn.de/dataset/warnmeldung-feuerwehr,dl-de-by-1.0,JSON,d
 x,,,,,x,,,,x,,,x,,,,Bürgerbriefe,http://opendata.bonn.de/dataset/b%C3%BCrgerbriefe,dl-de-by-1.0,JSON,d
 ,,,,,,,,,,,,x,,,,Haushaltsplan 2015 2016,http://opendata.bonn.de/dataset/haushaltsplan-2015-2016,dl-de-by-1.0,"PDF,XLSX,CSV,DOC",d
 ,,,,,,,x,,,,,,,,,"Kommunalwahl 2014 (Rat, Bezirksvertretung)",http://opendata.bonn.de/dataset/kommunalwahl-2014-rat-bezirksvertretung,dl-de-by-1.0,CSV,d
@@ -11,7 +11,8 @@ x,x,,,,,x,,x,,,,x,,,,Bürgerdialog zum Haushalt 2015 2016,http://opendata.bonn.d
 ,,,,,,,x,,,,,,,,,Bundestagswahl 2013,http://opendata.bonn.de/dataset/bundestagswahl-2013,dl-de-by-1.0,CSV,d
 ,,,,,,,,,,,,,x,,,Büroflächenpreise,http://opendata.bonn.de/dataset/b%C3%BCrofl%C3%A4chenpreise,dl-de-by-1.0,CSV,d
 ,,,,,,,,,,,,x,,,,Sachstandsbericht Anliegen.Bonn.de,http://opendata.bonn.de/dataset/sachstandsbericht-anliegenbonnde,dl-de-by-1.0,PDF,d
-,,,,,,,x,,,,,,,,,Europawahl vom 27.9.2009 in Bonn,http://www2.bonn.de/statistik/dl/wahl/eu/Europawahl20090607.xls,nicht bekannt,XLS,g
+,,,,,,,,,,,,x,,,,Bewilligung über- und außerplanmäßiger Aufwendungen und Auszahlungen nach § 83 (1) GO NRW bzw. § 85 (1) GO NRW,http://opendata.bonn.de/dataset/bewilligung-%C3%BCber-und-au%C3%9Ferplanm%C3%A4%C3%9Figer-aufwendungen-und-auszahlungen-nach-%C2%A7-83-1-go-nrw-bzw-%C2%A7,dl-de-by-1.0,PDF,d
+,,,,,,,,,,,,x,,,,Beteiligungsbericht 2012,http://opendata.bonn.de/dataset/beteiligungsbericht-2012,dl-de-by-1.0,HTML,d
 ,,,,,x,,,,,x,,x,,,,Energieberichte,http://opendata.bonn.de/dataset/energieberichte,dl-de-by-1.0,"DOC,PDF",d
 x,,,,,,,,,,,,,,,,Eintragungen in das Goldene Buch der Stadt Bonn,http://opendata.bonn.de/dataset/eintragungen-das-goldene-buch-der-stadt-bonn,dl-de-by-1.0,DOC,d
 ,,,,,,,,,x,x,,,x,,,Bilder der Stadtwerke Bonn,http://opendata.bonn.de/dataset/bilder-der-stadtwerke-bonn,dl-de-by-1.0,HTML,d
@@ -37,7 +38,6 @@ x,x,,,x,x,x,x,x,x,,x,x,x,,,Veranstaltungskalender (Komplettübersicht),http://op
 ,,,,,,,,,,,,x,,,,Haushaltsplan 2013 2014,http://opendata.bonn.de/dataset/haushaltsplan-2013-2014,dl-de-by-1.0,"XLSX,HTML",d
 ,,,,,,,,,,,,x,,,,Dezernatsverteilungsplan,http://opendata.bonn.de/dataset/dezernatsverteilungsplan,dl-de-by-1.0,"DOC,PDF",d
 x,x,,,,,x,,x,,,,x,,,,Monitoring Dialogportal Bonn macht mit,http://opendata.bonn.de/dataset/monitoring-dialogportal-bonn-macht-mit,dl-de-by-1.0,CSV,d
-x,,,,,,,,,,,,,,,,Warnmeldung Feuerwehr,http://opendata.bonn.de/dataset/warnmeldung-feuerwehr,dl-de-by-1.0,JSON,d
 ,,,,,,,x,,,,,,,,,Wahllkokale Stimmbezirke,http://opendata.bonn.de/dataset/wahllkokale-stimmbezirke,dl-de-by-1.0,HTML,d
 ,,,,,,,x,,,,,,,,,Europawahl 2009,http://opendata.bonn.de/dataset/europawahl-2009,dl-de-by-1.0,CSV,d
 ,,,,,,,,,,,,x,,,,Amtsblatt,http://opendata.bonn.de/dataset/amtsblatt,dl-de-by-1.0,HTML,d
@@ -87,19 +87,12 @@ x,,,,,,,,x,,,,,,,,Bonn in Zahlen,http://opendata.bonn.de/dataset/bonn-zahlen,dl-
 ,,,,,,,,,,,,x,,,,Vorschlagslisten Konsolidierung Haushalt 2015/2016,http://opendata.bonn.de/dataset/vorschlagslisten-konsolidierung-haushalt-20152016,dl-de-by-1.0,PDF,d
 ,,,,,x,,,,,,,,x,,,Strukturwandel - Das Bundesviertel,http://opendata.bonn.de/dataset/strukturwandel-das-bundesviertel,dl-de-by-1.0,DOCREADER,d
 ,,,,,x,,,,x,,,,,,,Kennzahlen Stadtentwässerung,http://opendata.bonn.de/dataset/kennzahlen-stadtentw%C3%A4sserung,dl-de-by-1.0,CSV,d
-,,,,,,,x,,,,,,,,,Bundestagswahl vom 22.9.2013 in Bonn,http://www2.bonn.de/statistik/dl/wahl/bw/Bundestagswahl20130922.xlsx,nicht bekannt,XLSX,g
-,,,,,,,x,,,,,,,,,Bundestagswahl vom 27.9.2009 in Bonn,http://www2.bonn.de/statistik/dl/wahl/bw/BuW2009_StiB2013_.xls,nicht bekannt,XLS,g
-,,,,,,,x,,,,,,,,,Landtagswahl NRW vom 13.05.2012 in Bonn,http://www2.bonn.de/statistik/dl/wahl/lw/Landtagswahl2012Ergebnis.xls,nicht bekannt,XLS,g
+x,x,,x,x,x,x,x,x,x,x,x,x,x,,,Bürgeranträge gem. § 24 GO NRW,http://opendata.bonn.de/dataset/b%C3%BCrgerantr%C3%A4ge-gem-%C2%A7-24-go-nrw,dl-de-by-1.0,HTML,d
+,,,,,,,,,x,,,,,,,Parkhäuser,http://opendata.bonn.de/dataset/parkh%C3%A4user,dl-de-by-nc-1.0,XML,d
+,,,,,,,x,,,,,,,,,Integrationsratswahl 2010,http://opendata.bonn.de/dataset/integrationsratswahl-2010,dl-de-by-1.0,CSV,d
+x,,,,,,,,x,,x,,,,,,Fair Trade Einkaufsführer,http://opendata.bonn.de/dataset/fair-trade-einkaufsf%C3%BChrer,dl-de-by-1.0,"PDF,CSV,XLS",d
 x,,,,,,,,,,,,x,,,,Einwohnermeldeämter,http://opendata.bonn.de/dataset/einwohnermelde%C3%A4mter,CC0-1.0,"XLSX,CSV",d
 ,,,,,,,,,,,,x,,,,Pressemitteilungen Stadt Bonn,http://opendata.bonn.de/dataset/pressemitteilungen-stadt-bonn,dl-de-by-1.0,JSON,d
 x,x,,,,,x,,x,,,,,,,,Stadtbibliothek Medienbestand,http://opendata.bonn.de/dataset/stadtbibliothek-medienbestand,dl-de-by-1.0,HTML,d
 ,,,,,x,,,,,,,,,,,Projektstatusberichte Konferenzzentrum,http://opendata.bonn.de/dataset/projektstatusberichte-konferenzzentrum,dl-de-by-1.0,PDF,d
 ,,,,,,,x,,,,,,,,,"Kommunalwahl 2009 (Bürgermeister, Bezirksvertretung, Rat)",http://opendata.bonn.de/dataset/kommunalwahl-2009-b%C3%BCrgermeister-bezirksvertretung-rat,dl-de-by-1.0,CSV,d
-,,,,,,,,,,,,x,,,,Bewilligung über- und außerplanmäßiger Aufwendungen und Auszahlungen nach § 83 (1) GO NRW bzw. § 85 (1) GO NRW,http://opendata.bonn.de/dataset/bewilligung-%C3%BCber-und-au%C3%9Ferplanm%C3%A4%C3%9Figer-aufwendungen-und-auszahlungen-nach-%C2%A7-83-1-go-nrw-bzw-%C2%A7,dl-de-by-1.0,PDF,d
-,,,,,,,,,,,,x,,,,Beteiligungsbericht 2012,http://opendata.bonn.de/dataset/beteiligungsbericht-2012,dl-de-by-1.0,HTML,d
-x,,,,,,,,x,,x,,,,,,Fair Trade Einkaufsführer,http://opendata.bonn.de/dataset/fair-trade-einkaufsf%C3%BChrer,dl-de-by-1.0,"PDF,CSV,XLS",d
-x,x,,x,x,x,x,x,x,x,x,x,x,x,,,Bürgeranträge gem. § 24 GO NRW,http://opendata.bonn.de/dataset/b%C3%BCrgerantr%C3%A4ge-gem-%C2%A7-24-go-nrw,dl-de-by-1.0,HTML,d
-,,,,,,,,,x,,,,,,,Parkhäuser,http://opendata.bonn.de/dataset/parkh%C3%A4user,dl-de-by-nc-1.0,XML,d
-,,,,,,,x,,,,,,,,,Integrationsratswahl 2010,http://opendata.bonn.de/dataset/integrationsratswahl-2010,dl-de-by-1.0,CSV,d
-,,,,,,,x,,,,,,,,,Bundestagswahl vom 27.9.2009 in Bonn,http://www2.bonn.de/statistik/dl/wahl/bw/Bundestagswahl20090927.xls,nicht bekannt,XLS,g
-,,,,,,,x,,,,,,,,,Ergebnisse der Landtagswahl NRW vom 09.05.2010 in Bonn,http://www2.bonn.de/statistik/dl/wahl/lw/Landtagswahl2010Ergebnis.xls,nicht bekannt,XLS,g

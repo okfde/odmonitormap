@@ -1,20 +1,4 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
-,,,,,,,,,,,,x,,,,Finanzplanung - Produktbereiche 2014,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/finanzplanung/produktbereiche/Finanzplanung_PB_2014.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Finanzplanung - Produkte 2018,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/finanzplanung/produkte/Finanzplanung_Produkte_2018.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Finanzplanung - Produkte 2017,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/finanzplanung/produkte/Finanzplanung_Produkte_2017.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Finanzplanung - Produkte 2014,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/finanzplanung/produkte/Finanzplanung_Produkte_2014.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Jahresabschluss 2013,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/gesamt/Jahresabschluss_2013.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Jahresabschluss 2012,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/gesamt/Jahresabschluss_2012.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Jahresabschluss - Produktbereiche 2012,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produktbereiche/Jahresabschluss_PB_2012.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Jahresabschluss - Produktbereiche 2010,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produktbereiche/Jahresabschluss_PB_2010.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Jahresabschluss - Produktbereiche 2008,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produktbereiche/Jahresabschluss_PB_2008.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Finanzrechnung 2013,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/gesamt/Finanzrechnung_2013.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Finanzrechnung 2012,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/gesamt/Finanzrechnung_2012.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Finanzrechnung 2008,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/gesamt/Finanzrechnung_2008.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Finanzrechnung - Produktbereiche 2013,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produktbereiche/Finanzrechnung_PB_2013.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Finanzrechnung - Produktbereiche 2008,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produktbereiche/Finanzrechnung_PB_2008.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Finanzrechnung - Produkte 2013,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produkte/Finanzrechnung_Produkte_2013.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Finanzrechnung - Produkte 2008,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produkte/Finanzrechnung_Produkte_2008.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,,,x,,Abfallkalender 2014 - Abfuhrtermine,http://www.arnsberg.de/open-data/abfall/abfuhrtermin_abfallkalender.ics,dl-de-zero-2.0,ICS,d
 ,,,,,,,,,,,,,,x,,Glascontainer-Standorte,http://www.arnsberg.de/open-data/gis/glascontainer.json,dl-de-zero-2.0,JSON,d
 x,,,,,,,,,,,,,,,,"Einwohnerzahlen nach Alter, Geschlecht und Nationalität",http://www.arnsberg.de/open-data/bevoelkerung/Altersauswertung_Stadtgebiet_Nationalitaet_20140628.csv,dl-de-zero-2.0,CSV,d
@@ -24,6 +8,7 @@ x,,,,,,,,,,,,,,,,"Einwohnerzahlen nach Alter, Geschlecht und Nationalität",http
 ,,x,,,,,,,,,,,,,,Behörden,http://www.arnsberg.de/open-data/gis/behoerden.json,dl-de-zero-2.0,JSON,d
 ,,x,,,,,,,,,,,,,,Innenbereichssatzung,http://www.arnsberg.de/open-data/gis/Innenbereichssatzung.json,dl-de-zero-2.0,JSON,d
 ,,x,,,,,,,,,,,,,,Kindergärten,http://www.arnsberg.de/open-data/gis/kindergaerten.json,dl-de-zero-2.0,JSON,d
+,,,,,,,,,,,,x,,,,Jahresabschluss - Produkte 2010,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produkte/Jahresabschluss_Produkte_2010.CSV,dl-de-zero-2.0,CSV,d
 ,,x,,,,,,,,,,,,,,Schulen,http://www.arnsberg.de/open-data/gis/schulen.json,dl-de-zero-2.0,JSON,d
 ,,x,,,,,,,,,,,,,,Sportanlagen,http://www.arnsberg.de/open-data/gis/sportanlagen.json,dl-de-zero-2.0,JSON,d
 ,,,,,x,,,,,,,,,,,Straßen in Arnsberg,http://www.arnsberg.de/open-data/bauen/Strassenliste.csv,dl-de-zero-2.0,CSV,d
@@ -36,6 +21,7 @@ x,,,,,,,,,,,,,,,,"Einwohnerzahlen nach Alter, Geschlecht und Nationalität",http
 ,,,,,,,,,,,,x,,,,Haushaltsplanung 2018,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/ergebnisplanung/gesamt/Haushaltsplanung_2018.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Haushaltsplanung 2017,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/ergebnisplanung/gesamt/Haushaltsplanung_2017.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Haushaltsplanung 2016,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/ergebnisplanung/gesamt/Haushaltsplanung_2016.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Haushaltsplanung 2015,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/ergebnisplanung/gesamt/Haushaltsplanung_2015.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Haushaltsplanung 2014,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/ergebnisplanung/gesamt/Haushaltsplanung_2014.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Haushaltsplanung - Produktbereiche 2018,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/ergebnisplanung/produktbereiche/Haushaltsplanung_PB_2018.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Haushaltsplanung - Produktbereiche 2017,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/ergebnisplanung/produktbereiche/Haushaltsplanung_PB_2017.CSV,dl-de-zero-2.0,CSV,d
@@ -56,30 +42,44 @@ x,,,,,,,,,,,,,,,,"Einwohnerzahlen nach Alter, Geschlecht und Nationalität",http
 ,,,,,,,,,,,,x,,,,Finanzplanung - Produktbereiche 2017,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/finanzplanung/produktbereiche/Finanzplanung_PB_2017.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzplanung - Produktbereiche 2016,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/finanzplanung/produktbereiche/Finanzplanung_PB_2016.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzplanung - Produktbereiche 2015,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/finanzplanung/produktbereiche/Finanzplanung_PB_2015.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Finanzplanung - Produktbereiche 2014,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/finanzplanung/produktbereiche/Finanzplanung_PB_2014.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Finanzplanung - Produkte 2018,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/finanzplanung/produkte/Finanzplanung_Produkte_2018.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Finanzplanung - Produkte 2017,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/finanzplanung/produkte/Finanzplanung_Produkte_2017.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzplanung - Produkte 2016,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/finanzplanung/produkte/Finanzplanung_Produkte_2016.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzplanung - Produkte 2015,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/finanzplanung/produkte/Finanzplanung_Produkte_2015.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Finanzplanung - Produkte 2014,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/finanzplanung/produkte/Finanzplanung_Produkte_2014.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Jahresabschluss 2013,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/gesamt/Jahresabschluss_2013.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Jahresabschluss 2012,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/gesamt/Jahresabschluss_2012.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Jahresabschluss 2011,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/gesamt/Jahresabschluss_2011.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Jahresabschluss 2010,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/gesamt/Jahresabschluss_2010.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Jahresabschluss 2009,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/gesamt/Jahresabschluss_2009.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Jahresabschluss 2008,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/gesamt/Jahresabschluss_2008.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Jahresabschluss - Produktbereiche 2013,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produktbereiche/Jahresabschluss_PB_2013.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Jahresabschluss - Produktbereiche 2012,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produktbereiche/Jahresabschluss_PB_2012.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Jahresabschluss - Produktbereiche 2011,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produktbereiche/Jahresabschluss_PB_2011.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Jahresabschluss - Produktbereiche 2010,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produktbereiche/Jahresabschluss_PB_2010.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Jahresabschluss - Produktbereiche 2009,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produktbereiche/Jahresabschluss_PB_2009.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Jahresabschluss - Produktbereiche 2008,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produktbereiche/Jahresabschluss_PB_2008.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Jahresabschluss - Produkte 2013,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produkte/Jahresabschluss_Produkte_2013.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Jahresabschluss - Produkte 2012,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produkte/Jahresabschluss_Produkte_2012.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Jahresabschluss - Produkte 2011,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produkte/Jahresabschluss_Produkte_2011.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Jahresabschluss - Produkte 2010,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produkte/Jahresabschluss_Produkte_2010.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Jahresabschluss - Produkte 2009,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produkte/Jahresabschluss_Produkte_2009.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Jahresabschluss - Produkte 2008,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/ergebnisrechnung/produkte/Jahresabschluss_Produkte_2008.csv,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Finanzrechnung 2013,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/gesamt/Finanzrechnung_2013.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Finanzrechnung 2012,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/gesamt/Finanzrechnung_2012.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzrechnung 2011,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/gesamt/Finanzrechnung_2011.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzrechnung 2010,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/gesamt/Finanzrechnung_2010.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzrechnung 2009,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/gesamt/Finanzrechnung_2009.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Finanzrechnung 2008,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/gesamt/Finanzrechnung_2008.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Finanzrechnung - Produktbereiche 2013,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produktbereiche/Finanzrechnung_PB_2013.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzrechnung - Produktbereiche 2012,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produktbereiche/Finanzrechnung_PB_2012.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzrechnung - Produktbereiche 2011,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produktbereiche/Finanzrechnung_PB_2011.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzrechnung - Produktbereiche 2010,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produktbereiche/Finanzrechnung_PB_2010.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzrechnung - Produktbereiche 2009,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produktbereiche/Finanzrechnung_PB_2009.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Finanzrechnung - Produktbereiche 2008,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produktbereiche/Finanzrechnung_PB_2008.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Finanzrechnung - Produkte 2013,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produkte/Finanzrechnung_Produkte_2013.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzrechnung - Produkte 2012,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produkte/Finanzrechnung_Produkte_2012.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzrechnung - Produkte 2011,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produkte/Finanzrechnung_Produkte_2011.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzrechnung - Produkte 2010,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produkte/Finanzrechnung_Produkte_2010.CSV,dl-de-zero-2.0,CSV,d
 ,,,,,,,,,,,,x,,,,Finanzrechnung - Produkte 2009,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produkte/Finanzrechnung_Produkte_2009.CSV,dl-de-zero-2.0,CSV,d
-,,,,,,,,,,,,x,,,,Haushaltsplanung 2015,http://www.arnsberg.de/open-data/haushalt/haushaltsplanung/ergebnisplanung/gesamt/Haushaltsplanung_2015.CSV,dl-de-zero-2.0,CSV,d
+,,,,,,,,,,,,x,,,,Finanzrechnung - Produkte 2008,http://www.arnsberg.de/open-data/haushalt/jahresabschluesse/finanzrechnung/produkte/Finanzrechnung_Produkte_2008.CSV,dl-de-zero-2.0,CSV,d

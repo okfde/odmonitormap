@@ -1,4 +1,5 @@
 Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",Gesetze und Justiz,Gesundheit,"Infrastruktur, Bauen und Wohnen","Kultur, Freizeit, Sport, Tourismus",Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Verbraucherschutz,"Öffentliche Verwaltung, Haushalt und Steuern",Wirtschaft und Arbeit,Sonstiges,Noch nicht kategorisiert,Dateibezeichnung,URL,Lizenz,Format,Quelle
+,,x,,,,,,,,,,,,,,Maisborn - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/eab6760d-f914-4c76-be19-4213041ef5b6,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Maisborn - Ebene: Umringe der Bebauungspläne von Maisborn,http://www.daten.rlp.de/dataset/0031de0c-cc3e-4654-9a40-c27025f691a4,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Badenhard - Ebene: Badenhard,http://www.daten.rlp.de/dataset/9fe6ca05-7375-417d-94be-775c1e99d806,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Hungenroth - Ebene: Auf der Dreispitz,http://www.daten.rlp.de/dataset/c8722aba-34cb-4be0-b7c0-355329ad1aec,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -7,110 +8,19 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Beulich - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/2cea5c54-1472-41e5-a373-e9b1acee21c6,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Quellenhof 1. Änderung,http://www.daten.rlp.de/dataset/1e906016-a715-4473-b48f-b708d9bcef44,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Auf den Hofgärten / Am Scheid 1. Änderung,http://www.daten.rlp.de/dataset/09cc23d4-f9a8-45d3-89a7-81d9b8af0c35,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Maisborn - Ebene: Hinter den Hopfengärten 1. Änderung,http://www.daten.rlp.de/dataset/b4e92897-a762-4216-bd8f-f99091b3f1ca,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Ergänzungssatzung Simmerner Straße,http://www.daten.rlp.de/dataset/d733d72e-a142-4750-bd1f-c4ac68cb0684,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Auf dem Flürchen,http://www.daten.rlp.de/dataset/5f07896c-36c4-4808-83ae-d38689a8d611,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Birkheim - Ebene: Auf den Gärten,http://www.daten.rlp.de/dataset/8e07d7fa-0f31-44e2-809d-fb01ec9d2c19,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Im Poststraßenflur 1. Änderung,http://www.daten.rlp.de/dataset/b50298f8-6f5e-4218-86ba-c343fed5f6a8,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Hinter dem Mühlberg / In der Scheib 3. Änderung,http://www.daten.rlp.de/dataset/9526e76c-7770-4387-b132-580d8d3e1589,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Außenbereichssatzung Bärenhof,http://www.daten.rlp.de/dataset/cfd23e2e-eef6-4798-93dd-9ae1a27ae9af,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Dörth - Ebene: Umringe der Bebauungspläne von Dörth,http://www.daten.rlp.de/dataset/0a1c44f5-e94d-4c1d-9480-104be265cf27,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Niedert - Ebene: Niedert,http://www.daten.rlp.de/dataset/7fe60a83-a3cf-4f60-97eb-e3557aaa3686,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Beulich - Ebene: Beulich,http://www.daten.rlp.de/dataset/79ef4728-6663-44c8-8a9b-08453dfb0dff,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Niedert - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/4d3e612d-d36a-4fe4-8823-1c203f1f0bca,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Karbach - Ebene: Heidchesstücker II,http://www.daten.rlp.de/dataset/11d026a7-9437-47f1-bc04-d6f18b6dcbab,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Thörlingen - Ebene: Im Heßt II,http://www.daten.rlp.de/dataset/77e7e6ac-1120-482e-b636-040029eeccbb,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum 4. Änderung,http://www.daten.rlp.de/dataset/bdc4d20c-21a5-4d5b-8919-e89a55c66963,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Karbach - Ebene: Ober den Kohlgärten 3. Änderung,http://www.daten.rlp.de/dataset/4f8f8488-8cda-4437-80f3-2845de797719,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Schwall - Ebene: Schwall,http://www.daten.rlp.de/dataset/3d2670a8-63ec-4f35-bc18-7eaf76ae7824,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Bickenbach - Ebene: Gewerbegebiet Am Bayer Wasem,http://www.daten.rlp.de/dataset/520c5813-dce5-4c30-94e1-774cdfee8cb7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Morshausen - Ebene: In den Pützgärten,http://www.daten.rlp.de/dataset/4add36db-cb94-4396-8899-1cc982d182d3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Stierswiese,http://www.daten.rlp.de/dataset/aaf267fb-ebdc-47da-b4f1-e257fc197f64,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Birkheim - Ebene: Baumstücken,http://www.daten.rlp.de/dataset/de819571-5984-4076-b3ad-adcb4775578e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Oberdorf I,http://www.daten.rlp.de/dataset/a51932ca-93ea-4494-8fa0-1f4d2beb48a8,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Norath - Ebene: Am Holzapfelbaum II,http://www.daten.rlp.de/dataset/aaa0160e-e852-4f02-bf9e-848ccbe1429a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Gondershausen - Ebene: Harder Delle 1. Änderung,http://www.daten.rlp.de/dataset/e82ccc33-3071-4f10-9bb5-1281f1995193,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Schwall - Ebene: Umringe der Bebauungspläne von Schwall,http://www.daten.rlp.de/dataset/459633d4-50e7-49bd-81b1-cc9d962a5a3d,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Bickenbach - Ebene: Umringe der Bebauungspläne von Bickenbach,http://www.daten.rlp.de/dataset/adae0881-a406-40d1-8f97-541a33ab6cf7,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum 1. Änderung,http://www.daten.rlp.de/dataset/52ec623d-5ea9-46a3-a4df-a77adf3d13c3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Karbach - Ebene: Apfelwies / Stielgärtchen 1. Änderung,http://www.daten.rlp.de/dataset/74d4d87d-ce0d-49e7-908a-9e3f7511da99,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Dörth - Ebene: Klarstellungs- und Ergänzungssatzung Südhang,http://www.daten.rlp.de/dataset/2bbddf74-2f3b-4933-ab31-f41be52c6d74,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum 7. Änderung,http://www.daten.rlp.de/dataset/7ce3c578-572b-4a72-85a0-34ecba128f69,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen II,http://www.daten.rlp.de/dataset/6a5bcae0-0f65-41d3-ab9d-1a761f021d5c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Stierswiese 1. Änderung,http://www.daten.rlp.de/dataset/3abb43ae-f581-4f96-b304-6a47af575d6f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Ney - Ebene: Ergänzungssatzung Wiesenstraße / Kratzenburger Straße,http://www.daten.rlp.de/dataset/17a9736e-b719-4efb-a8ad-1f22169bd0eb,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen II 2. Änderung,http://www.daten.rlp.de/dataset/99f3ee94-3848-4eee-aed7-b1a397e113d9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum 5. Änderung,http://www.daten.rlp.de/dataset/69ff5f86-ad5a-4fc0-8e68-2d1587d3bbdc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Maisborn - Ebene: Hinter den Hopfengärten II,http://www.daten.rlp.de/dataset/2dbe339b-691f-4d37-b296-e9a3a1f16cc4,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Ortsmittelpunkt 1. Änderung,http://www.daten.rlp.de/dataset/3ff4d5b3-d38b-458e-85b4-ba06bfc50611,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Niedert - Ebene: Umringe der Bebauungspläne von Niedert,http://www.daten.rlp.de/dataset/e5e03f7b-0524-45ee-b19f-c59e4d1c575e,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Beulich - Ebene: In den Mühlwiesgärten,http://www.daten.rlp.de/dataset/e04d0a2e-1b0f-4ff2-b72c-fabdc70889bd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Ober den Apfelbäumen,http://www.daten.rlp.de/dataset/8d194b15-0991-46a2-875d-1ad212a3382d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Kleinzipers II 2. Änderung,http://www.daten.rlp.de/dataset/b3ea4986-9e52-4915-9de2-33d426d6021a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Schwall - Ebene: Oben am Dorf 1. Änderung,http://www.daten.rlp.de/dataset/d8be808d-6665-4127-86b0-e76ba10e175a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Karbach - Ebene: Klarstellungs- und Ergänzungssatzung Im Kirchbuschstück,http://www.daten.rlp.de/dataset/7ce8fe5d-2547-4b53-a8cb-00950fbae683,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen II 3. Änderung,http://www.daten.rlp.de/dataset/62234362-c8d2-45b6-a447-5f922f04901b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Hausbay - Ebene: Umringe der Bebauungspläne von Hausbay,http://www.daten.rlp.de/dataset/fe8020c3-c9b5-4ef8-92f4-5fdf51f67420,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Maisborn - Ebene: Hinter den Hopfengärten,http://www.daten.rlp.de/dataset/20ccdc55-d15b-45f9-9125-0321e36b2c9f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Im Poststraßenflur,http://www.daten.rlp.de/dataset/20cac9ca-1978-44b6-884c-243b9f858688,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Dörth - Ebene: Budenbach,http://www.daten.rlp.de/dataset/0071f81b-b1ea-4c61-bbcc-8ea5ed95e898,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Hinter dem Agrarhistorischen Museum,http://www.daten.rlp.de/dataset/15e2ce72-a63b-45f5-8fee-0add07227341,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Kleinzipers II 1. Änderung,http://www.daten.rlp.de/dataset/274e7b26-6743-4047-ad51-a3ab15751f7e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Kirchenflur 2. Änderung,http://www.daten.rlp.de/dataset/b8095ae0-6efd-43de-b7e1-163a46772d0d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Ortsmittelpunkt 2. Änderung,http://www.daten.rlp.de/dataset/b1b1092c-dad5-4b1f-ad36-6c48490bec2b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Kratzenburg,http://www.daten.rlp.de/dataset/41296814-fe42-4628-a81b-8f96af01895f,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen I,http://www.daten.rlp.de/dataset/37d0869b-ba2a-4c03-a2d6-09a3308048e7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Hellerwald II 1. Änderung,http://www.daten.rlp.de/dataset/98f6c0c7-2aa9-42aa-9f97-5e9f70667b5e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen I 2. Änderung,http://www.daten.rlp.de/dataset/d2b3aa58-0c93-4238-96de-f66dd6141669,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Hellerwald II,http://www.daten.rlp.de/dataset/34abf65c-8558-4828-a4c3-3f820f531ebe,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Maisborn - Ebene: Ergänzungssatzung Hinter Schusters Garten,http://www.daten.rlp.de/dataset/a4cca78e-13b4-4871-8098-ca98e2535104,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Hausbay - Ebene: Aufm Hähnchen / Auf der Dann 1. Änderung,http://www.daten.rlp.de/dataset/c5aa3101-af2d-457d-99cd-ac26dd0f9c08,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen I 1. Änderung,http://www.daten.rlp.de/dataset/614e3f41-2c0a-4626-b5c7-785d0e44de78,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Ober dem Ehrer Weg 1. Änderung,http://www.daten.rlp.de/dataset/cee04566-fe64-4e4f-b50e-b156cb0d2b19,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Thörlingen - Ebene: Umringe der Bebauungspläne von Thörlingen,http://www.daten.rlp.de/dataset/37685c26-102a-4185-a71e-732071c1cbe6,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Birkheim - Ebene: Birkheim,http://www.daten.rlp.de/dataset/f053768d-50ce-47b5-8ae4-e530950d2a8d,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Bickenbach - Ebene: Auf der Trift / Ober dem Dorf 2. Änderung,http://www.daten.rlp.de/dataset/9322d71d-ce1a-4436-9b8d-93e43c05ee3f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Badenhard - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/29345cfe-80b5-4ded-9fd3-faf215922773,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Badenhard - Ebene: Umringe der Bebauungspläne von Badenhard,http://www.daten.rlp.de/dataset/6b929175-49ed-4421-9b0e-410db3ea0857,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Gondershausen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/5f3eb21f-b0e8-4743-8e24-ce8ad1ae72d8,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Auf den Hofgärten / Am Scheid,http://www.daten.rlp.de/dataset/e387280e-aa0b-4d51-b6a0-85392b7c67bc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Kirchenflur 1. Änderung,http://www.daten.rlp.de/dataset/60ea91a7-2137-4212-b918-bb165e59fba4,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Ney - Ebene: In den Schmidtstücken II,http://www.daten.rlp.de/dataset/498c5c0a-7f5d-4398-8838-b0e44d773be5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/41eeda46-fb65-4165-8b18-20fd4acb0a80,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Ney - Ebene: Klarstellungssatzung In der Hohl,http://www.daten.rlp.de/dataset/c462b1d1-da1f-42a4-97a6-902b482d0bb0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Hungenroth - Ebene: Im Stiergarten / Auf dem Holzweg,http://www.daten.rlp.de/dataset/566ea47e-8258-4720-b708-d3e8321ecb94,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Maisborn - Ebene: Ergänzungssatzung Auf der Neuwies,http://www.daten.rlp.de/dataset/9c811f8b-df55-4b80-bd40-dea0b5aad051,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Kirchenflur,http://www.daten.rlp.de/dataset/3fa40f63-ced6-445c-b81e-5e6ece4effc1,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Hellerwald II 2. Änderung,http://www.daten.rlp.de/dataset/25a0370e-80b6-4680-a64f-b0d881d94432,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Bickenbach - Ebene: Auf der Trift / Ober dem Dorf 3. Änderung,http://www.daten.rlp.de/dataset/bf21e03e-8718-4af4-b599-ae8da6423f91,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Gondershausen - Ebene: Gondershausen,http://www.daten.rlp.de/dataset/90c0b775-ddd8-4143-aa12-33b0818631bb,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Morshausen - Ebene: Morshausen,http://www.daten.rlp.de/dataset/5ed373ac-4080-4551-b0a9-754f63add3b0,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Beulich - Ebene: Abrundungssatzung Ortsausgang Morshausen,http://www.daten.rlp.de/dataset/3087d096-07e6-458e-a546-159362790c8e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Bickenbach - Ebene: Bickenbach,http://www.daten.rlp.de/dataset/9f1b0c27-23ba-42cd-abd6-6f75acc06df9,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Badenhard - Ebene: Abrundungssatzung Maus,http://www.daten.rlp.de/dataset/3d6f8459-fe9d-4b63-835b-0781bd278b07,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Karbach - Ebene: Ober den Kohlgärten 1. Änderung,http://www.daten.rlp.de/dataset/3752fef1-d023-46ce-8e84-4ced53ea82d9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Ober den Apfelbäumen 1. Änderung,http://www.daten.rlp.de/dataset/8551b2c6-4af6-435d-834d-7a2a2c57dd69,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Klarstellungs- und Ergänzungssatzung Ehrerheide,http://www.daten.rlp.de/dataset/b1e08571-7944-43d4-93b4-7fa5b5aabc71,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Sondergebiet Katz,http://www.daten.rlp.de/dataset/e1cfa3b4-2b54-48c2-8697-86d8ebf74c7a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Karbach - Ebene: Karbach,http://www.daten.rlp.de/dataset/50aa0d62-2786-4b79-853f-31d53b6c4a1b,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Hinter dem Mühlberg / In der Scheib,http://www.daten.rlp.de/dataset/685ea05c-88d1-4583-8252-2feb09c370d7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Hausbay - Ebene: Aufm Hähnchen / Auf der Dann,http://www.daten.rlp.de/dataset/f6feff3e-791b-431b-8085-f73b8497148c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Bickenbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/dbb8656a-104c-4292-92f5-8905ad75e4e5,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Abrundungssatzung Bahnhofstraße,http://www.daten.rlp.de/dataset/96ca7e08-203d-4f8a-9689-e7e04f3f533c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Ober dem Ehrer Weg,http://www.daten.rlp.de/dataset/4e6a1984-0175-4929-8e2c-f4960b908616,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Ortsmittelpunkt,http://www.daten.rlp.de/dataset/0dba5352-9cfd-4b0c-953b-ef076f7cb0b1,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Dörth - Ebene: Südhang,http://www.daten.rlp.de/dataset/f72ea6a5-d710-41b9-b5d4-2963946de217,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Dörth - Ebene: Dörth,http://www.daten.rlp.de/dataset/2411bb2f-cbb7-40a9-8b50-6d49bf154ff0,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Mermuth - Ebene: Mermuth,http://www.daten.rlp.de/dataset/5f407903-0390-41dd-8ddd-4c4b7263f671,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Nenzhäuserhof,http://www.daten.rlp.de/dataset/38f715c8-5742-421f-931d-d3ff9aac7145,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Norath - Ebene: Ergänzungssatzung Im Kesselchen,http://www.daten.rlp.de/dataset/998067ed-cfc0-403a-b7ca-ed39d1cccd10,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Am Kirchweg 2. Änderung,http://www.daten.rlp.de/dataset/9a05fde9-6b08-49e6-b3cc-9c4e65c5e18d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Mitte / Bahnhof,http://www.daten.rlp.de/dataset/2eab6bf1-0594-4e79-9cee-3398be50edcb,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schwaller Dell,http://www.daten.rlp.de/dataset/35341d63-f9e5-4ac7-a666-f06787b4bb2c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Hausbay - Ebene: Hausbay,http://www.daten.rlp.de/dataset/19d9d02d-6842-4fea-8386-1d98efe99fde,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Lingerhahn,http://www.daten.rlp.de/dataset/c48de971-0a16-488a-9400-c8989d17c6e5,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Mermuth - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/d7b8c5f4-c32a-4d15-a1b9-eb4cd960afa4,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/065e8850-0767-4202-8ab5-a323d6430c54,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Am Eichelgärtchen,http://www.daten.rlp.de/dataset/c63d2a32-814a-4dff-b053-f00a21c393e4,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Norath - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/2c748bb4-a5fc-4b92-a997-e643a61b9cf0,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Die vordere Anwand,http://www.daten.rlp.de/dataset/827fc327-48a4-4eef-a1a2-bf915e088c95,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Maisborn - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/eab6760d-f914-4c76-be19-4213041ef5b6,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Abrundungssatzung Ehrerheider Straße,http://www.daten.rlp.de/dataset/dd4d8229-1d81-44c1-a4b7-36061b660851,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Morshausen - Ebene: Abrundungssatzung Jakob-Kneip-Straße,http://www.daten.rlp.de/dataset/78e947e0-24da-4695-b9dc-7561c6c5d546,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Ober dem Ehrer Weg II,http://www.daten.rlp.de/dataset/6af40a36-212c-48b2-b2aa-cc8b117e7d71,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -128,19 +38,15 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Birkheim - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/839f5836-15d6-4c73-84db-2a73cbb2cbbf,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Heilbrünnchen II,http://www.daten.rlp.de/dataset/30673a44-4452-48f0-a173-63843c0c911c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen I 6. Änderung,http://www.daten.rlp.de/dataset/3ec96903-4bb5-4711-88c9-49f8d97bdf69,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Gondershausen - Ebene: Umringe der Bebauungspläne von Gondershausen,http://www.daten.rlp.de/dataset/60658506-134f-4545-a58f-69254a775c81,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Unter der Leyen 2. Änderung,http://www.daten.rlp.de/dataset/4b3f420f-0077-43f3-bd62-6119a39f3514,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Umringe der Bebauungspläne von Kratzenburg,http://www.daten.rlp.de/dataset/02427f38-4583-4488-a64d-08267cfc669d,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Ney - Ebene: In den Kirchgärten 1. Änderung,http://www.daten.rlp.de/dataset/15e7f1d2-5ab2-47fd-8075-86468fc6c7a3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Auf dem Flürchen 3. Änderung,http://www.daten.rlp.de/dataset/2206b90b-7927-4aba-9f59-d60989fc0af6,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum,http://www.daten.rlp.de/dataset/f633991a-f984-497a-8bd7-1fb2aa185c5c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Auf dem Heugarten 1. Änderung,http://www.daten.rlp.de/dataset/a470690c-3b1f-4542-81ec-839524b789fe,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Karbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/e9a62bfa-3ec7-4685-9772-3c84fc572801,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Norath - Ebene: Norath,http://www.daten.rlp.de/dataset/8045ebec-1931-4262-961b-94d6a8e246f9,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Thörlingen - Ebene: Thörlingen,http://www.daten.rlp.de/dataset/54726e53-4314-426d-b1a6-851855b5d8c4,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Auf der Galgenhöhe,http://www.daten.rlp.de/dataset/2800d537-e814-4f97-b0a7-8256b5d651a7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Birkheim - Ebene: Umringe der Bebauungspläne von Birkheim,http://www.daten.rlp.de/dataset/f0303ef8-bd3e-47a8-bf2f-11f6780b8bf0,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Halsenbach - Ebene: Halsenbach,http://www.daten.rlp.de/dataset/573039da-f70d-464f-9803-6ade357ee1e3,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Am Mühlenteich III,http://www.daten.rlp.de/dataset/76295d9d-7a2b-4db5-af60-d05c62925dd0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Emmelshausen,http://www.daten.rlp.de/dataset/1e3c4a5c-1292-4d6d-8f5b-8b789c9c56ac,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen II 1. Änderung,http://www.daten.rlp.de/dataset/72168ab1-06f8-4299-9ce7-f767bb83e2d0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -152,44 +58,40 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Unterdorf II,http://www.daten.rlp.de/dataset/ed8e77ed-36c1-4da9-82de-d8e61a7c4153,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/829c15f8-3ebb-4359-9585-38c6f23665b1,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen I 3. Änderung,http://www.daten.rlp.de/dataset/0619e13a-a090-4002-ad89-bf7275958864,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Im Poststraßenflur,http://www.daten.rlp.de/dataset/20cac9ca-1978-44b6-884c-243b9f858688,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Ergänzungssatzung Hauptstraße 32,http://www.daten.rlp.de/dataset/e482825d-91fc-4090-ae58-60632ad223e6,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Gondershausen - Ebene: Harder Delle,http://www.daten.rlp.de/dataset/7a0e14ef-1e91-46fc-90ef-ddb9bff7e0c8,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Auf dem Flürchen 2. Änderung,http://www.daten.rlp.de/dataset/4124ebe8-e5a2-4670-a8a9-88d8d77b3c02,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Unter der Leyen,http://www.daten.rlp.de/dataset/e58edcce-93bf-45eb-8372-a32daa1e5d5e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Niedert - Ebene: Gewann zur Heide,http://www.daten.rlp.de/dataset/009b48a7-701e-4d3e-9eb4-550bc86719b9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Bickenbach - Ebene: Bickenbach,http://www.daten.rlp.de/dataset/9f1b0c27-23ba-42cd-abd6-6f75acc06df9,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Morshausen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/e3eddfee-9c6f-4cff-af82-1108ccae8279,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Ney - Ebene: Ney,http://www.daten.rlp.de/dataset/298006de-a2ec-439f-b226-d4495abcb610,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen II 4. Änderung,http://www.daten.rlp.de/dataset/79fa2daa-8bb8-4bf2-bebd-5b355c9c6c65,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Hungenroth - Ebene: Auf der Dreispitz 1. Änderung,http://www.daten.rlp.de/dataset/2fc33c3d-e3c1-446c-9f11-fdaf73349d1f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Vorderes Henchen 1. Änderung,http://www.daten.rlp.de/dataset/a7cd64bc-b3aa-4f73-85c9-bcfa583ce94b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum 6. Änderung,http://www.daten.rlp.de/dataset/161c7213-f3f7-4243-a7a5-063889ba1691,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Leiningen - Ebene: Leiningen,http://www.daten.rlp.de/dataset/2099ba7a-bad8-4e84-82c9-990e508ddaf6,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Hausbay - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/2a8866a3-090d-4257-8984-6a3eb620dcb2,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Bickenbach - Ebene: Auf der Trift / Ober dem Dorf 1. Änderung,http://www.daten.rlp.de/dataset/6603ac1d-fa93-404a-83f3-ac6e7897020d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Mitte / Bahnhof 1. Änderung,http://www.daten.rlp.de/dataset/64545816-22d6-4128-aa74-20d6f78cf6d0,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Hungenroth - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/fb2fffbd-fcc6-4ab2-9253-4bcbb87a0e7e,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen II 5. Änderung,http://www.daten.rlp.de/dataset/f3c7cde7-6f6c-4234-a5e4-c5f4512c6a52,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Heilbrünnchen I 3. Änderung,http://www.daten.rlp.de/dataset/0845d649-e1d1-4a5b-8914-6e36e7788204,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Am Kirchweg 1. Änderung,http://www.daten.rlp.de/dataset/c74f15ae-5310-4868-8914-0dd0ee9aa66d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Dörth - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/4eda8652-c8ef-4d6a-a14e-fb4b1d9241e5,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Gondershausen - Ebene: Harder Delle 3. Änderung,http://www.daten.rlp.de/dataset/39e71489-a1ff-4478-91d4-51100eca1339,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Vorderes Henchen,http://www.daten.rlp.de/dataset/7d4211a3-7953-43f5-9df6-29a028761821,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Ergänzungssatzung Dörther Weg,http://www.daten.rlp.de/dataset/67a5ca0e-de3b-4799-a530-ead88e42caae,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Wiebelsborn 1. Änderung,http://www.daten.rlp.de/dataset/3ac3221f-b31e-4189-b5ca-0c5ce4b86043,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Maisborn - Ebene: Hinter den Hopfengärten 1. Änderung,http://www.daten.rlp.de/dataset/b4e92897-a762-4216-bd8f-f99091b3f1ca,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Ney - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/251b8dee-41bf-432b-9291-341d20b6b8b2,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Heilbrünnchen II 1. Änderung,http://www.daten.rlp.de/dataset/2fa75a3a-515e-49e5-a015-f04e0471888b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Unter der Leyen 1. Änderung,http://www.daten.rlp.de/dataset/472856eb-9bc1-44fa-9394-994b741716cc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Halsenbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/8240feaf-1218-4e47-a9fb-77d0258bd0bf,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Karbach - Ebene: Heidchesstücker,http://www.daten.rlp.de/dataset/5c9889a5-a76f-4bfa-a45b-f529cc8fa5c4,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Wiebelsborn,http://www.daten.rlp.de/dataset/0b56bb13-8210-4e80-93ef-b9adee1c8bad,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Auf dem Flürchen 4. Änderung,http://www.daten.rlp.de/dataset/83569047-020c-41c7-89e1-7cd21889f6a3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Hungenroth - Ebene: Hungenroth,http://www.daten.rlp.de/dataset/2de18eff-c89b-4924-b133-cab053be2791,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen I 5. Änderung,http://www.daten.rlp.de/dataset/d7462e9c-082f-491e-8c7a-9576061756ac,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Auf dem Flürchen,http://www.daten.rlp.de/dataset/5f07896c-36c4-4808-83ae-d38689a8d611,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Birkheim - Ebene: Auf den Gärten,http://www.daten.rlp.de/dataset/8e07d7fa-0f31-44e2-809d-fb01ec9d2c19,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Pfalzfeld,http://www.daten.rlp.de/dataset/711b6485-8ede-48a0-aa61-82590d8e23ab,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Dörth - Ebene: Dorngarten,http://www.daten.rlp.de/dataset/9b3df3f5-9ccb-4965-a24e-bc10d939fb81,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Ober dem Ehrer Weg 1. Änderung,http://www.daten.rlp.de/dataset/cee04566-fe64-4e4f-b50e-b156cb0d2b19,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Heilbrünnchen I 4. Änderung,http://www.daten.rlp.de/dataset/31a534fb-70ce-4b64-8c69-e1ae2f93e940,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Mermuth - Ebene: Auf dem Wasem 1. Änderung,http://www.daten.rlp.de/dataset/80bf7881-3d1d-42ef-8a15-1bd51c093e0d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen I 7. Änderung,http://www.daten.rlp.de/dataset/61c8b042-1f19-457a-aa2c-d35f03469791,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -197,41 +99,26 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Leiningen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/9f13de6f-ba74-4fe5-a685-0d4f3650e898,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Auf dem Heugarten 2. Änderung,http://www.daten.rlp.de/dataset/23083145-96b2-44a8-9150-12e03bcc8f9b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Auf dem Flürchen 1. Änderung,http://www.daten.rlp.de/dataset/a8a6c850-853c-4b3e-a19f-ea3ca7b13f64,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Gondershausen - Ebene: Harder Delle 2. Änderung,http://www.daten.rlp.de/dataset/f2ce2772-412e-46de-988f-f1e4d08ecf64,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Dörth - Ebene: Klarstellungs- und Ergänzungssatzung Südhang,http://www.daten.rlp.de/dataset/2bbddf74-2f3b-4933-ab31-f41be52c6d74,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Thörlingen - Ebene: Umringe der Bebauungspläne von Thörlingen,http://www.daten.rlp.de/dataset/37685c26-102a-4185-a71e-732071c1cbe6,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum 2. Änderung,http://www.daten.rlp.de/dataset/28c0e674-0217-43b7-ab58-ffdbedaa1468,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Thörlingen - Ebene: Abrundungssatzung Im Boden / Im Herrengarten,http://www.daten.rlp.de/dataset/02882b6f-5123-413f-822b-a5a57fd44255,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Hinter dem Mühlberg / In der Scheib 1. Änderung,http://www.daten.rlp.de/dataset/c13ced04-2b6c-4277-b806-4ab7bfff259e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Morshausen - Ebene: Abrundungssatzung Ehrenburgstraße,http://www.daten.rlp.de/dataset/761bdb9a-2592-45bb-a202-f5ae77455b4f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Beulich - Ebene: Abrundungssatzung Wiesnstraße / Gartenstraße,http://www.daten.rlp.de/dataset/de03473c-cbed-481d-a265-717f23fea2b2,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Ney - Ebene: In den Kirchgärten,http://www.daten.rlp.de/dataset/4a8a52c8-4493-477a-8634-8a148cb1ca02,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/953374ca-da00-4c52-9673-515a05ce7515,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Beulich - Ebene: Umringe der Bebauungspläne von Beulich,http://www.daten.rlp.de/dataset/fd10b681-1666-4c75-8876-f138cf0d2468,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Norath - Ebene: Am Holzapfelbaum II 1. Änderung,http://www.daten.rlp.de/dataset/bdd5266b-88f5-4246-8b00-4e4e2063ab22,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Auf den Hofgärten / Am Scheid 2. Änderung,http://www.daten.rlp.de/dataset/9145b8b3-010c-45b8-882d-a6bb1a13fde7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Umringe der Bebauungspläne von Emmelshausen,http://www.daten.rlp.de/dataset/77f957a1-fbf3-4a4b-8c2a-944fc6170ba5,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Mermuth - Ebene: Ober Stielen,http://www.daten.rlp.de/dataset/72463ede-62d8-4ae5-b614-d4007d231276,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Auf dem Heugarten,http://www.daten.rlp.de/dataset/fd457d3c-3863-41f3-ba8a-8892fb5338ff,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Hinter dem Mühlberg / In der Scheib 3. Änderung,http://www.daten.rlp.de/dataset/9526e76c-7770-4387-b132-580d8d3e1589,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Hungenroth - Ebene: Auf dem Hammeshiebel,http://www.daten.rlp.de/dataset/db947e03-c5d8-4729-bc84-9e58b37f3b07,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Karbach - Ebene: Apfelwies / Stielgärtchen,http://www.daten.rlp.de/dataset/dce888cb-404f-4a60-a1e2-e56ecc88340b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Halsenbach - Ebene: Umringe der Bebauungspläne von Halsenbach,http://www.daten.rlp.de/dataset/259615d4-1f0c-4161-84a1-8a4c941f2e1f,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,,x,,,,,,,,,,,,,,Leiningen - Ebene: Umringe der Bebauungspläne von Leiningen,http://www.daten.rlp.de/dataset/9859ee44-4ec8-4742-ad1e-7a3268e77749,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum 3. Änderung,http://www.daten.rlp.de/dataset/d37d8fcf-aa74-421a-9b3c-db0a0ab8053c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Norath - Ebene: Umringe der Bebauungspläne von Norath,http://www.daten.rlp.de/dataset/de36e204-831d-4850-9636-06a2ba3c2c34,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Karbach - Ebene: Ober den Kohlgärten 2. Änderung,http://www.daten.rlp.de/dataset/4f8bc45d-9725-47c7-8975-99cce24697be,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Mermuth - Ebene: Auf dem Wasem,http://www.daten.rlp.de/dataset/bf70185d-3d16-45c2-a157-d49693711dd2,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Utzenhain - Ebene: Auf dem Kohler,http://www.daten.rlp.de/dataset/2a90e635-7a83-481e-a675-4800a896d0cb,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Beulich - Ebene: Verlängerung Römerstraße,http://www.daten.rlp.de/dataset/b211b610-75db-4fbe-8ce0-3f2b23808392,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Außenbereichssatzung Mermicherhof,http://www.daten.rlp.de/dataset/a1cbf5cb-6965-43c7-b146-a446a1d3a971,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Umringe der Bebauungspläne von Lingerhahn,http://www.daten.rlp.de/dataset/1a61f4c1-3512-4187-b534-ed96e7a14434,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Heilbrünnchen I 2. Änderung,http://www.daten.rlp.de/dataset/16259a5b-020a-4165-be9f-1eb7505259e5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Kleinzipers II,http://www.daten.rlp.de/dataset/72ad0869-8a4c-4b9e-8129-5347ebce4342,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Bickenbach - Ebene: Auf der Trift / Ober dem Dorf,http://www.daten.rlp.de/dataset/e65503c9-286d-4ecf-8287-e0374274ae7a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Mermuth - Ebene: Umringe der Bebauungspläne von Mermuth,http://www.daten.rlp.de/dataset/3e7dfaba-1302-4c8a-8178-80edf41145ea,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Hausbay - Ebene: Campingplatz Schinderhannes,http://www.daten.rlp.de/dataset/16e4333a-33fa-4ff4-8a45-566b7b35caa1,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Hinter dem Mühlberg / In der Scheib 2. Änderung,http://www.daten.rlp.de/dataset/0caade6a-c14f-4d83-8384-27c309bc92da,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
-,,x,,,,,,,,,,,,,,Ney - Ebene: Umringe der Bebauungspläne von Ney,http://www.daten.rlp.de/dataset/9a29e12a-a2c0-4095-9e66-46693bfa59e2,cc-nc,"KARTENVIEWER,WMS,HTML",d
-,,x,,,,,,,,,,,,,,Utzenhain - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/e19f0fef-dbeb-497a-aa21-7f484e32624d,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Quellenhof,http://www.daten.rlp.de/dataset/c63b27ba-1670-41f2-9690-b227f9c20d37,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Ney - Ebene: In den Schmidtstücken II 2. Änderung,http://www.daten.rlp.de/dataset/ce2f78e6-6a77-42cc-9d71-c9ac025a5d23,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Am Kirchweg,http://www.daten.rlp.de/dataset/0dc12ff4-367d-45c6-9ba4-12365d2d659e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
@@ -239,7 +126,120 @@ Bevölkerung,Bildung und Wissenschaft,"Geographie, Geologie und Geobasisdaten",G
 ,,x,,,,,,,,,,,,,,Utzenhain - Ebene: Utzenhain,http://www.daten.rlp.de/dataset/6d92231a-04f4-4064-b286-56abfb100845,cc-nc,"KARTENVIEWER,WMS,HTML",d
 ,x,x,,,,,,,,,,,,,,Karbach - Ebene: Ober den Kohlgärten,http://www.daten.rlp.de/dataset/a9c0fcab-e900-481a-aae0-afc549028c23,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Hungenroth - Ebene: Im Stiergarten / Auf dem Holzweg 1. Änderung,http://www.daten.rlp.de/dataset/011912e4-dde8-4625-9db7-586411a62e22,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Dörth - Ebene: Budenbach,http://www.daten.rlp.de/dataset/0071f81b-b1ea-4c61-bbcc-8ea5ed95e898,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Hinter dem Agrarhistorischen Museum,http://www.daten.rlp.de/dataset/15e2ce72-a63b-45f5-8fee-0add07227341,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Niedert - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/4d3e612d-d36a-4fe4-8823-1c203f1f0bca,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Hausbay - Ebene: Umringe der Bebauungspläne von Hausbay,http://www.daten.rlp.de/dataset/fe8020c3-c9b5-4ef8-92f4-5fdf51f67420,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum 7. Änderung,http://www.daten.rlp.de/dataset/7ce3c578-572b-4a72-85a0-34ecba128f69,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum 4. Änderung,http://www.daten.rlp.de/dataset/bdc4d20c-21a5-4d5b-8919-e89a55c66963,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Karbach - Ebene: Ober den Kohlgärten 3. Änderung,http://www.daten.rlp.de/dataset/4f8f8488-8cda-4437-80f3-2845de797719,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Bickenbach - Ebene: Gewerbegebiet Am Bayer Wasem,http://www.daten.rlp.de/dataset/520c5813-dce5-4c30-94e1-774cdfee8cb7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Morshausen - Ebene: In den Pützgärten,http://www.daten.rlp.de/dataset/4add36db-cb94-4396-8899-1cc982d182d3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Stierswiese,http://www.daten.rlp.de/dataset/aaf267fb-ebdc-47da-b4f1-e257fc197f64,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Oberdorf I,http://www.daten.rlp.de/dataset/a51932ca-93ea-4494-8fa0-1f4d2beb48a8,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Stierswiese 1. Änderung,http://www.daten.rlp.de/dataset/3abb43ae-f581-4f96-b304-6a47af575d6f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Ney - Ebene: Ergänzungssatzung Wiesenstraße / Kratzenburger Straße,http://www.daten.rlp.de/dataset/17a9736e-b719-4efb-a8ad-1f22169bd0eb,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen II 2. Änderung,http://www.daten.rlp.de/dataset/99f3ee94-3848-4eee-aed7-b1a397e113d9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Maisborn - Ebene: Hinter den Hopfengärten II,http://www.daten.rlp.de/dataset/2dbe339b-691f-4d37-b296-e9a3a1f16cc4,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Ortsmittelpunkt 1. Änderung,http://www.daten.rlp.de/dataset/3ff4d5b3-d38b-458e-85b4-ba06bfc50611,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Kleinzipers II 2. Änderung,http://www.daten.rlp.de/dataset/b3ea4986-9e52-4915-9de2-33d426d6021a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen II 3. Änderung,http://www.daten.rlp.de/dataset/62234362-c8d2-45b6-a447-5f922f04901b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Kratzenburg,http://www.daten.rlp.de/dataset/41296814-fe42-4628-a81b-8f96af01895f,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen I,http://www.daten.rlp.de/dataset/37d0869b-ba2a-4c03-a2d6-09a3308048e7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Hellerwald II 1. Änderung,http://www.daten.rlp.de/dataset/98f6c0c7-2aa9-42aa-9f97-5e9f70667b5e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen I 2. Änderung,http://www.daten.rlp.de/dataset/d2b3aa58-0c93-4238-96de-f66dd6141669,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Hellerwald II,http://www.daten.rlp.de/dataset/34abf65c-8558-4828-a4c3-3f820f531ebe,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Hausbay - Ebene: Aufm Hähnchen / Auf der Dann 1. Änderung,http://www.daten.rlp.de/dataset/c5aa3101-af2d-457d-99cd-ac26dd0f9c08,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen I 1. Änderung,http://www.daten.rlp.de/dataset/614e3f41-2c0a-4626-b5c7-785d0e44de78,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Bickenbach - Ebene: Auf der Trift / Ober dem Dorf 2. Änderung,http://www.daten.rlp.de/dataset/9322d71d-ce1a-4436-9b8d-93e43c05ee3f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Badenhard - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/29345cfe-80b5-4ded-9fd3-faf215922773,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Auf den Hofgärten / Am Scheid,http://www.daten.rlp.de/dataset/e387280e-aa0b-4d51-b6a0-85392b7c67bc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Kirchenflur 1. Änderung,http://www.daten.rlp.de/dataset/60ea91a7-2137-4212-b918-bb165e59fba4,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/41eeda46-fb65-4165-8b18-20fd4acb0a80,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Ney - Ebene: Klarstellungssatzung In der Hohl,http://www.daten.rlp.de/dataset/c462b1d1-da1f-42a4-97a6-902b482d0bb0,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Hungenroth - Ebene: Im Stiergarten / Auf dem Holzweg,http://www.daten.rlp.de/dataset/566ea47e-8258-4720-b708-d3e8321ecb94,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Maisborn - Ebene: Ergänzungssatzung Auf der Neuwies,http://www.daten.rlp.de/dataset/9c811f8b-df55-4b80-bd40-dea0b5aad051,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Bickenbach - Ebene: Auf der Trift / Ober dem Dorf 3. Änderung,http://www.daten.rlp.de/dataset/bf21e03e-8718-4af4-b599-ae8da6423f91,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Gondershausen - Ebene: Gondershausen,http://www.daten.rlp.de/dataset/90c0b775-ddd8-4143-aa12-33b0818631bb,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Beulich - Ebene: Abrundungssatzung Ortsausgang Morshausen,http://www.daten.rlp.de/dataset/3087d096-07e6-458e-a546-159362790c8e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Badenhard - Ebene: Abrundungssatzung Maus,http://www.daten.rlp.de/dataset/3d6f8459-fe9d-4b63-835b-0781bd278b07,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Ober den Apfelbäumen 1. Änderung,http://www.daten.rlp.de/dataset/8551b2c6-4af6-435d-834d-7a2a2c57dd69,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Klarstellungs- und Ergänzungssatzung Ehrerheide,http://www.daten.rlp.de/dataset/b1e08571-7944-43d4-93b4-7fa5b5aabc71,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Karbach - Ebene: Karbach,http://www.daten.rlp.de/dataset/50aa0d62-2786-4b79-853f-31d53b6c4a1b,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Hinter dem Mühlberg / In der Scheib,http://www.daten.rlp.de/dataset/685ea05c-88d1-4583-8252-2feb09c370d7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Hausbay - Ebene: Aufm Hähnchen / Auf der Dann,http://www.daten.rlp.de/dataset/f6feff3e-791b-431b-8085-f73b8497148c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Bickenbach - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/dbb8656a-104c-4292-92f5-8905ad75e4e5,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Abrundungssatzung Bahnhofstraße,http://www.daten.rlp.de/dataset/96ca7e08-203d-4f8a-9689-e7e04f3f533c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Ortsmittelpunkt,http://www.daten.rlp.de/dataset/0dba5352-9cfd-4b0c-953b-ef076f7cb0b1,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Dörth - Ebene: Südhang,http://www.daten.rlp.de/dataset/f72ea6a5-d710-41b9-b5d4-2963946de217,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Dörth - Ebene: Dörth,http://www.daten.rlp.de/dataset/2411bb2f-cbb7-40a9-8b50-6d49bf154ff0,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Mermuth - Ebene: Mermuth,http://www.daten.rlp.de/dataset/5f407903-0390-41dd-8ddd-4c4b7263f671,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Nenzhäuserhof,http://www.daten.rlp.de/dataset/38f715c8-5742-421f-931d-d3ff9aac7145,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Norath - Ebene: Ergänzungssatzung Im Kesselchen,http://www.daten.rlp.de/dataset/998067ed-cfc0-403a-b7ca-ed39d1cccd10,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Am Kirchweg 2. Änderung,http://www.daten.rlp.de/dataset/9a05fde9-6b08-49e6-b3cc-9c4e65c5e18d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Mitte / Bahnhof,http://www.daten.rlp.de/dataset/2eab6bf1-0594-4e79-9cee-3398be50edcb,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Lingerhahn,http://www.daten.rlp.de/dataset/c48de971-0a16-488a-9400-c8989d17c6e5,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Karbach - Ebene: Heidchesstücker II,http://www.daten.rlp.de/dataset/11d026a7-9437-47f1-bc04-d6f18b6dcbab,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Gondershausen - Ebene: Harder Delle 1. Änderung,http://www.daten.rlp.de/dataset/e82ccc33-3071-4f10-9bb5-1281f1995193,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Beulich - Ebene: Beulich,http://www.daten.rlp.de/dataset/79ef4728-6663-44c8-8a9b-08453dfb0dff,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Thörlingen - Ebene: Im Heßt II,http://www.daten.rlp.de/dataset/77e7e6ac-1120-482e-b636-040029eeccbb,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Birkheim - Ebene: Baumstücken,http://www.daten.rlp.de/dataset/de819571-5984-4076-b3ad-adcb4775578e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Bickenbach - Ebene: Umringe der Bebauungspläne von Bickenbach,http://www.daten.rlp.de/dataset/adae0881-a406-40d1-8f97-541a33ab6cf7,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Gondershausen - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/5f3eb21f-b0e8-4743-8e24-ce8ad1ae72d8,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Morshausen - Ebene: Morshausen,http://www.daten.rlp.de/dataset/5ed373ac-4080-4551-b0a9-754f63add3b0,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Ober dem Ehrer Weg,http://www.daten.rlp.de/dataset/4e6a1984-0175-4929-8e2c-f4960b908616,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Mermuth - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/d7b8c5f4-c32a-4d15-a1b9-eb4cd960afa4,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Birkheim - Ebene: Birkheim,http://www.daten.rlp.de/dataset/f053768d-50ce-47b5-8ae4-e530950d2a8d,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Badenhard - Ebene: Umringe der Bebauungspläne von Badenhard,http://www.daten.rlp.de/dataset/6b929175-49ed-4421-9b0e-410db3ea0857,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Gondershausen - Ebene: Umringe der Bebauungspläne von Gondershausen,http://www.daten.rlp.de/dataset/60658506-134f-4545-a58f-69254a775c81,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Ney - Ebene: In den Schmidtstücken II,http://www.daten.rlp.de/dataset/498c5c0a-7f5d-4398-8838-b0e44d773be5,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schwaller Dell,http://www.daten.rlp.de/dataset/35341d63-f9e5-4ac7-a666-f06787b4bb2c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Ney - Ebene: In den Kirchgärten 1. Änderung,http://www.daten.rlp.de/dataset/15e7f1d2-5ab2-47fd-8075-86468fc6c7a3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Norath - Ebene: Norath,http://www.daten.rlp.de/dataset/8045ebec-1931-4262-961b-94d6a8e246f9,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Halsenbach - Ebene: Halsenbach,http://www.daten.rlp.de/dataset/573039da-f70d-464f-9803-6ade357ee1e3,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Schwall - Ebene: Umringe der Bebauungspläne von Schwall,http://www.daten.rlp.de/dataset/459633d4-50e7-49bd-81b1-cc9d962a5a3d,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum 1. Änderung,http://www.daten.rlp.de/dataset/52ec623d-5ea9-46a3-a4df-a77adf3d13c3,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum 6. Änderung,http://www.daten.rlp.de/dataset/161c7213-f3f7-4243-a7a5-063889ba1691,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Karbach - Ebene: Ober den Kohlgärten 1. Änderung,http://www.daten.rlp.de/dataset/3752fef1-d023-46ce-8e84-4ced53ea82d9,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Hausbay - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/2a8866a3-090d-4257-8984-6a3eb620dcb2,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,,x,,,,,,,,,,,,,,Dörth - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/4eda8652-c8ef-4d6a-a14e-fb4b1d9241e5,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Kirchenflur,http://www.daten.rlp.de/dataset/3fa40f63-ced6-445c-b81e-5e6ece4effc1,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Unter der Leyen 1. Änderung,http://www.daten.rlp.de/dataset/472856eb-9bc1-44fa-9394-994b741716cc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Hellerwald II 2. Änderung,http://www.daten.rlp.de/dataset/25a0370e-80b6-4680-a64f-b0d881d94432,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Schwall - Ebene: Schwall,http://www.daten.rlp.de/dataset/3d2670a8-63ec-4f35-bc18-7eaf76ae7824,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Gondershausen - Ebene: Harder Delle 2. Änderung,http://www.daten.rlp.de/dataset/f2ce2772-412e-46de-988f-f1e4d08ecf64,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Hinter dem Mühlberg / In der Scheib 1. Änderung,http://www.daten.rlp.de/dataset/c13ced04-2b6c-4277-b806-4ab7bfff259e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Morshausen - Ebene: Abrundungssatzung Ehrenburgstraße,http://www.daten.rlp.de/dataset/761bdb9a-2592-45bb-a202-f5ae77455b4f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Beulich - Ebene: Abrundungssatzung Wiesnstraße / Gartenstraße,http://www.daten.rlp.de/dataset/de03473c-cbed-481d-a265-717f23fea2b2,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Ney - Ebene: In den Kirchgärten,http://www.daten.rlp.de/dataset/4a8a52c8-4493-477a-8634-8a148cb1ca02,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/953374ca-da00-4c52-9673-515a05ce7515,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Auf den Hofgärten / Am Scheid 2. Änderung,http://www.daten.rlp.de/dataset/9145b8b3-010c-45b8-882d-a6bb1a13fde7,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Umringe der Bebauungspläne von Emmelshausen,http://www.daten.rlp.de/dataset/77f957a1-fbf3-4a4b-8c2a-944fc6170ba5,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Karbach - Ebene: Apfelwies / Stielgärtchen 1. Änderung,http://www.daten.rlp.de/dataset/74d4d87d-ce0d-49e7-908a-9e3f7511da99,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Lingerhahn - Ebene: Auf dem Heugarten,http://www.daten.rlp.de/dataset/fd457d3c-3863-41f3-ba8a-8892fb5338ff,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Halsenbach - Ebene: Umringe der Bebauungspläne von Halsenbach,http://www.daten.rlp.de/dataset/259615d4-1f0c-4161-84a1-8a4c941f2e1f,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen II,http://www.daten.rlp.de/dataset/6a5bcae0-0f65-41d3-ab9d-1a761f021d5c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Mermuth - Ebene: Umringe der Bebauungspläne von Mermuth,http://www.daten.rlp.de/dataset/3e7dfaba-1302-4c8a-8178-80edf41145ea,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Pfalzfeld - Ebene: Hinter dem Mühlberg / In der Scheib 2. Änderung,http://www.daten.rlp.de/dataset/0caade6a-c14f-4d83-8384-27c309bc92da,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Sondergebiet Katz,http://www.daten.rlp.de/dataset/e1cfa3b4-2b54-48c2-8697-86d8ebf74c7a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum 5. Änderung,http://www.daten.rlp.de/dataset/69ff5f86-ad5a-4fc0-8e68-2d1587d3bbdc,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Kleinzipers II 1. Änderung,http://www.daten.rlp.de/dataset/274e7b26-6743-4047-ad51-a3ab15751f7e,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Utzenhain - Ebene: Bebauungspläne,http://www.daten.rlp.de/dataset/e19f0fef-dbeb-497a-aa21-7f484e32624d,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Schul- und Sportzentrum 3. Änderung,http://www.daten.rlp.de/dataset/d37d8fcf-aa74-421a-9b3c-db0a0ab8053c,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Halsenbach - Ebene: Außenbereichssatzung Mermicherhof,http://www.daten.rlp.de/dataset/a1cbf5cb-6965-43c7-b146-a446a1d3a971,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Ney - Ebene: Umringe der Bebauungspläne von Ney,http://www.daten.rlp.de/dataset/9a29e12a-a2c0-4095-9e66-46693bfa59e2,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Leiningen - Ebene: Kirchenflur 2. Änderung,http://www.daten.rlp.de/dataset/b8095ae0-6efd-43de-b7e1-163a46772d0d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Ortsmittelpunkt 2. Änderung,http://www.daten.rlp.de/dataset/b1b1092c-dad5-4b1f-ad36-6c48490bec2b,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Hinter dem Agrarhistorischen Museum 1. Änderung,http://www.daten.rlp.de/dataset/f521a4e4-7e79-4609-9a0f-61bc12c91926,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Unterdorf I,http://www.daten.rlp.de/dataset/0693c3c2-a3b3-4824-9d81-12edd49a5048,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Badenhard - Ebene: Abrundungssatzung K101,http://www.daten.rlp.de/dataset/85a2bad8-9bbc-4117-9287-fbf6099ad6fa,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Niedert - Ebene: Umringe der Bebauungspläne von Niedert,http://www.daten.rlp.de/dataset/e5e03f7b-0524-45ee-b19f-c59e4d1c575e,cc-nc,"KARTENVIEWER,WMS,HTML",d
+,x,x,,,,,,,,,,,,,,Beulich - Ebene: In den Mühlwiesgärten,http://www.daten.rlp.de/dataset/e04d0a2e-1b0f-4ff2-b72c-fabdc70889bd,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Kratzenburg - Ebene: Ober den Apfelbäumen,http://www.daten.rlp.de/dataset/8d194b15-0991-46a2-875d-1ad212a3382d,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Schwall - Ebene: Oben am Dorf 1. Änderung,http://www.daten.rlp.de/dataset/d8be808d-6665-4127-86b0-e76ba10e175a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Karbach - Ebene: Klarstellungs- und Ergänzungssatzung Im Kirchbuschstück,http://www.daten.rlp.de/dataset/7ce8fe5d-2547-4b53-a8cb-00950fbae683,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
 ,x,x,,,,,,,,,,,,,,Emmelshausen - Ebene: Henchen I 8. Änderung,http://www.daten.rlp.de/dataset/c0cad12c-11e8-4cea-863b-9af90e327516,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Maisborn - Ebene: Hinter den Hopfengärten,http://www.daten.rlp.de/dataset/20ccdc55-d15b-45f9-9125-0321e36b2c9f,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Maisborn - Ebene: Ergänzungssatzung Hinter Schusters Garten,http://www.daten.rlp.de/dataset/a4cca78e-13b4-4871-8098-ca98e2535104,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,x,x,,,,,,,,,,,,,,Norath - Ebene: Am Holzapfelbaum II,http://www.daten.rlp.de/dataset/aaa0160e-e852-4f02-bf9e-848ccbe1429a,cc-nc,"KARTENVIEWER,WMS,GDI DOWNLOAD,HTML",d
+,,x,,,,,,,,,,,,,,Hausbay - Ebene: Hausbay,http://www.daten.rlp.de/dataset/19d9d02d-6842-4fea-8386-1d98efe99fde,cc-nc,"KARTENVIEWER,WMS,HTML",d
