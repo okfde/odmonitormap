@@ -5,6 +5,8 @@ var map;
 
 //How many cities successfully loaded
 var cityCount = 0;
+//List of all cities for search box
+var listOfCities = [];
 //How many cities according to index; allows us to tell when we are done and detect errors in data loading
 var quickCityCount = 0;
 //How many data sets in total
@@ -240,6 +242,7 @@ var getCityContent = function(city, marker, map) {
     //Attempt to load the city data and update page data when done
     loadCity(cityslug, function(data){
       cityCount++;
+      listOfCities.push(city['Stadtname']);
 
       //The final decider of whether several things happen is whether the data file exists
       if (data != null) {
@@ -253,7 +256,6 @@ var getCityContent = function(city, marker, map) {
           d['Stadtname'] = city['Stadtname'];
           allData.push(d);
         });
-        $('#searchCity').append("<option value='" + city['Stadtname'] + "'>" + city['Stadtname'] + "</option>");
         var count = 0;
         _.each(data, function(d){
           if (d.URL) {
@@ -282,7 +284,7 @@ var getCityContent = function(city, marker, map) {
         $('.totals').html("Dieser Prototyp des Open Data Monitors umfasst zu Demonstrationszwecken zur Zeit <strong>" + cityCount + " Organisationen</strong> mit insgesamt <strong>" + completeCount + " Datensätzen</strong> (ohne Anspruch auf Vollständigkeit). <small>Wichtig: nicht alle Datensätze sind offen. Eine Darstellung über welche Daten wirklich offen sind findet man auf <a href='http://beta.offenedaten.de/'>beta.offenedaten.de</a>.</small>")
         //Is this the last city?
         if (cityCount == quickCityCount) {
-          console.log("cityCount reached quickCityCount, finding unique formats");
+          console.log("cityCount reached quickCityCount, finding unique formats, licenses, creating city list");
           //Get rid of most duplication
           formats = _.uniq(formats, false, function(val) { return val.toLowerCase(); });
           //Convert to lower case
@@ -306,6 +308,10 @@ var getCityContent = function(city, marker, map) {
           licences = _.uniq(licences, false, function(val) { return val.toLowerCase(); });
           _.each(licences, function(licence){
             $('#searchLicence').append("<option class=\"sloptions\" selected value='" + licence + "'>" + licence + "</option>");
+          });
+          listOfCities.sort();
+          _.each(listOfCities, function(cityname){
+            $('#searchCity').append("<option value='" + cityname + "'>" + cityname + "</option>");
           });
         }
         else console.log("cityCount not reached quickCityCount, not finding unique formats; if you never see the inverse of this message, something is wrong");
