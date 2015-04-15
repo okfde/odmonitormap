@@ -281,7 +281,7 @@ var getCityContent = function(city, marker, map) {
         console.log("Finished " + city.Stadtname);
         marker.addTo(map);
         //Update the page
-        $('.totals').html("Der Prototyp der Open-Data-Landkarte wurde am 19.12.2014 zum letzten Mal aktualisiert und umfasst zu Demonstrationszwecken <strong>" + cityCount + " Organisationen</strong> mit insgesamt <strong>" + completeCount + " Datensätzen</strong> (ohne Anspruch auf Vollständigkeit). <small>Wichtig: nicht alle hier angezeigten Datensätze sind offen! Aktualisierte Daten werden auf <a href='http://beta.offenedaten.de/'>beta.offenedaten.de</a> bereitgestellt. Dort kann nach offenen und nicht offenen Datensätzen gefiltert werden. .</small>")
+        $('.totals').html("Der Prototyp der Open-Data-Landkarte wurde am 19.12.2014 zum letzten Mal aktualisiert und umfasst zu Demonstrationszwecken <strong>" + cityCount + " Organisationen</strong> mit insgesamt <strong>" + completeCount + " Datensätzen</strong> (ohne Anspruch auf Vollständigkeit). <small>Wichtig: nicht alle hier angezeigten Datensätze sind offen! Aktualisierte Daten werden auf <a href='http://beta.offenedaten.de/'>beta.offenedaten.de</a> bereitgestellt. Dort kann nach offenen und nicht offenen Datensätzen gefiltert werden.</small>")
         //Is this the last city?
         if (cityCount == quickCityCount) {
           console.log("cityCount reached quickCityCount, finding unique formats, licenses, creating city list");
